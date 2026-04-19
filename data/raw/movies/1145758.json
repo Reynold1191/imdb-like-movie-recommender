@@ -1,0 +1,465 @@
+{
+  "adult": false,
+  "backdrop_path": "/A6ki5Sk12qgFvejikLv16kmqxqk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tlareleasing.com/films/birder/",
+  "id": 1145758,
+  "imdb_id": "tt21253186",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Birder",
+  "overview": "A birdwatcher invades a nude queer campground on a remote lake in the New Hampshire wilds. He wears whatever he needs to ensnare the locals in his dark fetish in this nightmarish erotic thriller. Consent has never been more deadly.",
+  "popularity": 14.5623,
+  "poster_path": "/h3N0NwMV1GyxOrtSwABQDqqA74.jpg",
+  "production_companies": [
+    {
+      "id": 233532,
+      "logo_path": null,
+      "name": "Murgen Croaker Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-11",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Consent is deadly.",
+  "title": "Birder",
+  "video": false,
+  "vote_average": 4.071,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262888,
+        "known_for_department": "Acting",
+        "name": "Michael Emery",
+        "original_name": "Michael Emery",
+        "popularity": 0.592,
+        "profile_path": "/hXpmgYBO6WHSjI9p9ezwjXY3Fnv.jpg",
+        "cast_id": 8,
+        "character": "Kristian Brooks",
+        "credit_id": "649cbd115aba3200c5db6642",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2130827,
+        "known_for_department": "Acting",
+        "name": "David J. Cork",
+        "original_name": "David J. Cork",
+        "popularity": 0.1766,
+        "profile_path": "/fiNzDP59LInLfwE6q9spjyqhgHo.jpg",
+        "cast_id": 9,
+        "character": "Mathew Foster",
+        "credit_id": "649cbd168289a000ade936bd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3713012,
+        "known_for_department": "Acting",
+        "name": "Cody Sloan",
+        "original_name": "Cody Sloan",
+        "popularity": 0.0505,
+        "profile_path": "/tNBYLfXJ2tIVloVNrCXuvgo1him.jpg",
+        "cast_id": 10,
+        "character": "Patrick Pierce",
+        "credit_id": "649cbd1b5aba3200e2fe5ad9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3078885,
+        "known_for_department": "Acting",
+        "name": "Jes Davis",
+        "original_name": "Jes Davis",
+        "popularity": 0.1467,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Sam Delaney",
+        "credit_id": "649cbd22c072a2010df49666",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4136400,
+        "known_for_department": "Acting",
+        "name": "Uki Pavlovic",
+        "original_name": "Uki Pavlovic",
+        "popularity": 0.0739,
+        "profile_path": "/1mfyLVQFJ3SczKotA5MFNWs8bN5.jpg",
+        "cast_id": 12,
+        "character": "Corban Delany",
+        "credit_id": "649cbd2a091e6200cadf88a2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1506684,
+        "known_for_department": "Acting",
+        "name": "Ryan Czerwonko",
+        "original_name": "Ryan Czerwonko",
+        "popularity": 0.1648,
+        "profile_path": "/2YdR2hMzvLnxiU1xRj0yC3MKWOh.jpg",
+        "cast_id": 13,
+        "character": "James Holden",
+        "credit_id": "649cbd33c9dbf900e8ef54d1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4067350,
+        "known_for_department": "Acting",
+        "name": "Miles Crawford",
+        "original_name": "Miles Crawford",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "David Sachs",
+        "credit_id": "649cbd3dc072a2012e231ae9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4136401,
+        "known_for_department": "Acting",
+        "name": "Delilah DuBois",
+        "original_name": "Delilah DuBois",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Delilah D'Angelo",
+        "credit_id": "649cbd475aba3200ffda35f8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4136402,
+        "known_for_department": "Acting",
+        "name": "Joe Franjieh",
+        "original_name": "Joe Franjieh",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Kyle Jones",
+        "credit_id": "649cbd4c8289a000ff143d5c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503536,
+        "known_for_department": "Acting",
+        "name": "Justin Gerhard",
+        "original_name": "Justin Gerhard",
+        "popularity": 0.0732,
+        "profile_path": "/zTEDO2QdcmqcuDDgaKtg53HPF3i.jpg",
+        "cast_id": 17,
+        "character": "Kyle Masters",
+        "credit_id": "649cbd5a5aba32011c200eaf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4136405,
+        "known_for_department": "Acting",
+        "name": "Paul Victor",
+        "original_name": "Paul Victor",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Garreth Smith",
+        "credit_id": "649cbd70091e62010c106e76",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2666136,
+        "known_for_department": "Acting",
+        "name": "Taylor Petracek",
+        "original_name": "Taylor Petracek",
+        "popularity": 0.0752,
+        "profile_path": "/uMvTWG2uq2lywjxdRwRRXyuW47R.jpg",
+        "cast_id": 19,
+        "character": "Ben Sachs",
+        "credit_id": "649cbd858289a000e212f054",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1942353,
+        "known_for_department": "Acting",
+        "name": "Livia Scott",
+        "original_name": "Livia Scott",
+        "popularity": 0.0553,
+        "profile_path": "/4Phw86WjtJeD2oLYlkFgiB92kcz.jpg",
+        "cast_id": 20,
+        "character": "Kitty Astor",
+        "credit_id": "649cbd8c8289a000e212f058",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1689293,
+        "known_for_department": "Acting",
+        "name": "Jill Jose",
+        "original_name": "Jill Jose",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Sue Sachs",
+        "credit_id": "668960e43c0f42ace2ed144e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4823248,
+        "known_for_department": "Acting",
+        "name": "Bobby Appelbaum",
+        "original_name": "Bobby Appelbaum",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Spider",
+        "credit_id": "668f184eb7fa7fabebdfd2fc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4823250,
+        "known_for_department": "Acting",
+        "name": "Chris Colon",
+        "original_name": "Chris Colon",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Henley Rivera",
+        "credit_id": "668f185ec52af6ad09cb0192",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4823253,
+        "known_for_department": "Acting",
+        "name": "Joe Garland",
+        "original_name": "Joe Garland",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Fred Astor",
+        "credit_id": "668f189d2eb8ad351bcdabf9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1139812,
+        "known_for_department": "Acting",
+        "name": "Celeste Oliva",
+        "original_name": "Celeste Oliva",
+        "popularity": 0.2589,
+        "profile_path": "/9lgzJtLM3igvxUpopDkHJkAbilB.jpg",
+        "cast_id": 25,
+        "character": "Shelley Chogan",
+        "credit_id": "668f18b3c48e978b21f53447",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4823255,
+        "known_for_department": "Acting",
+        "name": "Vinny Turnbull",
+        "original_name": "Vinny Turnbull",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kyle Simpson",
+        "credit_id": "668f18cd0fce94bf4d616a63",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61542,
+        "known_for_department": "Acting",
+        "name": "Nate Dushku",
+        "original_name": "Nate Dushku",
+        "popularity": 0.2449,
+        "profile_path": "/sO6NFXFXmZzIJGWrKo0LHMucnly.jpg",
+        "credit_id": "649cbcbd5aba32011c200e72",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4136397,
+        "known_for_department": "Production",
+        "name": "Bobby Applebaum",
+        "original_name": "Bobby Applebaum",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "649cbcd0c072a200ece3af3e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61542,
+        "known_for_department": "Acting",
+        "name": "Nate Dushku",
+        "original_name": "Nate Dushku",
+        "popularity": 0.2449,
+        "profile_path": "/sO6NFXFXmZzIJGWrKo0LHMucnly.jpg",
+        "credit_id": "649cbca58289a00139679e43",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183541,
+        "known_for_department": "Camera",
+        "name": "Robert M. Edgecomb",
+        "original_name": "Robert M. Edgecomb",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "649cbce53e6f2b00ad16c370",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2374169,
+        "known_for_department": "Production",
+        "name": "Amnon Lourie",
+        "original_name": "Amnon Lourie",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "649cbcd53e6f2b00c5361cd6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155508,
+        "known_for_department": "Editing",
+        "name": "Ian Holden",
+        "original_name": "Ian Holden",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "649cbcf3c9dbf900e8ef54c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2374169,
+        "known_for_department": "Production",
+        "name": "Amnon Lourie",
+        "original_name": "Amnon Lourie",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "649cbcdb3e6f2b00e2dcc631",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6145078,
+        "known_for_department": "Sound",
+        "name": "Culley Johnson",
+        "original_name": "Culley Johnson",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "69e00f8e2fc929431d012ab9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 157096,
+        "name": "homoeroticism"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 207767,
+        "name": "erotic thriller"
+      },
+      {
+        "id": 250606,
+        "name": "queer"
+      },
+      {
+        "id": 256466,
+        "name": "erotic"
+      },
+      {
+        "id": 258533,
+        "name": "gay theme"
+      },
+      {
+        "id": 323690,
+        "name": "gay sex"
+      }
+    ]
+  }
+}

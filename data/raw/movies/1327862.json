@@ -1,0 +1,1005 @@
+{
+  "adult": false,
+  "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.paramountpictures.com/movies/regretting-you",
+  "id": 1327862,
+  "imdb_id": "tt33088452",
+  "origin_country": [
+    "DE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Regretting You",
+  "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+  "popularity": 16.7785,
+  "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+  "production_companies": [
+    {
+      "id": 95966,
+      "logo_path": null,
+      "name": "Harbinger Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 140519,
+      "logo_path": null,
+      "name": "Frayed Pages Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 220749,
+      "logo_path": null,
+      "name": "north.five.six",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-10-22",
+  "revenue": 90452948,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Risk everything. Regret nothing.",
+  "title": "Regretting You",
+  "video": false,
+  "vote_average": 6.967,
+  "vote_count": 360,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 7.4418,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "cast_id": 8,
+        "character": "Clara Grant",
+        "credit_id": "66b87851ffd0572dbb285a28",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2803710,
+        "known_for_department": "Acting",
+        "name": "Mason Thames",
+        "original_name": "Mason Thames",
+        "popularity": 2.4166,
+        "profile_path": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg",
+        "cast_id": 10,
+        "character": "Miller Adams",
+        "credit_id": "66cdee4e47e31699ada2a1b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255540,
+        "known_for_department": "Acting",
+        "name": "Allison Williams",
+        "original_name": "Allison Williams",
+        "popularity": 2.4459,
+        "profile_path": "/5Jy9HELKS1OYg7moRl8870OSfJq.jpg",
+        "cast_id": 1,
+        "character": "Morgan Grant",
+        "credit_id": "66b71a585d83aa505e282b9f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54697,
+        "known_for_department": "Acting",
+        "name": "Dave Franco",
+        "original_name": "Dave Franco",
+        "popularity": 3.229,
+        "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+        "cast_id": 9,
+        "character": "Jonah Sullivan",
+        "credit_id": "66ba5c957a0bd651909128a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3411744,
+        "known_for_department": "Acting",
+        "name": "Sam Morelos",
+        "original_name": "Sam Morelos",
+        "popularity": 0.2764,
+        "profile_path": "/nmrCwmyVB7BdwNrx1cvvxGY0Ci2.jpg",
+        "cast_id": 15,
+        "character": "Lexie",
+        "credit_id": "67dc5a16d67d7dc3c86b9e5a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928572,
+        "known_for_department": "Acting",
+        "name": "Scott Eastwood",
+        "original_name": "Scott Eastwood",
+        "popularity": 2.4807,
+        "profile_path": "/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg",
+        "cast_id": 14,
+        "character": "Chris Grant",
+        "credit_id": "67d8786d25f01d54167c4cde",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1318650,
+        "known_for_department": "Acting",
+        "name": "Willa Fitzgerald",
+        "original_name": "Willa Fitzgerald",
+        "popularity": 2.7853,
+        "profile_path": "/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg",
+        "cast_id": 13,
+        "character": "Jenny Davidson",
+        "credit_id": "67d48b9df17459c8ff53dff8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6574,
+        "known_for_department": "Acting",
+        "name": "Clancy Brown",
+        "original_name": "Clancy Brown",
+        "popularity": 3.2611,
+        "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+        "cast_id": 16,
+        "character": "Hank \"Gramps\" Adams Sr.",
+        "credit_id": "67dc5a1e927d39deb3f2c5f7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5144954,
+        "known_for_department": "Acting",
+        "name": "Ethan Costanilla",
+        "original_name": "Ethan Costanilla",
+        "popularity": 0.1426,
+        "profile_path": "/zAhhI5lqagf9Gi4VbGwASAp17Am.jpg",
+        "cast_id": 32,
+        "character": "Efren",
+        "credit_id": "68bd387b4232fbfcd74e5bcb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4680485,
+        "known_for_department": "Acting",
+        "name": "Luke Pierre Roness",
+        "original_name": "Luke Pierre Roness",
+        "popularity": 0.0796,
+        "profile_path": "/mA41dGhmhznIJZGOyxheZWWozmu.jpg",
+        "cast_id": 31,
+        "character": "Hank Adams Jr.",
+        "credit_id": "68bd3869b5e9c25e5798bae6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3862020,
+        "known_for_department": "Acting",
+        "name": "Daniel Smith",
+        "original_name": "Daniel Smith",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Pastor",
+        "credit_id": "68fa0a50da53ae7580dd935f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2922079,
+        "known_for_department": "Acting",
+        "name": "Alicia Cuthbertson",
+        "original_name": "Alicia Cuthbertson",
+        "popularity": 0.0505,
+        "profile_path": "/1flGdKg3n5CxCVJMmT1s0BEVILP.jpg",
+        "cast_id": 55,
+        "character": "ER Desk Attendant",
+        "credit_id": "68fa0a6426c89ca7fa466ff3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1957903,
+        "known_for_department": "Acting",
+        "name": "Marcelle LeBlanc",
+        "original_name": "Marcelle LeBlanc",
+        "popularity": 0.4223,
+        "profile_path": "/4nJsmehmC491BKG8Nylc9ciAGuC.jpg",
+        "cast_id": 30,
+        "character": "Tonya",
+        "credit_id": "68bd385798c17ea86d069b6d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2068598,
+        "known_for_department": "Acting",
+        "name": "Kurt Yue",
+        "original_name": "Kurt Yue",
+        "popularity": 0.8315,
+        "profile_path": "/kPy0d5uUNiJJB18T55IdE01Ruru.jpg",
+        "cast_id": 52,
+        "character": "Doctor",
+        "credit_id": "68ceea1fae30a3e9f6cd72fc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5767454,
+        "known_for_department": "Acting",
+        "name": "William Burnham Simmons",
+        "original_name": "William Burnham Simmons",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Elijah",
+        "credit_id": "68fa0a71637c0bf816536799",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5948235,
+        "known_for_department": "Acting",
+        "name": "Ryan Conner Simmons",
+        "original_name": "Ryan Conner Simmons",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Elijah",
+        "credit_id": "696d82524505048d2bdcb442",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1979944,
+        "known_for_department": "Editing",
+        "name": "Joe Binford Jr.",
+        "original_name": "Joe Binford Jr.",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "DJ (voice)",
+        "credit_id": "68fa0a89b142efde79536693",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5306940,
+        "known_for_department": "Acting",
+        "name": "Aubrey Brockwell",
+        "original_name": "Aubrey Brockwell",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Young Clara (uncredited)",
+        "credit_id": "68bd38b474df74d86a9c054c",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053420,
+        "known_for_department": "Directing",
+        "name": "Josh Boone",
+        "original_name": "Josh Boone",
+        "popularity": 0.5893,
+        "profile_path": "/Ak9d9uoTVIAJYOsl8vfcLICBIc5.jpg",
+        "credit_id": "66b71a651771b6558ea7b321",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1008413,
+        "known_for_department": "Production",
+        "name": "Brunson Green",
+        "original_name": "Brunson Green",
+        "popularity": 0.0788,
+        "profile_path": "/ecSbOefNb7NtmZvR3dwSKu6b8Vs.jpg",
+        "credit_id": "66b71a9420817ac8afaa8b75",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817019,
+        "known_for_department": "Writing",
+        "name": "Colleen Hoover",
+        "original_name": "Colleen Hoover",
+        "popularity": 0.5067,
+        "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+        "credit_id": "66b71a7af44005314c073291",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4017,
+        "known_for_department": "Production",
+        "name": "Robert Kulzer",
+        "original_name": "Robert Kulzer",
+        "popularity": 0.3315,
+        "profile_path": "/tzQeiYsq9CJIzGSN2nsmez68TM6.jpg",
+        "credit_id": "66b71a87013f50b977a8c3e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1664826,
+        "known_for_department": "Writing",
+        "name": "Anna Todd",
+        "original_name": "Anna Todd",
+        "popularity": 0.4077,
+        "profile_path": "/b0L0Hicos8ZeEXt96Jf9wDed8FS.jpg",
+        "credit_id": "66b71aa013df43edfe1db408",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817019,
+        "known_for_department": "Writing",
+        "name": "Colleen Hoover",
+        "original_name": "Colleen Hoover",
+        "popularity": 0.5067,
+        "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+        "credit_id": "66e7d85f050f14e4fccfd98a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4945117,
+        "known_for_department": "Production",
+        "name": "Flavia Viotti",
+        "original_name": "Flavia Viotti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66e7d87a9dfbbdf0e6cfe2dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13585,
+        "known_for_department": "Production",
+        "name": "Nancy Nayor",
+        "original_name": "Nancy Nayor",
+        "popularity": 0.2858,
+        "profile_path": null,
+        "credit_id": "67dc5af0faba16b5bdf2c5b0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3843827,
+        "known_for_department": "Production",
+        "name": "Jasmine Gutierrez",
+        "original_name": "Jasmine Gutierrez",
+        "popularity": 0.1119,
+        "profile_path": "/pgWtG3jldG56seIPOQbfLJvtmdL.jpg",
+        "credit_id": "67dc5b08faba16b5bdf2c5b5",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4992269,
+        "known_for_department": "Production",
+        "name": "Brent Hagata",
+        "original_name": "Brent Hagata",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67dc5b26d67d7dc3c86b9ee1",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1856994,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leo Satkovich",
+        "original_name": "Leo Satkovich",
+        "popularity": 0.1263,
+        "profile_path": null,
+        "credit_id": "681fd7cce1c07d68892d1317",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2806855,
+        "known_for_department": "Directing",
+        "name": "Stephen W. Moore",
+        "original_name": "Stephen W. Moore",
+        "popularity": 0.2496,
+        "profile_path": null,
+        "credit_id": "681fd7e6aa0a2c16244b3e19",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578364,
+        "known_for_department": "Crew",
+        "name": "Keith Splinter Davis",
+        "original_name": "Keith Splinter Davis",
+        "popularity": 0.0802,
+        "profile_path": "/buXCsTzcKOHTquh8LiOSDKd1rwd.jpg",
+        "credit_id": "681fd810722788a441a15b3a",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255540,
+        "known_for_department": "Acting",
+        "name": "Allison Williams",
+        "original_name": "Allison Williams",
+        "popularity": 2.4459,
+        "profile_path": "/5Jy9HELKS1OYg7moRl8870OSfJq.jpg",
+        "credit_id": "686082d8ea9f9de7bcfdc724",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445624,
+        "known_for_department": "Production",
+        "name": "Anthony Tittanegro",
+        "original_name": "Anthony Tittanegro",
+        "popularity": 0.2942,
+        "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+        "credit_id": "689558dbf9f067e0e0c6ea0b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445622,
+        "known_for_department": "Production",
+        "name": "Pete Chiappetta",
+        "original_name": "Pete Chiappetta",
+        "popularity": 0.4115,
+        "profile_path": "/t2gaoeKDpCvzIhVzr7rQrX4gBjn.jpg",
+        "credit_id": "689558e48ec5a7992866ea92",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445623,
+        "known_for_department": "Production",
+        "name": "Andrew Lary",
+        "original_name": "Andrew Lary",
+        "popularity": 0.2696,
+        "profile_path": "/cmiInaHyivPOr9OZyOMwDLiiINf.jpg",
+        "credit_id": "689558f240f79a883c28a7ea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 674,
+        "known_for_department": "Production",
+        "name": "Oliver Berben",
+        "original_name": "Oliver Berben",
+        "popularity": 0.2129,
+        "profile_path": "/xzokTXR0FO1LGANvgUDbs4nKem1.jpg",
+        "credit_id": "68bd38d098c17ea86d069b7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54697,
+        "known_for_department": "Acting",
+        "name": "Dave Franco",
+        "original_name": "Dave Franco",
+        "popularity": 3.229,
+        "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+        "credit_id": "68bd38e374df74d86a9c0551",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 7.4418,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "credit_id": "68bd38ee2ac2f5635f1bc37a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3815829,
+        "known_for_department": "Production",
+        "name": "Samuel Hall",
+        "original_name": "Samuel Hall",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "68bd39044acfe14e8e1bc698",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2395724,
+        "known_for_department": "Writing",
+        "name": "Emily Magee",
+        "original_name": "Emily Magee",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68bd391d10647f072c1bc56e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018084,
+        "known_for_department": "Production",
+        "name": "Warren T. Goz",
+        "original_name": "Warren T. Goz",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "68bd3926e3333fb0f59c0377",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1343946,
+        "known_for_department": "Production",
+        "name": "Jon D. Wagner",
+        "original_name": "Jon D. Wagner",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "68bd3945934c154ceb8cecd4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2226017,
+        "known_for_department": "Production",
+        "name": "Michael J. Rothstein",
+        "original_name": "Michael J. Rothstein",
+        "popularity": 0.1144,
+        "profile_path": null,
+        "credit_id": "68bd3952e1c80d115494736e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72264,
+        "known_for_department": "Camera",
+        "name": "Tim Orr",
+        "original_name": "Tim Orr",
+        "popularity": 0.1769,
+        "profile_path": "/7ANEkhXONfNC1ftIlSvIg4HFH03.jpg",
+        "credit_id": "68bd3969b6a42c807c1f4e5b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4643043,
+        "known_for_department": "Editing",
+        "name": "Marc Clark",
+        "original_name": "Marc Clark",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "68bd3977d18046b5cf9472f8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19661,
+        "known_for_department": "Editing",
+        "name": "Robb Sullivan",
+        "original_name": "Robb Sullivan",
+        "popularity": 0.1077,
+        "profile_path": null,
+        "credit_id": "68bd39822ac2f5635f1bc384",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1715116,
+        "known_for_department": "Art",
+        "name": "Brittany Hites",
+        "original_name": "Brittany Hites",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "68bd399121ffad0fb398b9db",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028801,
+        "known_for_department": "Art",
+        "name": "Nicholas Urbano",
+        "original_name": "Nicholas Urbano",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "68bd39a039edc42a531bc64e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1871270,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Erinn Knight",
+        "original_name": "Erinn Knight",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "68bd39aba0a80ad1114e5d4d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3165994,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jessica Craig",
+        "original_name": "Jessica Craig",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "68bd39bc9c3fe8147d1f4d88",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1530870,
+        "known_for_department": "Crew",
+        "name": "Lisa Rodgers",
+        "original_name": "Lisa Rodgers",
+        "popularity": 0.3084,
+        "profile_path": null,
+        "credit_id": "68bd39cea0a80ad1114e5d50",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3284482,
+        "known_for_department": "Production",
+        "name": "Huxley Rodriguez",
+        "original_name": "Huxley Rodriguez",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "68bd39db0788cf8e8b947464",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74277,
+        "known_for_department": "Writing",
+        "name": "Susan McMartin",
+        "original_name": "Susan McMartin",
+        "popularity": 0.5023,
+        "profile_path": "/tMh7ymJTn3gvxw1ViBcGJ4GD3um.jpg",
+        "credit_id": "68bd39f9f2a67aba9e4e5d6f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201210,
+        "known_for_department": "Sound",
+        "name": "Nate Walcott",
+        "original_name": "Nate Walcott",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "68e6ea968fa7022a5430bbb1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1530870,
+        "known_for_department": "Crew",
+        "name": "Lisa Rodgers",
+        "original_name": "Lisa Rodgers",
+        "popularity": 0.3084,
+        "profile_path": null,
+        "credit_id": "68fa0b1c4f10bc1a67e2d223",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1343946,
+        "known_for_department": "Production",
+        "name": "Jon D. Wagner",
+        "original_name": "Jon D. Wagner",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "68fa0b2c2689b9f1e18532b0",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565123,
+        "known_for_department": "Camera",
+        "name": "Matthew A. Petrosky",
+        "original_name": "Matthew A. Petrosky",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "692e13dcd962c76f1528681f",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565123,
+        "known_for_department": "Camera",
+        "name": "Matthew A. Petrosky",
+        "original_name": "Matthew A. Petrosky",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "692e13e185e848a0b026ef7d",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2568808,
+        "known_for_department": "Art",
+        "name": "Carla Martinez",
+        "original_name": "Carla Martinez",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "69d42d7db6eb4d4f7cf65a01",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6270,
+        "name": "high school"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 12335,
+        "name": "aunt niece relationship"
+      },
+      {
+        "id": 5922,
+        "name": "north carolina"
+      },
+      {
+        "id": 10201,
+        "name": "death of father"
+      },
+      {
+        "id": 9844,
+        "name": "car crash"
+      },
+      {
+        "id": 11696,
+        "name": "underage drinking"
+      },
+      {
+        "id": 10614,
+        "name": "tragedy"
+      },
+      {
+        "id": 12279,
+        "name": "family drama"
+      },
+      {
+        "id": 175421,
+        "name": "death of husband"
+      },
+      {
+        "id": 198522,
+        "name": "underage smoking"
+      },
+      {
+        "id": 202798,
+        "name": "insecure"
+      },
+      {
+        "id": 208397,
+        "name": "death of wife"
+      },
+      {
+        "id": 233083,
+        "name": "complex relationship"
+      },
+      {
+        "id": 240315,
+        "name": "mother daughter relationship"
+      },
+      {
+        "id": 241738,
+        "name": "sister sister relationship"
+      },
+      {
+        "id": 245358,
+        "name": "grandfather grandson relationship"
+      },
+      {
+        "id": 252104,
+        "name": "2000s"
+      },
+      {
+        "id": 269719,
+        "name": "high school romance"
+      },
+      {
+        "id": 285623,
+        "name": "loss of husband"
+      },
+      {
+        "id": 316396,
+        "name": "cinephile"
+      },
+      {
+        "id": 319319,
+        "name": "sentimental"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      },
+      {
+        "id": 325762,
+        "name": "adoring"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325778,
+        "name": "bold"
+      },
+      {
+        "id": 325782,
+        "name": "cheerful"
+      },
+      {
+        "id": 325835,
+        "name": "melodramatic"
+      },
+      {
+        "id": 343234,
+        "name": "marijuana use"
+      },
+      {
+        "id": 345457,
+        "name": "loss of father"
+      }
+    ]
+  }
+}

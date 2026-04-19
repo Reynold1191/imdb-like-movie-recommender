@@ -1,0 +1,316 @@
+{
+  "adult": false,
+  "backdrop_path": "/wHdpSwLr0wUKRyG1CGzGjPSkyrK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1611398,
+  "imdb_id": "tt37538207",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Un hombre por semana",
+  "overview": "A divorced woman reconstructs her life and opens herself to love. Her search for dating apps takes her through fun and unpredictable moments to discover self-love.",
+  "popularity": 12.7966,
+  "poster_path": "/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+  "production_companies": [
+    {
+      "id": 191621,
+      "logo_path": "/f9Vkl26ue8YdcnSxeIGasY1s1R5.png",
+      "name": "Filmadora",
+      "origin_country": "MX"
+    },
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-01-08",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Un hombre por semana",
+  "video": false,
+  "vote_average": 7.306,
+  "vote_count": 49,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57409,
+        "known_for_department": "Acting",
+        "name": "Ana de la Reguera",
+        "original_name": "Ana de la Reguera",
+        "popularity": 1.9975,
+        "profile_path": "/hE8W86SKgIzoVsukTnL0VeGeYwB.jpg",
+        "cast_id": 1,
+        "character": "Monica",
+        "credit_id": "695dcc608c1b2698c4cfd25f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317794,
+        "known_for_department": "Acting",
+        "name": "Roberto Quijano",
+        "original_name": "Roberto Quijano",
+        "popularity": 0.1011,
+        "profile_path": "/y06O998iPGnaH7fvXDLaYR16eFK.jpg",
+        "cast_id": 2,
+        "character": "Miguel",
+        "credit_id": "695dcc7c542831ffd6f28f12",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3091865,
+        "known_for_department": "Acting",
+        "name": "Carlos 'Capi' P\u00e9rez",
+        "original_name": "Carlos 'Capi' P\u00e9rez",
+        "popularity": 0.1464,
+        "profile_path": "/nngw8NHBoNbzYdWJ5qV4Tfja0gI.jpg",
+        "cast_id": 6,
+        "character": "Memo",
+        "credit_id": "695dcf1d5b17494c583f5bb4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149166,
+        "known_for_department": "Acting",
+        "name": "Fernando \u00c1lvarez Rebeil",
+        "original_name": "Fernando \u00c1lvarez Rebeil",
+        "popularity": 0.1885,
+        "profile_path": "/zhICVhOwphg1owi9ujKOPhjrfWA.jpg",
+        "cast_id": 7,
+        "character": "Rene",
+        "credit_id": "695dcf46f7487a4a713f5ba4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310890,
+        "known_for_department": "Acting",
+        "name": "Patricia Garza",
+        "original_name": "Patricia Garza",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Paula",
+        "credit_id": "695e072d74dd423ef8cfd20d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3206230,
+        "known_for_department": "Acting",
+        "name": "Epy V\u00e9lez",
+        "original_name": "Epy V\u00e9lez",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Martha",
+        "credit_id": "695e0797c310a309ac7d8b1e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4807841,
+        "known_for_department": "Acting",
+        "name": "Diego Guzm\u00e1n",
+        "original_name": "Diego Guzm\u00e1n",
+        "popularity": 0.047,
+        "profile_path": "/1Wquad1nMvVsEz8IEJcMHDs0Akk.jpg",
+        "cast_id": 14,
+        "character": "Dami\u00e1n",
+        "credit_id": "6960093a49a611cc843d5d3d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293094,
+        "known_for_department": "Acting",
+        "name": "Kevin Bertram",
+        "original_name": "Kevin Bertram",
+        "popularity": 0.0387,
+        "profile_path": "/aW6MfVy1XtrR7zaiU5MtttSmOrB.jpg",
+        "cast_id": 15,
+        "character": "Humberto/Ismael",
+        "credit_id": "696009b3ec738a0c47b542ea",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2593669,
+        "known_for_department": "Acting",
+        "name": "Javier Ram\u00edrez G\u00f3mez",
+        "original_name": "Javier Ram\u00edrez G\u00f3mez",
+        "popularity": 0.091,
+        "profile_path": "/oRyTXs5Md5EqECqOmuCClNFNNyr.jpg",
+        "cast_id": 16,
+        "character": "Federico",
+        "credit_id": "6963444ca196c84b36f40cb4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80494,
+        "known_for_department": "Acting",
+        "name": "Jos\u00e9 Mar\u00eda de Tavira",
+        "original_name": "Jos\u00e9 Mar\u00eda de Tavira",
+        "popularity": 0.4008,
+        "profile_path": "/dMDyQmqCqPPB1lZXpFg1elcMOXJ.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "69686e853897eff589078a45",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277636,
+        "known_for_department": "Production",
+        "name": "Marco Polo Constandse",
+        "original_name": "Marco Polo Constandse",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "695dcda3f6101f07a53f5bbb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329707,
+        "known_for_department": "Writing",
+        "name": "Itzel Lara",
+        "original_name": "Itzel Lara",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "695dcde4f6101f07a53f5bc9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1319021,
+        "known_for_department": "Writing",
+        "name": "Adriana Pelusi",
+        "original_name": "Adriana Pelusi",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "695dcdfbc310a309ac7d8a0a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57409,
+        "known_for_department": "Acting",
+        "name": "Ana de la Reguera",
+        "original_name": "Ana de la Reguera",
+        "popularity": 1.9975,
+        "profile_path": "/hE8W86SKgIzoVsukTnL0VeGeYwB.jpg",
+        "credit_id": "695dd37675ebcd43763f5be0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2666416,
+        "known_for_department": "Production",
+        "name": "Tania Ben\u00edtez",
+        "original_name": "Tania Ben\u00edtez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "695e07d0e15d4add27f28f8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446706,
+        "known_for_department": "Camera",
+        "name": "Tonatiuh Mart\u00ednez",
+        "original_name": "Tonatiuh Mart\u00ednez",
+        "popularity": 0.0362,
+        "profile_path": "/erTWzH5UuPeLrNjTukcuO8LhzBE.jpg",
+        "credit_id": "695e081b7f5b089c91b5deb0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3588214,
+        "known_for_department": "Art",
+        "name": "Celia Hop Galv\u00e1n",
+        "original_name": "Celia Hop Galv\u00e1n",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "695e085adc009256713e6184",
+        "department": "Production",
+        "job": "Production Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 346524,
+        "name": "mexican comedy"
+      }
+    ]
+  }
+}

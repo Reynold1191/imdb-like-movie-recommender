@@ -1,0 +1,730 @@
+{
+  "adult": false,
+  "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82682318",
+  "id": 1268127,
+  "imdb_id": "tt32606470",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\ud734\ubbfc\ud2b8",
+  "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets.",
+  "popularity": 75.3254,
+  "poster_path": "/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+  "production_companies": [
+    {
+      "id": 12987,
+      "logo_path": "/32ea3CCKrNNO8jZBOcN2tbjPpuf.png",
+      "name": "Filmmaker R&K",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2026-02-11",
+  "revenue": 13207600,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Intelligence gathering through human sources.",
+  "title": "Humint",
+  "video": false,
+  "vote_average": 7.271,
+  "vote_count": 96,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127564,
+        "known_for_department": "Acting",
+        "name": "Zo In-sung",
+        "original_name": "\uc870\uc778\uc131",
+        "popularity": 1.9983,
+        "profile_path": "/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
+        "cast_id": 2,
+        "character": "Manager Zo",
+        "credit_id": "660baed5e039f1017ce5f45d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571172,
+        "known_for_department": "Acting",
+        "name": "Park Jeong-min",
+        "original_name": "\ubc15\uc815\ubbfc",
+        "popularity": 2.4577,
+        "profile_path": "/o0IKTRpUgNILXzWtskyMJM1NG4j.jpg",
+        "cast_id": 3,
+        "character": "Park Geon",
+        "credit_id": "666a887e3de51bfa4c1c9335",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292971,
+        "known_for_department": "Acting",
+        "name": "Park Hae-joon",
+        "original_name": "\ubc15\ud574\uc900",
+        "popularity": 1.6587,
+        "profile_path": "/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg",
+        "cast_id": 4,
+        "character": "Hwang Chi-seong",
+        "credit_id": "666a8882ff45ddbff40801a7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126348,
+        "known_for_department": "Acting",
+        "name": "Shin Sae-kyeong",
+        "original_name": "\uc2e0\uc138\uacbd",
+        "popularity": 2.4095,
+        "profile_path": "/t94qZHTY6yYMKC9SOijUYjRczpI.jpg",
+        "cast_id": 5,
+        "character": "Chae Seon-hwa",
+        "credit_id": "66f0eb04583c56cdb125dcbe",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1464090,
+        "known_for_department": "Acting",
+        "name": "Robert Maaser",
+        "original_name": "Robert Maaser",
+        "popularity": 0.7648,
+        "profile_path": "/ngaXyP5DZJhYURVCwhFlkoo7yUT.jpg",
+        "cast_id": 21,
+        "character": "Aleksei",
+        "credit_id": "698c6f93eeafb91329f7b795",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1554866,
+        "known_for_department": "Acting",
+        "name": "Jung Yoo-jin",
+        "original_name": "\uc815\uc720\uc9c4",
+        "popularity": 1.2582,
+        "profile_path": "/iiY8UUU93EjutlfRrTZTPm566d6.jpg",
+        "cast_id": 13,
+        "character": "Assistant Manager Lim",
+        "credit_id": "69710170c3efdec683de5004",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96663,
+        "known_for_department": "Acting",
+        "name": "Park Myung-shin",
+        "original_name": "\ubc15\uba85\uc2e0",
+        "popularity": 1.1489,
+        "profile_path": "/4VXJXafwdzVMugBeTtTHf6RtDKS.jpg",
+        "cast_id": 19,
+        "character": "North Korean Restaurant Manager",
+        "credit_id": "698c1e40a61771745ff7b676",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5685938,
+        "known_for_department": "Acting",
+        "name": "Lee Shin-ki",
+        "original_name": "\uc774\uc2e0\uae30",
+        "popularity": 0.3413,
+        "profile_path": "/7enUunjkXqs6nhVE06nnBuYobUM.jpg",
+        "cast_id": 14,
+        "character": "Geum-tae",
+        "credit_id": "69710177b6c76d8cb077434a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2038137,
+        "known_for_department": "Acting",
+        "name": "Kang Ha-kyung",
+        "original_name": "\uac15\ud558\uacbd",
+        "popularity": 0.2925,
+        "profile_path": "/nFHW4I2IX5F0ycHXE3qD2SWgTwe.jpg",
+        "cast_id": 22,
+        "character": "Eun-pyo",
+        "credit_id": "698c756b5a40c1caacd3a8b6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347175,
+        "known_for_department": "Acting",
+        "name": "Kim Eui-sung",
+        "original_name": "\uae40\uc758\uc131",
+        "popularity": 1.4825,
+        "profile_path": "/y7T2LJyorTK2NDk10yeTINWKrWR.jpg",
+        "cast_id": 15,
+        "character": "Director of the National Intelligence Service",
+        "credit_id": "6971017d4732bf47b67742b5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64455,
+        "known_for_department": "Acting",
+        "name": "Jang Hyun-sung",
+        "original_name": "\uc7a5\ud604\uc131",
+        "popularity": 1.3434,
+        "profile_path": "/rD1QMp1kmx03JSw4eBxeeLvTwAA.jpg",
+        "cast_id": 16,
+        "character": "Minister Jung",
+        "credit_id": "698bf95f35056061cfd3a62a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2414743,
+        "known_for_department": "Acting",
+        "name": "Joo Bo-bi",
+        "original_name": "\uc8fc\ubcf4\ube44",
+        "popularity": 0.8482,
+        "profile_path": "/fUaJyxbQW1TDfw4SUNG5Jo1Uzc2.jpg",
+        "cast_id": 6,
+        "character": "Kim Su-rin",
+        "credit_id": "679900807d96d896542385ef",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295417,
+        "known_for_department": "Acting",
+        "name": "Kim Jong-soo",
+        "original_name": "\uae40\uc885\uc218",
+        "popularity": 1.762,
+        "profile_path": "/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg",
+        "cast_id": 17,
+        "character": "Director General Kim",
+        "credit_id": "698bf97509e0b0eb6ad3a694",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560081,
+        "known_for_department": "Acting",
+        "name": "Yoon Kyung-ho",
+        "original_name": "\uc724\uacbd\ud638",
+        "popularity": 1.3126,
+        "profile_path": "/217cVZqyvJypi4OR1uvxoaJxvLm.jpg",
+        "cast_id": 18,
+        "character": "Minister Yoon",
+        "credit_id": "698bf97f35056061cfd3a632",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286091,
+        "known_for_department": "Production",
+        "name": "Pierce Conran",
+        "original_name": "Pierce Conran",
+        "popularity": 0.241,
+        "profile_path": "/kp4j5Z4JCluQ5NgdqBHs7mRh1E3.jpg",
+        "cast_id": 47,
+        "character": "Russian Businessman",
+        "credit_id": "69b56cf0d1cf92ccee3b8c7b",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86325,
+        "known_for_department": "Directing",
+        "name": "Ryoo Seung-wan",
+        "original_name": "\ub958\uc2b9\uc644",
+        "popularity": 1.5511,
+        "profile_path": "/pFBIKcGvQLdibhDF1koi5Tm1noE.jpg",
+        "credit_id": "660baecc35818f0162397dd8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86325,
+        "known_for_department": "Directing",
+        "name": "Ryoo Seung-wan",
+        "original_name": "\ub958\uc2b9\uc644",
+        "popularity": 1.5511,
+        "profile_path": "/pFBIKcGvQLdibhDF1koi5Tm1noE.jpg",
+        "credit_id": "679901bab921c548d82afc50",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3375086,
+        "known_for_department": "Camera",
+        "name": "Yang Hyun-suk",
+        "original_name": "\uc591\ud604\uc11d",
+        "popularity": 0.2116,
+        "profile_path": null,
+        "credit_id": "697100983462ea3ed57742cf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37930,
+        "known_for_department": "Sound",
+        "name": "Cho Young-wuk",
+        "original_name": "\uc870\uc601\uc6b1",
+        "popularity": 0.4343,
+        "profile_path": "/jSBt4j7LXz5PjDchUAyFOpD88wY.jpg",
+        "credit_id": "697100defebb94fb2194d760",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953714,
+        "known_for_department": "Production",
+        "name": "Kim Hyeon-sik",
+        "original_name": "\uae40\ud604\uc2dd",
+        "popularity": 0.0421,
+        "profile_path": null,
+        "credit_id": "697101049e67dc66668581d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2159385,
+        "known_for_department": "Art",
+        "name": "Lee Hwo-kyoung",
+        "original_name": "\uc774\ud6c4\uacbd",
+        "popularity": 0.1745,
+        "profile_path": null,
+        "credit_id": "69710110704af7ba6f546565",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255243,
+        "known_for_department": "Production",
+        "name": "Kang Hye-jung",
+        "original_name": "\uac15\ud61c\uc815",
+        "popularity": 0.2216,
+        "profile_path": null,
+        "credit_id": "699724c0ee0d9508db6f68b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86325,
+        "known_for_department": "Directing",
+        "name": "Ryoo Seung-wan",
+        "original_name": "\ub958\uc2b9\uc644",
+        "popularity": 1.5511,
+        "profile_path": "/pFBIKcGvQLdibhDF1koi5Tm1noE.jpg",
+        "credit_id": "699724c715771f3d586f8500",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198550,
+        "known_for_department": "Production",
+        "name": "Cho Sung-min",
+        "original_name": "\uc870\uc131\ubbfc",
+        "popularity": 0.2521,
+        "profile_path": null,
+        "credit_id": "699724cd48c917cd226f8567",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2161246,
+        "known_for_department": "Sound",
+        "name": "Jung Gun",
+        "original_name": "\uc815\uad70",
+        "popularity": 0.2318,
+        "profile_path": null,
+        "credit_id": "699724e8844b8e65121ae994",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6018230,
+        "known_for_department": "Crew",
+        "name": "Lee Won-haeng",
+        "original_name": "\uc774\uc6d0\ud589",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "69972522a8b17c10e08639f1",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6018238,
+        "known_for_department": "Lighting",
+        "name": "Kim Seok-young",
+        "original_name": "\uae40\uc11d\uc601",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "699725d5a58c50b0194a968d",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4676467,
+        "known_for_department": "Editing",
+        "name": "Bae Youn-tae",
+        "original_name": "\ubc30\uc5f0\ud0dc",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "69972639b6e99bc9acc85720",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2437373,
+        "known_for_department": "Crew",
+        "name": "Yoo Sang-seob",
+        "original_name": "\uc720\uc0c1\uc12d",
+        "popularity": 0.3385,
+        "profile_path": "/uMpoPa5VpJobLGhOyO54CqrVYhJ.jpg",
+        "credit_id": "6999d4a29c3ae3e3ce0e4a2c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499616,
+        "known_for_department": "Visual Effects",
+        "name": "Lee Hee-kyoung",
+        "original_name": "\uc774\ud76c\uacbd",
+        "popularity": 0.2661,
+        "profile_path": null,
+        "credit_id": "6999d4cb7cb46d5c67373bf5",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4696278,
+        "known_for_department": "Visual Effects",
+        "name": "Jung Min-woo",
+        "original_name": "\uc815\ubbfc\uc6b0",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6999d4db010a90a218373b23",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2159407,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hwang Hyo-kyun",
+        "original_name": "\ud669\ud6a8\uade0",
+        "popularity": 0.374,
+        "profile_path": null,
+        "credit_id": "6999d5001a47fe27af6a313e",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100270,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kwak Tae-yong",
+        "original_name": "\uacfd\ud0dc\uc6a9",
+        "popularity": 0.4583,
+        "profile_path": null,
+        "credit_id": "6999d56a673f5a08f9e8eb1d",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100271,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lee Hee-eun",
+        "original_name": "Lee Hee-eun",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "credit_id": "6999d577b6567b10a1c59b13",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2078584,
+        "known_for_department": "Sound",
+        "name": "Kim Chang-sub",
+        "original_name": "\uae40\ucc3d\uc12d",
+        "popularity": 0.3613,
+        "profile_path": null,
+        "credit_id": "6999d593168f21046e590468",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2508128,
+        "known_for_department": "Visual Effects",
+        "name": "Son Seung-hyun",
+        "original_name": "\uc190\uc2b9\ud604",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "6999d5ca495cc99fc4590422",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5646059,
+        "known_for_department": "Visual Effects",
+        "name": "Jeon So-mi",
+        "original_name": "\uc804\uc18c\ubbf8",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "6999d5dc272f82a133b28669",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499541,
+        "known_for_department": "Editing",
+        "name": "Lee Hye-min",
+        "original_name": "\uc774\ud61c\ubbfc",
+        "popularity": 0.1627,
+        "profile_path": null,
+        "credit_id": "6999d5f519b9d62c0359043e",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294120,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kim Kyeong-mi",
+        "original_name": "\uae40\uacbd\ubbf8",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "6999d60c9c8bca161380e531",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4676470,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jang Mi-suk",
+        "original_name": "\uc7a5\ubbf8\uc219",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "6999d61b168f21046e590473",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4676474,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Moon Sun-young",
+        "original_name": "\ubb38\uc120\uc601",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "6999d62b944c0f2795c59ba0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3261014,
+        "known_for_department": "Production",
+        "name": "Marta B\u016bmane",
+        "original_name": "Marta B\u016bmane",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69cc24a8af4e28ae47ca43ee",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3637,
+        "name": "double agent"
+      },
+      {
+        "id": 33456,
+        "name": "double cross"
+      },
+      {
+        "id": 163589,
+        "name": "undercover operation"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      },
+      {
+        "id": 208156,
+        "name": "frantic"
+      },
+      {
+        "id": 261681,
+        "name": "south korea"
+      },
+      {
+        "id": 261734,
+        "name": "north korea"
+      },
+      {
+        "id": 267761,
+        "name": "inter-korean relations"
+      },
+      {
+        "id": 283712,
+        "name": "national intelligence service (nis)"
+      },
+      {
+        "id": 298532,
+        "name": "political conspiracy"
+      },
+      {
+        "id": 370427,
+        "name": "spy vs spy"
+      },
+      {
+        "id": 370428,
+        "name": "deadly alliance"
+      },
+      {
+        "id": 370429,
+        "name": "trust no one"
+      },
+      {
+        "id": 370430,
+        "name": "hidden truths"
+      },
+      {
+        "id": 370431,
+        "name": "silent war"
+      },
+      {
+        "id": 370432,
+        "name": "broken loyalty"
+      },
+      {
+        "id": 370433,
+        "name": "shadow politics"
+      },
+      {
+        "id": 370434,
+        "name": "cold betrayal"
+      },
+      {
+        "id": 370435,
+        "name": "final operation"
+      },
+      {
+        "id": 370436,
+        "name": "intelligence war"
+      },
+      {
+        "id": 370437,
+        "name": "nis agent"
+      },
+      {
+        "id": 370438,
+        "name": "humint"
+      }
+    ]
+  }
+}

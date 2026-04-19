@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/4IB1h88hurwGtX9cdxXmgNImNtW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1215106,
+  "imdb_id": "tt35020020",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e42\u0e04\u0e01\u0e30\u0e42\u0e2b\u0e25\u0e01",
+  "overview": "A wave of chilling serial murders emerges, marked by the gruesome decay of male victims' secret part. As the police investigate, they confront eerie local myths and dark secrets.",
+  "popularity": 13.2822,
+  "poster_path": "/jt31qZw5W1RFXfGyTJCpgjvq2h1.jpg",
+  "production_companies": [
+    {
+      "id": 7924,
+      "logo_path": "/1KG5lcXO8GZ2F6SshuMYw1Yf4vX.png",
+      "name": "M Studio",
+      "origin_country": "TH"
+    },
+    {
+      "id": 134975,
+      "logo_path": null,
+      "name": "Film Guru",
+      "origin_country": "TH"
+    },
+    {
+      "id": 5562,
+      "logo_path": null,
+      "name": "Mono Film",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2025-11-06",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend awakens. terrifying. ridiculous. unstoppable.",
+  "title": "Ko Ga Loak Village",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 569150,
+        "known_for_department": "Acting",
+        "name": "Padung Songsang",
+        "original_name": "\u0e1c\u0e14\u0e38\u0e07 \u0e17\u0e23\u0e07\u0e41\u0e2a\u0e07",
+        "popularity": 0.4479,
+        "profile_path": "/7kSSfwkf9o83kR5pvfA84mdTgkQ.jpg",
+        "cast_id": 27,
+        "character": "Yun",
+        "credit_id": "666ef9d375d7be2462c4c916",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3294119,
+        "known_for_department": "Acting",
+        "name": "Yotsawat Tawapee",
+        "original_name": "\u0e22\u0e28\u0e27\u0e23\u0e23\u0e18\u0e19\u0e4c \u0e17\u0e30\u0e27\u0e32\u0e1b\u0e35",
+        "popularity": 0.5236,
+        "profile_path": "/oEhco9gGsYh5skWYlOJ6g1frlsN.jpg",
+        "cast_id": 35,
+        "character": "Get",
+        "credit_id": "68cfb5bab9737cbd25cc30b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279583,
+        "known_for_department": "Acting",
+        "name": "Kanchai Kamnerdploy",
+        "original_name": "\u0e01\u0e23\u0e23\u0e0a\u0e31\u0e22 \u0e01\u0e33\u0e40\u0e19\u0e34\u0e14\u0e1e\u0e25\u0e2d\u0e22",
+        "popularity": 0.1059,
+        "profile_path": "/fw6z4kDzpz6KdwfE16HbmtmAH71.jpg",
+        "cast_id": 19,
+        "character": "Kapi",
+        "credit_id": "666ef618becf9e2db43e5a51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5809899,
+        "known_for_department": "Acting",
+        "name": "Monchai Jongkrairattanakul",
+        "original_name": "Monchai Jongkrairattanakul",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Kaew",
+        "credit_id": "6925fccc1a5c802c1cd9c652",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070771,
+        "known_for_department": "Acting",
+        "name": "Nachat Juntapun",
+        "original_name": "\u0e13\u0e09\u0e31\u0e15\u0e23 \u0e08\u0e31\u0e19\u0e17\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+        "popularity": 0.4651,
+        "profile_path": "/gGLRvWb2nsypCXyhneiNXs0xY2Y.jpg",
+        "cast_id": 30,
+        "character": "Chat",
+        "credit_id": "68b6e0f7568506dfb854ecaf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3132106,
+        "known_for_department": "Acting",
+        "name": "Noppavee Meesrisuk",
+        "original_name": "Noppavee Meesrisuk",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Mike",
+        "credit_id": "69260282f27adf435ad9c6d0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279581,
+        "known_for_department": "Acting",
+        "name": "Kapon Thongphlap",
+        "original_name": "\u0e01\u0e1e\u0e25 \u0e17\u0e2d\u0e07\u0e1e\u0e25\u0e31\u0e1a",
+        "popularity": 0.1077,
+        "profile_path": "/3MNVl8NtfK82Ewq9nevX1LrIrlM.jpg",
+        "cast_id": 2,
+        "character": "Pong",
+        "credit_id": "6572d231c4f55200c94e440d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1560844,
+        "known_for_department": "Acting",
+        "name": "Ongart Cheamcharoenpornkul",
+        "original_name": "\u0e2d\u0e07\u0e2d\u0e32\u0e08 \u0e40\u0e08\u0e35\u0e22\u0e21\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e1e\u0e23\u0e01\u0e38\u0e25",
+        "popularity": 0.4722,
+        "profile_path": "/i3e4IuDngcByoViRZ8HMwNMNdRw.jpg",
+        "cast_id": 31,
+        "character": "Hun Xian",
+        "credit_id": "68b6e13ea040e6a6c19e2e77",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64372,
+        "known_for_department": "Acting",
+        "name": "Sahatchai Chumrum",
+        "original_name": "\u0e2a\u0e2b\u0e31\u0e2a\u0e0a\u0e31\u0e22 \u0e0a\u0e38\u0e21\u0e23\u0e38\u0e21",
+        "popularity": 0.7658,
+        "profile_path": "/pVtfY9QvuOXNdytPo7u6fyO7VZe.jpg",
+        "cast_id": 32,
+        "character": "Thaksin",
+        "credit_id": "68cfb52c2baabdf9e9749658",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3131644,
+        "known_for_department": "Acting",
+        "name": "Yasaka Chaisorn",
+        "original_name": "\u0e22\u0e30\u0e2a\u0e30\u0e01\u0e30 \u0e44\u0e0a\u0e22\u0e2a\u0e23",
+        "popularity": 0.5083,
+        "profile_path": "/4trP7QqmzLLEJuxlpPTLDGO54H0.jpg",
+        "cast_id": 33,
+        "character": "Uncle Pae",
+        "credit_id": "68cfb5376f9f494cccd41625",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3291099,
+        "known_for_department": "Acting",
+        "name": "Aukkarat Jittasiri",
+        "original_name": "\u0e2d\u0e31\u0e04\u0e23\u0e31\u0e0a \u0e08\u0e34\u0e15\u0e15\u0e30\u0e28\u0e34\u0e23\u0e34",
+        "popularity": 0.2207,
+        "profile_path": "/fakIWFiC3oN64Q9JC1Uxv2iNWSp.jpg",
+        "cast_id": 38,
+        "character": "Hun Xian's Minion",
+        "credit_id": "68cfb6025bf393793fcec147",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272823,
+        "known_for_department": "Acting",
+        "name": "Sukonlawat Puangsombat",
+        "original_name": "\u0e28\u0e38\u0e01\u0e25\u0e27\u0e31\u0e12\u0e19\u0e4c \u0e1e\u0e27\u0e07\u0e2a\u0e21\u0e1a\u0e31\u0e15\u0e34",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Prite",
+        "credit_id": "6925ff4b7b8d3fb1a5c11bef",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5695644,
+        "known_for_department": "Acting",
+        "name": "Phaisan Rueangrit",
+        "original_name": "Phaisan Rueangrit",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Paisan",
+        "credit_id": "68cfb5a70d5c8ced5997d75a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2904070,
+        "known_for_department": "Acting",
+        "name": "Jeerapan Pachrkaw",
+        "original_name": "\u0e08\u0e35\u0e23\u0e1e\u0e31\u0e19\u0e18\u0e4c \u0e40\u0e1e\u0e0a\u0e23\u0e02\u0e32\u0e27",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Min Aung Lui",
+        "credit_id": "68cfb61346fc7a9aadfe9336",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5351834,
+        "known_for_department": "Acting",
+        "name": "Paphada Prakobsiang",
+        "original_name": "Paphada Prakobsiang",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Nolin",
+        "credit_id": "6926002192edc640ed2487bc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5192601,
+        "known_for_department": "Acting",
+        "name": "Lilly Nguyen",
+        "original_name": "Lilly Nguyen",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Madam",
+        "credit_id": "6926008af27adf435ad9c6a6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1338879,
+        "known_for_department": "Acting",
+        "name": "Aniwat Prathumthin",
+        "original_name": "Aniwat Prathumthin",
+        "popularity": 0.0461,
+        "profile_path": "/8weoSTNzOXp92WyKmJLMvJgFqdl.jpg",
+        "cast_id": 36,
+        "character": "Yuki",
+        "credit_id": "68cfb5e7ead97b3744cc3381",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4841737,
+        "known_for_department": "Acting",
+        "name": "Petch Kamutmas",
+        "original_name": "Petch Kamutmas",
+        "popularity": 0.0143,
+        "profile_path": "/xxMMsifXK0osdGdFmO8EH1AdBlm.jpg",
+        "cast_id": 37,
+        "character": "Biaw",
+        "credit_id": "68cfb5f567b7b3c0cd7496af",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5205071,
+        "known_for_department": "Acting",
+        "name": "Kanthas Phongpaiboonwech",
+        "original_name": "\u0e01\u0e31\u0e13\u0e10\u0e31\u0e28\u0e27\u0e4c \u0e1e\u0e07\u0e28\u0e4c\u0e44\u0e1e\u0e1a\u0e39\u0e25\u0e22\u0e4c\u0e40\u0e27\u0e0a\u0e22\u0e4c",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Rescuer",
+        "credit_id": "6926036ccb2c58a363c11bb8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286041,
+        "known_for_department": "Acting",
+        "name": "Pharunyoo Rojanawuttitham",
+        "original_name": "\u0e20\u0e23\u0e31\u0e13\u0e22\u0e39 \u0e42\u0e23\u0e08\u0e19\u0e27\u0e38\u0e12\u0e34\u0e18\u0e23\u0e23\u0e21",
+        "popularity": 0.2616,
+        "profile_path": "/bHggFJllwGqgHscLC0Oq8aU3LC6.jpg",
+        "cast_id": 47,
+        "character": "Both",
+        "credit_id": "692601b37485f78501a753e7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2090081,
+        "known_for_department": "Acting",
+        "name": "Anan Semathong",
+        "original_name": "Anan Semathong",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Auan",
+        "credit_id": "690d4d087dc8f9e2c331a21e",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111984,
+        "known_for_department": "Directing",
+        "name": "Poj Arnon",
+        "original_name": "\u0e1e\u0e0a\u0e23\u0e4c \u0e2d\u0e32\u0e19\u0e19\u0e17\u0e4c",
+        "popularity": 0.4659,
+        "profile_path": "/bETWd45bkio5LDAewuVDTBB1S1u.jpg",
+        "credit_id": "65cdffc1d7dcd2017c1eece9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111984,
+        "known_for_department": "Directing",
+        "name": "Poj Arnon",
+        "original_name": "\u0e1e\u0e0a\u0e23\u0e4c \u0e2d\u0e32\u0e19\u0e19\u0e17\u0e4c",
+        "popularity": 0.4659,
+        "profile_path": "/bETWd45bkio5LDAewuVDTBB1S1u.jpg",
+        "credit_id": "66faf667cc43cebd03f1a6f6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111984,
+        "known_for_department": "Directing",
+        "name": "Poj Arnon",
+        "original_name": "\u0e1e\u0e0a\u0e23\u0e4c \u0e2d\u0e32\u0e19\u0e19\u0e17\u0e4c",
+        "popularity": 0.4659,
+        "profile_path": "/bETWd45bkio5LDAewuVDTBB1S1u.jpg",
+        "credit_id": "6925fc860e552cc66b37127c",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

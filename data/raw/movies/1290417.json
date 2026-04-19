@@ -1,0 +1,745 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82650122",
+  "id": 1290417,
+  "imdb_id": "tt32362890",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thrash",
+  "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+  "popularity": 212.0369,
+  "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+  "production_companies": [
+    {
+      "id": 34,
+      "logo_path": "/mtp1fvZbe4H991Ka1HOORl572VH.png",
+      "name": "Sony Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 125055,
+      "logo_path": "/8iY66HqRqdQdwOjoS3sNvokcH9r.png",
+      "name": "Hyperobject Industries",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-04-10",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If the flood doesn't kill you...",
+  "title": "Thrash",
+  "video": false,
+  "vote_average": 5.99,
+  "vote_count": 337,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232756,
+        "known_for_department": "Acting",
+        "name": "Phoebe Dynevor",
+        "original_name": "Phoebe Dynevor",
+        "popularity": 6.4204,
+        "profile_path": "/cviluUTn94TaPy9rlVSkHpgGxRR.jpg",
+        "cast_id": 1,
+        "character": "Lisa Fields",
+        "credit_id": "66439ba984b08df4fcbab20a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1842860,
+        "known_for_department": "Acting",
+        "name": "Whitney Peak",
+        "original_name": "Whitney Peak",
+        "popularity": 3.009,
+        "profile_path": "/qjWZGTjaMcRm8lzHXvlryTH3TxG.jpg",
+        "cast_id": 3,
+        "character": "Dakota",
+        "credit_id": "666382ac4b147d996fdd44df",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938,
+        "known_for_department": "Acting",
+        "name": "Djimon Hounsou",
+        "original_name": "Djimon Hounsou",
+        "popularity": 3.0733,
+        "profile_path": "/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg",
+        "cast_id": 4,
+        "character": "Dr. Dale Edwards",
+        "credit_id": "66a146138fe9d2761a35fad1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123879,
+        "known_for_department": "Acting",
+        "name": "Matt Nable",
+        "original_name": "Matt Nable",
+        "popularity": 1.6883,
+        "profile_path": "/yI7D2pwoWlNKClPym5lKCVEevEe.jpg",
+        "cast_id": 40,
+        "character": "Billy Olson",
+        "credit_id": "69d92c473c54089db502659a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1331950,
+        "known_for_department": "Acting",
+        "name": "Andrew Lees",
+        "original_name": "Andrew Lees",
+        "popularity": 0.7716,
+        "profile_path": "/jHbq7Zw4Yd1zKmhwmBfX62AojjV.jpg",
+        "cast_id": 41,
+        "character": "Joe Sprinkle",
+        "credit_id": "69d92c690bfdd4e9f2b64285",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2431565,
+        "known_for_department": "Acting",
+        "name": "Alyla Browne",
+        "original_name": "Alyla Browne",
+        "popularity": 1.6618,
+        "profile_path": "/aCNuhm0nbl90FGPCpOMHW5QCFfb.jpg",
+        "cast_id": 30,
+        "character": "Dee",
+        "credit_id": "699a157bcd3f13dbbcc59dfe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3291945,
+        "known_for_department": "Acting",
+        "name": "Stacy Clausen",
+        "original_name": "Stacy Clausen",
+        "popularity": 2.144,
+        "profile_path": "/eK9BrOYZ553VbEvo6LLgPsF1e7C.jpg",
+        "cast_id": 32,
+        "character": "Ron",
+        "credit_id": "69b1bcfe66056a9f6b02ba03",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583021,
+        "known_for_department": "Acting",
+        "name": "Dante Ubaldi",
+        "original_name": "Dante Ubaldi",
+        "popularity": 0.36,
+        "profile_path": "/tIWrOHT6lekRq43cFuaWCGOhaiB.jpg",
+        "cast_id": 27,
+        "character": "Will",
+        "credit_id": "688193f22bdd11277a2457e8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3043386,
+        "known_for_department": "Acting",
+        "name": "Sami Afuni",
+        "original_name": "Sami Afuni",
+        "popularity": 0.2577,
+        "profile_path": "/4ze6JEcAEPKWKxl23V5XZQ4bjEz.jpg",
+        "cast_id": 25,
+        "character": "Doug The Camera Guy",
+        "credit_id": "688193c681c1232eb18a5cbe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 152548,
+        "known_for_department": "Acting",
+        "name": "Tyler Coppin",
+        "original_name": "Tyler Coppin",
+        "popularity": 0.4909,
+        "profile_path": "/2SIrr9mHJgPymqpSAVeUWysplCT.jpg",
+        "cast_id": 42,
+        "character": "Trent",
+        "credit_id": "69d93f5d25c8892b8c9b7314",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3430988,
+        "known_for_department": "Acting",
+        "name": "Adam Dunn",
+        "original_name": "Adam Dunn",
+        "popularity": 0.4558,
+        "profile_path": "/evIYbZYGzodkaVmniiYe2nhoSAD.jpg",
+        "cast_id": 43,
+        "character": "Harbor Master Greg Wilson",
+        "credit_id": "69d93f751437b7a145d92390",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255398,
+        "known_for_department": "Acting",
+        "name": "Chai Hansen",
+        "original_name": "Chai Hansen",
+        "popularity": 0.9753,
+        "profile_path": "/vd23G0qvY33W8EjSc92xYKG1h7J.jpg",
+        "cast_id": 44,
+        "character": "Brian",
+        "credit_id": "69d93f8190817cb973026624",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1220107,
+        "known_for_department": "Acting",
+        "name": "Annabel Mullion",
+        "original_name": "Annabel Mullion",
+        "popularity": 0.3793,
+        "profile_path": "/gtTf7IgIdxlDiUGVifZXvPUWFMZ.jpg",
+        "cast_id": 45,
+        "character": "Claire Fields",
+        "credit_id": "69d93f91e8e17853d1357738",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1783789,
+        "known_for_department": "Acting",
+        "name": "Bert LaBont\u00e9",
+        "original_name": "Bert LaBont\u00e9",
+        "popularity": 0.2137,
+        "profile_path": "/chjr3R66ULIG3s62DWZKH4608zF.jpg",
+        "cast_id": 46,
+        "character": "Jimmy",
+        "credit_id": "69d93fb868950d9974c72911",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719061,
+        "known_for_department": "Acting",
+        "name": "Sian Luxford",
+        "original_name": "Sian Luxford",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Diane Rialto",
+        "credit_id": "69d92b940bfdd4e9f2b64281",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61787,
+        "known_for_department": "Acting",
+        "name": "Amy Mathews",
+        "original_name": "Amy Mathews",
+        "popularity": 0.1513,
+        "profile_path": "/kLuZighlYggVefp2wqlyn3habau.jpg",
+        "cast_id": 23,
+        "character": "Rachel Olson",
+        "credit_id": "6881939751b22c777816b27f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281967,
+        "known_for_department": "Acting",
+        "name": "Josh McConville",
+        "original_name": "Josh McConville",
+        "popularity": 0.2551,
+        "profile_path": "/3Au004X5BsV5KIpOLMB8g9DuevT.jpg",
+        "cast_id": 47,
+        "character": "Bob",
+        "credit_id": "69d93fe225e7c501eab6431b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6132815,
+        "known_for_department": "Acting",
+        "name": "Aaliyah Nginyo",
+        "original_name": "Aaliyah Nginyo",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Young Dakota",
+        "credit_id": "69d93ffcc20f2be2167098da",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2610952,
+        "known_for_department": "Acting",
+        "name": "Akosia Sabet",
+        "original_name": "Akosia Sabet",
+        "popularity": 0.306,
+        "profile_path": "/irySOpbi7SZqwS5eFuY4Wsv0nBg.jpg",
+        "cast_id": 38,
+        "character": "Young Dakota's Mom",
+        "credit_id": "69d92bac2fb2e22da73576a0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1700997,
+        "known_for_department": "Acting",
+        "name": "Elijah Ungvary",
+        "original_name": "Elijah Ungvary",
+        "popularity": 0.4128,
+        "profile_path": "/fpuW3g10qPuJHrhI4Eu6lC3WsxZ.jpg",
+        "cast_id": 24,
+        "character": "Scott",
+        "credit_id": "688193b41bc0fd1b57d9a02d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2324314,
+        "known_for_department": "Acting",
+        "name": "Gemma Dart",
+        "original_name": "Gemma Dart",
+        "popularity": 0.234,
+        "profile_path": "/37oGBKvhzZBHHlK1wJuSKcKicz7.jpg",
+        "cast_id": 22,
+        "character": "Janet",
+        "credit_id": "6881937522300a50a772d9c4",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1592650,
+        "known_for_department": "Acting",
+        "name": "Jon Prasida",
+        "original_name": "Jon Prasida",
+        "popularity": 0.2604,
+        "profile_path": "/3Ku0UbZRyDyvJL0Sw1YrXa4ulLp.jpg",
+        "cast_id": 26,
+        "character": "Keith",
+        "credit_id": "688193d5d098f600d972db47",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76927,
+        "known_for_department": "Directing",
+        "name": "Tommy Wirkola",
+        "original_name": "Tommy Wirkola",
+        "popularity": 1.22,
+        "profile_path": "/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg",
+        "credit_id": "66439bc1f6d810a9ff34c062",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76927,
+        "known_for_department": "Directing",
+        "name": "Tommy Wirkola",
+        "original_name": "Tommy Wirkola",
+        "popularity": 1.22,
+        "profile_path": "/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg",
+        "credit_id": "66bd4951f756032209cf60e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55710,
+        "known_for_department": "Directing",
+        "name": "Adam McKay",
+        "original_name": "Adam McKay",
+        "popularity": 1.1507,
+        "profile_path": "/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg",
+        "credit_id": "66bd496842cd85abb489046b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56461,
+        "known_for_department": "Production",
+        "name": "Kevin J. Messick",
+        "original_name": "Kevin J. Messick",
+        "popularity": 0.4502,
+        "profile_path": "/pz8NSCCp146P4MxDXdtBcgX2DxD.jpg",
+        "credit_id": "66bd4977fefafaeeed3ebe9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80604,
+        "known_for_department": "Production",
+        "name": "D. Scott Lumpkin",
+        "original_name": "D. Scott Lumpkin",
+        "popularity": 0.1602,
+        "profile_path": null,
+        "credit_id": "67e2116fd4052f4793dc5cae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76927,
+        "known_for_department": "Directing",
+        "name": "Tommy Wirkola",
+        "original_name": "Tommy Wirkola",
+        "popularity": 1.22,
+        "profile_path": "/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg",
+        "credit_id": "67e2117916a3c5c224f04a9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55905,
+        "known_for_department": "Camera",
+        "name": "Denson Baker",
+        "original_name": "Denson Baker",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "67f308601bb0472899993b60",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42633,
+        "known_for_department": "Editing",
+        "name": "Jim Page",
+        "original_name": "Jim Page",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "credit_id": "67f3088ca5471a51ee9939c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3167018,
+        "known_for_department": "Art",
+        "name": "David Ingram",
+        "original_name": "David Ingram",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "credit_id": "67f309477b43bdce20ad1290",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9346,
+        "known_for_department": "Art",
+        "name": "Lisa Brennan",
+        "original_name": "Lisa Brennan",
+        "popularity": 0.3243,
+        "profile_path": null,
+        "credit_id": "67f3095da5471a51ee993a07",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75685,
+        "known_for_department": "Directing",
+        "name": "Phil Jones",
+        "original_name": "Phil Jones",
+        "popularity": 0.1327,
+        "profile_path": null,
+        "credit_id": "6817a3190c3a5839f8576ea5",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39982,
+        "known_for_department": "Editing",
+        "name": "Annette Davey",
+        "original_name": "Annette Davey",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "credit_id": "684e1ec4c01014b4791ec370",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13585,
+        "known_for_department": "Production",
+        "name": "Nancy Nayor",
+        "original_name": "Nancy Nayor",
+        "popularity": 0.2858,
+        "profile_path": null,
+        "credit_id": "684e1ede2c638446f11bf035",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1552622,
+        "known_for_department": "Production",
+        "name": "J.J. Ogilvy",
+        "original_name": "J.J. Ogilvy",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "684e1ef04c96d90b893447d2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1906813,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sekyiwa Wi-Afedzi",
+        "original_name": "Sekyiwa Wi-Afedzi",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "684e1f04c6121b019f344689",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1579583,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Brooke Wilcox",
+        "original_name": "Brooke Wilcox",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "684e1f0e1bc1d2e03db0e1df",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1441218,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Kaminski",
+        "original_name": "Jennifer Kaminski",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "684e1f1f24370a5bfb3fbe6e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457245,
+        "known_for_department": "Crew",
+        "name": "Rhys Williams",
+        "original_name": "Rhys Williams",
+        "popularity": 0.0822,
+        "profile_path": "/a1cJNzJwpVh3ByYNHKix23SqEba.jpg",
+        "credit_id": "684e1f51deaa74a7273df951",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13059,
+        "known_for_department": "Sound",
+        "name": "Karen Baker Landers",
+        "original_name": "Karen Baker Landers",
+        "popularity": 0.1199,
+        "profile_path": "/docM8dKpQvAPVsHNNWvbs21gbsC.jpg",
+        "credit_id": "6898bf679c9c9f6a79e2482a",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419287,
+        "known_for_department": "Visual Effects",
+        "name": "Bryan Jones",
+        "original_name": "Bryan Jones",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "69b467411468a8543c4821ff",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399065,
+        "known_for_department": "Visual Effects",
+        "name": "Kendrick Wallace",
+        "original_name": "Kendrick Wallace",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "69b46750522c22435a6ac001",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404094,
+        "known_for_department": "Sound",
+        "name": "Dominic Lewis",
+        "original_name": "Dominic Lewis",
+        "popularity": 0.3726,
+        "profile_path": "/8r3uR9LxtCG72l9JS4fjfVc3wdZ.jpg",
+        "credit_id": "69ba9cc2335d2408bd2c933f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4150772,
+        "known_for_department": "Sound",
+        "name": "Daniel Futcher",
+        "original_name": "Daniel Futcher",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "69ba9cce16a8024c6c2c92c7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2215,
+        "name": "hurricane"
+      },
+      {
+        "id": 5096,
+        "name": "natural disaster"
+      },
+      {
+        "id": 2988,
+        "name": "shark attack"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      },
+      {
+        "id": 173272,
+        "name": "flood"
+      },
+      {
+        "id": 223059,
+        "name": "animal horror"
+      },
+      {
+        "id": 372141,
+        "name": "family under threat"
+      },
+      {
+        "id": 372553,
+        "name": "unpredictable danger"
+      },
+      {
+        "id": 372554,
+        "name": "life\u2011or\u2011death struggle"
+      },
+      {
+        "id": 372555,
+        "name": "storm threat"
+      },
+      {
+        "id": 372556,
+        "name": "isolated survivors"
+      },
+      {
+        "id": 372557,
+        "name": "fear\u2011driven decisions"
+      },
+      {
+        "id": 372558,
+        "name": "scientific expertise"
+      }
+    ]
+  }
+}

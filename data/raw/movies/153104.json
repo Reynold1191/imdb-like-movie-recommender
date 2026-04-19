@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.incendo.ca/productions/wicked-minds",
+  "id": 153104,
+  "imdb_id": "tt0338556",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wicked Minds",
+  "overview": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
+  "popularity": 14.3698,
+  "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+  "production_companies": [
+    {
+      "id": 7483,
+      "logo_path": null,
+      "name": "Hearst Entertainment Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 51621,
+      "logo_path": null,
+      "name": "JB Media",
+      "origin_country": ""
+    },
+    {
+      "id": 13404,
+      "logo_path": "/4F5RxvJgbVT0vFQHs3IYRPfJvo3.png",
+      "name": "Incendo Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-03-01",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wicked Minds",
+  "video": false,
+  "vote_average": 6.333,
+  "vote_count": 51,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58312,
+        "known_for_department": "Acting",
+        "name": "Angie Everhart",
+        "original_name": "Angie Everhart",
+        "popularity": 0.9765,
+        "profile_path": "/m7sABKY4hQpIgpvoD2GELLNIThk.jpg",
+        "cast_id": 3,
+        "character": "Lana",
+        "credit_id": "52fe4b399251416c910d3afb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134673,
+        "known_for_department": "Acting",
+        "name": "Andrew W. Walker",
+        "original_name": "Andrew W. Walker",
+        "popularity": 0.788,
+        "profile_path": "/iff2n02XlPjZKJrjIoocWcTec7y.jpg",
+        "cast_id": 4,
+        "character": "Holden Price",
+        "credit_id": "52fe4b399251416c910d3aff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92461,
+        "known_for_department": "Acting",
+        "name": "Winston Rekert",
+        "original_name": "Winston Rekert",
+        "popularity": 0.4365,
+        "profile_path": "/edy4AvLc9O51lJ2LOMmCOZFdm7w.jpg",
+        "cast_id": 5,
+        "character": "Mason",
+        "credit_id": "52fe4b399251416c910d3b03",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99185,
+        "known_for_department": "Acting",
+        "name": "Amy Sloan",
+        "original_name": "Amy Sloan",
+        "popularity": 0.6815,
+        "profile_path": "/y1wtmXt4DFQ72lfKnWgDHkfeYBU.jpg",
+        "cast_id": 6,
+        "character": "Nicole",
+        "credit_id": "52fe4b399251416c910d3b07",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135993,
+        "known_for_department": "Acting",
+        "name": "Frank Schorpion",
+        "original_name": "Frank Schorpion",
+        "popularity": 0.4113,
+        "profile_path": "/aYHpKplVgIeuN8VoJq5R1Im9QKi.jpg",
+        "cast_id": 7,
+        "character": "Harry",
+        "credit_id": "52fe4b399251416c910d3b0b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 115592,
+        "known_for_department": "Acting",
+        "name": "Ellen David",
+        "original_name": "Ellen David",
+        "popularity": 0.2437,
+        "profile_path": "/kODfwKI8AD5ZI3Yb9IcAeOxxMKQ.jpg",
+        "cast_id": 8,
+        "character": "Detective Clarkson",
+        "credit_id": "52fe4b399251416c910d3b0f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21291,
+        "known_for_department": "Acting",
+        "name": "Conrad Pla",
+        "original_name": "Conrad Pla",
+        "popularity": 0.4742,
+        "profile_path": "/p09lsBpONGWdapNgbOvjsQokgXU.jpg",
+        "cast_id": 9,
+        "character": "Detective Mormino",
+        "credit_id": "52fe4b399251416c910d3b13",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21293,
+        "known_for_department": "Acting",
+        "name": "Alan Fawcett",
+        "original_name": "Alan Fawcett",
+        "popularity": 0.3699,
+        "profile_path": "/xWfbQTpiOqgrY5dJ52Sx4WO4A66.jpg",
+        "cast_id": 22,
+        "character": "Gerald Sykes",
+        "credit_id": "60e50c8307faa20048614ae0",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 190100,
+        "known_for_department": "Directing",
+        "name": "Jason Hreno",
+        "original_name": "Jason Hreno",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "52fe4b399251416c910d3af1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72445,
+        "known_for_department": "Writing",
+        "name": "Turi Meyer",
+        "original_name": "Turi Meyer",
+        "popularity": 0.4831,
+        "profile_path": null,
+        "credit_id": "52fe4b399251416c910d3af7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1198826,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Simonetta Mariano",
+        "original_name": "Simonetta Mariano",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "credit_id": "62fef877680be8007f61e7e1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590082,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camille Belanger",
+        "original_name": "Camille Belanger",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "62fef88e6aa8e0007a6af463",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2643244,
+        "known_for_department": "Art",
+        "name": "Anne Grenier",
+        "original_name": "Anne Grenier",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "62fef87c680be8008ab2ed8a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1412587,
+        "known_for_department": "Sound",
+        "name": "Louis Gignac",
+        "original_name": "Louis Gignac",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "62fef8aceee186009099951e",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1337310,
+        "known_for_department": "Sound",
+        "name": "Raymond Vermette",
+        "original_name": "Raymond Vermette",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "62fef8a7d55e4d00834d81ee",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1700833,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Martin Lapointe",
+        "original_name": "Martin Lapointe",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "62fef888f8aee8007a46cb61",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52341,
+        "known_for_department": "Production",
+        "name": "Nadia Rona",
+        "original_name": "Nadia Rona",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "5eb0450e0c3ec8001dced882",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 957146,
+        "known_for_department": "Production",
+        "name": "Vera Miller",
+        "original_name": "Vera Miller",
+        "popularity": 0.1321,
+        "profile_path": null,
+        "credit_id": "5eb044f3bf0f63001e7e19ce",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994840,
+        "known_for_department": "Sound",
+        "name": "James Gelfand",
+        "original_name": "James Gelfand",
+        "popularity": 0.0623,
+        "profile_path": "/maMUExFmXxWWZjnAMHF6igEDRhn.jpg",
+        "credit_id": "5eb04532242f94001abdb58b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 946275,
+        "known_for_department": "Production",
+        "name": "Jos\u00e9e Mauffette",
+        "original_name": "Jos\u00e9e Mauffette",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "5eb0469023be460023227d48",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 946274,
+        "known_for_department": "Production",
+        "name": "Jean Bureau",
+        "original_name": "Jean Bureau",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "5eb046610c3ec8001dced96e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1804763,
+        "known_for_department": "Production",
+        "name": "Serge Denis",
+        "original_name": "Serge Denis",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5eb046360c3ec80025cecd8e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368645,
+        "known_for_department": "Camera",
+        "name": "Georges Archambault",
+        "original_name": "Georges Archambault",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5eb0460123be46001b228b2a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72446,
+        "known_for_department": "Writing",
+        "name": "Alfredo Septi\u00e9n",
+        "original_name": "Alfredo Septi\u00e9n",
+        "popularity": 0.256,
+        "profile_path": "/rOJbDVsNp1QtXvjQR4HFqYxLcjg.jpg",
+        "credit_id": "5eb0473723be460023227eaf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 948847,
+        "known_for_department": "Production",
+        "name": "Anne Carlucci",
+        "original_name": "Anne Carlucci",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "5eb0470071f095001daed0d7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31182,
+        "known_for_department": "Editing",
+        "name": "Debra Karen",
+        "original_name": "Debra Karen",
+        "popularity": 0.1032,
+        "profile_path": null,
+        "credit_id": "5eb045610b7316002441667e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2625607,
+        "known_for_department": "Art",
+        "name": "Ghislaine Grenon",
+        "original_name": "Ghislaine Grenon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5eb045c9242f94001abdb5f5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 946274,
+        "known_for_department": "Production",
+        "name": "Jean Bureau",
+        "original_name": "Jean Bureau",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "5eb046c7edeb430023c8f113",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1724964,
+        "known_for_department": "Lighting",
+        "name": "Alex Amyot",
+        "original_name": "Alex Amyot",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "68f3e9419d9abcc79bbaf490",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293479,
+        "known_for_department": "Crew",
+        "name": "Marc D\u00e9sourdy",
+        "original_name": "Marc D\u00e9sourdy",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "68f3e97898feb7ba8000d7cc",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 207818,
+        "known_for_department": "Crew",
+        "name": "Patrick Kerton",
+        "original_name": "Patrick Kerton",
+        "popularity": 0.2225,
+        "profile_path": "/jj9uVCBSSUFvOi663jMbs7YJ3G3.jpg",
+        "credit_id": "68f3e9804296cf24b6f99a3c",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3621997,
+        "known_for_department": "Crew",
+        "name": "Helen Stranzl",
+        "original_name": "Helen Stranzl",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68f3e988fa112c2f448d0141",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708303,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sabin Paradis",
+        "original_name": "Sabin Paradis",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68f3e99d8791be54d700d7d0",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5921,
+        "name": "stepmother"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 14720,
+        "name": "love affair"
+      }
+    ]
+  }
+}

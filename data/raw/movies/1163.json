@@ -1,0 +1,306 @@
+{
+  "adult": false,
+  "backdrop_path": "/zRYuOiYZ8f1u726RtZBnU60LzgS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1163,
+  "imdb_id": "tt0246786",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Miracle Worker",
+  "overview": "Devoted teacher Anne Sullivan leads deaf, blind and mute Helen Keller out of solitude and helps integrate her into the world.",
+  "popularity": 11.1211,
+  "poster_path": "/A0PfwIMM7Mkit0ZoLzspgOWrmsQ.jpg",
+  "production_companies": [
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-11-12",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Miracle Worker",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15674,
+        "known_for_department": "Acting",
+        "name": "Hallie Eisenberg",
+        "original_name": "Hallie Eisenberg",
+        "popularity": 0.9278,
+        "profile_path": "/Ykua6KuOe7knXtrfZHUePy1YnS.jpg",
+        "cast_id": 4,
+        "character": "Helen Keller",
+        "credit_id": "52fe42e9c3a36847f802c1bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15675,
+        "known_for_department": "Acting",
+        "name": "Alison Elliott",
+        "original_name": "Alison Elliott",
+        "popularity": 0.8205,
+        "profile_path": "/vn7cFU2IcTz4C1EQXlf2w0M4Qcq.jpg",
+        "cast_id": 5,
+        "character": "Anne Sullivan",
+        "credit_id": "52fe42e9c3a36847f802c1c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11064,
+        "known_for_department": "Acting",
+        "name": "David Strathairn",
+        "original_name": "David Strathairn",
+        "popularity": 2.1575,
+        "profile_path": "/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg",
+        "cast_id": 6,
+        "character": "Captain Keller",
+        "credit_id": "52fe42e9c3a36847f802c1c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155,
+        "known_for_department": "Acting",
+        "name": "Lucas Black",
+        "original_name": "Lucas Black",
+        "popularity": 2.1606,
+        "profile_path": "/w2oImwC4Y0RDtyvaKGTCFCKsvwh.jpg",
+        "cast_id": 7,
+        "character": "James Keller",
+        "credit_id": "52fe42e9c3a36847f802c1cb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11884,
+        "known_for_department": "Acting",
+        "name": "Kate Greenhouse",
+        "original_name": "Kate Greenhouse",
+        "popularity": 0.3552,
+        "profile_path": "/9rX7nzhgUOHEWlCZq01OE5bPEiB.jpg",
+        "cast_id": 8,
+        "character": "Kate Keller",
+        "credit_id": "52fe42e9c3a36847f802c1cf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16591,
+        "known_for_department": "Acting",
+        "name": "Stewart Arnott",
+        "original_name": "Stewart Arnott",
+        "popularity": 0.2796,
+        "profile_path": "/11yoRN9kamqEoGXtwGHvaeQMaVX.jpg",
+        "cast_id": 9,
+        "character": "Farm Boss",
+        "credit_id": "52fe42e9c3a36847f802c1d3",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15670,
+        "known_for_department": "Writing",
+        "name": "William Gibson",
+        "original_name": "William Gibson",
+        "popularity": 0.2834,
+        "profile_path": null,
+        "credit_id": "52fe42e9c3a36847f802c1b5",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15672,
+        "known_for_department": "Directing",
+        "name": "Nadia Tass",
+        "original_name": "Nadia Tass",
+        "popularity": 0.3173,
+        "profile_path": "/2K9swadhEU3KZUdGqe3eMWVG53L.jpg",
+        "credit_id": "52fe42e9c3a36847f802c1af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15673,
+        "known_for_department": "Writing",
+        "name": "Monte Merrick",
+        "original_name": "Monte Merrick",
+        "popularity": 0.1852,
+        "profile_path": null,
+        "credit_id": "52fe42e9c3a36847f802c1bb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2251961,
+        "known_for_department": "Writing",
+        "name": "Helen Keller",
+        "original_name": "Helen Keller",
+        "popularity": 0.0713,
+        "profile_path": "/5G8f15NosNCNeTW8TZ3qtehWTnb.jpg",
+        "credit_id": "6567cfded95420011b959fba",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15349,
+        "known_for_department": "Editing",
+        "name": "Maryann Brandon",
+        "original_name": "Maryann Brandon",
+        "popularity": 0.1262,
+        "profile_path": "/iO29og3UgVa9Sn4jZG1KpcTBq0a.jpg",
+        "credit_id": "6404b1e5136545008ce9ae5a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414130,
+        "known_for_department": "Camera",
+        "name": "David Parker",
+        "original_name": "David Parker",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "6404b1f4021cee00810e8440",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933574,
+        "known_for_department": "Production",
+        "name": "Donna Rosenstein",
+        "original_name": "Donna Rosenstein",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "6404b30e67dcc900881a4ddc",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397304,
+        "known_for_department": "Production",
+        "name": "Suzy Beugen",
+        "original_name": "Suzy Beugen",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6404b2a7392712008d32ef36",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72615,
+        "known_for_department": "Sound",
+        "name": "William Goldstein",
+        "original_name": "William Goldstein",
+        "popularity": 0.1343,
+        "profile_path": "/d1ESkJb0JQ5YjLB9OzS8O8t6V2c.jpg",
+        "credit_id": "6404b209e61e6d00d5336af5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053,
+        "known_for_department": "Production",
+        "name": "Charles Hirschhorn",
+        "original_name": "Charles Hirschhorn",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "6404b2fe383df200835b6d01",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1074793,
+        "known_for_department": "Visual Effects",
+        "name": "Peter M. Green",
+        "original_name": "Peter M. Green",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "6404b2e3383df200a955320e",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1741,
+        "name": "blindness and impaired vision"
+      },
+      {
+        "id": 2470,
+        "name": "education"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      }
+    ]
+  }
+}

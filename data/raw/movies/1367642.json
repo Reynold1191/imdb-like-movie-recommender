@@ -1,0 +1,770 @@
+{
+  "adult": false,
+  "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.universalpictures.com/movies/reminders-of-him",
+  "id": 1367642,
+  "imdb_id": "tt33714084",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Reminders of Him",
+  "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+  "popularity": 64.1082,
+  "poster_path": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 241073,
+      "logo_path": null,
+      "name": "Heartbones Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 235046,
+      "logo_path": null,
+      "name": "Little Engine Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-11",
+  "revenue": 84168140,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone deserves a second chance.",
+  "title": "Reminders of Him",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 128,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1094091,
+        "known_for_department": "Acting",
+        "name": "Maika Monroe",
+        "original_name": "Maika Monroe",
+        "popularity": 4.9053,
+        "profile_path": "/ir4tct8MyI8cCzufEiLZ3McuUQN.jpg",
+        "cast_id": 7,
+        "character": "Kenna Rowan",
+        "credit_id": "67d9ef3ac8453cd2fb06477e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3052321,
+        "known_for_department": "Acting",
+        "name": "Tyriq Withers",
+        "original_name": "Tyriq Withers",
+        "popularity": 5.2285,
+        "profile_path": "/mAKuI4myaqzM0y8rPNItWXCDo3h.jpg",
+        "cast_id": 10,
+        "character": "Ledger Ward",
+        "credit_id": "67f69a9e1bc639566ad9297f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974046,
+        "known_for_department": "Acting",
+        "name": "Rudy Pankow",
+        "original_name": "Rudy Pankow",
+        "popularity": 1.6294,
+        "profile_path": "/204FlvdJL9mLRkJP1tuJpg01Ml8.jpg",
+        "cast_id": 11,
+        "character": "Scotty Landry",
+        "credit_id": "680003e3c77fd1df74ad009e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11367,
+        "known_for_department": "Acting",
+        "name": "Bradley Whitford",
+        "original_name": "Bradley Whitford",
+        "popularity": 2.3294,
+        "profile_path": "/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg",
+        "cast_id": 14,
+        "character": "Patrick Landry",
+        "credit_id": "681009b7dde6e180f6810667",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16858,
+        "known_for_department": "Acting",
+        "name": "Lauren Graham",
+        "original_name": "Lauren Graham",
+        "popularity": 1.4478,
+        "profile_path": "/3leQVZnthAZwngH7HAD6T7qfsVu.jpg",
+        "cast_id": 12,
+        "character": "Grace Landry",
+        "credit_id": "680a64cd15a1d5a614ab2c4f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4733756,
+        "known_for_department": "Acting",
+        "name": "Zoe Kosovic",
+        "original_name": "Zoe Kosovic",
+        "popularity": 0.3202,
+        "profile_path": "/txYng7NF0ypn9RwYuj424RPNFAn.jpg",
+        "cast_id": 33,
+        "character": "Diem Landry",
+        "credit_id": "68f81fda3cdadbbb70482d81",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3533641,
+        "known_for_department": "Acting",
+        "name": "Nicholas Duvernay",
+        "original_name": "Nicholas Duvernay",
+        "popularity": 1.6016,
+        "profile_path": "/jKJzavBMsmrDIvVymoopxtkKUpi.jpg",
+        "cast_id": 13,
+        "character": "Roman",
+        "credit_id": "680bea012004be93d9aaa5b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87571,
+        "known_for_department": "Acting",
+        "name": "Jennifer Robertson",
+        "original_name": "Jennifer Robertson",
+        "popularity": 0.9388,
+        "profile_path": "/poEzn35CILuG3dtCRrTocU2TC2d.jpg",
+        "cast_id": 31,
+        "character": "Ruth",
+        "credit_id": "68f81f7af96a43a349dbc304",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3785827,
+        "known_for_department": "Acting",
+        "name": "Lainey Wilson",
+        "original_name": "Lainey Wilson",
+        "popularity": 0.7035,
+        "profile_path": "/5bFkESPlURPG76bHTI6XmHyXKTa.jpg",
+        "cast_id": 19,
+        "character": "Amy",
+        "credit_id": "6812525379b159bf6414577e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6051141,
+        "known_for_department": "Acting",
+        "name": "Monika Myers",
+        "original_name": "Monika Myers",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Lady Diana",
+        "credit_id": "69a969a0650f62699cef6b3a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6060846,
+        "known_for_department": "Acting",
+        "name": "Sindhyar Baloch",
+        "original_name": "Sindhyar Baloch",
+        "popularity": 0.0495,
+        "profile_path": "/mnqPH2n1s8Qw2bE5sgL1zrigFBw.jpg",
+        "cast_id": 55,
+        "character": "Robust Teen",
+        "credit_id": "69b06d21a19d885586577338",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1729497,
+        "known_for_department": "Acting",
+        "name": "Jillian Walchuck",
+        "original_name": "Jillian Walchuck",
+        "popularity": 0.1647,
+        "profile_path": "/A5N9LbclVwQQeOFGVcPqLMCizTJ.jpg",
+        "cast_id": 53,
+        "character": "Whitney",
+        "credit_id": "69a969e82ff96cc9b2ef6ae5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456202,
+        "known_for_department": "Acting",
+        "name": "Hilary Jardine",
+        "original_name": "Hilary Jardine",
+        "popularity": 0.9326,
+        "profile_path": "/qIdAaozFRTNEWt8kP4lq7frFTH3.jpg",
+        "cast_id": 32,
+        "character": "Mary Anne",
+        "credit_id": "68f81fba9cf01156bbb90591",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2699358,
+        "known_for_department": "Acting",
+        "name": "Skye MacDonald",
+        "original_name": "Skye MacDonald",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Stacey",
+        "credit_id": "69a96a1ad7fe298accef6c08",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5472114,
+        "known_for_department": "Acting",
+        "name": "Laird Reghenas",
+        "original_name": "Laird Reghenas",
+        "popularity": 0.0261,
+        "profile_path": "/5gKtDtswhgTfywC6n9mRL7YTBwM.jpg",
+        "cast_id": 51,
+        "character": "Gage's Manager",
+        "credit_id": "69a969c353d68558a5509f9b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4042213,
+        "known_for_department": "Acting",
+        "name": "Rick Koy",
+        "original_name": "Rick Koy",
+        "popularity": 0.1396,
+        "profile_path": "/i8mvp0KF4bnPl6HUV5FO8ySB0uk.jpg",
+        "cast_id": 34,
+        "character": "Public Defender",
+        "credit_id": "68f81feb2bade3446c805495",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3804280,
+        "known_for_department": "Acting",
+        "name": "Susan Serrao",
+        "original_name": "Susan Serrao",
+        "popularity": 0.1275,
+        "profile_path": "/mO6OXDg6MjD1cQ8LqbknYquKAPm.jpg",
+        "cast_id": 35,
+        "character": "Madelyn",
+        "credit_id": "68f820379796b88934608fe7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 986372,
+        "known_for_department": "Acting",
+        "name": "Anne Hawthorne",
+        "original_name": "Anne Hawthorne",
+        "popularity": 0.1336,
+        "profile_path": "/dQjCfMt4SLuOhydgpWKpVFIAAm3.jpg",
+        "cast_id": 36,
+        "character": "Mother",
+        "credit_id": "68f8205ac5525e58889d2264",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2498768,
+        "known_for_department": "Acting",
+        "name": "Kevin Corey",
+        "original_name": "Kevin Corey",
+        "popularity": 0.1527,
+        "profile_path": "/9RDhqc0Z1VZKMiaY00ka8Ewg7kw.jpg",
+        "cast_id": 52,
+        "character": "Kev",
+        "credit_id": "69a969d34291fcd8d332a028",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817019,
+        "known_for_department": "Writing",
+        "name": "Colleen Hoover",
+        "original_name": "Colleen Hoover",
+        "popularity": 0.5067,
+        "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+        "credit_id": "67041ca13d7b3c6c07796fd1",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54487,
+        "known_for_department": "Production",
+        "name": "Lauren Levine",
+        "original_name": "Lauren Levine",
+        "popularity": 0.1517,
+        "profile_path": null,
+        "credit_id": "67041d2d508dfa7ba3796b57",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817019,
+        "known_for_department": "Writing",
+        "name": "Colleen Hoover",
+        "original_name": "Colleen Hoover",
+        "popularity": 0.5067,
+        "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+        "credit_id": "67041d37508dfa7ba3796b5a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54487,
+        "known_for_department": "Production",
+        "name": "Lauren Levine",
+        "original_name": "Lauren Levine",
+        "popularity": 0.1517,
+        "profile_path": null,
+        "credit_id": "67041d49a5f29f43a573fb63",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817019,
+        "known_for_department": "Writing",
+        "name": "Colleen Hoover",
+        "original_name": "Colleen Hoover",
+        "popularity": 0.5067,
+        "profile_path": "/1UVLH7yqLcDRQxmWOauVp36stCf.jpg",
+        "credit_id": "67041d50508dfa7ba3796b70",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1579059,
+        "known_for_department": "Directing",
+        "name": "Vanessa Caswill",
+        "original_name": "Vanessa Caswill",
+        "popularity": 0.4188,
+        "profile_path": "/NXSLU0IqoEdFIVtaDaLDqf7TFW.jpg",
+        "credit_id": "67631cd267c96321804a3221",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59963,
+        "known_for_department": "Production",
+        "name": "Gina Matthews",
+        "original_name": "Gina Matthews",
+        "popularity": 0.2676,
+        "profile_path": "/u0MTaTCA2LpOczRvuae0vxRjl86.jpg",
+        "credit_id": "67d9f2ef51163350da914120",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465491,
+        "known_for_department": "Production",
+        "name": "Robin Mulcahy Fisichella",
+        "original_name": "Robin Mulcahy Fisichella",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "67d9f44cc8453cd2fb064977",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485876,
+        "known_for_department": "Camera",
+        "name": "Tim Ives",
+        "original_name": "Tim Ives",
+        "popularity": 0.089,
+        "profile_path": "/cgQkPbS2akrEZlawCi5DN0AkPqs.jpg",
+        "credit_id": "68100a63dde6e180f68106aa",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2412577,
+        "known_for_department": "Production",
+        "name": "Jamie Ember",
+        "original_name": "Jamie Ember",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "68100ae571dedcb8aceb647f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593,
+        "known_for_department": "Production",
+        "name": "Joseph Middleton",
+        "original_name": "Joseph Middleton",
+        "popularity": 0.3656,
+        "profile_path": "/bdvOxdaFMlRbcsaiMSElsn06NpP.jpg",
+        "credit_id": "68100af4ba241d8aea812276",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1345971,
+        "known_for_department": "Directing",
+        "name": "Richard Cowan",
+        "original_name": "Richard Cowan",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "68100b2a0c125a95530fb8e1",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465491,
+        "known_for_department": "Production",
+        "name": "Robin Mulcahy Fisichella",
+        "original_name": "Robin Mulcahy Fisichella",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "68211e7e64e941df734b42e9",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1426735,
+        "known_for_department": "Art",
+        "name": "Paul Healy",
+        "original_name": "Paul Healy",
+        "popularity": 0.2856,
+        "profile_path": null,
+        "credit_id": "6841ce669d1693de237f567b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3295403,
+        "known_for_department": "Production",
+        "name": "Heather Roscorla",
+        "original_name": "Heather Roscorla",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6841ce8c46d574fbc47f55e4",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1626101,
+        "known_for_department": "Sound",
+        "name": "Mike Markiw",
+        "original_name": "Mike Markiw",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "6841ceb0419947f017539681",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807545,
+        "known_for_department": "Camera",
+        "name": "Tim Milligan",
+        "original_name": "Tim Milligan",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "credit_id": "6841ced4c81e2421214562a0",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364109,
+        "known_for_department": "Editing",
+        "name": "Michelle Harrison",
+        "original_name": "Michelle Harrison",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "68c3529fb0bddc46a8248901",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1510995,
+        "known_for_department": "Art",
+        "name": "Francesca Massariol",
+        "original_name": "Francesca Massariol",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "68c3534b23f2e8fbbd2d2de8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2094441,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jayna Mansbridge",
+        "original_name": "Jayna Mansbridge",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c3536bdea0f27472908b4f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447627,
+        "known_for_department": "Lighting",
+        "name": "Martin Keough",
+        "original_name": "Martin Keough",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68c353a6682941f0c92488e0",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1744808,
+        "known_for_department": "Camera",
+        "name": "Chris Chow",
+        "original_name": "Chris Chow",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68c353bdf7167f44762488ec",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546957,
+        "known_for_department": "Production",
+        "name": "Adam McCarthy",
+        "original_name": "Adam McCarthy",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "68f7c7d1d086a6a123861fde",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785135,
+        "known_for_department": "Sound",
+        "name": "Tom Howe",
+        "original_name": "Tom Howe",
+        "popularity": 0.1546,
+        "profile_path": "/87DOUTcZoOZd5m2ewKx1cyROhtD.jpg",
+        "credit_id": "68f825bc5e43da6415cac3b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2100523,
+        "known_for_department": "Acting",
+        "name": "Michelle Faye",
+        "original_name": "Michelle Faye",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "68f912d9f22f7b2563609360",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3068233,
+        "known_for_department": "Lighting",
+        "name": "Connor Couzens",
+        "original_name": "Connor Couzens",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68f91336551ce6e517cac72f",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1966992,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Devora Brown",
+        "original_name": "Devora Brown",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "68f913f5987adfa02fd3bcea",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5765829,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jessica Hayward",
+        "original_name": "Jessica Hayward",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68f914552f7933dc90cac6dd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2726008,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tannis Moore",
+        "original_name": "Tannis Moore",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "68f914b52915e554e4ea1e94",
+        "department": "Costume & Make-Up",
+        "job": "Costume Set Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1016,
+        "name": "wyoming, usa"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 697,
+        "name": "loss of loved one"
+      },
+      {
+        "id": 3398,
+        "name": "release from prison"
+      },
+      {
+        "id": 5477,
+        "name": "mistake"
+      },
+      {
+        "id": 13063,
+        "name": "car accident"
+      },
+      {
+        "id": 34004,
+        "name": "second chance"
+      },
+      {
+        "id": 156121,
+        "name": "ex-con"
+      },
+      {
+        "id": 178364,
+        "name": "child custody"
+      },
+      {
+        "id": 283118,
+        "name": "return to hometown"
+      },
+      {
+        "id": 304976,
+        "name": "romantic drama"
+      },
+      {
+        "id": 361994,
+        "name": "forgiveness and reconciliation"
+      }
+    ]
+  }
+}

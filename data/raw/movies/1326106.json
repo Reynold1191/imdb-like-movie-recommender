@@ -1,0 +1,344 @@
+{
+  "adult": false,
+  "backdrop_path": "/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.crunchyroll.com/watch/GG1UXVQZ3/kaiju-no-8-mission-recon",
+  "id": 1326106,
+  "imdb_id": "tt35636950",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "\u602a\u7363\uff18\u53f7 \u7b2c1\u671f\u7dcf\u96c6\u7de8\uff0f\u540c\u6642\u4e0a\u6620\u300c\u4fdd\u79d1\u306e\u4f11\u65e5\u300d",
+  "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
+  "popularity": 11.408,
+  "poster_path": "/1aEfyTWUK8ZBk4aw7Ck0qEoF8PW.jpg",
+  "production_companies": [
+    {
+      "id": 529,
+      "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+      "name": "Production I.G",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaiju No. 8: Mission Recon",
+  "video": false,
+  "vote_average": 7.965,
+  "vote_count": 86,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2652077,
+        "known_for_department": "Acting",
+        "name": "Masaya Fukunishi",
+        "original_name": "\u798f\u897f\u52dd\u4e5f",
+        "popularity": 1.2841,
+        "profile_path": "/8paIbTobS6266x57pIhJCq3mBJh.jpg",
+        "cast_id": 1,
+        "character": "Kafka Hibino / Kaiju No. 8 (voice)",
+        "credit_id": "67473fcac46ebd1fd4a42eed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410194,
+        "known_for_department": "Acting",
+        "name": "Wataru Katoh",
+        "original_name": "\u52a0\u85e4\u6e09",
+        "popularity": 1.0293,
+        "profile_path": "/7PUe94Ju0klZfEutSSbdOJyaV0y.jpg",
+        "cast_id": 3,
+        "character": "Reno Ichikawa (voice)",
+        "credit_id": "67685d686178fcbbeac4c504",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2359492,
+        "known_for_department": "Acting",
+        "name": "Fairouz Ai",
+        "original_name": "\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044",
+        "popularity": 2.8302,
+        "profile_path": "/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg",
+        "cast_id": 4,
+        "character": "Kikoru Shinomiya (voice)",
+        "credit_id": "67685da773da5bccc5c4c52e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1681,
+        "known_for_department": "Acting",
+        "name": "Tessyo Genda",
+        "original_name": "\u7384\u7530\u54f2\u7ae0",
+        "popularity": 1.9089,
+        "profile_path": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg",
+        "cast_id": 8,
+        "character": "Isao Shinomiya (voice)",
+        "credit_id": "67ec036a30abd41fa942accb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324472,
+        "known_for_department": "Acting",
+        "name": "Kengo Kawanishi",
+        "original_name": "\u6cb3\u897f\u5065\u543e",
+        "popularity": 2.0574,
+        "profile_path": "/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg",
+        "cast_id": 9,
+        "character": "Soshiro Hoshina (voice)",
+        "credit_id": "67ec03a39cbdf6a94af6344d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1555154,
+        "known_for_department": "Acting",
+        "name": "Keisuke Komoto",
+        "original_name": "\u6cb3\u672c\u5553\u4f51",
+        "popularity": 0.7785,
+        "profile_path": "/iFObjSKN6ZXQ4qD2BeaDwVjRtuL.jpg",
+        "cast_id": 10,
+        "character": "Haruichi Izumo (voice)",
+        "credit_id": "67ec03b2ea459c32afdf91ea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225603,
+        "known_for_department": "Acting",
+        "name": "Kenta Miyake",
+        "original_name": "\u4e09\u5b85\u5065\u592a",
+        "popularity": 2.1516,
+        "profile_path": "/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg",
+        "cast_id": 11,
+        "character": "Kaiju No. 10 (voice)",
+        "credit_id": "67ec03c2ea459c32afdf91ef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1407597,
+        "known_for_department": "Acting",
+        "name": "Sayaka Senbongi",
+        "original_name": "\u5343\u672c\u6728\u5f69\u82b1",
+        "popularity": 1.5195,
+        "profile_path": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+        "cast_id": 12,
+        "character": "Konomi Okonogi (voice)",
+        "credit_id": "67ec03d830abd41fa942acf6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254672,
+        "known_for_department": "Acting",
+        "name": "Asami Seto",
+        "original_name": "\u702c\u6238\u9ebb\u6c99\u7f8e",
+        "popularity": 2.1493,
+        "profile_path": "/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg",
+        "cast_id": 13,
+        "character": "Mina Ashiro (voice)",
+        "credit_id": "67ec03e9ea459c32afdf91f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603957,
+        "known_for_department": "Acting",
+        "name": "Yuuki Shin",
+        "original_name": "\u65b0\u7950\u6a39",
+        "popularity": 1.215,
+        "profile_path": "/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg",
+        "cast_id": 18,
+        "character": "Iharu Furuhashi (voice)",
+        "credit_id": "68444e8a63a50f0ede341fd6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563016,
+        "known_for_department": "Acting",
+        "name": "Shunsuke Takeuchi",
+        "original_name": "\u6b66\u5185\u99ff\u8f14",
+        "popularity": 1.4431,
+        "profile_path": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+        "cast_id": 15,
+        "character": "Aoi Kaguragi (voice)",
+        "credit_id": "67ec0412ea459c32afdf920d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225996,
+        "known_for_department": "Acting",
+        "name": "Hiroyuki Yoshino",
+        "original_name": "\u5409\u91ce\u88d5\u884c",
+        "popularity": 1.7225,
+        "profile_path": "/nZQbjjvAjPpjGYenY7kLDtW9e7N.jpg",
+        "cast_id": 16,
+        "character": "Kaiju No. 9 (voice)",
+        "credit_id": "67ec042a110abdc396f6320d",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3650123,
+        "known_for_department": "Writing",
+        "name": "Naoya Matsumoto",
+        "original_name": "\u677e\u672c\u76f4\u4e5f",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67478ccc0938bb2966012c10",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133664,
+        "known_for_department": "Directing",
+        "name": "Shigeyuki Miya",
+        "original_name": "\u5bae\u7e41\u4e4b",
+        "popularity": 0.5764,
+        "profile_path": "/uUuE49cGYG2L6b4Pm3mNqYo8qdO.jpg",
+        "credit_id": "67e42ad7e28af41cfc7658eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1983702,
+        "known_for_department": "Directing",
+        "name": "Tomomi Kamiya",
+        "original_name": "\u795e\u8c37\u53cb\u7f8e",
+        "popularity": 0.6623,
+        "profile_path": null,
+        "credit_id": "67e42b0fa63bcc4997dcaec8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144162,
+        "known_for_department": "Writing",
+        "name": "Ichiro Okouchi",
+        "original_name": "\u5927\u6cb3\u5185\u4e00\u697c",
+        "popularity": 1.4588,
+        "profile_path": "/bOACJgaqncJOSukAAErIlxBOor8.jpg",
+        "credit_id": "67e42b7e7b7313b5aef0ba08",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2496341,
+        "known_for_department": "Sound",
+        "name": "Yuta Bandoh",
+        "original_name": "\u5742\u6771\u7950\u5927",
+        "popularity": 0.1624,
+        "profile_path": null,
+        "credit_id": "67ec04a430abd41fa942ad4a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 11100,
+        "name": "giant monster"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 161791,
+        "name": "kaiju"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 207826,
+        "name": "shounen"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      }
+    ]
+  }
+}

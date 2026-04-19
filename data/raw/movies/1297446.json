@@ -1,0 +1,587 @@
+{
+  "adult": false,
+  "backdrop_path": "/35coF6nTlCHZoBdmH7AJX47RwY9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/slanted",
+  "id": 1297446,
+  "imdb_id": "tt32490110",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Slanted",
+  "overview": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+  "popularity": 10.3125,
+  "poster_path": "/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+  "production_companies": [
+    {
+      "id": 218800,
+      "logo_path": null,
+      "name": "Tideline Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 230183,
+      "logo_path": null,
+      "name": "Mountain Top Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-13",
+  "revenue": 871281,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you can't beat them... be them.",
+  "title": "Slanted",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 20,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1714809,
+        "known_for_department": "Acting",
+        "name": "Shirley Chen",
+        "original_name": "Shirley Chen",
+        "popularity": 0.3782,
+        "profile_path": "/a3ByGjOWXgPpUHNtwKeS31JUWkF.jpg",
+        "cast_id": 3,
+        "character": "Joan Huang",
+        "credit_id": "6657926e7666fb6f3b6bf942",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 7.4418,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "cast_id": 4,
+        "character": "Jo Hunt",
+        "credit_id": "66579277ad5ba9a6c6f8fcd8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3695371,
+        "known_for_department": "Acting",
+        "name": "Amelie Zilber",
+        "original_name": "Amelie Zilber",
+        "popularity": 0.2159,
+        "profile_path": "/fqos1JvA7dhrT0lJySwpJ2FDgtb.jpg",
+        "cast_id": 6,
+        "character": "Olivia Hammond",
+        "credit_id": "665792914bb459d4545efc8f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69033,
+        "known_for_department": "Acting",
+        "name": "Vivian Wu",
+        "original_name": "\u90ac\u541b\u6885",
+        "popularity": 1.6107,
+        "profile_path": "/9eVO9mefla7stKGH67SAqmHyVya.jpg",
+        "cast_id": 7,
+        "character": "Sofia Huang",
+        "credit_id": "665792a17edb9c2708bd16e2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2602879,
+        "known_for_department": "Acting",
+        "name": "Maitreyi Ramakrishnan",
+        "original_name": "Maitreyi Ramakrishnan",
+        "popularity": 7.8742,
+        "profile_path": "/vbqclkSHYDGqu4DDY00AFrI7mYD.jpg",
+        "cast_id": 5,
+        "character": "Brindha",
+        "credit_id": "66579282a9aadc2d322cf91f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2394925,
+        "known_for_department": "Acting",
+        "name": "Fang Du",
+        "original_name": "Fang Du",
+        "popularity": 0.9803,
+        "profile_path": "/n32ujsQclBcCa5oE8yJa3ZPE1n.jpg",
+        "cast_id": 8,
+        "character": "Roger Huang",
+        "credit_id": "665792b0ba4e5a701fc465b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55422,
+        "known_for_department": "Acting",
+        "name": "Elaine Hendrix",
+        "original_name": "Elaine Hendrix",
+        "popularity": 1.3491,
+        "profile_path": "/ajnxlCCO0IYQeaL2KOJwjFWkFG0.jpg",
+        "cast_id": 17,
+        "character": "Harmony",
+        "credit_id": "67916521be9a9aa782777095",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141191,
+        "known_for_department": "Acting",
+        "name": "R. Keith Harris",
+        "original_name": "R. Keith Harris",
+        "popularity": 0.3915,
+        "profile_path": "/5wKHwAqf7c4UYUlTIfu6xjwJ1Jq.jpg",
+        "cast_id": 33,
+        "character": "Willie",
+        "credit_id": "67d4ba0b577665ace5f146bd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1337049,
+        "known_for_department": "Acting",
+        "name": "Megan Hayes",
+        "original_name": "Megan Hayes",
+        "popularity": 0.3487,
+        "profile_path": "/9ooOAAbsKCNEOdKVJNoqBQ81OqK.jpg",
+        "cast_id": 35,
+        "character": "Mrs. Pine",
+        "credit_id": "699711d03f87a3d1cb1ae921",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3645646,
+        "known_for_department": "Acting",
+        "name": "Kristen Cui",
+        "original_name": "Kristen Cui",
+        "popularity": 0.086,
+        "profile_path": "/y0M52MbyWiSuZ9s801kdIwezPmD.jpg",
+        "cast_id": 36,
+        "character": "Young Joan",
+        "credit_id": "699711db18e82e4f816f672f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3227013,
+        "known_for_department": "Acting",
+        "name": "Charlotte Ann Tucker",
+        "original_name": "Charlotte Ann Tucker",
+        "popularity": 0.5995,
+        "profile_path": "/56fIr7bqvuJsZkhoG8nBoo40TzK.jpg",
+        "cast_id": 37,
+        "character": "Young Girl",
+        "credit_id": "699711e23b85058f2f3df53d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1907977,
+        "known_for_department": "Acting",
+        "name": "Britton Webb",
+        "original_name": "Britton Webb",
+        "popularity": 0.2939,
+        "profile_path": "/zDQavU2FBZ3mIEzZkPZNkMHopTO.jpg",
+        "cast_id": 38,
+        "character": "Man With Beard",
+        "credit_id": "699711ef1b9d61da533df503",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1535243,
+        "known_for_department": "Acting",
+        "name": "Callie McClincy",
+        "original_name": "Callie McClincy",
+        "popularity": 0.1352,
+        "profile_path": "/pWSm8nHypY1s0JTnkHOYWIRJenf.jpg",
+        "cast_id": 39,
+        "character": "Cat",
+        "credit_id": "699711f54dc463a6f46f83b6",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4454503,
+        "known_for_department": "Directing",
+        "name": "Amy Wang",
+        "original_name": "Amy Wang",
+        "popularity": 0.1071,
+        "profile_path": "/vDiPkTkRLpjJFihGGa1DsRSF5r0.jpg",
+        "credit_id": "665792673dae1f4e81a52911",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389041,
+        "known_for_department": "Production",
+        "name": "Hannah Pillemer",
+        "original_name": "Hannah Pillemer",
+        "popularity": 0.092,
+        "profile_path": "/g11Od4l8Qa5Jo4ChrMJU01KGpnd.jpg",
+        "credit_id": "665793ac1cf164651593ba67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4454503,
+        "known_for_department": "Directing",
+        "name": "Amy Wang",
+        "original_name": "Amy Wang",
+        "popularity": 0.1071,
+        "profile_path": "/vDiPkTkRLpjJFihGGa1DsRSF5r0.jpg",
+        "credit_id": "6657924386cc2b72df1cf5a6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2619172,
+        "known_for_department": "Crew",
+        "name": "Mark Ankner",
+        "original_name": "Mark Ankner",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "665792d474fb5bc7276bf97e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3625176,
+        "known_for_department": "Production",
+        "name": "Ani Kevork",
+        "original_name": "Ani Kevork",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "665793c851725b351b93bae5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2945353,
+        "known_for_department": "Production",
+        "name": "Tony Vassiliadis",
+        "original_name": "Tony Vassiliadis",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "665793b99cd41b287a93bac0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4454503,
+        "known_for_department": "Directing",
+        "name": "Amy Wang",
+        "original_name": "Amy Wang",
+        "popularity": 0.1071,
+        "profile_path": "/vDiPkTkRLpjJFihGGa1DsRSF5r0.jpg",
+        "credit_id": "665792c92099fcb931e4ea16",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179333,
+        "known_for_department": "Production",
+        "name": "Fernando Szew",
+        "original_name": "Fernando Szew",
+        "popularity": 0.1069,
+        "profile_path": "/7w439CaUYS8MHTqz2jMRes6dzkS.jpg",
+        "credit_id": "6657939586f30717be5efcdd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5296077,
+        "known_for_department": "Production",
+        "name": "Trevor Wall",
+        "original_name": "Trevor Wall",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67cf8ae486fea60ab81dd3c2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856403,
+        "known_for_department": "Camera",
+        "name": "Ed Wu",
+        "original_name": "Ed Wu",
+        "popularity": 0.0404,
+        "profile_path": "/9O7aOZ6pbm8GDwhrs2P6RWCvG3X.jpg",
+        "credit_id": "67cf8ba5434c98c8ec810bb3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1743254,
+        "known_for_department": "Editing",
+        "name": "Ryan Chan",
+        "original_name": "Ryan Chan",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "67cf8bae27c3960c2d1dd385",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1935350,
+        "known_for_department": "Art",
+        "name": "Ying-Te Julie Chen",
+        "original_name": "Ying-Te Julie Chen",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "67cf8bbe434c98c8ec810bca",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2047865,
+        "known_for_department": "Sound",
+        "name": "Shirley Song",
+        "original_name": "Shirley Song",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "67cf8bcf434c98c8ec810bd3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046729,
+        "known_for_department": "Production",
+        "name": "Jessica Kelly",
+        "original_name": "Jessica Kelly",
+        "popularity": 0.3082,
+        "profile_path": null,
+        "credit_id": "67cf8bf513990a058b6073a3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2028806,
+        "known_for_department": "Art",
+        "name": "Kristen Jenkins",
+        "original_name": "Kristen Jenkins",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "67cf8c03ce20cf19726076a9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2853790,
+        "known_for_department": "Art",
+        "name": "Naomi Smith",
+        "original_name": "Naomi Smith",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "67cf8c0c434c98c8ec810bf4",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2745281,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michelle J. Li",
+        "original_name": "Michelle J. Li",
+        "popularity": 0.1235,
+        "profile_path": "/9EMrDDH6Kvqn1jH54YS9WMWv98F.jpg",
+        "credit_id": "67cf8c15434c98c8ec810bfd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4496331,
+        "known_for_department": "Art",
+        "name": "Joyce N. Ho",
+        "original_name": "Joyce N. Ho",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67cf8c39ce20cf19726076da",
+        "department": "Art",
+        "job": "Main Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1729038,
+        "known_for_department": "Lighting",
+        "name": "Jaim O'Neil",
+        "original_name": "Jaim O'Neil",
+        "popularity": 0.2686,
+        "profile_path": null,
+        "credit_id": "67cf8c514bf426c77a1dd958",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286574,
+        "known_for_department": "Sound",
+        "name": "Nathan Ruyle",
+        "original_name": "Nathan Ruyle",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "67cf8c69434c98c8ec810c4d",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286574,
+        "known_for_department": "Sound",
+        "name": "Nathan Ruyle",
+        "original_name": "Nathan Ruyle",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "67cf8c6e434c98c8ec810c50",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286574,
+        "known_for_department": "Sound",
+        "name": "Nathan Ruyle",
+        "original_name": "Nathan Ruyle",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "67cf8c754bf426c77a1dd97f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4390387,
+        "known_for_department": "Editing",
+        "name": "Matt Osborne",
+        "original_name": "Matt Osborne",
+        "popularity": 0.0505,
+        "profile_path": "/gYzNwSaCyRc6onucvFrdoblxTNN.jpg",
+        "credit_id": "689e34e0a100ffff205d266a",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6270,
+        "name": "high school"
+      },
+      {
+        "id": 10266,
+        "name": "prom"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      },
+      {
+        "id": 325849,
+        "name": "sincere"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      }
+    ]
+  }
+}

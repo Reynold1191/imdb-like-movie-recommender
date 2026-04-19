@@ -1,0 +1,218 @@
+{
+  "adult": false,
+  "backdrop_path": "/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81947520",
+  "id": 1487320,
+  "imdb_id": "tt39773309",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "es",
+  "original_title": "El \u00faltimo gigante",
+  "overview": "Follows Boris, a charismatic tour guide who unexpectedly reunites with his estranged father Juli\u00e1n. Their tense and emotional encounters explore past wounds and the possibility of forgiveness.",
+  "popularity": 12.2727,
+  "poster_path": "/lARMzlnHtusEnY8LrTmNID92CJo.jpg",
+  "production_companies": [
+    {
+      "id": 224809,
+      "logo_path": "/9o5HIZxfby42es6BKzsmUcUS42r.png",
+      "name": "Leyenda Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 110888,
+      "logo_path": "/ApVEmLRyrJtQxhIesrXXi2EQfOP.png",
+      "name": "Kuarzo Entertainment Argentina",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Giant Falls",
+  "video": false,
+  "vote_average": 6.889,
+  "vote_count": 18,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457004,
+        "known_for_department": "Acting",
+        "name": "Oscar Mart\u00ednez",
+        "original_name": "Oscar Mart\u00ednez",
+        "popularity": 0.4104,
+        "profile_path": "/t8d1BEV3OEasLnIULbL1oYVIvxa.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "68334b30f14f7406a5837c4c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2483053,
+        "known_for_department": "Acting",
+        "name": "Mat\u00edas Mayer",
+        "original_name": "Mat\u00edas Mayer",
+        "popularity": 0.4636,
+        "profile_path": "/3X0x2MrSI2FBDGyWjPLdOgg41Jd.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "68334b21c4355807d303719b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 932926,
+        "known_for_department": "Acting",
+        "name": "In\u00e9s Est\u00e9vez",
+        "original_name": "In\u00e9s Est\u00e9vez",
+        "popularity": 0.295,
+        "profile_path": "/zV57im2AguAXx42YzIscEXtuaB1.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68334b4807c6e8dc98a87c97",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103431,
+        "known_for_department": "Acting",
+        "name": "Luis Luque",
+        "original_name": "Luis Luque",
+        "popularity": 0.2684,
+        "profile_path": "/aj2TUHR1jdIQLvwt7iorMLbGj6k.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "68334b56440c078c6bb6b321",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933618,
+        "known_for_department": "Acting",
+        "name": "Silvia Kutika",
+        "original_name": "Silvia Kutika",
+        "popularity": 0.1347,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "68334b624ff8cd0fc772fa07",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2482588,
+        "known_for_department": "Acting",
+        "name": "Johanna Francella",
+        "original_name": "Johanna Francella",
+        "popularity": 0.1611,
+        "profile_path": "/e1exwDc2ZJms6LnnuMtanStKz41.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "68334b72dc12b9d267837b5d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694299,
+        "known_for_department": "Acting",
+        "name": "Alexia Moyano",
+        "original_name": "Alexia Moyano",
+        "popularity": 0.1019,
+        "profile_path": "/oXpC3xRnUujZhqs1U59fjHX7pl0.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "69cdefcf111171d2202f6d69",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89575,
+        "known_for_department": "Writing",
+        "name": "Marcos Carnevale",
+        "original_name": "Marcos Carnevale",
+        "popularity": 0.2308,
+        "profile_path": "/2eqOn5QXWwPigQ2IqzX50azerh6.jpg",
+        "credit_id": "68334beb2efd43839f837d05",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89575,
+        "known_for_department": "Writing",
+        "name": "Marcos Carnevale",
+        "original_name": "Marcos Carnevale",
+        "popularity": 0.2308,
+        "profile_path": "/2eqOn5QXWwPigQ2IqzX50azerh6.jpg",
+        "credit_id": "68334bf77cfd4c5e9b0551b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043856,
+        "known_for_department": "Sound",
+        "name": "Iv\u00e1n Wyszogrod",
+        "original_name": "Iv\u00e1n Wyszogrod",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "69cdefe36b3009bdca8fe72a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1311464,
+        "known_for_department": "Camera",
+        "name": "Horacio Maira",
+        "original_name": "Horacio Maira",
+        "popularity": 0.0404,
+        "profile_path": "/jWXpskFTQJ6l8URYcIZB4hGQcR8.jpg",
+        "credit_id": "69cdeff366db6b07da8fe7d2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "adult": false,
+  "backdrop_path": "/tbbyUOh6Jd45hDun3kLyZkCttkI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 64641,
+  "imdb_id": "tt0072062",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La ragazzina",
+  "overview": "Monika is young, beautiful and a virgin. She is only 16 years old, and, beside getting the attention of all her classmates, she also attracts older men. She has a relationship with a boy, Leo, but she doesn't know that he uses to pimp the girls he seduces to rich businessmen. One of Leo's client befriends Monika and becomes so obsessed that he pays Leo to get her. But Monika turns her attention to her art professor, unknowing that he too has his secrets.",
+  "popularity": 13.3369,
+  "poster_path": "/y8Byo8Mwd1a9JwISWLYR0zVxA5.jpg",
+  "production_companies": [
+    {
+      "id": 33834,
+      "logo_path": null,
+      "name": "Seven Stars Cinematografica",
+      "origin_country": ""
+    },
+    {
+      "id": 24244,
+      "logo_path": null,
+      "name": "Roma International Film",
+      "origin_country": ""
+    },
+    {
+      "id": 33835,
+      "logo_path": null,
+      "name": "Screen Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-02-28",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monika",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227317,
+        "known_for_department": "Acting",
+        "name": "Gloria Guida",
+        "original_name": "Gloria Guida",
+        "popularity": 1.7365,
+        "profile_path": "/3h6Qwrp1OOhtUWTka4MhclTOvTa.jpg",
+        "cast_id": 1002,
+        "character": "Monica",
+        "credit_id": "52fe46e2c3a368484e0a90f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236635,
+        "known_for_department": "Acting",
+        "name": "Colette Descombes",
+        "original_name": "Colette Descombes",
+        "popularity": 0.1739,
+        "profile_path": "/11I6Cd11sT103jih52aHdX5CH06.jpg",
+        "cast_id": 1003,
+        "character": "Sandra Moroni",
+        "credit_id": "52fe46e2c3a368484e0a90f7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100682,
+        "known_for_department": "Acting",
+        "name": "Andr\u00e9s Resino",
+        "original_name": "Andr\u00e9s Resino",
+        "popularity": 0.2061,
+        "profile_path": "/rcXYmmww50fduP1FoaIRww3mwLe.jpg",
+        "cast_id": 1004,
+        "character": "Prof. Bruno De Angelis",
+        "credit_id": "52fe46e2c3a368484e0a90fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92827,
+        "known_for_department": "Acting",
+        "name": "Gianluigi Chirizzi",
+        "original_name": "Gianluigi Chirizzi",
+        "popularity": 0.1963,
+        "profile_path": "/7gcZgNBZ4BsheokPJbONEyZgOiJ.jpg",
+        "cast_id": 1005,
+        "character": "Leo",
+        "credit_id": "52fe46e2c3a368484e0a90ff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12003,
+        "known_for_department": "Acting",
+        "name": "Paolo Carlini",
+        "original_name": "Paolo Carlini",
+        "popularity": 0.1475,
+        "profile_path": "/nz4Xzsyng0mfKuQK4I1aFsAmeIj.jpg",
+        "cast_id": 1014,
+        "character": "Avv. Massimo Moroni",
+        "credit_id": "575b1d529251412a010005c1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633582,
+        "known_for_department": "Acting",
+        "name": "Lucia Catullo",
+        "original_name": "Lucia Catullo",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 1015,
+        "character": "",
+        "credit_id": "575b1d6092514126fa000626",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633583,
+        "known_for_department": "Acting",
+        "name": "Gianni Bortolotti",
+        "original_name": "Gianni Bortolotti",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 1016,
+        "character": "",
+        "credit_id": "575b1d6d92514126fa00062d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633584,
+        "known_for_department": "Acting",
+        "name": "Piera Vidale",
+        "original_name": "Piera Vidale",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 1017,
+        "character": "",
+        "credit_id": "575b1d75c3a36851bf0005f5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633585,
+        "known_for_department": "Acting",
+        "name": "Umberto Scaglione",
+        "original_name": "Umberto Scaglione",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 1018,
+        "character": "",
+        "credit_id": "575b1d82c3a368547c00064d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633586,
+        "known_for_department": "Acting",
+        "name": "Sonia Burton",
+        "original_name": "Sonia Burton",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 1019,
+        "character": "",
+        "credit_id": "575b1d929251412707000645",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239479,
+        "known_for_department": "Writing",
+        "name": "Mario Imperoli",
+        "original_name": "Mario Imperoli",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "52fe46e2c3a368484e0a90ef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239479,
+        "known_for_department": "Writing",
+        "name": "Mario Imperoli",
+        "original_name": "Mario Imperoli",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "542252acc3a368088700097a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223399,
+        "known_for_department": "Writing",
+        "name": "Arpad De Riso",
+        "original_name": "Arpad De Riso",
+        "popularity": 0.1236,
+        "profile_path": null,
+        "credit_id": "542252bbc3a3680872000a92",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291724,
+        "known_for_department": "Writing",
+        "name": "Giovanni Scolaro",
+        "original_name": "Giovanni Scolaro",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "542252c7c3a368086e000a11",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367073,
+        "known_for_department": "Writing",
+        "name": "Alberto Piferi",
+        "original_name": "Alberto Piferi",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "542252e7c3a368087d000aaf",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239479,
+        "known_for_department": "Writing",
+        "name": "Mario Imperoli",
+        "original_name": "Mario Imperoli",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "542252d5c3a368087a000a0b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367891,
+        "known_for_department": "Sound",
+        "name": "Giacomo Dell'Orso",
+        "original_name": "Giacomo Dell'Orso",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "56af850c92514101f60000d2",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 53189,
+        "known_for_department": "Sound",
+        "name": "Nico Fidenco",
+        "original_name": "Nico Fidenco",
+        "popularity": 0.0,
+        "profile_path": "/5irwouPrBT8GLMuCnXRHh5FYcpV.jpg",
+        "credit_id": "56fc0eaec3a36808c20031c7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5594038,
+        "known_for_department": "Crew",
+        "name": "Alvaro Pianezzi",
+        "original_name": "Alvaro Pianezzi",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6888f511e69efef027ed0117",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 13059,
+        "name": "prostitution"
+      },
+      {
+        "id": 178649,
+        "name": "voyeurism"
+      },
+      {
+        "id": 190370,
+        "name": "erotic movie"
+      }
+    ]
+  }
+}

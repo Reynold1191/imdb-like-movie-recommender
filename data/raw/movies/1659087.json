@@ -1,0 +1,270 @@
+{
+  "adult": false,
+  "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81684455",
+  "id": 1659087,
+  "imdb_id": "tt40891145",
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_title": "180",
+  "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
+  "popularity": 59.8316,
+  "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+  "production_companies": [
+    {
+      "id": 257524,
+      "logo_path": null,
+      "name": "Ten30 Pictures",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2026-04-16",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tswana",
+      "iso_639_1": "tn",
+      "name": ""
+    },
+    {
+      "english_name": "Xhosa",
+      "iso_639_1": "xh",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "180",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4098844,
+        "known_for_department": "Acting",
+        "name": "Prince Grootboom",
+        "original_name": "Prince Grootboom",
+        "popularity": 0.7167,
+        "profile_path": "/q0mimF5YqWzROTbEc0y9WZPQeLT.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "69c6eb69320b887247537825",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3133906,
+        "known_for_department": "Acting",
+        "name": "Noxolo Dlamini",
+        "original_name": "Noxolo Dlamini",
+        "popularity": 0.2786,
+        "profile_path": "/65IrMfqkixKnIcrNvv2MUd650QK.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69c6eb84320b887247537843",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3791829,
+        "known_for_department": "Acting",
+        "name": "Danica De La Rey",
+        "original_name": "Danica De La Rey",
+        "popularity": 0.2979,
+        "profile_path": "/fTtueFonjxAmx7GgegKpLcpnNTW.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "69e0f23a2678654715b7ffcf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282129,
+        "known_for_department": "Acting",
+        "name": "Warren Masemola",
+        "original_name": "Warren Masemola",
+        "popularity": 0.3271,
+        "profile_path": "/xQykZ5j99uX6SJXKWLZfaoKiQV.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "69c6ec0821734baf2d576838",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2602,
+        "known_for_department": "Acting",
+        "name": "Desmond Dube",
+        "original_name": "Desmond Dube",
+        "popularity": 0.3798,
+        "profile_path": "/pFp0HfE1Bhg4dHA6RIKvmcLzdHA.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "69c6ec2178ce67755991ba4f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2607,
+        "known_for_department": "Acting",
+        "name": "Fana Mokoena",
+        "original_name": "Fana Mokoena",
+        "popularity": 2.9043,
+        "profile_path": "/4D3VeFLmTWoBilKDeNotchnrYqk.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "69c6ec359c234c0f2c91ba5e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1760872,
+        "known_for_department": "Acting",
+        "name": "Kabelo Thai",
+        "original_name": "Kabelo Thai",
+        "popularity": 0.0357,
+        "profile_path": "/xnfnSnazAIXT3SImqRhJKcgSaOT.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "69c6ec567317cdda5af6a6bc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1782302,
+        "known_for_department": "Acting",
+        "name": "Bongile Mantsai",
+        "original_name": "Bongile Mantsai",
+        "popularity": 0.1476,
+        "profile_path": "/buBvYeD3fmdmX1DsFfhwNXt4U7J.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "69c6ec6de6e55aeaf891ba52",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2446839,
+        "known_for_department": "Acting",
+        "name": "Zenobia Kloppers",
+        "original_name": "Zenobia Kloppers",
+        "popularity": 0.0709,
+        "profile_path": "/36f0ulTpYNHPjkbqPkgGOQQEQnP.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "69c6ec90ec964b4d5591ba57",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211676,
+        "known_for_department": "Acting",
+        "name": "Makhaola Ndebele",
+        "original_name": "Makhaola Ndebele",
+        "popularity": 0.0714,
+        "profile_path": "/4o37GivkVIJdaNWD0BsWXzYGcVc.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "69c6eca9ec964b4d5591ba5e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658635,
+        "known_for_department": "Acting",
+        "name": "Mpiloenhle Sithebe",
+        "original_name": "Mpiloenhle Sithebe",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "69c6eccbf1b702efc77a46e1",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921699,
+        "known_for_department": "Directing",
+        "name": "Alex Yazbek",
+        "original_name": "Alex Yazbek",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "credit_id": "69c6eb0921734baf2d576832",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921699,
+        "known_for_department": "Directing",
+        "name": "Alex Yazbek",
+        "original_name": "Alex Yazbek",
+        "popularity": 0.5298,
+        "profile_path": null,
+        "credit_id": "69c6eb3fa129968a277a46d9",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9748,
+        "name": "revenge"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/vCL2IjPSVpM2AaDhAk7TCeY2IJg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1646142,
+  "imdb_id": "tt25967234",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Terrestrial",
+  "overview": "",
+  "popularity": 10.3195,
+  "poster_path": "/g4PBZlyVm2cWgL4jAy7WKEblB4t.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-10-13",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Terrestrial",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6048826,
+        "known_for_department": "Acting",
+        "name": "Dane-randall bacon",
+        "original_name": "Dane-randall bacon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Jayden",
+        "credit_id": "69a805b674f1c21516b6d4dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4514731,
+        "known_for_department": "Production",
+        "name": "Deena Bacon",
+        "original_name": "Deena Bacon",
+        "popularity": 0.0261,
+        "profile_path": "/2wZlUJHvZ7QSdipgKe7sbYczqcv.jpg",
+        "cast_id": 2,
+        "character": "Kitchie",
+        "credit_id": "69a805e290a15d085208080e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3098427,
+        "known_for_department": "Acting",
+        "name": "Randall J. Bacon",
+        "original_name": "Randall J. Bacon",
+        "popularity": 0.2012,
+        "profile_path": "/6udR5ntbDRJ5aGNqrA6P9IPjq8G.jpg",
+        "cast_id": 3,
+        "character": "Grady",
+        "credit_id": "69a80608ba988f2190964ab6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6048835,
+        "known_for_department": "Acting",
+        "name": "Rayden Bacon",
+        "original_name": "Rayden Bacon",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Bailey",
+        "credit_id": "69a8062f3f44177c80097a07",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1985991,
+        "known_for_department": "Acting",
+        "name": "Derek Bega",
+        "original_name": "Derek Bega",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Bob the Bus Driver",
+        "credit_id": "69a806a55c27b46aac3d1835",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111451,
+        "known_for_department": "Acting",
+        "name": "Matt Corboy",
+        "original_name": "Matt Corboy",
+        "popularity": 0.3378,
+        "profile_path": "/hkyyIuwqN6AqLZj6YHUPfYa2EKF.jpg",
+        "cast_id": 6,
+        "character": "Mr. Corren",
+        "credit_id": "69a806f4066de494576630de",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1968825,
+        "known_for_department": "Acting",
+        "name": "Alex Farnham",
+        "original_name": "Alex Farnham",
+        "popularity": 0.0821,
+        "profile_path": "/egoG7DvpvQMbJa8ZfQwxRG3MnFD.jpg",
+        "cast_id": 7,
+        "character": "Dave",
+        "credit_id": "69a807453818331d97080777",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1487978,
+        "known_for_department": "Acting",
+        "name": "Kassem Gharaibeh",
+        "original_name": "Kassem Gharaibeh",
+        "popularity": 0.138,
+        "profile_path": "/uFnvIZVCgzSmpZh7piMt4859674.jpg",
+        "cast_id": 8,
+        "character": "Nick",
+        "credit_id": "69a807eaffb699c2ab964bbd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6048844,
+        "known_for_department": "Acting",
+        "name": "Peter Gilroy",
+        "original_name": "Peter Gilroy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Thomas",
+        "credit_id": "69a8086bb9b6cccb33097937",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1968825,
+        "known_for_department": "Acting",
+        "name": "Alex Farnham",
+        "original_name": "Alex Farnham",
+        "popularity": 0.0821,
+        "profile_path": "/egoG7DvpvQMbJa8ZfQwxRG3MnFD.jpg",
+        "credit_id": "69a808f731f98122187500be",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

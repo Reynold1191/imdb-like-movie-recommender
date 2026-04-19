@@ -1,0 +1,703 @@
+{
+  "adult": false,
+  "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.theexchange.ws/portfolio/world-breaker/",
+  "id": 1196067,
+  "imdb_id": "tt14264694",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Worldbreaker",
+  "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+  "popularity": 22.1529,
+  "poster_path": "/4xx25oYs08myEelHiSbOuVi80Ki.jpg",
+  "production_companies": [
+    {
+      "id": 104678,
+      "logo_path": "/kdFFpWu5r2ziY9xXPrqhiWS9id8.png",
+      "name": "23ten",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 168295,
+      "logo_path": "/jy0UTvGugWYsUYJb7ISk5qd0fvo.png",
+      "name": "Studio507",
+      "origin_country": "US"
+    },
+    {
+      "id": 15465,
+      "logo_path": "/391VF4wQ568eSBChoPbgWBVByfl.png",
+      "name": "Amasia Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-30",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The future belongs to those who fight.",
+  "title": "Worldbreaker",
+  "video": false,
+  "vote_average": 5.948,
+  "vote_count": 135,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63,
+        "known_for_department": "Acting",
+        "name": "Milla Jovovich",
+        "original_name": "Milla Jovovich",
+        "popularity": 5.6527,
+        "profile_path": "/usWnHCzbADijULREZYSJ0qfM00y.jpg",
+        "cast_id": 9,
+        "character": "Mom",
+        "credit_id": "6948a12186c6d003b67ac18c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114019,
+        "known_for_department": "Acting",
+        "name": "Luke Evans",
+        "original_name": "Luke Evans",
+        "popularity": 2.5203,
+        "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+        "cast_id": 10,
+        "character": "Dad",
+        "credit_id": "6948a12a89e2aa8f550734e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2667928,
+        "known_for_department": "Acting",
+        "name": "Billie Boullet",
+        "original_name": "Billie Boullet",
+        "popularity": 0.4699,
+        "profile_path": "/x6Xs4CFBiYzBP6zP7uElmtyx1b5.jpg",
+        "cast_id": 22,
+        "character": "Willa",
+        "credit_id": "694f69574d7877550afb1061",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 956385,
+        "known_for_department": "Acting",
+        "name": "Meadow Williams",
+        "original_name": "Meadow Williams",
+        "popularity": 0.7127,
+        "profile_path": "/iECIpEM4BWt94kvOMKFJqv5uJEU.jpg",
+        "cast_id": 11,
+        "character": "Soldier #1",
+        "credit_id": "6948a13753a825795c1553b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3214361,
+        "known_for_department": "Acting",
+        "name": "Mila Harris",
+        "original_name": "Mila Harris",
+        "popularity": 0.3957,
+        "profile_path": "/10BSVhLPqosSBsOgp0L7qaU0Uhi.jpg",
+        "cast_id": 12,
+        "character": "Rosie",
+        "credit_id": "6948a14089e2aa8f550734ee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5287221,
+        "known_for_department": "Acting",
+        "name": "Kevin Glynn",
+        "original_name": "Kevin Glynn",
+        "popularity": 0.095,
+        "profile_path": "/jIQk6lFQ0FOg5piKabufRHfSxNc.jpg",
+        "cast_id": 14,
+        "character": "The Man",
+        "credit_id": "6948a15ea79d0063cd7ac15e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412148,
+        "known_for_department": "Acting",
+        "name": "Chris Finlayson",
+        "original_name": "Chris Finlayson",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Kodiak",
+        "credit_id": "6948a16fa1b37fcb9ab1cb37",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3623343,
+        "known_for_department": "Acting",
+        "name": "Charis Agbonlahor",
+        "original_name": "Charis Agbonlahor",
+        "popularity": 0.1177,
+        "profile_path": "/88oT1GWOdX64qqJnl247TsL5WG8.jpg",
+        "cast_id": 16,
+        "character": "Evac Soldier",
+        "credit_id": "6948a17f4671fb7c99b1cacf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4896386,
+        "known_for_department": "Acting",
+        "name": "Laura Dee",
+        "original_name": "Laura Dee",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Evacuee",
+        "credit_id": "6948a18d7adf357b4e155441",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3744336,
+        "known_for_department": "Acting",
+        "name": "Steven Calvert",
+        "original_name": "Steven Calvert",
+        "popularity": 0.0363,
+        "profile_path": "/khzZaa3fZtWIgPe2kjpYiK0e97d.jpg",
+        "cast_id": 18,
+        "character": "Infected Soldier",
+        "credit_id": "6948a19d6d621584d07ac0d0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5891624,
+        "known_for_department": "Acting",
+        "name": "Nathan Ward",
+        "original_name": "Nathan Ward",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Hybrid",
+        "credit_id": "6948a1c6b426a6bc67155544",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044684,
+        "known_for_department": "Production",
+        "name": "Martin Brennan",
+        "original_name": "Martin Brennan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65393967fd140b00fe22fbe7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37948,
+        "known_for_department": "Directing",
+        "name": "Brad Anderson",
+        "original_name": "Brad Anderson",
+        "popularity": 0.6422,
+        "profile_path": "/4XCOsnXocIsOTLdVjktj3gqTu2b.jpg",
+        "credit_id": "65393929ec455200ab8905d4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674439,
+        "known_for_department": "Acting",
+        "name": "Joshua Rollins",
+        "original_name": "Joshua Rollins",
+        "popularity": 0.2831,
+        "profile_path": "/kb1ZhbjNB6LNLzEic8e1PndmVV1.jpg",
+        "credit_id": "65393946ec4552010b3ac3e4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203978,
+        "known_for_department": "Editing",
+        "name": "Brian Philip Davis",
+        "original_name": "Brian Philip Davis",
+        "popularity": 0.0589,
+        "profile_path": "/g68vSoPLqbDY3mX7c5UaNOAUd2t.jpg",
+        "credit_id": "662b778c175051011c78e01e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71277,
+        "known_for_department": "Camera",
+        "name": "Daniel Arany\u00f3",
+        "original_name": "Daniel Arany\u00f3",
+        "popularity": 0.1672,
+        "profile_path": "/2rn3771IGqFb5NnlAQOgpfssyxz.jpg",
+        "credit_id": "6948a2093739bb00c62fc0a5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315971,
+        "known_for_department": "Sound",
+        "name": "Matthew Rogers",
+        "original_name": "Matthew Rogers",
+        "popularity": 0.1005,
+        "profile_path": "/8SUjTYjRwldhhe8Tc7TT9BVOJnd.jpg",
+        "credit_id": "694ac401958d552c457ac9b0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615141,
+        "known_for_department": "Art",
+        "name": "John Leslie",
+        "original_name": "John Leslie",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "695206f4f2fce17b29d7981e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2998713,
+        "known_for_department": "Art",
+        "name": "Simon Baxter",
+        "original_name": "Simon Baxter",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "69520709cd4b4945b988debd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1353256,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Susan Scott",
+        "original_name": "Susan Scott",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6952071d806ae764cf74e4de",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1311618,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Polly McKay",
+        "original_name": "Polly McKay",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6952075325901e7d0e70f95c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1311618,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Polly McKay",
+        "original_name": "Polly McKay",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6952075f0490fb474774e410",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3899966,
+        "known_for_department": "Production",
+        "name": "Harry Ahluwalia",
+        "original_name": "Harry Ahluwalia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "695209b81ae704f54d7c732c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658456,
+        "known_for_department": "Production",
+        "name": "Alastair Burlingham",
+        "original_name": "Alastair Burlingham",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "695209c91f7f558045e41538",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3560353,
+        "known_for_department": "Production",
+        "name": "Ford Corbett",
+        "original_name": "Ford Corbett",
+        "popularity": 0.1254,
+        "profile_path": null,
+        "credit_id": "695209d669f1e6880c74e371",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4420945,
+        "known_for_department": "Production",
+        "name": "Jatin Desai",
+        "original_name": "Jatin Desai",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "695209e0e4d7d287f5c37a7a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4112197,
+        "known_for_department": "Production",
+        "name": "Greg Friedman",
+        "original_name": "Greg Friedman",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "695209ee272bd61a8670f77e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1160627,
+        "known_for_department": "Production",
+        "name": "Bradley Gallo",
+        "original_name": "Bradley Gallo",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "credit_id": "69520a01f4f5338a1cc37b05",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4534590,
+        "known_for_department": "Production",
+        "name": "Joshua Harris",
+        "original_name": "Joshua Harris",
+        "popularity": 0.0071,
+        "profile_path": "/rCyJK2Pp8UUaxIYRIRxZ0P3Ri1s.jpg",
+        "credit_id": "69520a137601a5318388dfd0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 62143,
+        "known_for_department": "Production",
+        "name": "Michael A. Helfant",
+        "original_name": "Michael A. Helfant",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "credit_id": "69520a287601a5318388dfd3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2618312,
+        "known_for_department": "Production",
+        "name": "Nathan Klingher",
+        "original_name": "Nathan Klingher",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "69520a4566cca98c6a88df96",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1768046,
+        "known_for_department": "Production",
+        "name": "Nat McCormick",
+        "original_name": "Nat McCormick",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "credit_id": "69520a5666cca98c6a88df99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1655884,
+        "known_for_department": "Production",
+        "name": "Tracy Mercer",
+        "original_name": "Tracy Mercer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69520a6208f7423875e41363",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4833507,
+        "known_for_department": "Production",
+        "name": "Ari Novak",
+        "original_name": "Ari Novak",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69520a795c26d942aa70f7ef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615303,
+        "known_for_department": "Production",
+        "name": "Brian O'Shea",
+        "original_name": "Brian O'Shea",
+        "popularity": 0.2193,
+        "profile_path": null,
+        "credit_id": "69520a870cf7610cedcbd37c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20515,
+        "known_for_department": "Production",
+        "name": "Jib Polhemus",
+        "original_name": "Jib Polhemus",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "69520a97a9d9a4e3c574e3d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5904336,
+        "known_for_department": "Production",
+        "name": "Scott Powell",
+        "original_name": "Scott Powell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69520ae4e4e2030ab7d79786",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 568318,
+        "known_for_department": "Production",
+        "name": "Jijo Reed",
+        "original_name": "Jijo Reed",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "69520aeeb00bf43c4e7c7336",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316587,
+        "known_for_department": "Production",
+        "name": "Orly Sitowitz",
+        "original_name": "Orly Sitowitz",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "69520afc90b1567a4bc37a31",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1728038,
+        "known_for_department": "Production",
+        "name": "Carla Stronge",
+        "original_name": "Carla Stronge",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "credit_id": "69520b0d198abab033d799a7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578991,
+        "known_for_department": "Sound",
+        "name": "Sebasti\u00e1n Sonzogni",
+        "original_name": "Sebasti\u00e1n Sonzogni",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69520b3d873cb5cf287c7301",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3764563,
+        "known_for_department": "Crew",
+        "name": "Sean Condren",
+        "original_name": "Sean Condren",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "69520b5969f1e6880c74e380",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330110,
+        "known_for_department": "Crew",
+        "name": "Joe Condren",
+        "original_name": "Joe Condren",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "69520b676ff20316ce70f730",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1299,
+        "name": "monster"
+      },
+      {
+        "id": 2210,
+        "name": "climate change"
+      },
+      {
+        "id": 5769,
+        "name": "global warming"
+      },
+      {
+        "id": 324739,
+        "name": "environmental collapse"
+      },
+      {
+        "id": 348204,
+        "name": "dystopian"
+      },
+      {
+        "id": 360436,
+        "name": "unknown danger"
+      },
+      {
+        "id": 372146,
+        "name": "family survival"
+      },
+      {
+        "id": 372594,
+        "name": "looming catastrophe"
+      },
+      {
+        "id": 372595,
+        "name": "parental protection"
+      },
+      {
+        "id": 372596,
+        "name": "apocalyptic tone"
+      }
+    ]
+  }
+}

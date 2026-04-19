@@ -1,0 +1,813 @@
+{
+  "adult": false,
+  "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+  "belongs_to_collection": null,
+  "budget": 73000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81768525",
+  "id": 1265609,
+  "imdb_id": "tt15940132",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "War Machine",
+  "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+  "popularity": 102.4893,
+  "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 198785,
+      "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+      "name": "Hidden Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 224643,
+      "logo_path": null,
+      "name": "Huge Film",
+      "origin_country": "AU"
+    },
+    {
+      "id": 167684,
+      "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+      "name": "Range Media Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-12",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All grit. No quit.",
+  "title": "War Machine",
+  "video": false,
+  "vote_average": 7.248,
+  "vote_count": 1465,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64295,
+        "known_for_department": "Acting",
+        "name": "Alan Ritchson",
+        "original_name": "Alan Ritchson",
+        "popularity": 7.0551,
+        "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+        "cast_id": 1,
+        "character": "81",
+        "credit_id": "66047a1ed7f4650163db1e85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6065,
+        "known_for_department": "Acting",
+        "name": "Dennis Quaid",
+        "original_name": "Dennis Quaid",
+        "popularity": 3.0399,
+        "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+        "cast_id": 11,
+        "character": "Army Sgt Maj Sheridan",
+        "credit_id": "66df56b18a9f03318c49b975",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388314,
+        "known_for_department": "Acting",
+        "name": "Stephan James",
+        "original_name": "Stephan James",
+        "popularity": 0.7602,
+        "profile_path": "/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg",
+        "cast_id": 12,
+        "character": "7",
+        "credit_id": "66df56c3e050095491c267bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224181,
+        "known_for_department": "Acting",
+        "name": "Jai Courtney",
+        "original_name": "Jai Courtney",
+        "popularity": 1.9564,
+        "profile_path": "/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg",
+        "cast_id": 13,
+        "character": "Class President",
+        "credit_id": "66df56c88098633ddfee72e2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65344,
+        "known_for_department": "Acting",
+        "name": "Esai Morales",
+        "original_name": "Esai Morales",
+        "popularity": 1.4936,
+        "profile_path": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg",
+        "cast_id": 14,
+        "character": "Army Officer Torres",
+        "credit_id": "66df56cd7e9d1f3074493eb7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4377249,
+        "known_for_department": "Acting",
+        "name": "Blake Richardson",
+        "original_name": "Blake Richardson",
+        "popularity": 0.1507,
+        "profile_path": "/58QVBtwjZODn9FGighvL94pgmsH.jpg",
+        "cast_id": 56,
+        "character": "15",
+        "credit_id": "69aada0efbb8a399308785c8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251875,
+        "known_for_department": "Acting",
+        "name": "Keiynan Lonsdale",
+        "original_name": "Keiynan Lonsdale",
+        "popularity": 0.9957,
+        "profile_path": "/lSIKty1Y8JLIE4aqL6VmZYx0JEB.jpg",
+        "cast_id": 16,
+        "character": "60",
+        "credit_id": "66df57028a9f03318c49b980",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5208267,
+        "known_for_department": "Acting",
+        "name": "Jack Patten",
+        "original_name": "Jack Patten",
+        "popularity": 0.1554,
+        "profile_path": "/sIE11wI7czGjYCUOlEKqXguIdsl.jpg",
+        "cast_id": 23,
+        "character": "109",
+        "credit_id": "679867bdba4f941f448f2b09",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1925382,
+        "known_for_department": "Acting",
+        "name": "Joshua Diaz",
+        "original_name": "Joshua Diaz",
+        "popularity": 0.3051,
+        "profile_path": "/dhqnloyyBe6iV4wbBiadLBgzgLt.jpg",
+        "cast_id": 25,
+        "character": "96",
+        "credit_id": "691a52b40b7ecf25d181be83",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3788309,
+        "known_for_department": "Acting",
+        "name": "Heather Burridge",
+        "original_name": "Heather Burridge",
+        "popularity": 0.6246,
+        "profile_path": "/q7hFhBMsI89FfuZJwTTGjAOCtZs.jpg",
+        "cast_id": 27,
+        "character": "122",
+        "credit_id": "691a532c8d7369a98a609525",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234548,
+        "known_for_department": "Acting",
+        "name": "Daniel Webber",
+        "original_name": "Daniel Webber",
+        "popularity": 1.219,
+        "profile_path": "/ldOZipwbPQP7AXoQTQHXQymwu9q.jpg",
+        "cast_id": 26,
+        "character": "57",
+        "credit_id": "691a52e0117c0e47d2175b2d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1522920,
+        "known_for_department": "Acting",
+        "name": "Matt Testro",
+        "original_name": "Matt Testro",
+        "popularity": 0.2293,
+        "profile_path": "/tg1JYlDK94uYjBngyH2LQm04YU3.jpg",
+        "cast_id": 29,
+        "character": "38",
+        "credit_id": "691a534db8c0eb9c8752e745",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143059,
+        "known_for_department": "Directing",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.5446,
+        "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+        "cast_id": 53,
+        "character": "Master Sergeant Hughes (Blackhawk)",
+        "credit_id": "69aab8f3f7801d38caa58c5a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4099372,
+        "known_for_department": "Acting",
+        "name": "Alex King",
+        "original_name": "Alex King",
+        "popularity": 0.0801,
+        "profile_path": "/D8J38ItNO357JpJOsnjwdSnh8A.jpg",
+        "cast_id": 57,
+        "character": "44",
+        "credit_id": "69ac8c293b2392e71979f8dc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3047382,
+        "known_for_department": "Acting",
+        "name": "Victory Ndukwe",
+        "original_name": "Victory Ndukwe",
+        "popularity": 0.0306,
+        "profile_path": "/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg",
+        "cast_id": 28,
+        "character": "135",
+        "credit_id": "691a533d0f4f416acc0b5b63",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6079203,
+        "known_for_department": "Acting",
+        "name": "Richard Cotta",
+        "original_name": "Richard Cotta",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "13",
+        "credit_id": "69ba06a2afbe36128908fe25",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6079217,
+        "known_for_department": "Acting",
+        "name": "Will Curtin",
+        "original_name": "Will Curtin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "42",
+        "credit_id": "69ba076c0b31e3430621e798",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143059,
+        "known_for_department": "Directing",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.5446,
+        "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+        "credit_id": "66047a47aafebd014816f372",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143059,
+        "known_for_department": "Directing",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.5446,
+        "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+        "credit_id": "66047a4efcec2e0186c3dfc6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62758,
+        "known_for_department": "Production",
+        "name": "Todd Lieberman",
+        "original_name": "Todd Lieberman",
+        "popularity": 0.3519,
+        "profile_path": "/mz9J5YIdMUe8i7VoIu5Fy0svgP5.jpg",
+        "credit_id": "66047a67aafebd0187170122",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143059,
+        "known_for_department": "Directing",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.5446,
+        "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+        "credit_id": "66047ab0d400f301638f7ac7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217765,
+        "known_for_department": "Acting",
+        "name": "James Beaufort",
+        "original_name": "James Beaufort",
+        "popularity": 0.306,
+        "profile_path": "/7CC5blDvn1tRoVoVW0ZPASepf23.jpg",
+        "credit_id": "66047cda95665801617da3cb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143059,
+        "known_for_department": "Directing",
+        "name": "Patrick Hughes",
+        "original_name": "Patrick Hughes",
+        "popularity": 0.5446,
+        "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+        "credit_id": "66049998d7f465017cdb3038",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1733511,
+        "known_for_department": "Production",
+        "name": "Valerie Bleth Sharp",
+        "original_name": "Valerie Bleth Sharp",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "credit_id": "66e34c7e0000000000b95998",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683351,
+        "known_for_department": "Directing",
+        "name": "Nick Satriano",
+        "original_name": "Nick Satriano",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "676a052e9348daa54ba9dd0a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683351,
+        "known_for_department": "Directing",
+        "name": "Nick Satriano",
+        "original_name": "Nick Satriano",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "676a0575eda441dc9364a9c9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1935919,
+        "known_for_department": "Production",
+        "name": "Alexander Young",
+        "original_name": "Alexander Young",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "67af9994f12cec6e301cd316",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2607810,
+        "known_for_department": "Directing",
+        "name": "Gelareh Kiazand",
+        "original_name": "Gelareh Kiazand",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "695e79e88e0d885513ceab57",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193674,
+        "known_for_department": "Editing",
+        "name": "Andy Canny",
+        "original_name": "Andy Canny",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "credit_id": "695e7a2c75ebcd43763f5fdc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1196121,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cappi Ireland",
+        "original_name": "Cappi Ireland",
+        "popularity": 0.0978,
+        "profile_path": "/aHongUBwHENaEokT3qinEak6Vem.jpg",
+        "credit_id": "695e7a5676550fb8e83f5ecc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425359,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chiara Tripodi",
+        "original_name": "Chiara Tripodi",
+        "popularity": 0.2097,
+        "profile_path": null,
+        "credit_id": "695e7a6fe1f7728a9ea2dba8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425359,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chiara Tripodi",
+        "original_name": "Chiara Tripodi",
+        "popularity": 0.2097,
+        "profile_path": null,
+        "credit_id": "695e7a75801d1f6aa23e7311",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1560423,
+        "known_for_department": "Visual Effects",
+        "name": "Peter Stubbs",
+        "original_name": "Peter Stubbs",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "695e7aa42feb426ed5cfd46b",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2601160,
+        "known_for_department": "Crew",
+        "name": "Jade Amantea",
+        "original_name": "Jade Amantea",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "695e7abae1f7728a9ea2dbb6",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75159,
+        "known_for_department": "Lighting",
+        "name": "Karl Engeler",
+        "original_name": "Karl Engeler",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "695e7acd79e9a60df0f293c6",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393390,
+        "known_for_department": "Visual Effects",
+        "name": "Ray McIntyre Jr.",
+        "original_name": "Ray McIntyre Jr.",
+        "popularity": 0.2465,
+        "profile_path": null,
+        "credit_id": "6983bc125bbc78308e912b08",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1873738,
+        "known_for_department": "Visual Effects",
+        "name": "David Feinsilber",
+        "original_name": "David Feinsilber",
+        "popularity": 0.1342,
+        "profile_path": "/wgepJDlaAhitIBTRXPQ6L31yEn2.jpg",
+        "credit_id": "6983bc1c0e6514cdf5912a48",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5990067,
+        "known_for_department": "Production",
+        "name": "Rich Cook",
+        "original_name": "Rich Cook",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6985b1f43e42ba341e48da74",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59998,
+        "known_for_department": "Directing",
+        "name": "Greg McLean",
+        "original_name": "Greg McLean",
+        "popularity": 0.5674,
+        "profile_path": "/jojdN7TPMPeMVxOtvsxJ3iIaYar.jpg",
+        "credit_id": "6985b21b52bf23d8426b56ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2089404,
+        "known_for_department": "Sound",
+        "name": "Dmitri Golovko",
+        "original_name": "Dmitri Golovko",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "6987c9b3a65955d2153a9ade",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1463617,
+        "known_for_department": "Visual Effects",
+        "name": "Joao Sita",
+        "original_name": "Joao Sita",
+        "popularity": 0.0725,
+        "profile_path": "/xSVXCzYXjD6qLsA1NGfZk5pxJ9.jpg",
+        "credit_id": "69a6e50500fe417a6c81f6e0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6046670,
+        "known_for_department": "Crew",
+        "name": "Sam Doolan",
+        "original_name": "Sam Doolan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69a6e52ea52f0f4d53ca59ea",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2653431,
+        "known_for_department": "Visual Effects",
+        "name": "Prashant Nair",
+        "original_name": "Prashant Nair",
+        "popularity": 0.1616,
+        "profile_path": null,
+        "credit_id": "69a6e536c9a8170a0528b7ec",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6046671,
+        "known_for_department": "Crew",
+        "name": "Rakesh Thota",
+        "original_name": "Rakesh Thota",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69a6e53e9c69709282743e0c",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452991,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Fotheringham",
+        "original_name": "Daniel Fotheringham",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "69a6e5522d730d2641ca59f7",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2134484,
+        "known_for_department": "Visual Effects",
+        "name": "Zaini Jalani",
+        "original_name": "Zaini Jalani",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "69a6e5602a1cf5bc36743dec",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6046673,
+        "known_for_department": "Visual Effects",
+        "name": "Darcy George",
+        "original_name": "Darcy George",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69a6e5702a1cf5bc36743df7",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2916933,
+        "known_for_department": "Crew",
+        "name": "Caithlin Ferrier",
+        "original_name": "Caithlin Ferrier",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "69a6e57fb54acca04228b7e3",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431513,
+        "known_for_department": "Visual Effects",
+        "name": "Julian Dimsey",
+        "original_name": "Julian Dimsey",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "69a6e5962bf3e57d7281f5de",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1596782,
+        "known_for_department": "Production",
+        "name": "Alexander F. Young",
+        "original_name": "Alexander F. Young",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "69ba0c077350ca460b21ebc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5890249,
+        "known_for_department": "Camera",
+        "name": "Jackson Yeung",
+        "original_name": "Jackson Yeung",
+        "popularity": 0.0574,
+        "profile_path": "/iuU8f7zffnlVTBVsQ9iKtHZWOqS.jpg",
+        "credit_id": "69cc25a3b9483edd4ac775d8",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10292,
+        "name": "gore"
+      },
+      {
+        "id": 196009,
+        "name": "military training"
+      },
+      {
+        "id": 208902,
+        "name": "afghanistan veteran"
+      },
+      {
+        "id": 223038,
+        "name": "rangers"
+      },
+      {
+        "id": 229748,
+        "name": "alien hunters"
+      },
+      {
+        "id": 293589,
+        "name": "alien arrival"
+      },
+      {
+        "id": 298591,
+        "name": "military sci-fi"
+      },
+      {
+        "id": 332773,
+        "name": "u.s. army ranger"
+      },
+      {
+        "id": 371122,
+        "name": "extraterrestrial threat"
+      },
+      {
+        "id": 371123,
+        "name": "special forces training"
+      }
+    ]
+  }
+}

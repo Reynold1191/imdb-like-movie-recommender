@@ -1,0 +1,928 @@
+{
+  "adult": false,
+  "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+  "belongs_to_collection": {
+    "id": 1172926,
+    "name": "The Strangers (Remake) Collection",
+    "poster_path": "/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
+    "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+  },
+  "budget": 8500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1010755,
+  "imdb_id": "tt28682323",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Strangers: Chapter 3",
+  "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course \u2014 a showdown that proves they\u2019re far from strangers now.",
+  "popularity": 119.972,
+  "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 200342,
+      "logo_path": null,
+      "name": "Fifth Element Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 175756,
+      "logo_path": null,
+      "name": "Sherbone Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 229418,
+      "logo_path": null,
+      "name": "Stream Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-05",
+  "revenue": 9191988,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Embrace your fears.",
+  "title": "The Strangers: Chapter 3",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592855,
+        "known_for_department": "Acting",
+        "name": "Madelaine Petsch",
+        "original_name": "Madelaine Petsch",
+        "popularity": 2.0705,
+        "profile_path": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg",
+        "cast_id": 4,
+        "character": "Maya",
+        "credit_id": "64fd12e3f8595800adc9ba49",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3901,
+        "known_for_department": "Acting",
+        "name": "Richard Brake",
+        "original_name": "Richard Brake",
+        "popularity": 2.0686,
+        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+        "cast_id": 14,
+        "character": "Sheriff Rotter",
+        "credit_id": "6858fda01d2da78bb3b33eea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1921268,
+        "known_for_department": "Acting",
+        "name": "Ema Horvath",
+        "original_name": "Ema Horvath",
+        "popularity": 0.942,
+        "profile_path": "/4YindT5cKhekpAilc6q0scQeUQx.jpg",
+        "cast_id": 26,
+        "character": "Shelly / Pinup",
+        "credit_id": "691f26cf6676dcc718fa2c15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222122,
+        "known_for_department": "Acting",
+        "name": "Gabriel Basso",
+        "original_name": "Gabriel Basso",
+        "popularity": 2.9357,
+        "profile_path": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg",
+        "cast_id": 22,
+        "character": "Gregory / Scarecrow",
+        "credit_id": "68fcf822b8ca44be772759b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3188261,
+        "known_for_department": "Acting",
+        "name": "Pedro Leandro",
+        "original_name": "Pedro Leandro",
+        "popularity": 0.1553,
+        "profile_path": "/2mqNYfAKoazh2cWwPmSKLUuqzuV.jpg",
+        "cast_id": 48,
+        "character": "Deputy Walters",
+        "credit_id": "698f9c2f62cca448a637e1a6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076119,
+        "known_for_department": "Acting",
+        "name": "Rachel Shenton",
+        "original_name": "Rachel Shenton",
+        "popularity": 0.8579,
+        "profile_path": "/oCStwXsSGTDwO8md00tzwAviyBk.jpg",
+        "cast_id": 15,
+        "character": "Debbie",
+        "credit_id": "6858fda96d181dda53399097",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622199,
+        "known_for_department": "Acting",
+        "name": "George Young",
+        "original_name": "George Young",
+        "popularity": 0.6738,
+        "profile_path": "/dDTtlhWEnqIvBoOljmX2Hoi8IO4.jpg",
+        "cast_id": 17,
+        "character": "Howard",
+        "credit_id": "6858fdb96b3b3ac6a0b33ea6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144353,
+        "known_for_department": "Acting",
+        "name": "Kyle Breitkopf",
+        "original_name": "Kyle Breitkopf",
+        "popularity": 0.394,
+        "profile_path": "/zAxDr9wdkLYPD3sVnW5Y9gZVgA4.jpg",
+        "cast_id": 16,
+        "character": "Teenage Gregory / Scarecrow",
+        "credit_id": "6858fdaf66f15c2b01d0fbae",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5996169,
+        "known_for_department": "Acting",
+        "name": "Finn Cofell",
+        "original_name": "Finn Cofell",
+        "popularity": 0.2121,
+        "profile_path": "/nzbhVDO6clR5B43S7Eui4fyJXqQ.jpg",
+        "cast_id": 43,
+        "character": "Teenage Pinup",
+        "credit_id": "69895b0b13a2dcd3b58fd2f0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1278601,
+        "known_for_department": "Production",
+        "name": "Stevee Davies",
+        "original_name": "Stevee Davies",
+        "popularity": 0.081,
+        "profile_path": "/3Wck1WgvZzU8WmTRHMdY6pU5Vpp.jpg",
+        "cast_id": 28,
+        "character": "Dougie",
+        "credit_id": "693d5aff3025a23d1a99e986",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2997200,
+        "known_for_department": "Acting",
+        "name": "Hannah Galway",
+        "original_name": "Hannah Galway",
+        "popularity": 0.6027,
+        "profile_path": "/t9Ry8fAGQ0kuKP927JaDzLMkPnJ.jpg",
+        "cast_id": 29,
+        "character": "Claire",
+        "credit_id": "693d5b0dd02b947ecc83e3c5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615696,
+        "known_for_department": "Acting",
+        "name": "Sara Freedland",
+        "original_name": "Sara Freedland",
+        "popularity": 0.0502,
+        "profile_path": "/zqUz6zJTLowFVwOar0HN4T20O3y.jpg",
+        "cast_id": 31,
+        "character": "Annie",
+        "credit_id": "693d5b2609b0434051619d8f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3334647,
+        "known_for_department": "Crew",
+        "name": "Dani Klupsch",
+        "original_name": "Dani Klupsch",
+        "popularity": 0.0717,
+        "profile_path": "/4Yp5PxncQnyUf16WnvofrXr7KJn.jpg",
+        "cast_id": 32,
+        "character": "Carrie",
+        "credit_id": "693d5b42b3fcbd5e3e999091",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3250136,
+        "known_for_department": "Acting",
+        "name": "Ella Bruccoleri",
+        "original_name": "Ella Bruccoleri",
+        "popularity": 2.8862,
+        "profile_path": "/vAP4LZ6ZMwtjsZtkhymND1HJ0xI.jpg",
+        "cast_id": 34,
+        "character": "Jasmine",
+        "credit_id": "693d5b60c6e89d4bc95dfb83",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1003061,
+        "known_for_department": "Acting",
+        "name": "Krystal Ellsworth",
+        "original_name": "Krystal Ellsworth",
+        "popularity": 0.2418,
+        "profile_path": "/htDYbWlOUNF8N70iF44IZDOfk7w.jpg",
+        "cast_id": 33,
+        "character": "Dollface",
+        "credit_id": "693d5b52b3fcbd5e3e999095",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405269,
+        "known_for_department": "Acting",
+        "name": "Janis Ahern",
+        "original_name": "Janis Ahern",
+        "popularity": 0.2677,
+        "profile_path": "/v88XlcZTujKf7OYfHRAYmSpPAyq.jpg",
+        "cast_id": 19,
+        "character": "Carol",
+        "credit_id": "6858fdcebe6eb422f89964f4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4067300,
+        "known_for_department": "Acting",
+        "name": "Pablo Sandstrom",
+        "original_name": "Pablo Sandstrom",
+        "popularity": 0.0214,
+        "profile_path": "/vukYEqCKqr1zoSN0t2UG9AXcDBu.jpg",
+        "cast_id": 53,
+        "character": "Neil",
+        "credit_id": "699682aa1e836ba8eec85340",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3850944,
+        "known_for_department": "Acting",
+        "name": "Stephanie Aubertin",
+        "original_name": "Stephanie Aubertin",
+        "popularity": 0.0256,
+        "profile_path": "/5k6xMp7AKkeU2Pcn91kNmQsXa4k.jpg",
+        "cast_id": 21,
+        "character": "Teenage Dollface",
+        "credit_id": "68eefc477dd072b52bf969f0",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5875408,
+        "known_for_department": "Acting",
+        "name": "Nicholas Chaif",
+        "original_name": "Nicholas Chaif",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Sleazy Guy",
+        "credit_id": "693d5bc8f60e9d9213f782b9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754813,
+        "known_for_department": "Acting",
+        "name": "Jake Cogman",
+        "original_name": "Jake Cogman",
+        "popularity": 0.0256,
+        "profile_path": "/c9abmxx7iYObJr66oGXJD1NtcYm.jpg",
+        "cast_id": 44,
+        "character": "Young Scarecrow",
+        "credit_id": "698f9b358dbfc90ff6360283",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2616166,
+        "known_for_department": "Acting",
+        "name": "Leo Petrus",
+        "original_name": "Leo Petrus",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Judge",
+        "credit_id": "698f9b592343385c74cbc285",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2488379,
+        "known_for_department": "Crew",
+        "name": "Canaan Davison",
+        "original_name": "Canaan Davison",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Teenage Lumberjack",
+        "credit_id": "698f9b77a90a194128360240",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5613942,
+        "known_for_department": "Acting",
+        "name": "Nola Wallace",
+        "original_name": "Nola Wallace",
+        "popularity": 0.0456,
+        "profile_path": "/laBa1bTz20p6hDTB5PshpllOoif.jpg",
+        "cast_id": 47,
+        "character": "Young Pinup",
+        "credit_id": "698f9b96f1ec4a2795bcfe2d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058080,
+        "known_for_department": "Acting",
+        "name": "Ben Cartwright",
+        "original_name": "Ben Cartwright",
+        "popularity": 0.1783,
+        "profile_path": "/et81kCfsFf4kHCPgLfg96eX9Bok.jpg",
+        "cast_id": 49,
+        "character": "Rudy",
+        "credit_id": "698f9c7164fffca278bcfe52",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486215,
+        "known_for_department": "Acting",
+        "name": "Joel Labelle",
+        "original_name": "Joel Labelle",
+        "popularity": 0.3311,
+        "profile_path": "/xLJ3urhLMY8qpSwfy8yIaUYICU1.jpg",
+        "cast_id": 50,
+        "character": "Man",
+        "credit_id": "698f9d08781e48a829a07b01",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5754816,
+        "known_for_department": "Acting",
+        "name": "Eric Hathern",
+        "original_name": "Eric Hathern",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Radio Preacher (voice)",
+        "credit_id": "698f9d1a3bbe27270e3602d0",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127146,
+        "known_for_department": "Writing",
+        "name": "Alan R. Cohen",
+        "original_name": "Alan R. Cohen",
+        "popularity": 0.2901,
+        "profile_path": "/xlJoaaVnrcfo8f4HAaDvxWc5Q1t.jpg",
+        "credit_id": "64fdfd2e4557a000e36831bb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127148,
+        "known_for_department": "Writing",
+        "name": "Alan Freedland",
+        "original_name": "Alan Freedland",
+        "popularity": 0.2607,
+        "profile_path": "/96eZLUm3VvtPC4hpYfPlngfItoO.jpg",
+        "credit_id": "64fdfd43fa404600fe846698",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66074,
+        "known_for_department": "Directing",
+        "name": "Bryan Bertino",
+        "original_name": "Bryan Bertino",
+        "popularity": 0.5279,
+        "profile_path": "/8vGpQ5cQZMJEttCxOWiPjYENNpc.jpg",
+        "credit_id": "653c4f68bc2cb3010b4a5207",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16938,
+        "known_for_department": "Directing",
+        "name": "Renny Harlin",
+        "original_name": "Renny Harlin",
+        "popularity": 1.2011,
+        "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+        "credit_id": "632a78ea39b6c3009e9a638e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61921,
+        "known_for_department": "Production",
+        "name": "Courtney Solomon",
+        "original_name": "Courtney Solomon",
+        "popularity": 0.2676,
+        "profile_path": "/xujLAPgpM1JXLqE0X4mWVrPTmqd.jpg",
+        "credit_id": "632a7b3566a7c300822ac42c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665616,
+        "known_for_department": "Art",
+        "name": "Matt Curtis",
+        "original_name": "Matt Curtis",
+        "popularity": 0.2749,
+        "profile_path": "/ijoE4C3RQvaLqaDSxkDiEgpQXNv.jpg",
+        "credit_id": "6596da7bed96bc2e91f7655f",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21036,
+        "known_for_department": "Production",
+        "name": "Roy Lee",
+        "original_name": "Roy Lee",
+        "popularity": 0.4011,
+        "profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+        "credit_id": "670c4db6bbb1a9e81c625457",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364109,
+        "known_for_department": "Editing",
+        "name": "Michelle Harrison",
+        "original_name": "Michelle Harrison",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "68c352f6c2addc483e908b9b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33290,
+        "known_for_department": "Sound",
+        "name": "Justin Burnett",
+        "original_name": "Justin Burnett",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "695d5c1510e426ec9d64c02f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126235,
+        "known_for_department": "Camera",
+        "name": "Jos\u00e9 David Montero",
+        "original_name": "Jos\u00e9 David Montero",
+        "popularity": 0.1678,
+        "profile_path": null,
+        "credit_id": "695d5c407cdfaf687fdc2de3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1785622,
+        "known_for_department": "Editing",
+        "name": "Kate Hickey",
+        "original_name": "Kate Hickey",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "695d5c59576c45c3a11793f9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60408,
+        "known_for_department": "Art",
+        "name": "Adrian Curelea",
+        "original_name": "Adrian Curelea",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "695d5c69d6b807638217956e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540864,
+        "known_for_department": "Art",
+        "name": "Diana Ghinea",
+        "original_name": "Diana Ghinea",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "695d5c93d87edaa26c9f2de2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1094628,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Oana Draghici",
+        "original_name": "Oana Draghici",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "695d5cb84169716cc964be66",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46088,
+        "known_for_department": "Production",
+        "name": "Mark Canton",
+        "original_name": "Mark Canton",
+        "popularity": 0.157,
+        "profile_path": "/7OiY4eak3DztX0lSj4cbmKLQuaj.jpg",
+        "credit_id": "69abab06af3b7025325266eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61927,
+        "known_for_department": "Production",
+        "name": "Christopher Milburn",
+        "original_name": "Christopher Milburn",
+        "popularity": 0.3044,
+        "profile_path": "/vTrf7vO2aJd9nooNJnNTbQAbhWr.jpg",
+        "credit_id": "69abab11e6c834f7d05266ce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2470453,
+        "known_for_department": "Production",
+        "name": "Gary Raskin",
+        "original_name": "Gary Raskin",
+        "popularity": 0.0964,
+        "profile_path": null,
+        "credit_id": "69abab1d3052cd10c1526680",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658456,
+        "known_for_department": "Production",
+        "name": "Alastair Burlingham",
+        "original_name": "Alastair Burlingham",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "69abab43d90715b8ddca95b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815655,
+        "known_for_department": "Production",
+        "name": "Charlie Dombek",
+        "original_name": "Charlie Dombek",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "69abab4e4fe580be5aca95da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592855,
+        "known_for_department": "Acting",
+        "name": "Madelaine Petsch",
+        "original_name": "Madelaine Petsch",
+        "popularity": 2.0705,
+        "profile_path": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg",
+        "credit_id": "69c01e23d7e3c62e68a251b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61921,
+        "known_for_department": "Production",
+        "name": "Courtney Solomon",
+        "original_name": "Courtney Solomon",
+        "popularity": 0.2676,
+        "profile_path": "/xujLAPgpM1JXLqE0X4mWVrPTmqd.jpg",
+        "credit_id": "69c01f0d2d71bf4330d34722",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2067785,
+        "known_for_department": "Directing",
+        "name": "Kristina Sakizli",
+        "original_name": "Kristina Sakizli",
+        "popularity": 0.061,
+        "profile_path": null,
+        "credit_id": "69c01f533c218aeaae13be79",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 532757,
+        "known_for_department": "Directing",
+        "name": "Mark Roper",
+        "original_name": "Mark Roper",
+        "popularity": 0.1489,
+        "profile_path": null,
+        "credit_id": "69c01fb3f7896b060d7b2db1",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1465673,
+        "known_for_department": "Directing",
+        "name": "Simona Dinu",
+        "original_name": "Simona Dinu",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "69c01ffe7434d789a7d34599",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1857861,
+        "known_for_department": "Sound",
+        "name": "\u00d2scar Sen\u00e9n",
+        "original_name": "\u00d2scar Sen\u00e9n",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "credit_id": "69c020b753abdbb5f415eb74",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2798445,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Olena Andreitseva",
+        "original_name": "Olena Andreitseva",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "69c02116240dc9aabe4ff0b2",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5948069,
+        "known_for_department": "Lighting",
+        "name": "Tom\u00e1s Mitko",
+        "original_name": "Tom\u00e1s Mitko",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "69c02270d9e8f252d17b2d8c",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2701403,
+        "known_for_department": "Camera",
+        "name": "Ras\u0165o Slez\u00e1k",
+        "original_name": "Ras\u0165o Slez\u00e1k",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69c022bf90da0f9bb6b3372a",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918681,
+        "known_for_department": "Directing",
+        "name": "Maria Djidrova",
+        "original_name": "Maria Djidrova",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "69c036f587310b7ab9b3366a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2898344,
+        "known_for_department": "Directing",
+        "name": "Adina Zota",
+        "original_name": "Adina Zota",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "69c03729191ef3587813bfd6",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5948251,
+        "known_for_department": "Crew",
+        "name": "Oleg Gostik",
+        "original_name": "Oleg Gostik",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "69c08533d7e3c62e68a253d1",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179681,
+        "known_for_department": "Acting",
+        "name": "Vladimir Orlov",
+        "original_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041e\u0440\u043b\u043e\u0432",
+        "popularity": 0.256,
+        "profile_path": "/ApipHKzXClsD0IU0C8TvtlI2UQn.jpg",
+        "credit_id": "69c085d61f168610d713c0dd",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 12339,
+        "name": "slasher"
+      },
+      {
+        "id": 15354,
+        "name": "struggle for survival"
+      },
+      {
+        "id": 161184,
+        "name": "reboot"
+      },
+      {
+        "id": 305666,
+        "name": "masked killer"
+      },
+      {
+        "id": 328973,
+        "name": "stalkers"
+      },
+      {
+        "id": 366701,
+        "name": "serial killers"
+      },
+      {
+        "id": 371493,
+        "name": "dirty sheriff"
+      },
+      {
+        "id": 372386,
+        "name": "isolated setting"
+      },
+      {
+        "id": 372387,
+        "name": "violent intrusion"
+      },
+      {
+        "id": 372388,
+        "name": "unexpected attacks"
+      },
+      {
+        "id": 372389,
+        "name": "victims under siege"
+      }
+    ]
+  }
+}

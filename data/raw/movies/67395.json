@@ -1,0 +1,485 @@
+{
+  "adult": false,
+  "backdrop_path": "/cQpSKsSjoQYnDmqTlYl0gV3qnif.jpg",
+  "belongs_to_collection": {
+    "id": 736172,
+    "name": "Bullets, Bombs, and Babes Collection",
+    "poster_path": "/9iKCWmnME6kINoNBS6NL5BxCV3N.jpg",
+    "backdrop_path": "/gDwL6CkG1KIO1Ar7dvLKi8H7lQX.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 67395,
+  "imdb_id": "tt0127759",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
+  "overview": "A stolen computer disk contains the location of a hidden tresaure trove. It's up to the sexy ladies of LETHAL (Legion to Ensure Total Harmony and Law) to find the treasure before the bad guys do.",
+  "popularity": 16.8368,
+  "poster_path": "/9z3hdYnDdfWGKD55kdDmshDojeP.jpg",
+  "production_companies": [
+    {
+      "id": 5957,
+      "logo_path": null,
+      "name": "Malibu Bay Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 15376,
+      "logo_path": null,
+      "name": "Skyhawks Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-01-27",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The big guns are back!",
+  "title": "L.E.T.H.A.L. Ladies: Return to Savage Beach",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 225,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80116,
+        "known_for_department": "Acting",
+        "name": "Julie Strain",
+        "original_name": "Julie Strain",
+        "popularity": 2.631,
+        "profile_path": "/2M537eXSUhaxzQ0s7XM33m0AoXe.jpg",
+        "cast_id": 2,
+        "character": "Willow Black",
+        "credit_id": "52fe4764c3a368484e0c4795",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128672,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Obreg\u00f3n",
+        "original_name": "Rodrigo Obreg\u00f3n",
+        "popularity": 0.6726,
+        "profile_path": "/p3v0TwdaxmWvbMzC5gbteBctm82.jpg",
+        "cast_id": 8,
+        "character": "Rodrigo Martinez",
+        "credit_id": "52fe4764c3a368484e0c47ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98133,
+        "known_for_department": "Acting",
+        "name": "Julie K. Smith",
+        "original_name": "Julie K. Smith",
+        "popularity": 1.2775,
+        "profile_path": "/bYAFiQMU6gbQzndy7oORsLqhgWu.jpg",
+        "cast_id": 3,
+        "character": "Cobra",
+        "credit_id": "52fe4764c3a368484e0c4799",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44777,
+        "known_for_department": "Acting",
+        "name": "Shae Marks",
+        "original_name": "Shae Marks",
+        "popularity": 9.3435,
+        "profile_path": "/jYBVCrSyi7T98ofuD0jSWcr1qrx.jpg",
+        "cast_id": 4,
+        "character": "Tiger",
+        "credit_id": "52fe4764c3a368484e0c479d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154642,
+        "known_for_department": "Acting",
+        "name": "Marcus Bagwell",
+        "original_name": "Marcus Bagwell",
+        "popularity": 0.3339,
+        "profile_path": "/nKykYiMcr1F107vDJuPCL7qdY8S.jpg",
+        "cast_id": 9,
+        "character": "Warrior",
+        "credit_id": "52fe4764c3a368484e0c47b1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1109915,
+        "known_for_department": "Acting",
+        "name": "Cristian Letelier",
+        "original_name": "Cristian Letelier",
+        "popularity": 0.1983,
+        "profile_path": "/xE80dMspHx528CYWkq76y7jRYDM.jpg",
+        "cast_id": 10,
+        "character": "J. Tyler Ward",
+        "credit_id": "52fe4764c3a368484e0c47b5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44781,
+        "known_for_department": "Acting",
+        "name": "Carrie Westcott",
+        "original_name": "Carrie Westcott",
+        "popularity": 0.6227,
+        "profile_path": "/6W9XEOz7MUkYNYmYchBQm1RWMcU.jpg",
+        "cast_id": 5,
+        "character": "Sofia",
+        "credit_id": "52fe4764c3a368484e0c47a1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98157,
+        "known_for_department": "Acting",
+        "name": "Paul Logan",
+        "original_name": "Paul Logan",
+        "popularity": 0.4369,
+        "profile_path": "/ahVtxgcNuQm1js7gmbVR6tQYhTE.jpg",
+        "cast_id": 11,
+        "character": "Doc Austin",
+        "credit_id": "52fe4764c3a368484e0c47b9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105047,
+        "known_for_department": "Acting",
+        "name": "Gerald Okamura",
+        "original_name": "Gerald Okamura",
+        "popularity": 0.3193,
+        "profile_path": "/aGR5B50q5eqfXF45Aun8lo6pVF7.jpg",
+        "cast_id": 12,
+        "character": "Fu",
+        "credit_id": "52fe4764c3a368484e0c47bd",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 114696,
+        "known_for_department": "Acting",
+        "name": "Ava Cadell",
+        "original_name": "Ava Cadell",
+        "popularity": 0.0,
+        "profile_path": "/5hLyJFqYyEMesD70q1VenOwaR4o.jpg",
+        "cast_id": 6,
+        "character": "Ava",
+        "credit_id": "52fe4764c3a368484e0c47a5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 114695,
+        "known_for_department": "Acting",
+        "name": "Carolyn Liu",
+        "original_name": "Carolyn Liu",
+        "popularity": 0.3755,
+        "profile_path": "/nzYBEDrglTX6sgwOjIbApSDee5D.jpg",
+        "cast_id": 7,
+        "character": "Silk",
+        "credit_id": "52fe4764c3a368484e0c47a9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19502,
+        "known_for_department": "Acting",
+        "name": "Kevin Eastman",
+        "original_name": "Kevin Eastman",
+        "popularity": 0.4247,
+        "profile_path": "/tLrVQhk0sXQnWKF86trGUidbYGy.jpg",
+        "cast_id": 13,
+        "character": "Harry the cat",
+        "credit_id": "52fe4764c3a368484e0c47c1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 182213,
+        "known_for_department": "Crew",
+        "name": "Marcus Young",
+        "original_name": "Marcus Young",
+        "popularity": 0.2967,
+        "profile_path": "/txBvkZc6W5uTDbFeiMJ9sOPyUof.jpg",
+        "cast_id": 14,
+        "character": "Lead Kabuki / Lead Ninja",
+        "credit_id": "52fe4764c3a368484e0c47c5",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92505,
+        "known_for_department": "Crew",
+        "name": "Charles A. Tam",
+        "original_name": "Charles A. Tam",
+        "popularity": 0.0214,
+        "profile_path": "/nGv6lWU7BjicpRw1zIUoNmROSHS.jpg",
+        "cast_id": 15,
+        "character": "Kabuki #2",
+        "credit_id": "52fe4764c3a368484e0c47c9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184034,
+        "known_for_department": "Acting",
+        "name": "Lelagi Togisala",
+        "original_name": "Lelagi Togisala",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Kabuki #3",
+        "credit_id": "52fe4764c3a368484e0c47cd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1859461,
+        "known_for_department": "Sound",
+        "name": "David Hadder",
+        "original_name": "David Hadder",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Co-Pilot",
+        "credit_id": "6026dd97dcf875003e3aa395",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114700,
+        "known_for_department": "Directing",
+        "name": "Christian Drew Sidaris",
+        "original_name": "Christian Drew Sidaris",
+        "popularity": 0.1918,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Cycle Bandit #1 (as Drew Sidaris)",
+        "credit_id": "6026dd1e8b959e003c237fba",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2931264,
+        "known_for_department": "Acting",
+        "name": "Ken Meeks",
+        "original_name": "Ken Meeks",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Cycle Bandit #2",
+        "credit_id": "6026ddb09d2b63123b65c0a7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2457066,
+        "known_for_department": "Production",
+        "name": "Beebe Smilow",
+        "original_name": "Beebe Smilow",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Office Manager",
+        "credit_id": "6026ddfaef9d7263bd597844",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98136,
+        "known_for_department": "Directing",
+        "name": "Andy Sidaris",
+        "original_name": "Andy Sidaris",
+        "popularity": 0.5345,
+        "profile_path": "/l33d8ipPzHr9428CKhpuDJ8XS8V.jpg",
+        "credit_id": "52fe4764c3a368484e0c4791",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98136,
+        "known_for_department": "Directing",
+        "name": "Andy Sidaris",
+        "original_name": "Andy Sidaris",
+        "popularity": 0.5345,
+        "profile_path": "/l33d8ipPzHr9428CKhpuDJ8XS8V.jpg",
+        "credit_id": "52fe4764c3a368484e0c47d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 114708,
+        "known_for_department": "Production",
+        "name": "Arlene Sidaris",
+        "original_name": "Arlene Sidaris",
+        "popularity": 0.2539,
+        "profile_path": "/1IulI49tRq6kuaOX43UeU0Ir331.jpg",
+        "credit_id": "52fe4764c3a368484e0c47d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114700,
+        "known_for_department": "Directing",
+        "name": "Christian Drew Sidaris",
+        "original_name": "Christian Drew Sidaris",
+        "popularity": 0.1918,
+        "profile_path": null,
+        "credit_id": "52fe4764c3a368484e0c47df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1188902,
+        "known_for_department": "Sound",
+        "name": "Ron Di Iulio",
+        "original_name": "Ron Di Iulio",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "52fe4764c3a368484e0c47e5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98559,
+        "known_for_department": "Camera",
+        "name": "Howard Wexler",
+        "original_name": "Howard Wexler",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "credit_id": "52fe4764c3a368484e0c47eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188903,
+        "known_for_department": "Editing",
+        "name": "Anthony Dalesandro",
+        "original_name": "Anthony Dalesandro",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4764c3a368484e0c47f1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136010,
+        "known_for_department": "Art",
+        "name": "Bill Pryor",
+        "original_name": "Bill Pryor",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "52fe4764c3a368484e0c47f7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105047,
+        "known_for_department": "Acting",
+        "name": "Gerald Okamura",
+        "original_name": "Gerald Okamura",
+        "popularity": 0.3193,
+        "profile_path": "/aGR5B50q5eqfXF45Aun8lo6pVF7.jpg",
+        "credit_id": "6442b47ad35dea04adfb1533",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1454,
+        "name": "treasure"
+      },
+      {
+        "id": 1668,
+        "name": "hawaii"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 10688,
+        "name": "breast"
+      },
+      {
+        "id": 11034,
+        "name": "b movie"
+      },
+      {
+        "id": 158750,
+        "name": "female agent"
+      }
+    ]
+  }
+}

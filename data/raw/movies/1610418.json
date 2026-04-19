@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1610418,
+  "imdb_id": "tt38353877",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The House on Haunted Grounds",
+  "overview": "They walked into a haunted house with a history of possession and murder. The victims never came out, but the footage did.",
+  "popularity": 60.3523,
+  "poster_path": "/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-01-09",
+  "revenue": 0,
+  "runtime": 69,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The House on Haunted Grounds",
+  "video": false,
+  "vote_average": 5.583,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3270848,
+        "known_for_department": "Acting",
+        "name": "Logan Wallace",
+        "original_name": "Logan Wallace",
+        "popularity": 0.0071,
+        "profile_path": "/a1cVY1pUOiyL2oo08qnjdyeggxJ.jpg",
+        "cast_id": 2,
+        "character": "Amy",
+        "credit_id": "695bdf264becbbffb3e41ede",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4341284,
+        "known_for_department": "Acting",
+        "name": "Andrew Thomas",
+        "original_name": "Andrew Thomas",
+        "popularity": 0.0071,
+        "profile_path": "/pxTunH4QbXjRrRktYaoE54OCjBI.jpg",
+        "cast_id": 3,
+        "character": "Tony",
+        "credit_id": "695bdf39c3709ebe35e41c86",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3206199,
+        "known_for_department": "Acting",
+        "name": "Stuart Maxheimer",
+        "original_name": "Stuart Maxheimer",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Bradley",
+        "credit_id": "695bdf14ca4535cfb03bdee0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5320568,
+        "known_for_department": "Acting",
+        "name": "Cashmere Moniqu\u00e9",
+        "original_name": "Cashmere Moniqu\u00e9",
+        "popularity": 0.0071,
+        "profile_path": "/isNBYSJEzsFNoWtkCge0LcaaFgW.jpg",
+        "cast_id": 5,
+        "character": "Kate",
+        "credit_id": "696d3c76695591492c20d3da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3206202,
+        "known_for_department": "Acting",
+        "name": "Dylan DeVane",
+        "original_name": "Dylan DeVane",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Dylan",
+        "credit_id": "696d3d5f7b3e123f36689ca0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3206201,
+        "known_for_department": "Acting",
+        "name": "Brent Downs",
+        "original_name": "Brent Downs",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Cop 1",
+        "credit_id": "696d3d77e9f89d6fd3aaac2a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4144829,
+        "known_for_department": "Acting",
+        "name": "Austin J. Rhodes",
+        "original_name": "Austin J. Rhodes",
+        "popularity": 0.0491,
+        "profile_path": "/mcXy80KvpSkqIuH3u5eHEG7ohPc.jpg",
+        "cast_id": 10,
+        "character": "Cop 2",
+        "credit_id": "696d3d99983151f7fb7fa27b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2932735,
+        "known_for_department": "Writing",
+        "name": "Kellan Rudnicki",
+        "original_name": "Kellan Rudnicki",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Moe",
+        "credit_id": "696d3db01b311c87c4689f71",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947764,
+        "known_for_department": "Acting",
+        "name": "Shaelyn Clark",
+        "original_name": "Shaelyn Clark",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Hostage Ghost",
+        "credit_id": "696d3dd0e2d4a66f7836b19f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947766,
+        "known_for_department": "Acting",
+        "name": "Emily Thorton",
+        "original_name": "Emily Thorton",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Barrel Ghost",
+        "credit_id": "696d3e00f34f4f4177f120ed",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5855140,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kristi Tavolacci",
+        "original_name": "Kristi Tavolacci",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Torture Victim",
+        "credit_id": "696d3e2076e683a325aaac37",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947770,
+        "known_for_department": "Acting",
+        "name": "Jordan Patterson",
+        "original_name": "Jordan Patterson",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ghost 3",
+        "credit_id": "696d3e3b2a2c6acab1dcb5ee",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043418,
+        "known_for_department": "Production",
+        "name": "Brendan Rudnicki",
+        "original_name": "Brendan Rudnicki",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "695c2152c15da810ed76a0c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043418,
+        "known_for_department": "Production",
+        "name": "Brendan Rudnicki",
+        "original_name": "Brendan Rudnicki",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "696d3cc13ebcc624947fa33a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3206202,
+        "known_for_department": "Acting",
+        "name": "Dylan DeVane",
+        "original_name": "Dylan DeVane",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "696d3ceaffe2948aa420d083",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5320569,
+        "known_for_department": "Acting",
+        "name": "Tagen Crossley",
+        "original_name": "Tagen Crossley",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "696d3e83e2d4a66f7836b1a4",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043418,
+        "known_for_department": "Production",
+        "name": "Brendan Rudnicki",
+        "original_name": "Brendan Rudnicki",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "696d3e9f33b6dda31968a031",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947772,
+        "known_for_department": "Editing",
+        "name": "Andrew Ferrandiz",
+        "original_name": "Andrew Ferrandiz",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "696d3eb9742c136ece36ac9f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2932735,
+        "known_for_department": "Writing",
+        "name": "Kellan Rudnicki",
+        "original_name": "Kellan Rudnicki",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "696d3ec6bed723460736af45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2990489,
+        "known_for_department": "Visual Effects",
+        "name": "Ahmed Khaled",
+        "original_name": "Ahmed Khaled",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "696d3f08e3900670eeaaabcc",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4110830,
+        "known_for_department": "Acting",
+        "name": "Howard Hawkins",
+        "original_name": "Howard Hawkins",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "696d3f2125afc64fb2dcb4be",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5320569,
+        "known_for_department": "Acting",
+        "name": "Tagen Crossley",
+        "original_name": "Tagen Crossley",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "696d3f474b9aaafb8cf11ea8",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2593760,
+        "known_for_department": "Sound",
+        "name": "Kyle Preston",
+        "original_name": "Kyle Preston",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "696d3f66afbdcea522689daf",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947779,
+        "known_for_department": "Sound",
+        "name": "Max H. Alon Peretz",
+        "original_name": "Max H. Alon Peretz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "696d3f7cea5b2019278fcd8c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2884529,
+        "known_for_department": "Sound",
+        "name": "Michael Vignola",
+        "original_name": "Michael Vignola",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "696d3f8d2a7a456c4136af87",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 9712,
+        "name": "possession"
+      },
+      {
+        "id": 9853,
+        "name": "paranormal"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 270427,
+        "name": "clowns"
+      }
+    ]
+  }
+}

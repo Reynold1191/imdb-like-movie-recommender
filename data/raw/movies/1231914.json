@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/i7AeVOx2Nc03sTcO6e39bwfPBwd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1231914,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\uc5ec\uc9c1\uc6d0\ub4e4 : \uc9c1\uc7a5 \uc5f0\uc560\uc0ac 3",
+  "overview": "Yoo-ra succeeded in finding a job after a difficult time. Despite her stunning beauty, her family's financial situation is difficult. Her male assistant manager knows of her difficult situation, so he asks for her body with money as bait. On the other hand, Hye-seon, the female manager of the same company, seduces the handsome new employee, Min-soo. Employees enjoy the world of animals in the workplace without knowing each other.",
+  "popularity": 16.0556,
+  "poster_path": "/c4HACOcvKsWAaNTsyYs1JzfwXWi.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-11-25",
+  "revenue": 0,
+  "runtime": 62,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Female Workers: Romance at Work 3",
+  "video": false,
+  "vote_average": 4.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 4483924,
+        "known_for_department": "Acting",
+        "name": "Soo Hee",
+        "original_name": "Soo Hee",
+        "popularity": 0.0,
+        "profile_path": "/p0sidSSKmEPaU6u63eZnmuSLDEm.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "65a6732685702e00bec399fa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1622390,
+        "known_for_department": "Acting",
+        "name": "Lee Chae-dam",
+        "original_name": "Lee Chae-dam",
+        "popularity": 5.1266,
+        "profile_path": "/27qVJm4vpUKBXC9zyW2CbEiyfgG.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "65a6733bf74f5f012268fc14",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1721615,
+        "known_for_department": "Acting",
+        "name": "Hae Il",
+        "original_name": "Hae Il",
+        "popularity": 0.2036,
+        "profile_path": "/dghtdXl1LIEgHIVB77jzUfJweU7.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "65a6734e51a64e0131546278",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3422049,
+        "known_for_department": "Acting",
+        "name": "Woo Yeol",
+        "original_name": "\uc6b0\uc5f4",
+        "popularity": 5.4197,
+        "profile_path": "/cBFYjowEOcHV3Xvm24N1IzkkU4I.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "65a6736085702e00c3c395de",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2626226,
+        "known_for_department": "Acting",
+        "name": "Yoon Taek-seung",
+        "original_name": "Yoon Taek-seung",
+        "popularity": 0.3127,
+        "profile_path": "/3gA66TSQAMjlbR7wee6HtvAmAGy.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "65a6737917c443012a5a9505",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4483695,
+        "known_for_department": "Directing",
+        "name": "Choi Jong-gyoo",
+        "original_name": "Choi Jong-gyoo",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "credit_id": "65a674d59bcd0f0123ba840b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      }
+    ]
+  }
+}

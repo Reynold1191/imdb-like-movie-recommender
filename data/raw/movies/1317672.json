@@ -1,0 +1,625 @@
+{
+  "adult": false,
+  "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1317672,
+  "imdb_id": "tt36331860",
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Me Love Me",
+  "overview": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. But when his troubled best friend James\u2014hiding a dangerous life in clandestine MMA fights\u2014sparks a rivalry that quickly turns into irresistible attraction, June must choose between safety and a love that upends everything she thought she wanted.",
+  "popularity": 15.723,
+  "poster_path": "/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+  "production_companies": [
+    {
+      "id": 19916,
+      "logo_path": "/dOQ7UtUAqydn5zmx3qElFIMqn6t.png",
+      "name": "Lotus Production",
+      "origin_country": "IT"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 176106,
+      "logo_path": "/pvIH3cW987c4UKcKWnmq8V3nK0v.png",
+      "name": "Leone Film Group",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-12",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Me Love Me",
+  "video": false,
+  "vote_average": 5.719,
+  "vote_count": 219,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791174,
+        "known_for_department": "Acting",
+        "name": "Pepe Barroso",
+        "original_name": "Pepe Barroso",
+        "popularity": 0.5248,
+        "profile_path": "/1aclLzISTojUZ9CrKsRcI1eIJls.jpg",
+        "cast_id": 9,
+        "character": "James Hunter",
+        "credit_id": "67c1d0731f3f81b607a23e29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1867690,
+        "known_for_department": "Acting",
+        "name": "Mia Jenkins",
+        "original_name": "Mia Jenkins",
+        "popularity": 0.6625,
+        "profile_path": "/qlFJG7THmA04TOCntAXtHmOL0J2.jpg",
+        "cast_id": 6,
+        "character": "June White",
+        "credit_id": "67c1c99b591b238d2635a97a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4529552,
+        "known_for_department": "Acting",
+        "name": "Luca Melucci",
+        "original_name": "Luca Melucci",
+        "popularity": 0.1465,
+        "profile_path": "/2lo03n0c384PKsUVrN3L7bYQUuy.jpg",
+        "cast_id": 8,
+        "character": "Will",
+        "credit_id": "67c1c9b7bc6935a001a2710f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3265701,
+        "known_for_department": "Acting",
+        "name": "Andrea Guo",
+        "original_name": "Andrea Guo",
+        "popularity": 0.1693,
+        "profile_path": "/xFmzjzxzuMvRAEYs9DQPzUQBx3l.jpg",
+        "cast_id": 11,
+        "character": "Amelia",
+        "credit_id": "6939e166de2ec6ec9eb83df5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3255503,
+        "known_for_department": "Acting",
+        "name": "Michelangelo Vizzini",
+        "original_name": "Michelangelo Vizzini",
+        "popularity": 0.0338,
+        "profile_path": "/oLXMchaEaabWcFl2yAp63WCPlqa.jpg",
+        "cast_id": 12,
+        "character": "Blaze",
+        "credit_id": "6939e1725ea90b57d7b83dc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2997177,
+        "known_for_department": "Acting",
+        "name": "Madior Fall",
+        "original_name": "Madior Fall",
+        "popularity": 0.0614,
+        "profile_path": "/aHEr670j2N4VZuai0mF6XhkR9mY.jpg",
+        "cast_id": 13,
+        "character": "Jackson",
+        "credit_id": "6939e17e2dbf45f82fb83dae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4713015,
+        "known_for_department": "Acting",
+        "name": "Vanessa Donghi",
+        "original_name": "Vanessa Donghi",
+        "popularity": 0.0475,
+        "profile_path": "/hlMccYxEKs1tR4CgoUMjMo3v67U.jpg",
+        "cast_id": 14,
+        "character": "Ari",
+        "credit_id": "6939e18993dbbd3325b83dc4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367570,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Kinnear",
+        "original_name": "Elizabeth Kinnear",
+        "popularity": 0.0843,
+        "profile_path": "/aULRpczkkQK4ietPJOOu9bcOB9c.jpg",
+        "cast_id": 35,
+        "character": "April",
+        "credit_id": "698fece118a36d7fb97f6287",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2018192,
+        "known_for_department": "Acting",
+        "name": "Tommaso Caporali",
+        "original_name": "Tommaso Caporali",
+        "popularity": 0.0604,
+        "profile_path": "/k8itWmTKgD3TU9VlphFZC9nPnB2.jpg",
+        "cast_id": 36,
+        "character": "Austin",
+        "credit_id": "698fecf6383929bfd8c8edf2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535233,
+        "known_for_department": "Acting",
+        "name": "\u00c1ngel de Miguel",
+        "original_name": "\u00c1ngel de Miguel",
+        "popularity": 0.0506,
+        "profile_path": "/9MIRTVsSnCa4wHw5H8w74QSdRtV.jpg",
+        "cast_id": 38,
+        "character": "Jordan",
+        "credit_id": "698fed2b44cf8572d0e21d87",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629345,
+        "known_for_department": "Acting",
+        "name": "Bruno Cabrerizo",
+        "original_name": "Bruno Cabrerizo",
+        "popularity": 0.157,
+        "profile_path": "/6eLwjlUkaaa4ZqZDbZbAmEVGgPl.jpg",
+        "cast_id": 10,
+        "character": "Professor Beckett",
+        "credit_id": "681139d5a458c27761eab2d0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5494442,
+        "known_for_department": "Acting",
+        "name": "Edoardo De Marte",
+        "original_name": "Edoardo De Marte",
+        "popularity": 0.0338,
+        "profile_path": "/yfwgEgfSCIyI5CyxZplfHsNQEIL.jpg",
+        "cast_id": 37,
+        "character": "Jasper",
+        "credit_id": "698fed1cc8dcf1971024cdab",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2938998,
+        "known_for_department": "Acting",
+        "name": "Alessio Di Chirico",
+        "original_name": "Alessio Di Chirico",
+        "popularity": 0.0143,
+        "profile_path": "/1Nbxs00ymbM94QfBn3Brdp93vxs.jpg",
+        "cast_id": 40,
+        "character": "Luigi",
+        "credit_id": "698fed5c3845b854f08c92ed",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5094678,
+        "known_for_department": "Acting",
+        "name": "Jim Bannister",
+        "original_name": "Jim Bannister",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "August",
+        "credit_id": "698fed4b1f62580181c8ee26",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3560563,
+        "known_for_department": "Crew",
+        "name": "Marco Patrassi",
+        "original_name": "Marco Patrassi",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Pietro",
+        "credit_id": "698fed758fa3f0cd217f6265",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6006559,
+        "known_for_department": "Acting",
+        "name": "Riccardo Rischia",
+        "original_name": "Riccardo Rischia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Bouncer",
+        "credit_id": "698fed8935d8597bccefa8b8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017956,
+        "known_for_department": "Acting",
+        "name": "Olga Zhandarmoya",
+        "original_name": "Olga Zhandarmoya",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "MMA Referee",
+        "credit_id": "6996f8e39ba04913d33c906c",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11873,
+        "known_for_department": "Directing",
+        "name": "Roger Kumble",
+        "original_name": "Roger Kumble",
+        "popularity": 0.4103,
+        "profile_path": "/njVOmV33aCFRUlBxxLXzLbrmAUS.jpg",
+        "credit_id": "67c1c977bc6935a001a270d8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5275258,
+        "known_for_department": "Writing",
+        "name": "Stefania Serafini",
+        "original_name": "Stefania Serafini",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "credit_id": "67c1c98b591b238d2635a96b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3808682,
+        "known_for_department": "Writing",
+        "name": "Serena Tateo",
+        "original_name": "Serena Tateo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "698f1e96a894fbf989b68de3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4115400,
+        "known_for_department": "Writing",
+        "name": "Veronica Galli",
+        "original_name": "Veronica Galli",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "698f1e9abb407a52542f3261",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6004919,
+        "known_for_department": "Production",
+        "name": "Federico Polimanti",
+        "original_name": "Federico Polimanti",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "698f1ec4519db10f2e591628",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6004920,
+        "known_for_department": "Production",
+        "name": "Francesco Polimanti",
+        "original_name": "Francesco Polimanti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "698f1ecf161be470c82f32c7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5844601,
+        "known_for_department": "Writing",
+        "name": "Flaminia Leone",
+        "original_name": "Flaminia Leone",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "698f1ed6519db10f2e59162d",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3241027,
+        "known_for_department": "Production",
+        "name": "Carlotta Galleni",
+        "original_name": "Carlotta Galleni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "698f1edf945687ca30b68ce1",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2495862,
+        "known_for_department": "Production",
+        "name": "Luca Mezzaroma",
+        "original_name": "Luca Mezzaroma",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "698f1ee7ba3318bdcd83ebd2",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2477484,
+        "known_for_department": "Camera",
+        "name": "Martina Cocco",
+        "original_name": "Martina Cocco",
+        "popularity": 0.0338,
+        "profile_path": "/vl2wp9ALP6RTgcOyaGqArsUHEGX.jpg",
+        "credit_id": "698f1ef02394f3d5060c2407",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413823,
+        "known_for_department": "Art",
+        "name": "Massimiliano Sturiale",
+        "original_name": "Massimiliano Sturiale",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "698f1ef9600c055bb90c265b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1308867,
+        "known_for_department": "Production",
+        "name": "Raffaella Leone",
+        "original_name": "Raffaella Leone",
+        "popularity": 0.1094,
+        "profile_path": "/4UCqV0d4CXzT177fu3BHWYjQl1j.jpg",
+        "credit_id": "698f1f0a8a25175bb4305d2a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2402807,
+        "known_for_department": "Production",
+        "name": "Andrea Leone",
+        "original_name": "Andrea Leone",
+        "popularity": 0.0331,
+        "profile_path": "/mvem3Okvq1T00lUV40obTCU7ARS.jpg",
+        "credit_id": "698f1f0ecae2fddde3305ca4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600797,
+        "known_for_department": "Editing",
+        "name": "Silvia De Rose",
+        "original_name": "Silvia De Rose",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "698f1f8daff50a6dfc83ec06",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851509,
+        "known_for_department": "Directing",
+        "name": "Mirko Urania",
+        "original_name": "Mirko Urania",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "698f1f92ec26de14dc0c244c",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1767225,
+        "known_for_department": "Directing",
+        "name": "Elide Cortesi",
+        "original_name": "Elide Cortesi",
+        "popularity": 0.1613,
+        "profile_path": null,
+        "credit_id": "698f1f98390d1ef4bd59151a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1045806,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gemma Mascagni",
+        "original_name": "Gemma Mascagni",
+        "popularity": 0.9131,
+        "profile_path": null,
+        "credit_id": "698f1f9dbed7bdd9802f33d2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2635820,
+        "known_for_department": "Sound",
+        "name": "Ginevra Nervi",
+        "original_name": "Ginevra Nervi",
+        "popularity": 0.0297,
+        "profile_path": "/lxEMZOGg7mcyFul5TWm1alLzIR0.jpg",
+        "credit_id": "698f1fbd945687ca30b68cf2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789277,
+        "known_for_department": "Production",
+        "name": "Armando Pizzuti",
+        "original_name": "Armando Pizzuti",
+        "popularity": 0.0809,
+        "profile_path": "/b8VfSTLAxnzvNXlXL4vM8qWsNEH.jpg",
+        "credit_id": "698f1fd3d05489eb660c25c2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2665364,
+        "known_for_department": "Production",
+        "name": "Dario Di Vito",
+        "original_name": "Dario Di Vito",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "698f1fe47d9107d46559163c",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4134133,
+        "known_for_department": "Production",
+        "name": "Serena Peleggi",
+        "original_name": "Serena Peleggi",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "698f1fec521451170959151d",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3576757,
+        "known_for_department": "Production",
+        "name": "Simone Cialoni",
+        "original_name": "Simone Cialoni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "698f1ff4e1c9fd8e6d5915d3",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 232076,
+        "name": "desperate"
+      },
+      {
+        "id": 325805,
+        "name": "embarrassed"
+      }
+    ]
+  }
+}

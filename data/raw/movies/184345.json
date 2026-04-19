@@ -1,0 +1,758 @@
+{
+  "adult": false,
+  "backdrop_path": "/zHF0KdYTuKkwyaE1mt0oFeCB2EF.jpg",
+  "belongs_to_collection": {
+    "id": 251937,
+    "name": "A Haunted House Collection",
+    "poster_path": "/6OHNDLSvTxvis1oWGdIqmH8jrEH.jpg",
+    "backdrop_path": "/5NTJZ571646mTziTOGt0jnq7uKe.jpg"
+  },
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 184345,
+  "imdb_id": "tt2828996",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Haunted House 2",
+  "overview": "After exorcising the demons of his ex, Malcolm starts afresh with his new girlfriend and her two children. After moving into their dream home, Malcolm is once again plagued by bizarre paranormal events.",
+  "popularity": 10.5031,
+  "poster_path": "/oV7M00fPXy5P0nbdeMbSUjYv0vx.jpg",
+  "production_companies": [
+    {
+      "id": 7625,
+      "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+      "name": "Automatik Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 49982,
+      "logo_path": null,
+      "name": "IM Global Octane",
+      "origin_country": ""
+    },
+    {
+      "id": 1608,
+      "logo_path": null,
+      "name": "Wayans Bros. Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1205,
+      "logo_path": "/wQX3t4qtxm7gBQE3RHuoLghgb73.png",
+      "name": "Endgame Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-04-17",
+  "revenue": 25343661,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It'll scare the #2 out of you.",
+  "title": "A Haunted House 2",
+  "video": false,
+  "vote_average": 6.176,
+  "vote_count": 1572,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9562,
+        "known_for_department": "Acting",
+        "name": "Marlon Wayans",
+        "original_name": "Marlon Wayans",
+        "popularity": 2.9853,
+        "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg",
+        "cast_id": 1,
+        "character": "Malcolm",
+        "credit_id": "52fe4cbd9251416c751242bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56824,
+        "known_for_department": "Acting",
+        "name": "Jaime Pressly",
+        "original_name": "Jaime Pressly",
+        "popularity": 4.886,
+        "profile_path": "/cPS3VVmV0syoWn14W3AY7ALgtFV.jpg",
+        "cast_id": 3,
+        "character": "Megan",
+        "credit_id": "52fe4cbd9251416c751242c9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 154000,
+        "known_for_department": "Acting",
+        "name": "Essence Atkins",
+        "original_name": "Essence Atkins",
+        "popularity": 0.8448,
+        "profile_path": "/7VSU0tdljmG80fYEfP00FRASJQL.jpg",
+        "cast_id": 14,
+        "character": "Kisha",
+        "credit_id": "534cf2400e0a2661b7000d52",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86498,
+        "known_for_department": "Acting",
+        "name": "Gabriel Iglesias",
+        "original_name": "Gabriel Iglesias",
+        "popularity": 0.7503,
+        "profile_path": "/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg",
+        "cast_id": 15,
+        "character": "Miguel",
+        "credit_id": "534cf2560e0a2661a4000d4a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1294,
+        "known_for_department": "Acting",
+        "name": "Missi Pyle",
+        "original_name": "Missi Pyle",
+        "popularity": 1.4966,
+        "profile_path": "/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg",
+        "cast_id": 16,
+        "character": "Noreen",
+        "credit_id": "534cf2f60e0a2661ad000dc9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 208225,
+        "known_for_department": "Acting",
+        "name": "Ashley Rickards",
+        "original_name": "Ashley Rickards",
+        "popularity": 0.9475,
+        "profile_path": "/mJx5cTZZUFJvoSzLG2i9BzpBIwA.jpg",
+        "cast_id": 4,
+        "character": "Becky",
+        "credit_id": "52fe4cbd9251416c751242cd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98394,
+        "known_for_department": "Acting",
+        "name": "Affion Crockett",
+        "original_name": "Affion Crockett",
+        "popularity": 1.0443,
+        "profile_path": "/iAJZRJhXk6Ki6TLSluv1k66Oizz.jpg",
+        "cast_id": 8,
+        "character": "Ray Ray",
+        "credit_id": "52fe4cbe9251416c751242dd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1286744,
+        "known_for_department": "Acting",
+        "name": "Steele Stebbins",
+        "original_name": "Steele Stebbins",
+        "popularity": 0.4944,
+        "profile_path": "/i6eQFLLcAGaSddfmKDCX7nCPnog.jpg",
+        "cast_id": 11,
+        "character": "Wyatt",
+        "credit_id": "52fe4cbe9251416c751242e9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1539,
+        "known_for_department": "Acting",
+        "name": "Rick Overton",
+        "original_name": "Rick Overton",
+        "popularity": 0.549,
+        "profile_path": "/6TYFFjEKcS7ielkYru6MvJa8jSY.jpg",
+        "cast_id": 10,
+        "character": "Professor Wilde",
+        "credit_id": "52fe4cbe9251416c751242e5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74930,
+        "known_for_department": "Acting",
+        "name": "Hayes MacArthur",
+        "original_name": "Hayes MacArthur",
+        "popularity": 0.6466,
+        "profile_path": "/h34sUP8iKK2tGo2swK8muHjEsHA.jpg",
+        "cast_id": 32,
+        "character": "Ned",
+        "credit_id": "60971ad82b21080042acf6d2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35701,
+        "known_for_department": "Acting",
+        "name": "Dave Sheridan",
+        "original_name": "Dave Sheridan",
+        "popularity": 1.1247,
+        "profile_path": "/qJF27jpleZBQOikOuYL7rfh9CPM.jpg",
+        "cast_id": 6,
+        "character": "Agouhl",
+        "credit_id": "52fe4cbd9251416c751242d5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5726,
+        "known_for_department": "Acting",
+        "name": "Cedric the Entertainer",
+        "original_name": "Cedric the Entertainer",
+        "popularity": 1.2321,
+        "profile_path": "/s6UrY5uofyxXsU5PydWBoLFReK0.jpg",
+        "cast_id": 7,
+        "character": "Father Williams",
+        "credit_id": "52fe4cbe9251416c751242d9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173783,
+        "known_for_department": "Acting",
+        "name": "Kurt Carley",
+        "original_name": "Kurt Carley",
+        "popularity": 0.2225,
+        "profile_path": "/dzABei6glTJtubh8Od74KAVLlOX.jpg",
+        "cast_id": 38,
+        "character": "Dr. Rousch",
+        "credit_id": "671eab936d6b705dc871d73a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38709,
+        "known_for_department": "Acting",
+        "name": "Tom Virtue",
+        "original_name": "Tom Virtue",
+        "popularity": 0.6788,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Father Callahan",
+        "credit_id": "641a879c245dbe009814bcb9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80597,
+        "known_for_department": "Acting",
+        "name": "Kym Whitley",
+        "original_name": "Kym Whitley",
+        "popularity": 0.5122,
+        "profile_path": "/kWo5pJe9Ogi3YQAocVoDMP1Sndj.jpg",
+        "cast_id": 39,
+        "character": "Church Lady",
+        "credit_id": "671eabc45be9e8759da7a66c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1741333,
+        "known_for_department": "Acting",
+        "name": "Gregg Wayans",
+        "original_name": "Gregg Wayans",
+        "popularity": 0.2737,
+        "profile_path": "/lNsrZObXzbBA7jzTCBI4BFwQYdV.jpg",
+        "cast_id": 40,
+        "character": "Police Officer",
+        "credit_id": "671eabd1fefd1e0510008d93",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344836,
+        "known_for_department": "Crew",
+        "name": "Mikal Kartvedt",
+        "original_name": "Mikal Kartvedt",
+        "popularity": 0.2091,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Police Officer",
+        "credit_id": "671eabdbfefd1e0510008d97",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565421,
+        "known_for_department": "Acting",
+        "name": "Mark Henry",
+        "original_name": "Mark Henry",
+        "popularity": 0.579,
+        "profile_path": "/uKR2NkchLk2BjE7XgFjDSUk3IHu.jpg",
+        "cast_id": 33,
+        "character": "Tough Voice Guy",
+        "credit_id": "62b57b58ae366803df75cee9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2348744,
+        "known_for_department": "Acting",
+        "name": "Iva La'Shawn",
+        "original_name": "Iva La'Shawn",
+        "popularity": 0.0957,
+        "profile_path": "/pbsS6xLSfZnz9no8wcBK01tsYv6.jpg",
+        "cast_id": 42,
+        "character": "1st Grade Teacher",
+        "credit_id": "671eac1d5d0de89042d97d35",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1369329,
+        "known_for_department": "Acting",
+        "name": "Taylor John Smith",
+        "original_name": "Taylor John Smith",
+        "popularity": 0.9946,
+        "profile_path": "/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg",
+        "cast_id": 43,
+        "character": "Joey",
+        "credit_id": "671eac2b2685cb6563c13270",
+        "order": 19
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 142147,
+        "known_for_department": "Acting",
+        "name": "Sophie Dee",
+        "original_name": "Sophie Dee",
+        "popularity": 0.0,
+        "profile_path": "/93pwjhB9byFawQeXZci9vxJrbVB.jpg",
+        "cast_id": 29,
+        "character": "Hot Coed",
+        "credit_id": "5c12cc4f92514132b409465d",
+        "order": 20
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1243105,
+        "known_for_department": "Acting",
+        "name": "Mari Possa",
+        "original_name": "Mari Possa",
+        "popularity": 0.0,
+        "profile_path": "/9XQ6P1RItaP0x2jDoyxK2HF30lk.jpg",
+        "cast_id": 31,
+        "character": "Hot Coed",
+        "credit_id": "60971ab1cf4b8b003ea2840d",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286743,
+        "known_for_department": "Acting",
+        "name": "Audrey Petenbrink",
+        "original_name": "Audrey Petenbrink",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Pool Daughter (uncredited)",
+        "credit_id": "52fe4cbe9251416c751242e1",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172222,
+        "known_for_department": "Acting",
+        "name": "Scott Burn",
+        "original_name": "Scott Burn",
+        "popularity": 0.1176,
+        "profile_path": "/9koptoyZSecodLuOhSiZ31L21Nl.jpg",
+        "cast_id": 5,
+        "character": "Kill Family Dad (uncredited)",
+        "credit_id": "52fe4cbd9251416c751242d1",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154837,
+        "known_for_department": "Acting",
+        "name": "Chris Gann",
+        "original_name": "Chris Gann",
+        "popularity": 0.5257,
+        "profile_path": "/jX73lEGi5TNjordeEEZRKjqGL9x.jpg",
+        "cast_id": 17,
+        "character": "Pool Dad (uncredited)",
+        "credit_id": "57879ab8c3a3687218005b1d",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1671600,
+        "known_for_department": "Crew",
+        "name": "Melissa Barker",
+        "original_name": "Melissa Barker",
+        "popularity": 0.2936,
+        "profile_path": "/AvgPOhPqxFiX0Va62bFl61yloO4.jpg",
+        "cast_id": 30,
+        "character": "Pool Mom (uncredited)",
+        "credit_id": "5e87dc146dc6c0001380d0e3",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1110102,
+        "known_for_department": "Directing",
+        "name": "Michael Tiddes",
+        "original_name": "Michael Tiddes",
+        "popularity": 0.3709,
+        "profile_path": "/pb28TcY5MXtgtn1vPYkxlPtRmYo.jpg",
+        "credit_id": "52fe4cbd9251416c751242c5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9562,
+        "known_for_department": "Acting",
+        "name": "Marlon Wayans",
+        "original_name": "Marlon Wayans",
+        "popularity": 2.9853,
+        "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg",
+        "credit_id": "52fe4cbe9251416c751242ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56908,
+        "known_for_department": "Production",
+        "name": "Rick Alvarez",
+        "original_name": "Rick Alvarez",
+        "popularity": 0.2128,
+        "profile_path": "/sDPYHrrQUI1nRvD7lzY9zpiaio8.jpg",
+        "credit_id": "52fe4cbe9251416c751242f5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023503,
+        "known_for_department": "Art",
+        "name": "Aaron A. Goffman",
+        "original_name": "Aaron A. Goffman",
+        "popularity": 0.3528,
+        "profile_path": null,
+        "credit_id": "66035090dbf144016402d330",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023503,
+        "known_for_department": "Art",
+        "name": "Aaron A. Goffman",
+        "original_name": "Aaron A. Goffman",
+        "popularity": 0.3528,
+        "profile_path": null,
+        "credit_id": "6603889adbf144017d03289b",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1894620,
+        "known_for_department": "Camera",
+        "name": "David Ortkiese",
+        "original_name": "David Ortkiese",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "59c95d44c3a36813a9075e7c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39123,
+        "known_for_department": "Production",
+        "name": "Venus Kanani",
+        "original_name": "Venus Kanani",
+        "popularity": 0.0885,
+        "profile_path": "/lXCI0CoU6FvJqKcHN32Yq6ilbcP.jpg",
+        "credit_id": "59c95e2ac3a368774501cb66",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5914,
+        "known_for_department": "Production",
+        "name": "Mary Vernieu",
+        "original_name": "Mary Vernieu",
+        "popularity": 0.5131,
+        "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+        "credit_id": "59c95e349251415b87075e0b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1521110,
+        "known_for_department": "Production",
+        "name": "Michelle Wade Byrd",
+        "original_name": "Michelle Wade Byrd",
+        "popularity": 0.1906,
+        "profile_path": null,
+        "credit_id": "59c95e3d9251415b320783d4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61126,
+        "known_for_department": "Editing",
+        "name": "Tim Mirkovich",
+        "original_name": "Tim Mirkovich",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "59c95e4bc3a368146106a31a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1094388,
+        "known_for_department": "Sound",
+        "name": "Jesse Voccia",
+        "original_name": "Jesse Voccia",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "59c95e559251415b2407b9b3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64232,
+        "known_for_department": "Art",
+        "name": "Ermanno Di Febo-Orsini",
+        "original_name": "Ermanno Di Febo-Orsini",
+        "popularity": 0.2729,
+        "profile_path": null,
+        "credit_id": "59c95e649251415b2407b9bb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64229,
+        "known_for_department": "Art",
+        "name": "Marina Starec",
+        "original_name": "Marina Starec",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "59c95e71c3a368141e0702df",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 66494,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ariyela Wald-Cohain",
+        "original_name": "Ariyela Wald-Cohain",
+        "popularity": 0.1197,
+        "profile_path": null,
+        "credit_id": "59c95e7fc3a368144307dace",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1894625,
+        "known_for_department": "Sound",
+        "name": "Claudia Moross",
+        "original_name": "Claudia Moross",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "59c95e929251415b2407b9e5",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111895,
+        "known_for_department": "Visual Effects",
+        "name": "Christian Cardona",
+        "original_name": "Christian Cardona",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "59c95f41c3a368141e070389",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 999763,
+        "known_for_department": "Production",
+        "name": "Brian Kavanaugh-Jones",
+        "original_name": "Brian Kavanaugh-Jones",
+        "popularity": 0.4801,
+        "profile_path": "/tzuxnnZdOVEGl4Hc3qby6D1Wn6d.jpg",
+        "credit_id": "663ef4963b9a33c4ebc14f2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9562,
+        "known_for_department": "Acting",
+        "name": "Marlon Wayans",
+        "original_name": "Marlon Wayans",
+        "popularity": 2.9853,
+        "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg",
+        "credit_id": "67f8ea6a7f70ac1a21d93af9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56908,
+        "known_for_department": "Production",
+        "name": "Rick Alvarez",
+        "original_name": "Rick Alvarez",
+        "popularity": 0.2128,
+        "profile_path": "/sDPYHrrQUI1nRvD7lzY9zpiaio8.jpg",
+        "credit_id": "67f8ea737b43bdce20ae7912",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828893,
+        "known_for_department": "Crew",
+        "name": "Joanna Bennett",
+        "original_name": "Joanna Bennett",
+        "popularity": 0.3631,
+        "profile_path": "/t38Nj3ZAX138kDlTKccVZ2ORpcZ.jpg",
+        "credit_id": "6842151b9d1693de237f5792",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2626,
+        "name": "exorcism"
+      },
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 9755,
+        "name": "parody"
+      },
+      {
+        "id": 9853,
+        "name": "paranormal"
+      },
+      {
+        "id": 9707,
+        "name": "evil doll"
+      },
+      {
+        "id": 11931,
+        "name": "spoof"
+      },
+      {
+        "id": 12416,
+        "name": "horror spoof"
+      },
+      {
+        "id": 161261,
+        "name": "demonic possession"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 249969,
+        "name": "horror parody"
+      },
+      {
+        "id": 325789,
+        "name": "condescending"
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "adult": false,
+  "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1241470,
+  "imdb_id": "tt31179712",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Osiris",
+  "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+  "popularity": 34.6938,
+  "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+  "production_companies": [
+    {
+      "id": 220195,
+      "logo_path": "/nbwSIz7VUcudZQIY9O94jpLoizf.png",
+      "name": "Roosevelt Film Lab",
+      "origin_country": "US"
+    },
+    {
+      "id": 220196,
+      "logo_path": "/29YTwNxKsEWKByHb76JX9bWnRdV.png",
+      "name": "Denton Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 265676,
+      "logo_path": "/dkzYDzAg1VGIhovXXlcuhgNl0PT.png",
+      "name": "Burning Tractor",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-25",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Earth\u2019s deadliest soldiers just became the galaxy\u2019s last hope.",
+  "title": "Osiris",
+  "video": false,
+  "vote_average": 5.989,
+  "vote_count": 223,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94864,
+        "known_for_department": "Acting",
+        "name": "Max Martini",
+        "original_name": "Max Martini",
+        "popularity": 1.2124,
+        "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+        "cast_id": 2,
+        "character": "Kelly",
+        "credit_id": "65c27c78fc5f060189c5858e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1492326,
+        "known_for_department": "Acting",
+        "name": "Brianna Hildebrand",
+        "original_name": "Brianna Hildebrand",
+        "popularity": 1.1152,
+        "profile_path": "/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg",
+        "cast_id": 1,
+        "character": "Ravi",
+        "credit_id": "65c27c6d0929f60161e4cd7b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094385,
+        "known_for_department": "Acting",
+        "name": "LaMonica Garrett",
+        "original_name": "LaMonica Garrett",
+        "popularity": 1.1244,
+        "profile_path": "/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg",
+        "cast_id": 4,
+        "character": "Rhodie",
+        "credit_id": "65c27c95a6a4c101634b0f27",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124304,
+        "known_for_department": "Acting",
+        "name": "Michael Irby",
+        "original_name": "Michael Irby",
+        "popularity": 1.0819,
+        "profile_path": "/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg",
+        "cast_id": 17,
+        "character": "Reyes",
+        "credit_id": "685282c18c8a3c2831b6e3cf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2713,
+        "known_for_department": "Acting",
+        "name": "Linda Hamilton",
+        "original_name": "Linda Hamilton",
+        "popularity": 2.9691,
+        "profile_path": "/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg",
+        "cast_id": 3,
+        "character": "Anya",
+        "credit_id": "65c27c8abbe1dd017a2ac1db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688092,
+        "known_for_department": "Crew",
+        "name": "Stanley White Jr.",
+        "original_name": "Stanley White Jr.",
+        "popularity": 0.2567,
+        "profile_path": "/eXdsJsy7hmzDJH6k90M0OOL3M6l.jpg",
+        "cast_id": 18,
+        "character": "Scars",
+        "credit_id": "68530e9bfc46ce8a200cefc3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1956527,
+        "known_for_department": "Crew",
+        "name": "Tyler Galpin",
+        "original_name": "Tyler Galpin",
+        "popularity": 0.1862,
+        "profile_path": "/6QMB9rvGQnXVTloCEAs5yMdTfKI.jpg",
+        "cast_id": 19,
+        "character": "Donny",
+        "credit_id": "68530ea1e899fc13ff0cefb5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1328185,
+        "known_for_department": "Acting",
+        "name": "Linds Edwards",
+        "original_name": "Linds Edwards",
+        "popularity": 0.2832,
+        "profile_path": "/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg",
+        "cast_id": 20,
+        "character": "Nash",
+        "credit_id": "68530eaa81385a4e400cf0a4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1825157,
+        "known_for_department": "Crew",
+        "name": "Dawson Towery",
+        "original_name": "Dawson Towery",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Bull",
+        "credit_id": "68530eb1d12c94ff4773de93",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2668253,
+        "known_for_department": "Acting",
+        "name": "David B. Meadows",
+        "original_name": "David B. Meadows",
+        "popularity": 0.1495,
+        "profile_path": "/2kWOtDlmXi76UDVTd5GYFnejhgW.jpg",
+        "cast_id": 22,
+        "character": "Gibbs",
+        "credit_id": "68530eb858dfb0adfa5b7a33",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394012,
+        "known_for_department": "Acting",
+        "name": "Jaren Mitchell",
+        "original_name": "Jaren Mitchell",
+        "popularity": 0.1877,
+        "profile_path": "/9fTB5oM1BmsuzH1qT17EHkt0Gq1.jpg",
+        "cast_id": 23,
+        "character": "Jax",
+        "credit_id": "68530ec0783e01d48cc0ff65",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4708959,
+        "known_for_department": "Acting",
+        "name": "Derrick D. Edmond",
+        "original_name": "Derrick D. Edmond",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Street Soldier",
+        "credit_id": "68530ec72199d6afb9d81581",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407386,
+        "known_for_department": "Art",
+        "name": "Jonny Bullard",
+        "original_name": "Jonny Bullard",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Puppeteer",
+        "credit_id": "68530ecff9362107e1256810",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535168,
+        "known_for_department": "Acting",
+        "name": "Dvt Jalili",
+        "original_name": "Dvt Jalili",
+        "popularity": 0.0,
+        "profile_path": "/aCREv2WuVugf2MV75osnVIucwK0.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "68a606e3bc2ea5b06fd54fc7",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94864,
+        "known_for_department": "Acting",
+        "name": "Max Martini",
+        "original_name": "Max Martini",
+        "popularity": 1.2124,
+        "profile_path": "/gehOxb2cgNjcRnbAxaCUnFFJvAY.jpg",
+        "credit_id": "65c27ce3a33612016353bffd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2622119,
+        "known_for_department": "Production",
+        "name": "Christian Sosa",
+        "original_name": "Christian Sosa",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "65c27cf1a6a4c101844b3325",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407862,
+        "known_for_department": "Production",
+        "name": "Andrew Lewis",
+        "original_name": "Andrew Lewis",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "65c27d519af17100ea81b898",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228177,
+        "known_for_department": "Directing",
+        "name": "William Kaufman",
+        "original_name": "William Kaufman",
+        "popularity": 0.295,
+        "profile_path": "/a7cLQauPNw41xH06xfYx9tiCmVZ.jpg",
+        "credit_id": "65c27ca7a6a4c101634b0f3e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410853,
+        "known_for_department": "Production",
+        "name": "Paul Reichelt",
+        "original_name": "Paul Reichelt",
+        "popularity": 0.0445,
+        "profile_path": "/wIxLMv7m1QSseWwfFCMwogKGty6.jpg",
+        "credit_id": "65c27d17fc5f060168c54f77",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1830032,
+        "known_for_department": "Production",
+        "name": "Jon Wroblewski",
+        "original_name": "Jon Wroblewski",
+        "popularity": 0.0256,
+        "profile_path": "/ht8AbKqjQnAElTHM0OBMvze0aP9.jpg",
+        "credit_id": "65c27d08a33612018453d665",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228177,
+        "known_for_department": "Directing",
+        "name": "William Kaufman",
+        "original_name": "William Kaufman",
+        "popularity": 0.295,
+        "profile_path": "/a7cLQauPNw41xH06xfYx9tiCmVZ.jpg",
+        "credit_id": "65c27cb1bbe1dd01612a98ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410853,
+        "known_for_department": "Production",
+        "name": "Paul Reichelt",
+        "original_name": "Paul Reichelt",
+        "popularity": 0.0445,
+        "profile_path": "/wIxLMv7m1QSseWwfFCMwogKGty6.jpg",
+        "credit_id": "65c27ccbefea7a01635236b3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3493164,
+        "known_for_department": "Directing",
+        "name": "Isaac Lewis",
+        "original_name": "Isaac Lewis",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "65c27d5dbbe1dd017a2ac26d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1235012,
+        "known_for_department": "Acting",
+        "name": "Taryn Terrell",
+        "original_name": "Taryn Terrell",
+        "popularity": 0.3388,
+        "profile_path": "/w1hp4YmnKfewADq4O0EEbtjJn1.jpg",
+        "credit_id": "66a7040facdc6cdafab19570",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543231,
+        "known_for_department": "Sound",
+        "name": "Christopher Barnett",
+        "original_name": "Christopher Barnett",
+        "popularity": 0.119,
+        "profile_path": null,
+        "credit_id": "66fadbc0cc43cebd03f1a05f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688092,
+        "known_for_department": "Crew",
+        "name": "Stanley White Jr.",
+        "original_name": "Stanley White Jr.",
+        "popularity": 0.2567,
+        "profile_path": "/eXdsJsy7hmzDJH6k90M0OOL3M6l.jpg",
+        "credit_id": "676554ea774ac5a28574977e",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1612,
+        "name": "spacecraft"
+      },
+      {
+        "id": 15218,
+        "name": "special forces"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      }
+    ]
+  }
+}

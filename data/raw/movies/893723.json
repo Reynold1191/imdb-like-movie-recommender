@@ -1,0 +1,943 @@
+{
+  "adult": false,
+  "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+  "belongs_to_collection": {
+    "id": 893731,
+    "name": "PAW Patrol (Theatrical) Collection",
+    "poster_path": "/gLKJ96C7OqLqDvIS8MxLiKPLf8T.jpg",
+    "backdrop_path": "/gjHZbURgyqjBMHQICu3VZQf41gF.jpg"
+  },
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.pawpatrol.movie",
+  "id": 893723,
+  "imdb_id": "tt15837338",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "PAW Patrol: The Mighty Movie",
+  "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+  "popularity": 10.5142,
+  "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+  "production_companies": [
+    {
+      "id": 2348,
+      "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8649,
+      "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+      "name": "Mikros Image",
+      "origin_country": "FR"
+    },
+    {
+      "id": 199314,
+      "logo_path": "/zVfq3R7Ue0Ho0XnfgyK63fMGk2j.png",
+      "name": "Mikros Animation",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-21",
+  "revenue": 202231360,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unleash your powers.",
+  "title": "PAW Patrol: The Mighty Movie",
+  "video": false,
+  "vote_average": 6.993,
+  "vote_count": 538,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 7.4418,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "cast_id": 21,
+        "character": "Skye (voice)",
+        "credit_id": "63d17ddea410c81215b6259c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40036,
+        "known_for_department": "Acting",
+        "name": "Taraji P. Henson",
+        "original_name": "Taraji P. Henson",
+        "popularity": 5.4611,
+        "profile_path": "/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg",
+        "cast_id": 59,
+        "character": "Victoria Vance (voice)",
+        "credit_id": "683a1dc12328af542899b09e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1407498,
+        "known_for_department": "Acting",
+        "name": "Marsai Martin",
+        "original_name": "Marsai Martin",
+        "popularity": 1.2076,
+        "profile_path": "/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg",
+        "cast_id": 60,
+        "character": "Liberty (voice)",
+        "credit_id": "683a1ddbf8606d3aa5cda25c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684536,
+        "known_for_department": "Acting",
+        "name": "Iain Armitage",
+        "original_name": "Iain Armitage",
+        "popularity": 2.3789,
+        "profile_path": "/d16P91j8fhw7ngR727M84rCrj4r.jpg",
+        "cast_id": 104,
+        "character": "Chase (voice)",
+        "credit_id": "69d96a185bb5787809b644f4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227611,
+        "known_for_department": "Acting",
+        "name": "Ron Pardo",
+        "original_name": "Ron Pardo",
+        "popularity": 0.5124,
+        "profile_path": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+        "cast_id": 62,
+        "character": "Mayor Humdinger / Cap'n Turbot (voice)",
+        "credit_id": "683a1e267b81051e328fe8f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488961,
+        "known_for_department": "Acting",
+        "name": "Lil Rel Howery",
+        "original_name": "Lil Rel Howery",
+        "popularity": 0.9956,
+        "profile_path": "/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg",
+        "cast_id": 63,
+        "character": "Sam Stinger (voice)",
+        "credit_id": "683a1e3cb18a0f8ddbedcc1b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212225,
+        "known_for_department": "Acting",
+        "name": "Kim Kardashian",
+        "original_name": "Kim Kardashian",
+        "popularity": 5.7957,
+        "profile_path": "/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg",
+        "cast_id": 64,
+        "character": "Delores (voice)",
+        "credit_id": "683a1e536559b7da4d969243",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2632,
+        "known_for_department": "Acting",
+        "name": "Chris Rock",
+        "original_name": "Chris Rock",
+        "popularity": 2.2374,
+        "profile_path": "/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg",
+        "cast_id": 65,
+        "character": "Kitty (voice)",
+        "credit_id": "683a1e6c9ceca998ca99b07b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1214573,
+        "known_for_department": "Acting",
+        "name": "Serena Williams",
+        "original_name": "Serena Williams",
+        "popularity": 0.6685,
+        "profile_path": "/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg",
+        "cast_id": 66,
+        "character": "Yoga Yvette (voice)",
+        "credit_id": "683a1e83f8606d3aa5cda271",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2476742,
+        "known_for_department": "Acting",
+        "name": "Alan Kim",
+        "original_name": "Alan Kim",
+        "popularity": 0.5673,
+        "profile_path": "/mksORVS7tVouJZUWKlLrBSXgKQC.jpg",
+        "cast_id": 67,
+        "character": "Nano (voice)",
+        "credit_id": "683a1e984432b85e37559a57",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3667510,
+        "known_for_department": "Acting",
+        "name": "Brice Gonz\u00e1lez",
+        "original_name": "Brice Gonz\u00e1lez",
+        "popularity": 0.087,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Tot (voice)",
+        "credit_id": "683a1eba01f41580d799b10a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2344955,
+        "known_for_department": "Acting",
+        "name": "North West",
+        "original_name": "North West",
+        "popularity": 0.2239,
+        "profile_path": "/fhmx1rGNnH1YdMWk8f91q23dBkN.jpg",
+        "cast_id": 69,
+        "character": "Mini (voice)",
+        "credit_id": "683a1ed3b18a0f8ddbedcc28",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2344980,
+        "known_for_department": "Acting",
+        "name": "Saint West",
+        "original_name": "Saint West",
+        "popularity": 0.2296,
+        "profile_path": "/h0ANk02mX4Z04X02anWofGUcHrv.jpg",
+        "cast_id": 70,
+        "character": "Meteor Max (voice)",
+        "credit_id": "683a1eec4432b85e37559a5c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11006,
+        "known_for_department": "Acting",
+        "name": "James Marsden",
+        "original_name": "James Marsden",
+        "popularity": 4.8352,
+        "profile_path": "/gmM9kCBzMeSGmkVXJGAkm25i9pe.jpg",
+        "cast_id": 71,
+        "character": "Hank (voice)",
+        "credit_id": "683a1f0372ae797df13d22e9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40462,
+        "known_for_department": "Acting",
+        "name": "Kristen Bell",
+        "original_name": "Kristen Bell",
+        "popularity": 3.1053,
+        "profile_path": "/rP74dJXl7EjinGM0shQtUOlH5s2.jpg",
+        "cast_id": 72,
+        "character": "Janet (voice)",
+        "credit_id": "683a1f183099cdcc7899afee",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3044930,
+        "known_for_department": "Acting",
+        "name": "Will Brisbin",
+        "original_name": "Will Brisbin",
+        "popularity": 0.1032,
+        "profile_path": "/nm3Odfo47PcZvF1kEupMwgYJe6m.jpg",
+        "cast_id": 101,
+        "character": "Ryder (voice)",
+        "credit_id": "692b20f59ac3656abd4c43c5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2022268,
+        "known_for_department": "Acting",
+        "name": "Christian Corrao",
+        "original_name": "Christian Corrao",
+        "popularity": 0.1214,
+        "profile_path": "/2ry9fdm6KVVx0Cao9wNM9AZ1sOY.jpg",
+        "cast_id": 74,
+        "character": "Marshall (voice)",
+        "credit_id": "683a1f4c555a69b0f93d22fa",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3026149,
+        "known_for_department": "Acting",
+        "name": "Luxton Handspiker",
+        "original_name": "Luxton Handspiker",
+        "popularity": 0.1644,
+        "profile_path": "/yF4nysPSwmlnJ5NqjYJDVdWnfkm.jpg",
+        "cast_id": 75,
+        "character": "Rubble (voice)",
+        "credit_id": "683a1f5a7098b833358fe8f2",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3890634,
+        "known_for_department": "Acting",
+        "name": "Nylan Parthipan",
+        "original_name": "Nylan Parthipan",
+        "popularity": 0.1,
+        "profile_path": "/cwAUs4vWfZyn2cHNrGu9tC8W0yK.jpg",
+        "cast_id": 76,
+        "character": "Zuma (voice)",
+        "credit_id": "683a1f6cdd08f58cd6cda22d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2053698,
+        "known_for_department": "Acting",
+        "name": "Callum Shoniker",
+        "original_name": "Callum Shoniker",
+        "popularity": 0.201,
+        "profile_path": "/dOerCxk8MWPzT687EEWKUSbAESd.jpg",
+        "cast_id": 77,
+        "character": "Rocky (voice)",
+        "credit_id": "683a1f7db45f27c0bd8fe95c",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 193040,
+        "known_for_department": "Acting",
+        "name": "Dan Duran",
+        "original_name": "Dan Duran",
+        "popularity": 0.2294,
+        "profile_path": "/vCWv4gSo1QQfjzpymcub0lLkYgD.jpg",
+        "cast_id": 78,
+        "character": "Radio Announcer (voice)",
+        "credit_id": "683a1fdcaaffd3a33b559a51",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2676,
+        "known_for_department": "Acting",
+        "name": "Kim Roberts",
+        "original_name": "Kim Roberts",
+        "popularity": 0.1424,
+        "profile_path": "/72dPcCZSY0Nern0kiflRjTPtYQY.jpg",
+        "cast_id": 79,
+        "character": "Mayor Goodway (voice)",
+        "credit_id": "683a207b862aca59a3559aa9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44191,
+        "known_for_department": "Acting",
+        "name": "Sugith Varughese",
+        "original_name": "Sugith Varughese",
+        "popularity": 0.3061,
+        "profile_path": "/8fUSgYdPks13YbCkAbRqcZsBpR2.jpg",
+        "cast_id": 80,
+        "character": "Jail Guard (voice)",
+        "credit_id": "683a20b3248a9a66652b630c",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2386389,
+        "known_for_department": "Acting",
+        "name": "Joshua Graham",
+        "original_name": "Joshua Graham",
+        "popularity": 0.0952,
+        "profile_path": "/3YiQJWga6HuMFqUEF2st3CTQCk0.jpg",
+        "cast_id": 81,
+        "character": "Computer voice (voice)",
+        "credit_id": "683a21213c11eb429dcda319",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3046211,
+        "known_for_department": "Acting",
+        "name": "Monique Alvarez",
+        "original_name": "Monique Alvarez",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 82,
+        "character": "Carmen (voice)",
+        "credit_id": "683a214b57447f1d40edcb1f",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5941,
+        "known_for_department": "Acting",
+        "name": "Neil Crone",
+        "original_name": "Neil Crone",
+        "popularity": 0.5379,
+        "profile_path": "/dSKEir3QWqSKJQjPIQftNZoD8Hs.jpg",
+        "cast_id": 83,
+        "character": "Tony (voice)",
+        "credit_id": "683a2180aaffd3a33b559a64",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5473426,
+        "known_for_department": "Acting",
+        "name": "Stephane Belong",
+        "original_name": "Stephane Belong",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 84,
+        "character": "Computer (voice)",
+        "credit_id": "683a21ab4b839bee2699afb3",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098478,
+        "known_for_department": "Writing",
+        "name": "Bob Barlen",
+        "original_name": "Bob Barlen",
+        "popularity": 0.2651,
+        "profile_path": "/iPLLsU3zt7DDcmsEYGYIkKg4nRB.jpg",
+        "credit_id": "650b15bd12c60400abf3133c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098477,
+        "known_for_department": "Writing",
+        "name": "Cal Brunker",
+        "original_name": "Cal Brunker",
+        "popularity": 0.3338,
+        "profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+        "credit_id": "650b15acd6c300010e05b86b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119863,
+        "known_for_department": "Writing",
+        "name": "Shane Morris",
+        "original_name": "Shane Morris",
+        "popularity": 0.3117,
+        "profile_path": null,
+        "credit_id": "650b159a501cf200e3c0e8a3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098478,
+        "known_for_department": "Writing",
+        "name": "Bob Barlen",
+        "original_name": "Bob Barlen",
+        "popularity": 0.2651,
+        "profile_path": "/iPLLsU3zt7DDcmsEYGYIkKg4nRB.jpg",
+        "credit_id": "650b15b7b1f68d013ab46965",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098477,
+        "known_for_department": "Writing",
+        "name": "Cal Brunker",
+        "original_name": "Cal Brunker",
+        "popularity": 0.3338,
+        "profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+        "credit_id": "650b15a781c7be010052bfb7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092021,
+        "known_for_department": "Visual Effects",
+        "name": "Guillermot Dupinet",
+        "original_name": "Guillermot Dupinet",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6541ec329cc67b011ced28bb",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2012928,
+        "known_for_department": "Visual Effects",
+        "name": "Peter Chan",
+        "original_name": "Peter Chan",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6541ebcd8de0ae013ad11f79",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447563,
+        "known_for_department": "Visual Effects",
+        "name": "Joe Giampapa",
+        "original_name": "Joe Giampapa",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "6541eb911ac29200e1182709",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4359999,
+        "known_for_department": "Sound",
+        "name": "Fraser Gee",
+        "original_name": "Fraser Gee",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "65487a76d55c3d01391fd814",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028228,
+        "known_for_department": "Acting",
+        "name": "Ronnen Harary",
+        "original_name": "Ronnen Harary",
+        "popularity": 0.1062,
+        "profile_path": null,
+        "credit_id": "6182c228ddd52d008afaaa81",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098477,
+        "known_for_department": "Writing",
+        "name": "Cal Brunker",
+        "original_name": "Cal Brunker",
+        "popularity": 0.3338,
+        "profile_path": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+        "credit_id": "6182bacc3faba0002c404d79",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62775,
+        "known_for_department": "Production",
+        "name": "Peter Schlessel",
+        "original_name": "Peter Schlessel",
+        "popularity": 0.1346,
+        "profile_path": "/b2z1mYePuy6gGA8AxopcGNKydwK.jpg",
+        "credit_id": "6182c25a3e2ec80043c138b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3295624,
+        "known_for_department": "Production",
+        "name": "Laurie Clunie",
+        "original_name": "Laurie Clunie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6182c1b30752880028790b33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2546342,
+        "known_for_department": "Production",
+        "name": "Adam Beder",
+        "original_name": "Adam Beder",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6182c23fd388ae0043f7728a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3295626,
+        "known_for_department": "Production",
+        "name": "Toni Stevens",
+        "original_name": "Toni Stevens",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6182c2068ed03f008df8e235",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1564601,
+        "known_for_department": "Production",
+        "name": "Jennifer Dodge",
+        "original_name": "Jennifer Dodge",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6182c17e8ed03f00636bbca3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61843,
+        "known_for_department": "Sound",
+        "name": "Pinar Toprak",
+        "original_name": "Pinar Toprak",
+        "popularity": 0.173,
+        "profile_path": "/vSP9i7l963ERJAxJOpKQoUBEoN7.jpg",
+        "credit_id": "63d17a5066ae4d0096b69c91",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61843,
+        "known_for_department": "Sound",
+        "name": "Pinar Toprak",
+        "original_name": "Pinar Toprak",
+        "popularity": 0.173,
+        "profile_path": "/vSP9i7l963ERJAxJOpKQoUBEoN7.jpg",
+        "credit_id": "63d17ffd55b0c000a8a8724b",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3170131,
+        "known_for_department": "Visual Effects",
+        "name": "Alfonso Casado Diez",
+        "original_name": "Alfonso Casado Diez",
+        "popularity": 0.0574,
+        "profile_path": "/rkMu0X2X8IZ4ANcSzn0MItyIORe.jpg",
+        "credit_id": "6689df641ece824e3a57cbf9",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2126917,
+        "known_for_department": "Visual Effects",
+        "name": "Lilia Collar",
+        "original_name": "Lilia Collar",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "671ef8516e4210780f797411",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001300,
+        "known_for_department": "Editing",
+        "name": "Ed Fuller",
+        "original_name": "Ed Fuller",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "683a21ef6f2cd45f867b9e28",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5473433,
+        "known_for_department": "Art",
+        "name": "Jack Yu",
+        "original_name": "Jack Yu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "683a2275a04b721702d20b4b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2012928,
+        "known_for_department": "Visual Effects",
+        "name": "Peter Chan",
+        "original_name": "Peter Chan",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "683a229d847d58f784fda7a7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2898957,
+        "known_for_department": "Visual Effects",
+        "name": "Julie Marouz\u00e9",
+        "original_name": "Julie Marouz\u00e9",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "683a230f908fbddd5ed20b5c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2905487,
+        "known_for_department": "Production",
+        "name": "Laurence Vacher",
+        "original_name": "Laurence Vacher",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "683a23268f5e10eb267b9e4b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459897,
+        "known_for_department": "Visual Effects",
+        "name": "Pierre Escande",
+        "original_name": "Pierre Escande",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "683a2339e68027323b288260",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2170563,
+        "known_for_department": "Directing",
+        "name": "Rav Grewal",
+        "original_name": "Rav Grewal",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "683a2362d035ba8c026890a2",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5473443,
+        "known_for_department": "Visual Effects",
+        "name": "Jerome Saravas",
+        "original_name": "Jerome Saravas",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "683a23c97956961424f2a904",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3439459,
+        "known_for_department": "Visual Effects",
+        "name": "Martin Lauzon",
+        "original_name": "Martin Lauzon",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "683a23ea145a5f33b36890a7",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5473448,
+        "known_for_department": "Crew",
+        "name": "Sylvain Salame",
+        "original_name": "Sylvain Salame",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "683a24167335d1f780ad7379",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1814699,
+        "known_for_department": "Sound",
+        "name": "Trygge Toven",
+        "original_name": "Trygge Toven",
+        "popularity": 0.1842,
+        "profile_path": null,
+        "credit_id": "690440434dab8dd93ab8f7d7",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 7.4418,
+        "profile_path": "/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg",
+        "credit_id": "69d6e2279f9843b32410610e",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 6513,
+        "name": "cartoon"
+      },
+      {
+        "id": 10125,
+        "name": "mad scientist"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 15162,
+        "name": "dog"
+      },
+      {
+        "id": 18165,
+        "name": "animals"
+      },
+      {
+        "id": 208349,
+        "name": "kids"
+      },
+      {
+        "id": 227591,
+        "name": "elasticity"
+      },
+      {
+        "id": 269769,
+        "name": "based on tv series"
+      }
+    ]
+  }
+}

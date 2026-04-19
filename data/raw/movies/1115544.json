@@ -1,0 +1,984 @@
+{
+  "adult": false,
+  "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/mike-and-nick-and-nick-and-alice",
+  "id": 1115544,
+  "imdb_id": "tt27552099",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mike & Nick & Nick & Alice",
+  "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient added to the mix: a time machine.",
+  "popularity": 73.8417,
+  "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1757,
+      "logo_path": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+      "name": "Mad Chance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-14",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A time-traveling, double-crossing, ass-kicking comedy.",
+  "title": "Mike & Nick & Nick & Alice",
+  "video": false,
+  "vote_average": 6.753,
+  "vote_count": 251,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11006,
+        "known_for_department": "Acting",
+        "name": "James Marsden",
+        "original_name": "James Marsden",
+        "popularity": 4.8352,
+        "profile_path": "/gmM9kCBzMeSGmkVXJGAkm25i9pe.jpg",
+        "cast_id": 5,
+        "character": "Quick Draw Mike",
+        "credit_id": "6679cbd0dbc8b399fe9052cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4937,
+        "known_for_department": "Acting",
+        "name": "Vince Vaughn",
+        "original_name": "Vince Vaughn",
+        "popularity": 2.3583,
+        "profile_path": "/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg",
+        "cast_id": 4,
+        "character": "Future Nick / Present Nick",
+        "credit_id": "6647a65c95dc59d471b53a22",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1222992,
+        "known_for_department": "Acting",
+        "name": "Eiza Gonz\u00e1lez",
+        "original_name": "Eiza Gonz\u00e1lez",
+        "popularity": 6.208,
+        "profile_path": "/9kwfAiMeRUGR6cpZyY8FCuP5MSX.jpg",
+        "cast_id": 6,
+        "character": "Alice",
+        "credit_id": "66aab97c5d7f317f768802b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65827,
+        "known_for_department": "Acting",
+        "name": "Keith David",
+        "original_name": "Keith David",
+        "popularity": 2.6235,
+        "profile_path": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+        "cast_id": 12,
+        "character": "Sosa",
+        "credit_id": "670ee468019f3bc5b11bac22",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1304335,
+        "known_for_department": "Acting",
+        "name": "Jimmy Tatro",
+        "original_name": "Jimmy Tatro",
+        "popularity": 1.4134,
+        "profile_path": "/xehT2IK65qXKSctcYChrWLE04pI.jpg",
+        "cast_id": 7,
+        "character": "Jimmy Boy",
+        "credit_id": "66c3842d667e1ca650d56f12",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17401,
+        "known_for_department": "Acting",
+        "name": "Stephen Root",
+        "original_name": "Stephen Root",
+        "popularity": 1.9324,
+        "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg",
+        "cast_id": 29,
+        "character": "Chet",
+        "credit_id": "6967d714c79cbbc0fd9a8860",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610940,
+        "known_for_department": "Acting",
+        "name": "Lewis Tan",
+        "original_name": "Lewis Tan",
+        "popularity": 1.4981,
+        "profile_path": "/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg",
+        "cast_id": 10,
+        "character": "Roid Rage Ryan",
+        "credit_id": "66f1c410a82b00570326af17",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222121,
+        "known_for_department": "Acting",
+        "name": "Ben Schwartz",
+        "original_name": "Ben Schwartz",
+        "popularity": 1.6231,
+        "profile_path": "/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg",
+        "cast_id": 11,
+        "character": "Symon",
+        "credit_id": "670ee44b7a22bf3607f2669e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4570,
+        "known_for_department": "Acting",
+        "name": "Emily Hampshire",
+        "original_name": "Emily Hampshire",
+        "popularity": 1.1291,
+        "profile_path": "/kXb6SAUOACHN9F3M4rkxF7BsJGN.jpg",
+        "cast_id": 33,
+        "character": "Sam",
+        "credit_id": "6972a57dc29174e95baedc05",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457999,
+        "known_for_department": "Acting",
+        "name": "Arturo Castro",
+        "original_name": "Arturo Castro",
+        "popularity": 1.3928,
+        "profile_path": "/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg",
+        "cast_id": 9,
+        "character": "Dumbass Tony",
+        "credit_id": "66ea0f4b5168a896e11f21c2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16644,
+        "known_for_department": "Acting",
+        "name": "Dolph Lundgren",
+        "original_name": "Dolph Lundgren",
+        "popularity": 4.5509,
+        "profile_path": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg",
+        "cast_id": 39,
+        "character": "The Barron",
+        "credit_id": "69b20577b5f42dace702bc03",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344317,
+        "known_for_department": "Acting",
+        "name": "Paul Cheng",
+        "original_name": "Paul Cheng",
+        "popularity": 0.4131,
+        "profile_path": "/b9imiZe5yWhuTKB6cZXyib6PCvn.jpg",
+        "cast_id": 40,
+        "character": "Scary Gangster #1",
+        "credit_id": "69b20589e899618db902bbc1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207359,
+        "known_for_department": "Acting",
+        "name": "Maxime Savaria",
+        "original_name": "Maxime Savaria",
+        "popularity": 0.2129,
+        "profile_path": "/j0Edq5DU7D4JlT39jnkpMEphrag.jpg",
+        "cast_id": 41,
+        "character": "Scary Gangster #2",
+        "credit_id": "69b2059101f86b31dfa76a81",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1700048,
+        "known_for_department": "Acting",
+        "name": "Sara Alicia Garcia",
+        "original_name": "Sara Alicia Garcia",
+        "popularity": 0.553,
+        "profile_path": "/xvba7U9Rp7yCgSiR2oJ1SssMmw0.jpg",
+        "cast_id": 42,
+        "character": "Roid Rage Ryan's Wife",
+        "credit_id": "69b205a1f109e1235aa76aa2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6065412,
+        "known_for_department": "Acting",
+        "name": "Mackenzee Cullen",
+        "original_name": "Mackenzee Cullen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Women #1 Who Gives Mike The Look",
+        "credit_id": "69b205b994be29198f02bafc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4627641,
+        "known_for_department": "Acting",
+        "name": "Kaitlyn Bacon",
+        "original_name": "Kaitlyn Bacon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Woman #2 Who Gives Mike The Look",
+        "credit_id": "69b205c49dc4c57e54d43702",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3598617,
+        "known_for_department": "Acting",
+        "name": "Stanlee Arches",
+        "original_name": "Stanlee Arches",
+        "popularity": 0.0362,
+        "profile_path": "/hWBa859iBI6rhAJleGRvMCa442x.jpg",
+        "cast_id": 45,
+        "character": "Hotel Employee",
+        "credit_id": "69b205cd94be29198f02bb02",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2473588,
+        "known_for_department": "Acting",
+        "name": "Tristan Carlucci",
+        "original_name": "Tristan Carlucci",
+        "popularity": 0.1821,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Drunk Mobster",
+        "credit_id": "69b205d709c819037781736b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3893535,
+        "known_for_department": "Acting",
+        "name": "David Tomlinson",
+        "original_name": "David Tomlinson",
+        "popularity": 0.2299,
+        "profile_path": "/akWyL8TVWydGGLuQLpjARkkfVM4.jpg",
+        "cast_id": 47,
+        "character": "Stoic Male Bartender",
+        "credit_id": "69b205e2f4e9b59f3168580d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098664,
+        "known_for_department": "Acting",
+        "name": "Dylan Playfair",
+        "original_name": "Dylan Playfair",
+        "popularity": 0.4379,
+        "profile_path": "/iWkup8QYwyEYM4Dvi7x1OHHNR6G.jpg",
+        "cast_id": 48,
+        "character": "Stoned Cashier",
+        "credit_id": "69b205e9d9f113b2769d5bd7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75813,
+        "known_for_department": "Acting",
+        "name": "Aaron Hughes",
+        "original_name": "Aaron Hughes",
+        "popularity": 0.2769,
+        "profile_path": "/d5S2HeAQwSgoQi14w2PJVEFITTP.jpg",
+        "cast_id": 49,
+        "character": "Cop #2",
+        "credit_id": "69b205f0954cec053e6857b1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376355,
+        "known_for_department": "Acting",
+        "name": "Dayleigh Nelson",
+        "original_name": "Dayleigh Nelson",
+        "popularity": 0.1866,
+        "profile_path": "/PR6WhEiVGr6IUVosJD36yWm0uk.jpg",
+        "cast_id": 50,
+        "character": "Nick Acting Double",
+        "credit_id": "69b205fd99aaa0073e02bbf1",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1130510,
+        "known_for_department": "Acting",
+        "name": "Ella Ballentine",
+        "original_name": "Ella Ballentine",
+        "popularity": 0.4277,
+        "profile_path": "/djrT2ksD14FVRV1aruThqweZmWo.jpg",
+        "cast_id": 51,
+        "character": "Marceline",
+        "credit_id": "69b20603fbe32ff93121d052",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3351263,
+        "known_for_department": "Crew",
+        "name": "Brett Taylor",
+        "original_name": "Brett Taylor",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Wedding Dancer #1",
+        "credit_id": "69b206115c85eaf8664ef965",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318615,
+        "known_for_department": "Acting",
+        "name": "Jaydee-Lynn McDougall",
+        "original_name": "Jaydee-Lynn McDougall",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Wedding Dancer #2",
+        "credit_id": "69b20618cd4f9e6a1702bc38",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6065415,
+        "known_for_department": "Acting",
+        "name": "Shamik Guirguis",
+        "original_name": "Shamik Guirguis",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Wedding Dancer #3",
+        "credit_id": "69b2062432212d365a21d072",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356237,
+        "known_for_department": "Acting",
+        "name": "Jean-Jacques Javier",
+        "original_name": "Jean-Jacques Javier",
+        "popularity": 0.2424,
+        "profile_path": "/pb26xUVUqxpjR8YCGawAX5zdL9a.jpg",
+        "cast_id": 55,
+        "character": "Hot Dog Stand Vendor",
+        "credit_id": "69b2062b6cbf52ee168172b0",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185853,
+        "known_for_department": "Crew",
+        "name": "Adrian Hein",
+        "original_name": "Adrian Hein",
+        "popularity": 0.1522,
+        "profile_path": "/6obnWAObhruKNQoIx8jiEXxE7t2.jpg",
+        "cast_id": 56,
+        "character": "Barron's Assistant #1",
+        "credit_id": "69b20638e9f97ef819817285",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3567682,
+        "known_for_department": "Crew",
+        "name": "Will Erichson",
+        "original_name": "Will Erichson",
+        "popularity": 0.0815,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Barron's Assistant #2",
+        "credit_id": "69b20649cb1646e0d802bb85",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3976738,
+        "known_for_department": "Acting",
+        "name": "Oscar Brown",
+        "original_name": "Oscar Brown",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Valet",
+        "credit_id": "69b20654f109e1235aa76ab3",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1510788,
+        "known_for_department": "Acting",
+        "name": "Michael Lehr",
+        "original_name": "Michael Lehr",
+        "popularity": 0.1247,
+        "profile_path": "/ebbmuSgJXRivMFrpKvnHkQXWOxN.jpg",
+        "cast_id": 59,
+        "character": "The DJ",
+        "credit_id": "69b20660a37587015ad4384e",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88902,
+        "known_for_department": "Acting",
+        "name": "Ellen Wong",
+        "original_name": "Ellen Wong",
+        "popularity": 0.6865,
+        "profile_path": "/aJcsSflzYnGXiOaD7XkjPtnIPYz.jpg",
+        "cast_id": 60,
+        "character": "Trudy",
+        "credit_id": "69b20667eaf41ef5da9d5b17",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64473,
+        "known_for_department": "Acting",
+        "name": "Melissa Marie Elias",
+        "original_name": "Melissa Marie Elias",
+        "popularity": 0.1401,
+        "profile_path": "/v915LCBfmtN3p6IatRvUIrjH4sz.jpg",
+        "cast_id": 61,
+        "character": "Beautiful Woman #1",
+        "credit_id": "69b2066feaf41ef5da9d5b1b",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2460577,
+        "known_for_department": "Acting",
+        "name": "Kiera Thompson",
+        "original_name": "Kiera Thompson",
+        "popularity": 0.2128,
+        "profile_path": "/Ae9UHawnXLyVa7dYdtBUU2EKZIl.jpg",
+        "cast_id": 62,
+        "character": "Beautiful Woman #2",
+        "credit_id": "69b20680cb1646e0d802bb97",
+        "order": 33
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937016,
+        "known_for_department": "Writing",
+        "name": "BenDavid Grabinski",
+        "original_name": "BenDavid Grabinski",
+        "popularity": 0.3215,
+        "profile_path": "/s7OjIcusYmaJGO8vWQR9uTh0cNq.jpg",
+        "credit_id": "64406bbed768fe052d8f8dc7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937016,
+        "known_for_department": "Writing",
+        "name": "BenDavid Grabinski",
+        "original_name": "BenDavid Grabinski",
+        "popularity": 0.3215,
+        "profile_path": "/s7OjIcusYmaJGO8vWQR9uTh0cNq.jpg",
+        "credit_id": "64406bc8e24b9305859f51ce",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29525,
+        "known_for_department": "Production",
+        "name": "Andrew Lazar",
+        "original_name": "Andrew Lazar",
+        "popularity": 0.2907,
+        "profile_path": "/tSiXeYh6X6ZTQHuPMMryn84d0oJ.jpg",
+        "credit_id": "64406bd5e24b9304dd9f5221",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17284,
+        "known_for_department": "Camera",
+        "name": "Larry Fong",
+        "original_name": "Larry Fong",
+        "popularity": 0.2093,
+        "profile_path": "/4rS2YTxhtVBvc3pSCbxk6b6wGI6.jpg",
+        "credit_id": "66d99b805ecec696f6b8d4dc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1011188,
+        "known_for_department": "Production",
+        "name": "Jenny Jue",
+        "original_name": "Jenny Jue",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "67e49630f846794e9910929d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8704,
+        "known_for_department": "Art",
+        "name": "Isabelle Guay",
+        "original_name": "Isabelle Guay",
+        "popularity": 0.1373,
+        "profile_path": null,
+        "credit_id": "67e4963ef846794e991092a4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2080845,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stephanie Portnoy Porter",
+        "original_name": "Stephanie Portnoy Porter",
+        "popularity": 0.3596,
+        "profile_path": null,
+        "credit_id": "67e496702074b0ee56001f2e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1757648,
+        "known_for_department": "Crew",
+        "name": "Justin Yu",
+        "original_name": "Justin Yu",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "67e4968ca6dd9b0808001dd9",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1757648,
+        "known_for_department": "Crew",
+        "name": "Justin Yu",
+        "original_name": "Justin Yu",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "67e49696421eb8c331ba2733",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583298,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Pascarelli",
+        "original_name": "Eric Pascarelli",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67e497aaa6dd9b0808001e4f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65822,
+        "known_for_department": "Production",
+        "name": "Richard Middleton",
+        "original_name": "Richard Middleton",
+        "popularity": 0.1465,
+        "profile_path": null,
+        "credit_id": "67fec726437f0b80eead4d5d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2701788,
+        "known_for_department": "Directing",
+        "name": "Benjamin Cairns",
+        "original_name": "Benjamin Cairns",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "67fec750aacf7cfb2699ccaf",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615927,
+        "known_for_department": "Directing",
+        "name": "Mikey Eberle",
+        "original_name": "Mikey Eberle",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "67fec75f437f0b80eead4d77",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528764,
+        "known_for_department": "Directing",
+        "name": "Marlon Hero",
+        "original_name": "Marlon Hero",
+        "popularity": 0.0919,
+        "profile_path": null,
+        "credit_id": "67fec76f437f0b80eead4d94",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318813,
+        "known_for_department": "Visual Effects",
+        "name": "Jared Levin",
+        "original_name": "Jared Levin",
+        "popularity": 0.0582,
+        "profile_path": null,
+        "credit_id": "67fec796d645e41e09993659",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1398846,
+        "known_for_department": "Lighting",
+        "name": "John Dekker",
+        "original_name": "John Dekker",
+        "popularity": 0.0656,
+        "profile_path": null,
+        "credit_id": "67fec7e7d8b85eb782d93cf3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635,
+        "known_for_department": "Editing",
+        "name": "Tim Squyres",
+        "original_name": "Tim Squyres",
+        "popularity": 0.1788,
+        "profile_path": "/5vin1Qr62tCtY7XjdDF8WJd9PzF.jpg",
+        "credit_id": "6880de66342a4dafbf72d824",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098740,
+        "known_for_department": "Sound",
+        "name": "Joseph Trapanese",
+        "original_name": "Joseph Trapanese",
+        "popularity": 0.2601,
+        "profile_path": "/3jh3094X5Usrsvd0QGMLP7EqwfI.jpg",
+        "credit_id": "696fc3eac4153d7e95442ba5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447119,
+        "known_for_department": "Art",
+        "name": "Martine Gigu\u00e8re-Kazemirchuk",
+        "original_name": "Martine Gigu\u00e8re-Kazemirchuk",
+        "popularity": 0.1666,
+        "profile_path": null,
+        "credit_id": "696fc4046026e02e07fe1442",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3879707,
+        "known_for_department": "Production",
+        "name": "Vanessa Humphrey",
+        "original_name": "Vanessa Humphrey",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6972a56319e42664beaedcba",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175029,
+        "known_for_department": "Sound",
+        "name": "Dean Hurley",
+        "original_name": "Dean Hurley",
+        "popularity": 0.0744,
+        "profile_path": "/knV2Nn3JZFj5fSqLQpjN1llwn0e.jpg",
+        "credit_id": "698b97a001ad14137fc7234b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563736,
+        "known_for_department": "Sound",
+        "name": "Andrea von Foerster",
+        "original_name": "Andrea von Foerster",
+        "popularity": 0.3265,
+        "profile_path": "/zKo3qNhrkeUceyHjl6W5c7DS0ET.jpg",
+        "credit_id": "69a5f7b98202541057de98a6",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65822,
+        "known_for_department": "Production",
+        "name": "Richard Middleton",
+        "original_name": "Richard Middleton",
+        "popularity": 0.1465,
+        "profile_path": null,
+        "credit_id": "69b20519a8c4acf5d5d437c1",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615927,
+        "known_for_department": "Directing",
+        "name": "Mikey Eberle",
+        "original_name": "Mikey Eberle",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "69b205344d69b5b1339d5aba",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3850282,
+        "known_for_department": "Directing",
+        "name": "Danielle Dumesnil",
+        "original_name": "Danielle Dumesnil",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "69b20541d0235f63d04ef962",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1963222,
+        "known_for_department": "Art",
+        "name": "Sandra Nieuwenhuijsen",
+        "original_name": "Sandra Nieuwenhuijsen",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "69b206ab52c7a8c04a21d07f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131532,
+        "known_for_department": "Crew",
+        "name": "J.J. Perry",
+        "original_name": "J.J. Perry",
+        "popularity": 0.5368,
+        "profile_path": "/57assDPZceZ4x7YWrkPE5FqVn1f.jpg",
+        "credit_id": "69c1b659ac57d8589aa25a0c",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 128,
+        "name": "love triangle"
+      },
+      {
+        "id": 2708,
+        "name": "hitman"
+      },
+      {
+        "id": 3149,
+        "name": "gangster"
+      },
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 5455,
+        "name": "time machine"
+      },
+      {
+        "id": 10950,
+        "name": "shootout"
+      },
+      {
+        "id": 166462,
+        "name": "mob boss"
+      },
+      {
+        "id": 166631,
+        "name": "loan shark"
+      },
+      {
+        "id": 167541,
+        "name": "buddy comedy"
+      },
+      {
+        "id": 251639,
+        "name": "friends love same woman"
+      },
+      {
+        "id": 310672,
+        "name": "violence action"
+      },
+      {
+        "id": 345392,
+        "name": "action sequence"
+      },
+      {
+        "id": 347804,
+        "name": "action film"
+      },
+      {
+        "id": 358398,
+        "name": "action choreography"
+      },
+      {
+        "id": 362605,
+        "name": "fight scene"
+      },
+      {
+        "id": 367183,
+        "name": "sci-fi action"
+      },
+      {
+        "id": 370675,
+        "name": "multi\u2011timeline characters"
+      },
+      {
+        "id": 370677,
+        "name": "unpredictable situations"
+      },
+      {
+        "id": 370678,
+        "name": "fractured friendships"
+      },
+      {
+        "id": 370799,
+        "name": "buddy action"
+      }
+    ]
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "adult": false,
+  "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+  "belongs_to_collection": {
+    "id": 91361,
+    "name": "Halloween Collection",
+    "poster_path": "/uCIMY95aqKEwIEwNuFq42UQkY9f.jpg",
+    "backdrop_path": "/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg"
+  },
+  "budget": 325000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.theofficialjohncarpenter.com/halloween/",
+  "id": 948,
+  "imdb_id": "tt0077651",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Halloween",
+  "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+  "popularity": 15.2938,
+  "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+  "production_companies": [
+    {
+      "id": 14323,
+      "logo_path": "/efnw45BcPQve9ACNchnDufgV1po.png",
+      "name": "Compass International Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22814,
+      "logo_path": null,
+      "name": "Falcon International Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 232294,
+      "logo_path": null,
+      "name": "Miracle Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1978-10-24",
+  "revenue": 70260597,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The night he came home!",
+  "title": "Halloween",
+  "video": false,
+  "vote_average": 7.556,
+  "vote_count": 6122,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9221,
+        "known_for_department": "Acting",
+        "name": "Donald Pleasence",
+        "original_name": "Donald Pleasence",
+        "popularity": 1.016,
+        "profile_path": "/eVJGFCd8ikP6w0XjkuiTbsm65eD.jpg",
+        "cast_id": 14,
+        "character": "Loomis",
+        "credit_id": "52fe4292c3a36847f8029083",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8944,
+        "known_for_department": "Acting",
+        "name": "Jamie Lee Curtis",
+        "original_name": "Jamie Lee Curtis",
+        "popularity": 7.2669,
+        "profile_path": "/eb0lIt32WwrjtCULe5z6l9eBf06.jpg",
+        "cast_id": 15,
+        "character": "Laurie",
+        "credit_id": "52fe4292c3a36847f8029087",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11787,
+        "known_for_department": "Acting",
+        "name": "Nancy Kyes",
+        "original_name": "Nancy Kyes",
+        "popularity": 0.3891,
+        "profile_path": "/9LbRSE8soWZgkcHDLE6s8MSW6lG.jpg",
+        "cast_id": 16,
+        "character": "Annie",
+        "credit_id": "52fe4292c3a36847f802908b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15500,
+        "known_for_department": "Acting",
+        "name": "P. J. Soles",
+        "original_name": "P. J. Soles",
+        "popularity": 0.7928,
+        "profile_path": "/1f8uZoN3oLGmsoEOmOiaorxWoMt.jpg",
+        "cast_id": 17,
+        "character": "Lynda",
+        "credit_id": "52fe4292c3a36847f802908f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11786,
+        "known_for_department": "Acting",
+        "name": "Charles Cyphers",
+        "original_name": "Charles Cyphers",
+        "popularity": 0.6207,
+        "profile_path": "/cfDwWOFY9xOGiRxUwjIHhZ7U6lh.jpg",
+        "cast_id": 18,
+        "character": "Brackett",
+        "credit_id": "52fe4292c3a36847f8029093",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15503,
+        "known_for_department": "Acting",
+        "name": "Kyle Richards",
+        "original_name": "Kyle Richards",
+        "popularity": 1.3304,
+        "profile_path": "/dGzz3al33Q99G8Bcr9vQH7hlI7P.jpg",
+        "cast_id": 19,
+        "character": "Lindsey",
+        "credit_id": "52fe4292c3a36847f8029097",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15505,
+        "known_for_department": "Acting",
+        "name": "Brian Andrews",
+        "original_name": "Brian Andrews",
+        "popularity": 0.289,
+        "profile_path": "/7epiFWpYOSdjkCHyGz1162XbLuN.jpg",
+        "cast_id": 20,
+        "character": "Tommy",
+        "credit_id": "52fe4292c3a36847f802909b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15506,
+        "known_for_department": "Acting",
+        "name": "John Michael Graham",
+        "original_name": "John Michael Graham",
+        "popularity": 0.1749,
+        "profile_path": "/p67XshUxGdMtUW0bDhtrbZnV3bn.jpg",
+        "cast_id": 21,
+        "character": "Bob",
+        "credit_id": "52fe4292c3a36847f802909f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15508,
+        "known_for_department": "Acting",
+        "name": "Nancy Stephens",
+        "original_name": "Nancy Stephens",
+        "popularity": 0.3641,
+        "profile_path": "/6oS5nCeHAqszh2HgxoHXbmmnamB.jpg",
+        "cast_id": 22,
+        "character": "Marion",
+        "credit_id": "52fe4292c3a36847f80290a3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13392,
+        "known_for_department": "Acting",
+        "name": "Arthur Malet",
+        "original_name": "Arthur Malet",
+        "popularity": 0.5834,
+        "profile_path": "/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg",
+        "cast_id": 23,
+        "character": "Graveyard Keeper",
+        "credit_id": "52fe4292c3a36847f80290a7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15510,
+        "known_for_department": "Acting",
+        "name": "Mickey Yablans",
+        "original_name": "Mickey Yablans",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Richie",
+        "credit_id": "52fe4292c3a36847f80290ab",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15511,
+        "known_for_department": "Acting",
+        "name": "Brent Le Page",
+        "original_name": "Brent Le Page",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Lonnie",
+        "credit_id": "52fe4292c3a36847f80290af",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15513,
+        "known_for_department": "Acting",
+        "name": "Adam Hollander",
+        "original_name": "Adam Hollander",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Keith",
+        "credit_id": "52fe4292c3a36847f80290b3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15515,
+        "known_for_department": "Acting",
+        "name": "Robert Phalen",
+        "original_name": "Robert Phalen",
+        "popularity": 0.3775,
+        "profile_path": "/3iYiOBKzGkz3Ny9J72aHSqwPfQs.jpg",
+        "cast_id": 27,
+        "character": "Dr.  Wynn",
+        "credit_id": "52fe4292c3a36847f80290b7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15516,
+        "known_for_department": "Acting",
+        "name": "Tony Moran",
+        "original_name": "Tony Moran",
+        "popularity": 0.3087,
+        "profile_path": "/q8nYJo5WmSl7vdiMi7PDJnjB3C0.jpg",
+        "cast_id": 28,
+        "character": "Michael Myers age 23",
+        "credit_id": "52fe4292c3a36847f80290bb",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15517,
+        "known_for_department": "Acting",
+        "name": "Will Sandin",
+        "original_name": "Will Sandin",
+        "popularity": 0.0404,
+        "profile_path": "/lpjVt9yDvXwH5Ux6f2gagl1JyWC.jpg",
+        "cast_id": 29,
+        "character": "Michael Myers age 6",
+        "credit_id": "52fe4292c3a36847f80290bf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15518,
+        "known_for_department": "Acting",
+        "name": "Sandy Johnson",
+        "original_name": "Sandy Johnson",
+        "popularity": 0.2046,
+        "profile_path": "/5x2LWHYLz9uIVGoHYFBFwhyhRst.jpg",
+        "cast_id": 45,
+        "character": "Judith Myers",
+        "credit_id": "5a6944f30e0a260d7b009c38",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15519,
+        "known_for_department": "Acting",
+        "name": "David Kyle",
+        "original_name": "David Kyle",
+        "popularity": 0.0602,
+        "profile_path": "/rrBVDwLAkJKYmqAGzVmKgJhwmXF.jpg",
+        "cast_id": 31,
+        "character": "Boyfriend",
+        "credit_id": "52fe4292c3a36847f80290c7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1205471,
+        "known_for_department": "Acting",
+        "name": "Peter Griffith",
+        "original_name": "Peter Griffith",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Laurie's Father",
+        "credit_id": "52fe4292c3a36847f80290d7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14692,
+        "known_for_department": "Acting",
+        "name": "Nick Castle",
+        "original_name": "Nick Castle",
+        "popularity": 0.5824,
+        "profile_path": "/bKJuXeKR8GZLyiutiDSCwwCzZ7n.jpg",
+        "cast_id": 35,
+        "character": "The Shape",
+        "credit_id": "52fe4292c3a36847f80290db",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11772,
+        "known_for_department": "Production",
+        "name": "Barry Bernardi",
+        "original_name": "Barry Bernardi",
+        "popularity": 0.1611,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Dead Mechanic (uncredited)",
+        "credit_id": "52fe4292c3a36847f80290df",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2955263,
+        "known_for_department": "Acting",
+        "name": "Joseph Cornelius",
+        "original_name": "Joseph Cornelius",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Classmate (uncredited)",
+        "credit_id": "601252891b70ae003d5b69da",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 152289,
+        "known_for_department": "Acting",
+        "name": "George O'Hanlon, Jr.",
+        "original_name": "George O'Hanlon, Jr.",
+        "popularity": 0.5241,
+        "profile_path": "/nO90R7yIhaKxrm30PqS56bxla6D.jpg",
+        "cast_id": 38,
+        "character": "Mr. Peter Myers (uncredited)",
+        "credit_id": "52fe4292c3a36847f80290e7",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1205472,
+        "known_for_department": "Directing",
+        "name": "Darla Rae",
+        "original_name": "Darla Rae",
+        "popularity": 0.1262,
+        "profile_path": "/rczBMauBNLrevswoc17IejBj38W.jpg",
+        "cast_id": 39,
+        "character": "Student (uncredited)",
+        "credit_id": "52fe4292c3a36847f80290eb",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11770,
+        "known_for_department": "Directing",
+        "name": "John Carpenter",
+        "original_name": "John Carpenter",
+        "popularity": 2.0989,
+        "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "cast_id": 37,
+        "character": "Paul (voice) / Michael Myers (uncredited)",
+        "credit_id": "52fe4292c3a36847f80290e3",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11777,
+        "known_for_department": "Directing",
+        "name": "Tommy Lee Wallace",
+        "original_name": "Tommy Lee Wallace",
+        "popularity": 0.6595,
+        "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+        "cast_id": 47,
+        "character": "Michael Myers (uncredited)",
+        "credit_id": "5f7642d958efd30035ada7eb",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7633,
+        "known_for_department": "Acting",
+        "name": "Leslie Nielsen",
+        "original_name": "Leslie Nielsen",
+        "popularity": 2.5879,
+        "profile_path": "/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg",
+        "cast_id": 56,
+        "character": "Commander John J. Adams (archive footage)",
+        "credit_id": "69c4b9b9efdfc9d4a97cac47",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11770,
+        "known_for_department": "Directing",
+        "name": "John Carpenter",
+        "original_name": "John Carpenter",
+        "popularity": 2.0989,
+        "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "credit_id": "52fe4291c3a36847f8029037",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2161,
+        "known_for_department": "Production",
+        "name": "Debra Hill",
+        "original_name": "Debra Hill",
+        "popularity": 0.7989,
+        "profile_path": "/bpRZDGXm25CUqcejx2bAe1lf2QI.jpg",
+        "credit_id": "52fe4291c3a36847f802903d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2161,
+        "known_for_department": "Production",
+        "name": "Debra Hill",
+        "original_name": "Debra Hill",
+        "popularity": 0.7989,
+        "profile_path": "/bpRZDGXm25CUqcejx2bAe1lf2QI.jpg",
+        "credit_id": "52fe4291c3a36847f8029043",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060,
+        "known_for_department": "Camera",
+        "name": "Dean Cundey",
+        "original_name": "Dean Cundey",
+        "popularity": 0.2846,
+        "profile_path": "/5f95wKLwh4OTjGEzNkDhOdixDxU.jpg",
+        "credit_id": "52fe4291c3a36847f8029049",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11776,
+        "known_for_department": "Editing",
+        "name": "Charles Bornstein",
+        "original_name": "Charles Bornstein",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "52fe4291c3a36847f802904f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11777,
+        "known_for_department": "Directing",
+        "name": "Tommy Lee Wallace",
+        "original_name": "Tommy Lee Wallace",
+        "popularity": 0.6595,
+        "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+        "credit_id": "52fe4291c3a36847f8029055",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11777,
+        "known_for_department": "Directing",
+        "name": "Tommy Lee Wallace",
+        "original_name": "Tommy Lee Wallace",
+        "popularity": 0.6595,
+        "profile_path": "/tIg8jaCxA0wu1iJHlWUDrsm6SYa.jpg",
+        "credit_id": "52fe4291c3a36847f802905b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11779,
+        "known_for_department": "Art",
+        "name": "Craig Stearns",
+        "original_name": "Craig Stearns",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "52fe4292c3a36847f8029061",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1423849,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Erica Ueland",
+        "original_name": "Erica Ueland",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "52fe4292c3a36847f8029067",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15489,
+        "known_for_department": "Production",
+        "name": "Don Behrns",
+        "original_name": "Don Behrns",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "52fe4292c3a36847f802906d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15492,
+        "known_for_department": "Sound",
+        "name": "William L. Stevenson",
+        "original_name": "William L. Stevenson",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "credit_id": "52fe4292c3a36847f8029073",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 15494,
+        "known_for_department": "Visual Effects",
+        "name": "Conrad Rothmann",
+        "original_name": "Conrad Rothmann",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4292c3a36847f8029079",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15496,
+        "known_for_department": "Crew",
+        "name": "James Winburn",
+        "original_name": "James Winburn",
+        "popularity": 0.1432,
+        "profile_path": "/43dTcCj7f4SPuTI27dbwn07DlbG.jpg",
+        "credit_id": "52fe4292c3a36847f802907f",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11770,
+        "known_for_department": "Directing",
+        "name": "John Carpenter",
+        "original_name": "John Carpenter",
+        "popularity": 2.0989,
+        "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "credit_id": "52fe4292c3a36847f80290cd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11770,
+        "known_for_department": "Directing",
+        "name": "John Carpenter",
+        "original_name": "John Carpenter",
+        "popularity": 2.0989,
+        "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg",
+        "credit_id": "52fe4292c3a36847f80290d3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1563432,
+        "known_for_department": "Directing",
+        "name": "Louise Jaffe",
+        "original_name": "Louise Jaffe",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "606e0c43f5c82400769dfbba",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 62583,
+        "known_for_department": "Camera",
+        "name": "Raymond Stella",
+        "original_name": "Raymond Stella",
+        "popularity": 0.1535,
+        "profile_path": null,
+        "credit_id": "60ec4057a6c1040047e1e287",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11779,
+        "known_for_department": "Art",
+        "name": "Craig Stearns",
+        "original_name": "Craig Stearns",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "60ec407fbc2cb300462e459f",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20786,
+        "known_for_department": "Art",
+        "name": "Randy Moore",
+        "original_name": "Randy Moore",
+        "popularity": 0.6701,
+        "profile_path": null,
+        "credit_id": "60ec40b85e12000046043d63",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538705,
+        "known_for_department": "Sound",
+        "name": "Thomas Causey",
+        "original_name": "Thomas Causey",
+        "popularity": 0.2016,
+        "profile_path": null,
+        "credit_id": "60ec4160a14e10005e9eb195",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565918,
+        "known_for_department": "Camera",
+        "name": "Kim Gottlieb",
+        "original_name": "Kim Gottlieb",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60ec4191194186002ff2427a",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1446536,
+        "known_for_department": "Lighting",
+        "name": "Mark Walthour",
+        "original_name": "Mark Walthour",
+        "popularity": 0.1119,
+        "profile_path": null,
+        "credit_id": "60ec41acce5d82005f6248a6",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408557,
+        "known_for_department": "Production",
+        "name": "Kool Marder",
+        "original_name": "Kool Marder",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "561bb13e9251415a62000eef",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64059,
+        "known_for_department": "Production",
+        "name": "Irwin Yablans",
+        "original_name": "Irwin Yablans",
+        "popularity": 0.167,
+        "profile_path": null,
+        "credit_id": "561bb14e9251415a72000f7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66203,
+        "known_for_department": "Directing",
+        "name": "Moustapha Akkad",
+        "original_name": "Moustapha Akkad",
+        "popularity": 0.4013,
+        "profile_path": "/gLoQoPeijlGq74LJ9vjeDEMFl5C.jpg",
+        "credit_id": "5c26c204c3a3683a66d131e0",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2546,
+        "name": "mask"
+      },
+      {
+        "id": 6149,
+        "name": "police"
+      },
+      {
+        "id": 3335,
+        "name": "halloween"
+      },
+      {
+        "id": 2604,
+        "name": "babysitter"
+      },
+      {
+        "id": 10776,
+        "name": "marijuana"
+      },
+      {
+        "id": 10333,
+        "name": "stalking"
+      },
+      {
+        "id": 10714,
+        "name": "serial killer"
+      },
+      {
+        "id": 14805,
+        "name": "maniac"
+      },
+      {
+        "id": 17987,
+        "name": "killing spree"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 156075,
+        "name": "evil"
+      },
+      {
+        "id": 157701,
+        "name": "psychotic"
+      },
+      {
+        "id": 207159,
+        "name": "escaped killer"
+      }
+    ]
+  }
+}

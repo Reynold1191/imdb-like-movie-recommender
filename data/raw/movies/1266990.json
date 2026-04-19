@@ -1,0 +1,198 @@
+{
+  "adult": false,
+  "backdrop_path": "/mBc6RB7VajfykLqGx0ue7qatXky.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1266990,
+  "imdb_id": "tt32164798",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Kulong",
+  "overview": "Three friends retreat to a resort to collaborate on a daring screenplay for a contest. Faced with the challenge of writing about passion despite their own dry spells, their journey soon blurs the line between imagination and experience.",
+  "popularity": 17.6419,
+  "poster_path": "/AnzrE2WHg3DtZrtmB9AnEbAh17m.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-05-24",
+  "revenue": 0,
+  "runtime": 48,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kulong",
+  "video": false,
+  "vote_average": 6.324,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4103293,
+        "known_for_department": "Acting",
+        "name": "Jenn Rosa",
+        "original_name": "Jenn Rosa",
+        "popularity": 5.6479,
+        "profile_path": "/f2EItX0kOXJjDzZFZSFmGOVS8HB.jpg",
+        "cast_id": 3,
+        "character": "Minerva",
+        "credit_id": "660851122faf4d0164c84e41",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3363711,
+        "known_for_department": "Acting",
+        "name": "Aica Veloso",
+        "original_name": "Aica Veloso",
+        "popularity": 0.6383,
+        "profile_path": "/bL1Kd7IkesWnSPviN6waja99X7J.jpg",
+        "cast_id": 1,
+        "character": "Love",
+        "credit_id": "660850ec0d417e017c07183d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4529650,
+        "known_for_department": "Acting",
+        "name": "Cariz Manzano",
+        "original_name": "Cariz Manzano",
+        "popularity": 0.3826,
+        "profile_path": "/RaMgVj09Qm7cr1l3V4BYbOSKSZ.jpg",
+        "cast_id": 2,
+        "character": "Tisay",
+        "credit_id": "66085104a894d6017c65aa37",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4436738,
+        "known_for_department": "Acting",
+        "name": "JD Aguas",
+        "original_name": "JD Aguas",
+        "popularity": 0.4007,
+        "profile_path": "/sjZFtChwvFmzYHbkcOo8kz3yfCP.jpg",
+        "cast_id": 4,
+        "character": "Boie",
+        "credit_id": "66085121f9183a017f499487",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4534709,
+        "known_for_department": "Acting",
+        "name": "Ralph Engle",
+        "original_name": "Ralph Engle",
+        "popularity": 0.1024,
+        "profile_path": "/xHnaYDypbAWEYxyRUpcB5yxmRCv.jpg",
+        "cast_id": 6,
+        "character": "Jelon",
+        "credit_id": "6608514a021cee017c4ac060",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4475099,
+        "known_for_department": "Acting",
+        "name": "Ghion Layug",
+        "original_name": "Ghion Espinosa",
+        "popularity": 0.8982,
+        "profile_path": "/s3FMVqDXZ7lbEXDXh6HWBN0VEUy.jpg",
+        "cast_id": 5,
+        "character": "Rom",
+        "credit_id": "6608512fe62719017c0dc53a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3353633,
+        "known_for_department": "Acting",
+        "name": "Aina Ashley Roque",
+        "original_name": "Aina Ashley Roque",
+        "popularity": 0.2916,
+        "profile_path": "/uIjtxbtiVncGbdhSmnMPtjn9UPA.jpg",
+        "cast_id": 8,
+        "character": "Crowd",
+        "credit_id": "66e64cfe050f14e4fccf4df0",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3378221,
+        "known_for_department": "Acting",
+        "name": "Sigrid Polon",
+        "original_name": "Sigrid Polon",
+        "popularity": 0.4059,
+        "profile_path": "/7vHDtDsqSotb8WSaj4OrTJyFKvG.jpg",
+        "credit_id": "660851640d417e017c07186e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9833,
+        "name": "lesbian relationship"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 264386,
+        "name": "lesbian"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      },
+      {
+        "id": 319872,
+        "name": "lesbian romance"
+      },
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

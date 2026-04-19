@@ -1,0 +1,392 @@
+{
+  "adult": false,
+  "backdrop_path": "/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1526650,
+  "imdb_id": "tt38365045",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "\u6ce5\u5a03\u5a03",
+  "overview": "Hsu-Chuan, who works at a game company, accidentally brings home a broken clay doll from a haunted house while developing a new horror VR game. Unexpectedly, his pregnant wife, Mu-Hua, a cultural relic restorer, develops an obsession with the doll and relentlessly tries to repair it. As strange things begin to happen in the house, Mu-Hua's condition deteriorates, and Hsu-Chuan, at his wits' end, seeks help from a spiritual medium, Ah-Sheng. Meanwhile, the horrifying secret hidden behind the clay doll begins to surface.",
+  "popularity": 98.1642,
+  "poster_path": "/ifYNeKwpyKUTtjkUExrqTc65L2p.jpg",
+  "production_companies": [
+    {
+      "id": 165242,
+      "logo_path": null,
+      "name": "Gift Pictures",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2025-10-09",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mudborn",
+  "video": false,
+  "vote_average": 6.587,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96958,
+        "known_for_department": "Acting",
+        "name": "Tony Yang",
+        "original_name": "\u694a\u7950\u5be7",
+        "popularity": 1.8241,
+        "profile_path": "/d0C8Dp9itcFV4Q8bLRISguGJmPR.jpg",
+        "cast_id": 2,
+        "character": "Hsu-Chuan",
+        "credit_id": "6894b5b7ab73143d1d66e785",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1529401,
+        "known_for_department": "Acting",
+        "name": "Cecilia Choi",
+        "original_name": "Cecilia Choi",
+        "popularity": 1.0028,
+        "profile_path": "/ra9AbWmkItJMATFP2tcVByTz3Gw.jpg",
+        "cast_id": 3,
+        "character": "Mu-Hua",
+        "credit_id": "6894b5bdc1d2a14a2107c53d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671345,
+        "known_for_department": "Acting",
+        "name": "Derek Chang",
+        "original_name": "\u5f35\u8ed2\u777f",
+        "popularity": 1.0508,
+        "profile_path": "/lPvtlGroAk9BqrpibYNQd9DSdGI.jpg",
+        "cast_id": 4,
+        "character": "Ah-Sheng",
+        "credit_id": "6894b5c2a1a4c1d14428a4e4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2275124,
+        "known_for_department": "Acting",
+        "name": "Tracy Chou",
+        "original_name": "\u5468\u91c7\u8a69",
+        "popularity": 0.8065,
+        "profile_path": "/wmev38Te1PMW4YLjDbFmpX6GxEk.jpg",
+        "cast_id": 5,
+        "character": "Hsin",
+        "credit_id": "6894b5c9756989794599a906",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1258442,
+        "known_for_department": "Acting",
+        "name": "Puff Kuo",
+        "original_name": "\u90ed\u96ea\u8299",
+        "popularity": 1.5689,
+        "profile_path": "/mDiHTzTcRihoBhWUdZM02M8asMf.jpg",
+        "cast_id": 6,
+        "character": "Yen",
+        "credit_id": "6894b5ceb680fa5b4566e81a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232780,
+        "known_for_department": "Acting",
+        "name": "Chen Wei-min",
+        "original_name": "Chen Wei-Min",
+        "popularity": 0.4758,
+        "profile_path": "/pUAQjQ2xGL1jPeuiCu74y4TGykB.jpg",
+        "cast_id": 15,
+        "character": "Chang",
+        "credit_id": "68b41078e53afff1a93efac2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2397971,
+        "known_for_department": "Acting",
+        "name": "Li Kuan-yi",
+        "original_name": "\u674e\u51a0\u6bc5",
+        "popularity": 0.7915,
+        "profile_path": "/2wkWSmIhjcvYc3Jp1RGNx32hhhJ.jpg",
+        "cast_id": 16,
+        "character": "Ah-Yi",
+        "credit_id": "68b41084e4e33f1a9e1f21c7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2821437,
+        "known_for_department": "Acting",
+        "name": "Mountain Kao",
+        "original_name": "\u9ad8\u5c71\u5cf0",
+        "popularity": 0.4788,
+        "profile_path": "/9NKJtfZYCmSZt3O91J6IR4R6G7m.jpg",
+        "cast_id": 17,
+        "character": "Boss",
+        "credit_id": "68b998a2adad6c15461f4394",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1929225,
+        "known_for_department": "Acting",
+        "name": "Lindsey Huang",
+        "original_name": "\u9ec3\u5efa\u7fa4",
+        "popularity": 0.4679,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Master Li",
+        "credit_id": "68b998cf44cde0e5841f415e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4969773,
+        "known_for_department": "Acting",
+        "name": "Po Yen-hua",
+        "original_name": "\u67cf\u598d\u6a3a",
+        "popularity": 0.1649,
+        "profile_path": "/oRYNtPn821FQLTNMti6ER1nj7sm.jpg",
+        "cast_id": 20,
+        "character": "Hsiao-Chao",
+        "credit_id": "69d90623cafec949a387bd10",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3277534,
+        "known_for_department": "Production",
+        "name": "Ron Chang",
+        "original_name": "\u5f35\u54f2\u9f8d",
+        "popularity": 0.1147,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Hsu Chi-Kuang",
+        "credit_id": "69d9a62ad5706de8a7709a69",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5494602,
+        "known_for_department": "Acting",
+        "name": "Chao Chung-jung",
+        "original_name": "Chao Chung-jung",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mr. Hsu",
+        "credit_id": "69d9a64648a4c08af8709a34",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3771357,
+        "known_for_department": "Acting",
+        "name": "Chen Ya-hui",
+        "original_name": "\u9673\u96c5\u6167",
+        "popularity": 0.2423,
+        "profile_path": "/hXbb0ezl4GVrA6hv6BxjW3YslZg.jpg",
+        "cast_id": 23,
+        "character": "Mrs. Hsu",
+        "credit_id": "69d9a6581c754963c41d8eee",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3737320,
+        "known_for_department": "Acting",
+        "name": "Tseng Hao-tse",
+        "original_name": "\u66fe\u7693\u6fa4",
+        "popularity": 0.1864,
+        "profile_path": "/xVEkn6uNTyvGFGQvDfwat3Stu8p.jpg",
+        "cast_id": 24,
+        "character": "Student",
+        "credit_id": "69d9a67284cd8797091d8cc8",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2425115,
+        "known_for_department": "Editing",
+        "name": "Shieh Meng-ju",
+        "original_name": "\u89e3\u5b5f\u5112",
+        "popularity": 0.5341,
+        "profile_path": "/iDjIjVSBosOci389IMQhbyUg1nX.jpg",
+        "credit_id": "6894b5a3a871f4e1f766e87d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3650005,
+        "known_for_department": "Writing",
+        "name": "Huang Yen-chiao",
+        "original_name": "\u9ec3\u5f65\u6a35",
+        "popularity": 0.4374,
+        "profile_path": null,
+        "credit_id": "6894b69416f584496607c508",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2698700,
+        "known_for_department": "Production",
+        "name": "Leo Chen",
+        "original_name": "\u9673\u4eae\u6750",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "credit_id": "6894b6e1bc57a954b29222e3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589024,
+        "known_for_department": "Directing",
+        "name": "Lien Yi-chi",
+        "original_name": "\u9023\u5955\u7426",
+        "popularity": 0.7102,
+        "profile_path": "/ui7M7yotYYPa5BHNMeZubBGVBZ6.jpg",
+        "credit_id": "6894b6fd3f84d168e2a32c74",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2351953,
+        "known_for_department": "Camera",
+        "name": "Chen Chi-wen",
+        "original_name": "\u9673\u9e92\u6587",
+        "popularity": 0.0671,
+        "profile_path": "/7yjyFlaLoLIULLkmhqQe1fB3Tfl.jpg",
+        "credit_id": "68958ca15591327167c6eaa9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2700870,
+        "known_for_department": "Art",
+        "name": "Chen Po-jen",
+        "original_name": "\u9673\u67cf\u4efb",
+        "popularity": 0.0991,
+        "profile_path": null,
+        "credit_id": "68958cb53ee737d8b09224b8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3281128,
+        "known_for_department": "Visual Effects",
+        "name": "ArChin Yen",
+        "original_name": "\u56b4\u632f\u6b3d",
+        "popularity": 0.1241,
+        "profile_path": "/yuAnGSX3IyuaWewJHH5QHsP9T3Q.jpg",
+        "credit_id": "68958cc5b680fa5b4566ebd5",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2018013,
+        "known_for_department": "Sound",
+        "name": "Rockid Lee",
+        "original_name": "\u674e\u9298\u5091",
+        "popularity": 0.0694,
+        "profile_path": "/uCS0JfoW9XuVIyMtHgS5ZEovENg.jpg",
+        "credit_id": "68958cd72531881a38a32f4d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2984845,
+        "known_for_department": "Sound",
+        "name": "R.T. Kao",
+        "original_name": "\u9ad8\u5049\u664f",
+        "popularity": 0.1104,
+        "profile_path": "/sjXPtwTfqKHQD2YDwzzVBCghjM.jpg",
+        "credit_id": "68958d050d7fc32b7c28a86e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2728228,
+        "known_for_department": "Acting",
+        "name": "Ding Dang",
+        "original_name": "\u4e01\u5679",
+        "popularity": 0.2201,
+        "profile_path": "/aueFAP1WpqqoSnkwSap98hYQE4u.jpg",
+        "credit_id": "68d47b847ca9447d0bdfd0ad",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

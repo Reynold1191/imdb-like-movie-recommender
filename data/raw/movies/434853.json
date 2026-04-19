@@ -1,0 +1,399 @@
+{
+  "adult": false,
+  "backdrop_path": "/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://epic-pictures.com/film/spacetime",
+  "id": 434853,
+  "imdb_id": "tt5050634",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Space/Time",
+  "overview": "After a fatal test shuts down their project, a disgraced team of scientists enters the criminal underworld to rebuild a forbidden space-bending engine that could rescue humanity or annihilate it entirely.",
+  "popularity": 11.0214,
+  "poster_path": "/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
+  "production_companies": [
+    {
+      "id": 85454,
+      "logo_path": null,
+      "name": "Mohworks Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-06-25",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What matters most is relative.",
+  "title": "Space/Time",
+  "video": false,
+  "vote_average": 5.862,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1632128,
+        "known_for_department": "Acting",
+        "name": "Ashlee Lollback",
+        "original_name": "Ashlee Lollback",
+        "popularity": 0.3905,
+        "profile_path": "/e6x9PaVwH1grohBXu2Uqn6NXB3T.jpg",
+        "cast_id": 0,
+        "character": "Liv",
+        "credit_id": "58790b65c3a36808fb000344",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542087,
+        "known_for_department": "Acting",
+        "name": "Hugh Parker",
+        "original_name": "Hugh Parker",
+        "popularity": 0.4074,
+        "profile_path": "/2ZlZ3AzvNEVz0jHtGyyDouPZBVu.jpg",
+        "cast_id": 1,
+        "character": "Holt",
+        "credit_id": "58790b72925141604e00039b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576672,
+        "known_for_department": "Acting",
+        "name": "Pacharo Mzembe",
+        "original_name": "Pacharo Mzembe",
+        "popularity": 0.2067,
+        "profile_path": "/lXeEgdThQ8eqFiAv6HTwqJn6AU5.jpg",
+        "cast_id": 2,
+        "character": "Harris",
+        "credit_id": "58790b7fc3a3680901000367",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738293,
+        "known_for_department": "Acting",
+        "name": "Haroon Jafarey-Hall",
+        "original_name": "Haroon Jafarey-Hall",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Renault",
+        "credit_id": "58790ba3c3a36808e40003a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738294,
+        "known_for_department": "Acting",
+        "name": "Shaun King",
+        "original_name": "Shaun King",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Gordo",
+        "credit_id": "58790bc392514160470003d8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738295,
+        "known_for_department": "Acting",
+        "name": "Craig Gaffney",
+        "original_name": "Craig Gaffney",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Dale",
+        "credit_id": "58790bcd9251416057000370",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738296,
+        "known_for_department": "Acting",
+        "name": "Rob Horton",
+        "original_name": "Rob Horton",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Innis",
+        "credit_id": "58790bd6c3a368090100038f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1634440,
+        "known_for_department": "Acting",
+        "name": "Sophia Emberson-Bain",
+        "original_name": "Sophia Emberson-Bain",
+        "popularity": 0.1563,
+        "profile_path": "/2wYeNgiPfgs3lzd3JWW9aqfB2mD.jpg",
+        "cast_id": 7,
+        "character": "Paige",
+        "credit_id": "58790be49251416049000384",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738297,
+        "known_for_department": "Acting",
+        "name": "Gareth Harris",
+        "original_name": "Gareth Harris",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Boulevont",
+        "credit_id": "58790bedc3a36808fb000385",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738298,
+        "known_for_department": "Acting",
+        "name": "Robin Darch",
+        "original_name": "Robin Darch",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Isaac",
+        "credit_id": "58790bfbc3a368090d0003ae",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1422937,
+        "known_for_department": "Acting",
+        "name": "Erin Connor",
+        "original_name": "Erin Connor",
+        "popularity": 0.1259,
+        "profile_path": "/F81yk8MeOJy1MhQqY3ROwS3CyQ.jpg",
+        "cast_id": 10,
+        "character": "Thanner",
+        "credit_id": "58790c0c92514160490003a2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738299,
+        "known_for_department": "Acting",
+        "name": "Damien Campagnolo",
+        "original_name": "Damien Campagnolo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Manny",
+        "credit_id": "58790c15925141604700040f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738300,
+        "known_for_department": "Acting",
+        "name": "Madison Sturgess",
+        "original_name": "Madison Sturgess",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Naomi",
+        "credit_id": "58790c1d9251416051000373",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536252,
+        "known_for_department": "Acting",
+        "name": "Loretta Kung",
+        "original_name": "Loretta Kung",
+        "popularity": 0.0338,
+        "profile_path": "/dD5ur7zHLWs8vNzYmPxzbCzmOqG.jpg",
+        "cast_id": 13,
+        "character": "Maria",
+        "credit_id": "58790c349251416047000420",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1738301,
+        "known_for_department": "Acting",
+        "name": "Cate Feldmann",
+        "original_name": "Cate Feldmann",
+        "popularity": 0.0775,
+        "profile_path": "/xb9u4seLcLrRsOxroqCZRQNlOtA.jpg",
+        "cast_id": 14,
+        "character": "Janet",
+        "credit_id": "58790c3d925141604700042b",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738303,
+        "known_for_department": "Writing",
+        "name": "Michael O'Halloran",
+        "original_name": "Michael O'Halloran",
+        "popularity": 0.0214,
+        "profile_path": "/mUtWUdmiSjvNFAIrc7gTulhqQXr.jpg",
+        "credit_id": "58790cb8925141604b000465",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738303,
+        "known_for_department": "Writing",
+        "name": "Michael O'Halloran",
+        "original_name": "Michael O'Halloran",
+        "popularity": 0.0214,
+        "profile_path": "/mUtWUdmiSjvNFAIrc7gTulhqQXr.jpg",
+        "credit_id": "58790cadc3a36808f30003de",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738302,
+        "known_for_department": "Writing",
+        "name": "Adam Harmer",
+        "original_name": "Adam Harmer",
+        "popularity": 0.0243,
+        "profile_path": null,
+        "credit_id": "58790c90c3a36808e4000433",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738302,
+        "known_for_department": "Writing",
+        "name": "Adam Harmer",
+        "original_name": "Adam Harmer",
+        "popularity": 0.0243,
+        "profile_path": null,
+        "credit_id": "681bef6d6c7881d1c40b2692",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1738303,
+        "known_for_department": "Writing",
+        "name": "Michael O'Halloran",
+        "original_name": "Michael O'Halloran",
+        "popularity": 0.0214,
+        "profile_path": "/mUtWUdmiSjvNFAIrc7gTulhqQXr.jpg",
+        "credit_id": "681bef8c96d9b829d588bf3e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3384392,
+        "known_for_department": "Directing",
+        "name": "Jai Hogg",
+        "original_name": "Jai Hogg",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "681bef9aec18c995d70b2678",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2964,
+        "name": "future"
+      },
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 3801,
+        "name": "space travel"
+      },
+      {
+        "id": 5455,
+        "name": "time machine"
+      },
+      {
+        "id": 3667,
+        "name": "time"
+      },
+      {
+        "id": 9882,
+        "name": "space"
+      },
+      {
+        "id": 250196,
+        "name": "space time"
+      },
+      {
+        "id": 287067,
+        "name": "science"
+      },
+      {
+        "id": 323114,
+        "name": "crime"
+      },
+      {
+        "id": 349105,
+        "name": "interstellar"
+      }
+    ]
+  }
+}

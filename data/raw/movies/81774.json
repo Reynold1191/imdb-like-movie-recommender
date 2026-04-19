@@ -1,0 +1,633 @@
+{
+  "adult": false,
+  "backdrop_path": "/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 81774,
+  "imdb_id": "tt0092995",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Exploits d'un jeune Don Juan",
+  "overview": "In 1914, sixteen year old Roger returned home from boarding school during vacation to find his puberty hit hard in a house filled with beautiful women. These women have previous engagements with other men who are away, and during this time, Roger impregnates them all, including his aunt and sister, then devises plans to cuckold the men.",
+  "popularity": 19.589,
+  "poster_path": "/xvtRgQIRegLjsjaIkKQbh0hk3Qy.jpg",
+  "production_companies": [
+    {
+      "id": 51304,
+      "logo_path": null,
+      "name": "S\u00e9l\u00e9na Audiovisuel",
+      "origin_country": ""
+    },
+    {
+      "id": 28391,
+      "logo_path": null,
+      "name": "Antea Cinematografica",
+      "origin_country": ""
+    },
+    {
+      "id": 51305,
+      "logo_path": null,
+      "name": "Lagonda Films",
+      "origin_country": ""
+    },
+    {
+      "id": 7110,
+      "logo_path": null,
+      "name": "Les Films Ariane",
+      "origin_country": "FR"
+    },
+    {
+      "id": 26899,
+      "logo_path": null,
+      "name": "Orph\u00e9e Arts",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1986-11-04",
+  "revenue": 1300000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Exploits of a Young Don Juan",
+  "video": false,
+  "vote_average": 6.023,
+  "vote_count": 307,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41163,
+        "known_for_department": "Acting",
+        "name": "Serena Grandi",
+        "original_name": "Serena Grandi",
+        "popularity": 4.0065,
+        "profile_path": "/tEj8FyPTgmiNKtcs8Xz4ma6gn9w.jpg",
+        "cast_id": 4,
+        "character": "Ursule",
+        "credit_id": "52fe482a9251416c91082a0b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9919,
+        "known_for_department": "Acting",
+        "name": "Claudine Auger",
+        "original_name": "Claudine Auger",
+        "popularity": 1.2632,
+        "profile_path": "/1KAAUhgfVxdI5g2t0YFCG9ITrvi.jpg",
+        "cast_id": 5,
+        "character": "La m\u00e8re",
+        "credit_id": "52fe482a9251416c91082a0f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14813,
+        "known_for_department": "Acting",
+        "name": "Marina Vlady",
+        "original_name": "Marina Vlady",
+        "popularity": 0.7222,
+        "profile_path": "/zb6pWsjtLsr5BHRlkKAVpu28ShW.jpg",
+        "cast_id": 3,
+        "character": "Mme Muller",
+        "credit_id": "52fe482a9251416c91082a07",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592458,
+        "known_for_department": "Acting",
+        "name": "Fabrice Josso",
+        "original_name": "Fabrice Josso",
+        "popularity": 0.6947,
+        "profile_path": "/wZ4tnhUH8Io1dcGcKajWvCYThfv.jpg",
+        "cast_id": 2,
+        "character": "Roger",
+        "credit_id": "52fe482a9251416c91082a03",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32043,
+        "known_for_department": "Acting",
+        "name": "Fran\u00e7ois Perrot",
+        "original_name": "Fran\u00e7ois Perrot",
+        "popularity": 0.2617,
+        "profile_path": "/z7apRA3QHT28HH9UOe9UXFlZCsd.jpg",
+        "cast_id": 6,
+        "character": "Le p\u00e8re",
+        "credit_id": "52fe482b9251416c91082a13",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15482,
+        "known_for_department": "Acting",
+        "name": "Aur\u00e9lien Recoing",
+        "original_name": "Aur\u00e9lien Recoing",
+        "popularity": 0.4953,
+        "profile_path": "/slDvlNa3l9eadFF2sANRk7jcjCl.jpg",
+        "cast_id": 9,
+        "character": "Adolphe",
+        "credit_id": "553d58029251413f5a008468",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29513,
+        "known_for_department": "Acting",
+        "name": "Rosette",
+        "original_name": "Rosette",
+        "popularity": 0.3001,
+        "profile_path": "/8p94hYFOqPwT0sD9Q3ZlWefMlqO.jpg",
+        "cast_id": 10,
+        "character": "H\u00e9l\u00e8ne",
+        "credit_id": "553d58299251411435001eec",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115686,
+        "known_for_department": "Acting",
+        "name": "Laurent Spielvogel",
+        "original_name": "Laurent Spielvogel",
+        "popularity": 0.215,
+        "profile_path": "/u8Lxm7eCaqYfXddwfmA9Wjylzqv.jpg",
+        "cast_id": 11,
+        "character": "M. Frank",
+        "credit_id": "553d58429251413f5a008475",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53425,
+        "known_for_department": "Acting",
+        "name": "Alexandra Vandernoot",
+        "original_name": "Alexandra Vandernoot",
+        "popularity": 0.8473,
+        "profile_path": "/qfIFGsamsqi8yDsdBY6VNuG6QPG.jpg",
+        "cast_id": 12,
+        "character": "Elisa",
+        "credit_id": "553d585cc3a368066d001d6d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459483,
+        "known_for_department": "Acting",
+        "name": "Marion Peterson",
+        "original_name": "Marion Peterson",
+        "popularity": 0.9011,
+        "profile_path": "/6NxswBzNsPiIdEHHIF16oRMsR1H.jpg",
+        "cast_id": 13,
+        "character": "Kate",
+        "credit_id": "553d5877c3a368784500d199",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133144,
+        "known_for_department": "Acting",
+        "name": "Yves Lambrecht",
+        "original_name": "Yves Lambrecht",
+        "popularity": 0.1501,
+        "profile_path": "/nIaOR3c7AKHgpqGBnMwwqxkhFf1.jpg",
+        "cast_id": 17,
+        "character": "Roland",
+        "credit_id": "553d58dc92514137f9001c63",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19163,
+        "known_for_department": "Acting",
+        "name": "Virginie Ledoyen",
+        "original_name": "Virginie Ledoyen",
+        "popularity": 1.1458,
+        "profile_path": "/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg",
+        "cast_id": 14,
+        "character": "Berthe",
+        "credit_id": "553d5892c3a368066d001d71",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407,
+        "known_for_department": "Acting",
+        "name": "Rufus",
+        "original_name": "Rufus",
+        "popularity": 0.5999,
+        "profile_path": "/tJkFZMSwF5Rx91KswEPJvLYcKJX.jpg",
+        "cast_id": 15,
+        "character": "Le moine",
+        "credit_id": "553d58adc3a3687db1001b52",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122420,
+        "known_for_department": "Acting",
+        "name": "B\u00e9rang\u00e8re Bonvoisin",
+        "original_name": "B\u00e9rang\u00e8re Bonvoisin",
+        "popularity": 0.2329,
+        "profile_path": "/548Mwz1n6OxKAFkEyTDddFeRoH7.jpg",
+        "cast_id": 16,
+        "character": "Tante Marguerite",
+        "credit_id": "553d58c5c3a368066d001d77",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584986,
+        "known_for_department": "Acting",
+        "name": "Daniel Langlet",
+        "original_name": "Daniel Langlet",
+        "popularity": 0.105,
+        "profile_path": "/h5HhLC9RAKnaiC7qFG9qQCWSiUu.jpg",
+        "cast_id": 18,
+        "character": "M. Muller (uncredited)",
+        "credit_id": "553d58f2c3a3683e55006468",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 290220,
+        "known_for_department": "Acting",
+        "name": "Jean-Claude Frissung",
+        "original_name": "Jean-Claude Frissung",
+        "popularity": 0.1515,
+        "profile_path": "/lsJcKDcJuhsUVVyklooFMgSfusw.jpg",
+        "cast_id": 19,
+        "character": "Valentin (uncredited)",
+        "credit_id": "59cb75079251412bed00d48a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4627720,
+        "known_for_department": "Acting",
+        "name": "Josy Rosier",
+        "original_name": "Josy Rosier",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "La cuisini\u00e8re (uncredited)",
+        "credit_id": "660ae172e039f1017ce52960",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4627721,
+        "known_for_department": "Acting",
+        "name": "Patrick Houpert",
+        "original_name": "Patrick Houpert",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Paysan (uncredited)",
+        "credit_id": "660ae18b15dea0017c3384c9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777416,
+        "known_for_department": "Acting",
+        "name": "Eric Kailey",
+        "original_name": "Eric Kailey",
+        "popularity": 0.2198,
+        "profile_path": "/cyMRibIfe3cE8rPiL7MY6qIC1HM.jpg",
+        "cast_id": 29,
+        "character": "Paysan (uncredited)",
+        "credit_id": "660ae1a15aadc40149626a79",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4627725,
+        "known_for_department": "Acting",
+        "name": "Caroline Finnaert",
+        "original_name": "Caroline Finnaert",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Paysan (uncredited)",
+        "credit_id": "660ae1c3a0be28017d724623",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239341,
+        "known_for_department": "Directing",
+        "name": "Gianfranco Mingozzi",
+        "original_name": "Gianfranco Mingozzi",
+        "popularity": 0.2233,
+        "profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+        "credit_id": "52fe482a9251416c910829ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152709,
+        "known_for_department": "Acting",
+        "name": "Guillaume Apollinaire",
+        "original_name": "Guillaume Apollinaire",
+        "popularity": 0.1786,
+        "profile_path": "/ybHHfSL0eb65HgtHWrI6JpCH6lP.jpg",
+        "credit_id": "52fe482b9251416c91082a19",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9747,
+        "known_for_department": "Writing",
+        "name": "Jean-Claude Carri\u00e8re",
+        "original_name": "Jean-Claude Carri\u00e8re",
+        "popularity": 0.8038,
+        "profile_path": "/aBHANidKViiyTFj5JeMyrvp3l8x.jpg",
+        "credit_id": "52fe482b9251416c91082a1f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180678,
+        "known_for_department": "Camera",
+        "name": "Luigi Verga",
+        "original_name": "Luigi Verga",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "653ba542bc2cb300aca2cad7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37313,
+        "known_for_department": "Directing",
+        "name": "Peter Fleischmann",
+        "original_name": "Peter Fleischmann",
+        "popularity": 0.3306,
+        "profile_path": "/to8mMdKw2guNZu4rjUxVZKVOyNW.jpg",
+        "credit_id": "6451d5add48cee0170251da8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239341,
+        "known_for_department": "Directing",
+        "name": "Gianfranco Mingozzi",
+        "original_name": "Gianfranco Mingozzi",
+        "popularity": 0.2233,
+        "profile_path": "/rE5SN0Xz3AyxmMwtNeGPgFjdAke.jpg",
+        "credit_id": "6451d5b7091e6200e4cca844",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94909,
+        "known_for_department": "Production",
+        "name": "Nicolas Duval Adassovsky",
+        "original_name": "Nicolas Duval Adassovsky",
+        "popularity": 0.1986,
+        "profile_path": "/xtkq69lpihBu20o6kBBATE11LNx.jpg",
+        "credit_id": "6451d5c5d8f44e011ae151d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 307308,
+        "known_for_department": "Production",
+        "name": "Enzo Porcelli",
+        "original_name": "Enzo Porcelli",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6451d5e0c0442900e2f08c26",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180679,
+        "known_for_department": "Editing",
+        "name": "Alfredo Muschietti",
+        "original_name": "Alfredo Muschietti",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6451d5f187a27a00e38e9e76",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24297,
+        "known_for_department": "Art",
+        "name": "Jacques Saulnier",
+        "original_name": "Jacques Saulnier",
+        "popularity": 0.0646,
+        "profile_path": "/jMIcmE4WPirjtXLW0USNdKkJ2ef.jpg",
+        "credit_id": "679079d7ba46990f54dfe8bc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 406471,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yvonne Sassinot de Nesle",
+        "original_name": "Yvonne Sassinot de Nesle",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "679079ea3479c48ccb28acf4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5195663,
+        "known_for_department": "Production",
+        "name": "Chantal Bergamo",
+        "original_name": "Chantal Bergamo",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "67907a153479c48ccb28ad04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9245,
+        "known_for_department": "Sound",
+        "name": "Nicola Piovani",
+        "original_name": "Nicola Piovani",
+        "popularity": 0.2136,
+        "profile_path": "/56tRfEIn4RBPhjJ7JOGCOtTZApU.jpg",
+        "credit_id": "67907a26fc2519b43f774683",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007059,
+        "known_for_department": "Sound",
+        "name": "Jean-Pierre Delorme",
+        "original_name": "Jean-Pierre Delorme",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67907a3fa3c7d79472dfebd2",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2389,
+        "name": "virgin"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9888,
+        "name": "spanking"
+      },
+      {
+        "id": 13097,
+        "name": "maid"
+      },
+      {
+        "id": 18068,
+        "name": "teenage boy"
+      },
+      {
+        "id": 33451,
+        "name": "masturbation"
+      },
+      {
+        "id": 33841,
+        "name": "incest"
+      },
+      {
+        "id": 155477,
+        "name": "softcore"
+      },
+      {
+        "id": 158199,
+        "name": "aunt nephew relationship"
+      },
+      {
+        "id": 183686,
+        "name": "war context"
+      },
+      {
+        "id": 210184,
+        "name": "1910s"
+      },
+      {
+        "id": 232938,
+        "name": "brother sister sex"
+      },
+      {
+        "id": 285398,
+        "name": "20th century"
+      },
+      {
+        "id": 302868,
+        "name": "erotic comedy"
+      },
+      {
+        "id": 343479,
+        "name": "seductive maid"
+      },
+      {
+        "id": 350360,
+        "name": "brother sister incest"
+      },
+      {
+        "id": 350707,
+        "name": "aunt nephew sex"
+      },
+      {
+        "id": 350708,
+        "name": "aunt nephew incest"
+      }
+    ]
+  }
+}

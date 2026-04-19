@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1236814,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\uc911\ub144\ubd80\ubd80 \uc2a4\uc640\ud551 \uc6cc\ud06c\uc0f5",
+  "overview": "The young deputy Dong-sik and his wife, along with the middle-aged couple manager, went on a trip together as a couple. In fact, Dong-sik became involved in their friendship trip with ambitions for promotion. However, Dong-sik's wife, Eun-joo, takes care of her wives and is full of dissatisfaction because she seems to have become a helper for them instead of a trip. By chance, Dong-sik witnesses the manager's wife, Mal-sook, having an affair with her manager Seong-gil. In order to shut Dong-sik's mouth, Mal-sook starts her secret proposal...",
+  "popularity": 11.4245,
+  "poster_path": "/1iVFVLcw9VN1P9kSrit8uw0iBUH.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-04-21",
+  "revenue": 0,
+  "runtime": 69,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Swapping Workshop for Middle-aged Couples",
+  "video": false,
+  "vote_average": 9.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3674362,
+        "known_for_department": "Acting",
+        "name": "Dal Rae",
+        "original_name": "Dal Rae",
+        "popularity": 0.3836,
+        "profile_path": "/uaW8LZu0XCAFNkRyRepf4cRwC1f.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "65b51a9e60c51d0163d0a8fa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3961517,
+        "known_for_department": "Acting",
+        "name": "Do Hee",
+        "original_name": "Do Hee",
+        "popularity": 4.8078,
+        "profile_path": "/vDit74BhcHxhA3leJjHmdOd2JHd.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "65b51aacb1131f0172291d99",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4503022,
+        "known_for_department": "Acting",
+        "name": "Jang Mi",
+        "original_name": "Jang Mi",
+        "popularity": 2.36,
+        "profile_path": "/4fccLY416JaweT9aR2CgVz7bJqu.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "65b51d24f6596f0163fe44c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2294764,
+        "known_for_department": "Acting",
+        "name": "Han Seok-bong",
+        "original_name": "Han Seok-bong",
+        "popularity": 0.8382,
+        "profile_path": "/5ABOVmENCwpAC1uXrK16luzW5g9.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "65b51e001c635b017b135813",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2454838,
+        "known_for_department": "Acting",
+        "name": "Hun-i",
+        "original_name": "Hun-i",
+        "popularity": 0.1799,
+        "profile_path": "/27TEMSoFFKoJtynWgbkc13Csf9p.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "65b51e3db6cff10149f60686",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3422049,
+        "known_for_department": "Acting",
+        "name": "Woo Yeol",
+        "original_name": "\uc6b0\uc5f4",
+        "popularity": 5.4197,
+        "profile_path": "/cBFYjowEOcHV3Xvm24N1IzkkU4I.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "65b51e52b1131f018d294594",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3424437,
+        "known_for_department": "Directing",
+        "name": "Kim Tae-hoon",
+        "original_name": "Kim Tae-hoon",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "65b51ea24f33ad01470b2a6d",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      },
+      {
+        "id": 281741,
+        "name": "nudity"
+      }
+    ]
+  }
+}

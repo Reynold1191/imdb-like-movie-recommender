@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/nyW8YdrnSYtmTE9hgrpmGqkKw5b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1658216,
+  "imdb_id": "tt40541157",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Stepdaddy",
+  "overview": "Emotions and intrigue run high in this titillating taboo family affair. Chloe and Nica are sisters who both find themselves in their own passionate love affairs with their stepdad Carl.",
+  "popularity": 45.2267,
+  "poster_path": "/oZxNblisKuDzSUW5g18FERjyJs9.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-04-04",
+  "revenue": 0,
+  "runtime": 70,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stepdaddy",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5536858,
+        "known_for_department": "Acting",
+        "name": "Astrid Lee",
+        "original_name": "Astrid Lee",
+        "popularity": 4.6762,
+        "profile_path": "/h0sQk1TkRHHDMuNIG2CSfiZu8ks.jpg",
+        "cast_id": 1,
+        "character": "Chloe",
+        "credit_id": "69c4b94b40b7889d00149614",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3878240,
+        "known_for_department": "Acting",
+        "name": "Christy Imperial",
+        "original_name": "Christy Imperial",
+        "popularity": 3.09,
+        "profile_path": "/yZD7CzFcA5UdiDC4QSYOb5sG1Ve.jpg",
+        "cast_id": 2,
+        "character": "Nica",
+        "credit_id": "69c4b9569432dfb29b833b3f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053797,
+        "known_for_department": "Acting",
+        "name": "Jamilla Obispo",
+        "original_name": "Jamilla Obispo",
+        "popularity": 1.9965,
+        "profile_path": "/buEZ1JRw08o8sM1uH7tBV5UNENT.jpg",
+        "cast_id": 3,
+        "character": "Joyce",
+        "credit_id": "69c4b96018714e2cd962ca21",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2252696,
+        "known_for_department": "Acting",
+        "name": "Marlon Marcia",
+        "original_name": "Marlon Marcia",
+        "popularity": 0.7401,
+        "profile_path": "/9LEfMCMhN0KX3XGANJggXLKx8fJ.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69c4b96def623df57614960a",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3896943,
+        "known_for_department": "Directing",
+        "name": "Christopher Novabos",
+        "original_name": "Christopher Novabos",
+        "popularity": 0.1868,
+        "profile_path": "/u3A2B6HwPHei9UDK5HPUtVlQLPu.jpg",
+        "credit_id": "69c4b989c5b2b995d8b7d349",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

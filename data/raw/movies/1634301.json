@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1634301,
+  "imdb_id": "",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Vanaveera",
+  "overview": "A descendant of the Vanara clan is pushed into conflict when a modern-day Ravana seizes his only bike for an election rally. What starts as a petty injustice soon erupts into a fierce fight for self-respect and dignity.",
+  "popularity": 20.1818,
+  "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-02-13",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vanaveera",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1712424,
+        "known_for_department": "Acting",
+        "name": "Chammak Chandra",
+        "original_name": "Chammak Chandra",
+        "popularity": 0.2857,
+        "profile_path": "/xEtdW0GJozV3rIi2ZLJo4na7piE.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "698e8740d05489eb660c222f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2876455,
+        "known_for_department": "Acting",
+        "name": "Simran Choudhary",
+        "original_name": "Simran Choudhary",
+        "popularity": 0.2218,
+        "profile_path": "/2vcxLbeEDTwldxDlAbOrzZQkpJl.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "698e875632f2c2d31a3059ca",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071558,
+        "known_for_department": "Acting",
+        "name": "Nandu Vijay Krishna",
+        "original_name": "Nandu Vijay Krishna",
+        "popularity": 0.2483,
+        "profile_path": "/z4ntPEduBCkqmci7RgrZ8xiNQ8a.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "698e876d600c055bb90c2276",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

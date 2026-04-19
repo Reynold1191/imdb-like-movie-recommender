@@ -1,0 +1,374 @@
+{
+  "adult": false,
+  "backdrop_path": "/gLXibzLQ4qegvjdqDC0f8yTij2P.jpg",
+  "belongs_to_collection": {
+    "id": 1676240,
+    "name": "The Miranda Green Mysteries",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.ace-entertainment.com/originalcontent/murder-at-the-embassy",
+  "id": 1310568,
+  "imdb_id": "tt22772712",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Murder at the Embassy",
+  "overview": "1934. Private detective Miranda Green investigates a murder perpetrated in the British Embassy in Cairo, where a top secret document was stolen, risking to jeopardize both Buckingham Palace and the peace of the world. All those present in this closed place are suspected: the American photographer, the English student, the American actress, the Egyptian security guard, the ambassador interpreter, the Egyptian gardener and - why not? \u2014 the Ambassador himself. But who would have expected that a small group of Nazis would be behind a plot, risking to jeopardize both Buckingham Palace and the peace of the world?",
+  "popularity": 12.7842,
+  "poster_path": "/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",
+  "production_companies": [
+    {
+      "id": 10449,
+      "logo_path": "/kmtr2h5JDev9tcjhxbDVkAXFHdz.png",
+      "name": "Mini Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 185565,
+      "logo_path": null,
+      "name": "ARI Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 157172,
+      "logo_path": "/fNnKmC4ZP28Im4NaFsDwsblyVLF.png",
+      "name": "Ace Entertainment Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Murder at the Embassy",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11617,
+        "known_for_department": "Acting",
+        "name": "Mischa Barton",
+        "original_name": "Mischa Barton",
+        "popularity": 1.6254,
+        "profile_path": "/j3eZsKKIz4uWdVwAvokv8GHU21w.jpg",
+        "cast_id": 1,
+        "character": "Miranda Green",
+        "credit_id": "668052aeefaa25f0a8a84bf4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 176227,
+        "known_for_department": "Acting",
+        "name": "Richard Dillane",
+        "original_name": "Richard Dillane",
+        "popularity": 0.7246,
+        "profile_path": "/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg",
+        "cast_id": 12,
+        "character": "Robert",
+        "credit_id": "684c0f4c044ca5564e1be8ea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107561,
+        "known_for_department": "Acting",
+        "name": "Mido Hamada",
+        "original_name": "Mido Hamada",
+        "popularity": 0.5947,
+        "profile_path": "/iSQsrTcaMu4agVwRWfMpUTrwBzL.jpg",
+        "cast_id": 13,
+        "character": "Mamoud",
+        "credit_id": "684c0f5d1c071dcb0d3df0e7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66444,
+        "known_for_department": "Acting",
+        "name": "Antonia Bernath",
+        "original_name": "Antonia Bernath",
+        "popularity": 0.3008,
+        "profile_path": "/9YuypPli7jyt8r9c65aUTRcWM8X.jpg",
+        "cast_id": 14,
+        "character": "Betty",
+        "credit_id": "684c0f69d669235de0bb4725",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3933515,
+        "known_for_department": "Acting",
+        "name": "Kojo Attah",
+        "original_name": "Kojo Attah",
+        "popularity": 0.8121,
+        "profile_path": "/xtE8Nd5sVskymf3haYUWixFwv4g.jpg",
+        "cast_id": 15,
+        "character": "Walter",
+        "credit_id": "684c0f793f83a7a421bb4558",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3465587,
+        "known_for_department": "Acting",
+        "name": "Raha Rahbari",
+        "original_name": "Raha Rahbari",
+        "popularity": 0.1704,
+        "profile_path": "/l1kGnTfLMl58DXoT8x9U47fSMfb.jpg",
+        "cast_id": 16,
+        "character": "Leila",
+        "credit_id": "684c0f8493360e5c985c740d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3753234,
+        "known_for_department": "Acting",
+        "name": "Kathryn McGarr",
+        "original_name": "Kathryn McGarr",
+        "popularity": 0.0336,
+        "profile_path": "/rPRfRDkNi2K9q4r7LwOgjo3KtaW.jpg",
+        "cast_id": 17,
+        "character": "Maggie Hand",
+        "credit_id": "684c0f93a5f6b5c9ab294217",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060106,
+        "known_for_department": "Acting",
+        "name": "Nick Harris",
+        "original_name": "Nick Harris",
+        "popularity": 0.1275,
+        "profile_path": "/4fttZDK6vyksUXoGTHFqh44uFzJ.jpg",
+        "cast_id": 18,
+        "character": "Insp. Morton",
+        "credit_id": "684c0fb0d7ae5f29071ebb06",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2334691,
+        "known_for_department": "Acting",
+        "name": "Yassine Mkhichen",
+        "original_name": "Yassine Mkhichen",
+        "popularity": 0.0922,
+        "profile_path": "/8jAnZeKgE46ADg2l3GKonps6Qa7.jpg",
+        "cast_id": 19,
+        "character": "Samir",
+        "credit_id": "684c0fbd5152def6a22942af",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1170997,
+        "known_for_department": "Acting",
+        "name": "Josh Burdett",
+        "original_name": "Josh Burdett",
+        "popularity": 0.1196,
+        "profile_path": "/pPAcPJ54OORTLhsEQ5GtPuTftEA.jpg",
+        "cast_id": 20,
+        "character": "Cristal",
+        "credit_id": "684c0fcd5cbe141884bb44d1",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107794,
+        "known_for_department": "Directing",
+        "name": "Stephen Shimek",
+        "original_name": "Stephen Shimek",
+        "popularity": 0.1153,
+        "profile_path": "/5Rb8SkIl0Lg2Ue63KFenzqTGI4K.jpg",
+        "credit_id": "684c0e6620c64cda6eb0d8f7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1522313,
+        "known_for_department": "Production",
+        "name": "Zeus Zamani",
+        "original_name": "Zeus Zamani",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "credit_id": "684c0e7fb518dfdcb23df0ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2012759,
+        "known_for_department": "Camera",
+        "name": "Brian Vilim",
+        "original_name": "Brian Vilim",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "684c0e8ec4906be91f294647",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2618684,
+        "known_for_department": "Writing",
+        "name": "Sebastien Semon",
+        "original_name": "Sebastien Semon",
+        "popularity": 0.0693,
+        "profile_path": "/m5o8JkVpnmm68KDYzgKePurKegc.jpg",
+        "credit_id": "684c0eaf7a1db9c21a2942b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2618683,
+        "known_for_department": "Writing",
+        "name": "Jerome Reygner-Kalfon",
+        "original_name": "Jerome Reygner-Kalfon",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "684c0eb75aa37572d42945ec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1586160,
+        "known_for_department": "Acting",
+        "name": "April Kelley",
+        "original_name": "April Kelley",
+        "popularity": 0.0621,
+        "profile_path": "/5uor34X0LL1vl52AGerw349oHGR.jpg",
+        "credit_id": "684c0eca9ea5102d9f1ebeac",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502424,
+        "known_for_department": "Writing",
+        "name": "Alexandra Davison",
+        "original_name": "Alexandra Davison",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "684c0ef2789ef510931ebdb1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5502424,
+        "known_for_department": "Writing",
+        "name": "Alexandra Davison",
+        "original_name": "Alexandra Davison",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "684c0f010ee7e0b662343c59",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2757166,
+        "known_for_department": "Production",
+        "name": "Sara Huxley",
+        "original_name": "Sara Huxley",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "697110823056cd9dcf54666e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1801279,
+        "known_for_department": "Directing",
+        "name": "Mark Brennan",
+        "original_name": "Mark Brennan",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "6983ade7f02259fe219129c0",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 12570,
+        "name": "whodunit"
+      },
+      {
+        "id": 185815,
+        "name": "u.s. embassy"
+      },
+      {
+        "id": 207046,
+        "name": "murder mystery"
+      }
+    ]
+  }
+}

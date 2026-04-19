@@ -1,0 +1,415 @@
+{
+  "adult": false,
+  "backdrop_path": "/sYQwMTzlb8uSyaE7e3cfpfYOshu.jpg",
+  "belongs_to_collection": {
+    "id": 180006,
+    "name": "Scorpio Nights Collection",
+    "poster_path": "/pLlEwR0tnhnDC5W4Ncbq4YhXmk.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1658214,
+  "imdb_id": "tt39376946",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Scorpio Nights 4",
+  "overview": "A countryside boy rents a room from a couple and discovers a hole exposing their secrets. His voyeurism leads into tangled affairs with two women, unraveling a twisted game of lust and betrayal.",
+  "popularity": 20.8874,
+  "poster_path": "/lhgGvrHkwu9mtNeAhzaG828boH4.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    },
+    {
+      "id": 293762,
+      "logo_path": null,
+      "name": "Mabolo Drive Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-03-31",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Scorpio Nights 4",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3397870,
+        "known_for_department": "Acting",
+        "name": "Apphle Celso",
+        "original_name": "Apphle Celso",
+        "popularity": 1.7269,
+        "profile_path": "/hLZ7TBqidKveS6l4aAJetCek5Zy.jpg",
+        "cast_id": 1,
+        "character": "Nila",
+        "credit_id": "69c4b7cb9432dfb29b833b36",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4341487,
+        "known_for_department": "Acting",
+        "name": "Sahara Bernales",
+        "original_name": "Sahara Bernales",
+        "popularity": 2.1253,
+        "profile_path": "/cbJLdzZCnJeEcgO5DDIgNBolMWN.jpg",
+        "cast_id": 2,
+        "character": "Amor",
+        "credit_id": "69c4b7d42bfc386ff6b7d331",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200479,
+        "known_for_department": "Acting",
+        "name": "Albie Casi\u00f1o",
+        "original_name": "Albie Casi\u00f1o",
+        "popularity": 1.886,
+        "profile_path": "/dA5VRoHMJ0rcmDjOhLHFWHy19wy.jpg",
+        "cast_id": 3,
+        "character": "Kenzo",
+        "credit_id": "69c4b7de204b9d25ae42081f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5630057,
+        "known_for_department": "Acting",
+        "name": "Marco Mora",
+        "original_name": "Marco Mora",
+        "popularity": 1.0027,
+        "profile_path": "/9taPM0O5fMHleKYI21kMnW5VC4N.jpg",
+        "cast_id": 7,
+        "character": "Marlo",
+        "credit_id": "69cab2ce0b692478328aab0c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106434,
+        "known_for_department": "Acting",
+        "name": "Rolando Toralba",
+        "original_name": "Rolando Toralba",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Hector",
+        "credit_id": "69cab39e70d43fbd898aac8b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617642,
+        "known_for_department": "Writing",
+        "name": "Christian Paolo Lat",
+        "original_name": "Christian Paolo Lat",
+        "popularity": 0.1397,
+        "profile_path": "/rGXhH8LUmCwUp8G24FVhNISRFRc.jpg",
+        "cast_id": 9,
+        "character": "Foreigner\u2019s Voice",
+        "credit_id": "69cab3b7fce8a8a20d1ed1df",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4872885,
+        "known_for_department": "Acting",
+        "name": "Renz Tantoco",
+        "original_name": "Renz Tantoco",
+        "popularity": 0.1593,
+        "profile_path": "/9ZriI89yvlIZo70nymmGqJ2zKf8.jpg",
+        "cast_id": 10,
+        "character": "Double Kenzo",
+        "credit_id": "69cab3de11b58252ed44e9d7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5956680,
+        "known_for_department": "Acting",
+        "name": "Ian Sicat",
+        "original_name": "Ian Sicat",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Guard",
+        "credit_id": "69cab3f0e209511f901ecfbb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106440,
+        "known_for_department": "Acting",
+        "name": "Christian Dela Cruz",
+        "original_name": "Christian Dela Cruz",
+        "popularity": 0.07,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Cellphone Vendor",
+        "credit_id": "69cab417e10761cf838aaad9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106443,
+        "known_for_department": "Acting",
+        "name": "Hiro San Luis",
+        "original_name": "Hiro San Luis",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Bogs",
+        "credit_id": "69cab428309757309b263b68",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106445,
+        "known_for_department": "Acting",
+        "name": "Rustum Reyes",
+        "original_name": "Rustum Reyes",
+        "popularity": 0.053,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Jigs",
+        "credit_id": "69cab44eaf06d7bb83ce399c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106448,
+        "known_for_department": "Acting",
+        "name": "Paula De Castro",
+        "original_name": "Paula De Castro",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sari-sari store Vendor",
+        "credit_id": "69cab4a6b1b32c37cb1ed17a",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.3809,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "69c4b80c0601e8adc17cac63",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570617,
+        "known_for_department": "Sound",
+        "name": "Norman Buena",
+        "original_name": "Norman Buena",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69cab59327243b45641ed273",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2804115,
+        "known_for_department": "Sound",
+        "name": "Doy Ongleo",
+        "original_name": "Doy Ongleo",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69cab5b7a43d01b3e2733257",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5756419,
+        "known_for_department": "Editing",
+        "name": "Miguel Bandayrel",
+        "original_name": "Miguel Bandayrel",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69cab63580376090cc263bee",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2752573,
+        "known_for_department": "Art",
+        "name": "Kenneth Kevin Villanueva",
+        "original_name": "Kenneth Kevin Villanueva",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69cab650fbebcdfc1f733525",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4419785,
+        "known_for_department": "Camera",
+        "name": "Mark Joshua Tirona",
+        "original_name": "Mark Joshua Tirona",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69cab6a0f2d36ff51a73323d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1864046,
+        "known_for_department": "Directing",
+        "name": "Arvin Belarmino",
+        "original_name": "Arvin Belarmino",
+        "popularity": 0.1439,
+        "profile_path": "/gN8K3HqDPj0Mom8XeJBep8MZaeT.jpg",
+        "credit_id": "69cab6c4a0a09b493a83998c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1864046,
+        "known_for_department": "Directing",
+        "name": "Arvin Belarmino",
+        "original_name": "Arvin Belarmino",
+        "popularity": 0.1439,
+        "profile_path": "/gN8K3HqDPj0Mom8XeJBep8MZaeT.jpg",
+        "credit_id": "69cab6d6f2d36ff51a733240",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.3809,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "69cab6edb5461b4cab5af280",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.3809,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "69cab6fb83293e00d55af2ef",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4052528,
+        "known_for_department": "Production",
+        "name": "Jackie Lyn Barcebal",
+        "original_name": "Jackie Lyn Barcebal",
+        "popularity": 0.1286,
+        "profile_path": "/2rT2KeqDrOXoagbh070sWsN0TEy.jpg",
+        "credit_id": "69cab71b3cb22f8b5dce3c3d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4052528,
+        "known_for_department": "Production",
+        "name": "Jackie Lyn Barcebal",
+        "original_name": "Jackie Lyn Barcebal",
+        "popularity": 0.1286,
+        "profile_path": "/2rT2KeqDrOXoagbh070sWsN0TEy.jpg",
+        "credit_id": "69cab736b00f25defbce3b4c",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144356,
+        "known_for_department": "Directing",
+        "name": "Bobby Bonifacio",
+        "original_name": "Bobby Bonifacio",
+        "popularity": 0.3809,
+        "profile_path": "/ilVvkXRj4On7lPslEIDaUD8PuxM.jpg",
+        "credit_id": "69cab74f27243b45641ed279",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/wuZB5l6jzK1psUnMZEe3wGEupMM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1652947,
+  "imdb_id": "tt39715030",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Tuklas",
+  "overview": "The first Bisaya VMX Original stars true-blooded Bisaya Skye Gonzaga. When IT officer Chris Alvarado uncovers a financial scandal at work, he faces a moral dilemma: exposing the truth or giving in to Anna, a seductive sales manager promising success and intimacy.",
+  "popularity": 9.8111,
+  "poster_path": "/pJiNDWSEguOY8m5x2vbgnl9DPme.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-03-20",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tuklas",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4866792,
+        "known_for_department": "Acting",
+        "name": "Skye Gonzaga",
+        "original_name": "Skye Gonzaga",
+        "popularity": 5.0951,
+        "profile_path": "/sU8yAC7mptg5argRh46ccaZAz2B.jpg",
+        "cast_id": 1,
+        "character": "Anne",
+        "credit_id": "69b854d81699b1f8c7a63e98",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6076061,
+        "known_for_department": "Acting",
+        "name": "Chino Villaluna",
+        "original_name": "Chino Villaluna",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Chris",
+        "credit_id": "69b855213c7fc642ce21dfa7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6076063,
+        "known_for_department": "Acting",
+        "name": "Denzel Cruza",
+        "original_name": "Denzel Cruza",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Tony",
+        "credit_id": "69b855335cbb2e070367437f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6076064,
+        "known_for_department": "Acting",
+        "name": "Keesha Falcon",
+        "original_name": "Keesha Falcon",
+        "popularity": 0.1064,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Liza",
+        "credit_id": "69b85543d88436277e95fd84",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6076066,
+        "known_for_department": "Acting",
+        "name": "Alexa Armecin",
+        "original_name": "Alexa Armecin",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Janet",
+        "credit_id": "69b8555516ad236014a640fd",
+        "order": 4
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "adult": false,
+  "backdrop_path": "/nubnNXuMArUhiDW1nUevGsG65x9.jpg",
+  "belongs_to_collection": {
+    "id": 51509,
+    "name": "Meet the Parents Collection",
+    "poster_path": "/hwfaKtvNt3Xm03nJ3LiA7j3k6pw.jpg",
+    "backdrop_path": "/9mNfoET5NlXDVqW2UhJAJp6DR7k.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.universalpictures.com/movies/focker-in-law/",
+  "id": 1400336,
+  "imdb_id": "tt34966140",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Focker-In-Law",
+  "overview": "Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch.",
+  "popularity": 11.455,
+  "poster_path": "/gPdzdeehaoaYqxH2rA6yayEDSsS.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11391,
+      "logo_path": "/t6m0uRTzaFHCsvEpikENE0PWJGb.png",
+      "name": "Tribeca Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2932,
+      "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+      "name": "Red Hour",
+      "origin_country": "US"
+    },
+    {
+      "id": 189290,
+      "logo_path": "/1gF9HPrh9vy3LCMOjqF2b0RrdSe.png",
+      "name": "Delirious Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 160027,
+      "logo_path": null,
+      "name": "Particular Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-11-25",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "The circle of trust just got bigger.",
+  "title": "Focker-In-Law",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 380,
+        "known_for_department": "Acting",
+        "name": "Robert De Niro",
+        "original_name": "Robert De Niro",
+        "popularity": 6.2306,
+        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+        "cast_id": 2,
+        "character": "Jack Byrnes",
+        "credit_id": "6758a4390ab7e8077cfc1572",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7399,
+        "known_for_department": "Acting",
+        "name": "Ben Stiller",
+        "original_name": "Ben Stiller",
+        "popularity": 3.87,
+        "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+        "cast_id": 1,
+        "character": "Greg Focker",
+        "credit_id": "6758a42d0ab7e8077cfc1568",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 226001,
+        "known_for_department": "Acting",
+        "name": "Ariana Grande",
+        "original_name": "Ariana Grande",
+        "popularity": 3.4953,
+        "profile_path": "/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg",
+        "cast_id": 18,
+        "character": "Olivia Jones",
+        "credit_id": "6839d7336259899183080a76",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 887,
+        "known_for_department": "Acting",
+        "name": "Owen Wilson",
+        "original_name": "Owen Wilson",
+        "popularity": 3.7225,
+        "profile_path": "/lFxHIlcywMlYpe6wkW39sfBrqag.jpg",
+        "cast_id": 19,
+        "character": "Kevin Rawley",
+        "credit_id": "68569b4094aab8629afc739c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10401,
+        "known_for_department": "Acting",
+        "name": "Blythe Danner",
+        "original_name": "Blythe Danner",
+        "popularity": 1.5147,
+        "profile_path": "/xIN3nX76b4qN8B32wdoqx053N68.jpg",
+        "cast_id": 3,
+        "character": "Dina Byrnes",
+        "credit_id": "6758a4995ab21dc05c6f7ebe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10399,
+        "known_for_department": "Acting",
+        "name": "Teri Polo",
+        "original_name": "Teri Polo",
+        "popularity": 1.9715,
+        "profile_path": "/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg",
+        "cast_id": 4,
+        "character": "Pam Byrnes",
+        "credit_id": "6758a4ae5ab21dc05c6f7ec5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61263,
+        "known_for_department": "Acting",
+        "name": "Skyler Gisondo",
+        "original_name": "Skyler Gisondo",
+        "popularity": 3.8765,
+        "profile_path": "/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg",
+        "cast_id": 21,
+        "character": "Henry Focker",
+        "credit_id": "68810d7787b981279c55dd20",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1496393,
+        "known_for_department": "Acting",
+        "name": "Beanie Feldstein",
+        "original_name": "Beanie Feldstein",
+        "popularity": 0.8969,
+        "profile_path": "/zeqMJb6TcxIEUhgjDigse5WD2a1.jpg",
+        "cast_id": 22,
+        "character": "Samantha Focker",
+        "credit_id": "688793393d8d9dfd9038ffc8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653235,
+        "known_for_department": "Acting",
+        "name": "Eduardo Franco",
+        "original_name": "Eduardo Franco",
+        "popularity": 1.9122,
+        "profile_path": "/FOnx5Rg8L7xvEWkBhNoXwhELd6.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "69059e6dad143c3dd0dd7da1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1700631,
+        "known_for_department": "Acting",
+        "name": "Liza Koshy",
+        "original_name": "Liza Koshy",
+        "popularity": 1.0207,
+        "profile_path": "/pPu4TYkuNGmPEykWzFwCz55pAWB.jpg",
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "6968326a4fad23a4c7f406a2",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 380,
+        "known_for_department": "Acting",
+        "name": "Robert De Niro",
+        "original_name": "Robert De Niro",
+        "popularity": 6.2306,
+        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+        "credit_id": "6758b22a7acfd278c6dda87e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3305,
+        "known_for_department": "Production",
+        "name": "Jane Rosenthal",
+        "original_name": "Jane Rosenthal",
+        "popularity": 0.2108,
+        "profile_path": "/yu4nFYfKx50HcqAnZiJZRm6hiSz.jpg",
+        "credit_id": "6758b2483877b929f82f8536",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6737,
+        "known_for_department": "Directing",
+        "name": "Jay Roach",
+        "original_name": "Jay Roach",
+        "popularity": 0.7893,
+        "profile_path": "/48uTxNDRlnP56quVewyByotKAen.jpg",
+        "credit_id": "6758b2680ab7e8077cfc1758",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17869,
+        "known_for_department": "Directing",
+        "name": "Greg Glienna",
+        "original_name": "Greg Glienna",
+        "popularity": 0.467,
+        "profile_path": "/cEW3KfJ6pM25wAerdNeKohOGnWJ.jpg",
+        "credit_id": "6758b37bae68e8db0f0d53b6",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17870,
+        "known_for_department": "Writing",
+        "name": "Mary Ruth Clarke",
+        "original_name": "Mary Ruth Clarke",
+        "popularity": 0.1857,
+        "profile_path": null,
+        "credit_id": "6758b393637463229eafe0a0",
+        "department": "Writing",
+        "job": "Original Film Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10392,
+        "known_for_department": "Production",
+        "name": "Nancy Tenenbaum",
+        "original_name": "Nancy Tenenbaum",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6758b52e0adb637add931a8a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17871,
+        "known_for_department": "Writing",
+        "name": "John Hamburg",
+        "original_name": "John Hamburg",
+        "popularity": 0.6203,
+        "profile_path": "/flYIdyuPlLZQ8ur7guVGGvffN0R.jpg",
+        "credit_id": "67dc83cf5301aca81a6ba5a3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7399,
+        "known_for_department": "Acting",
+        "name": "Ben Stiller",
+        "original_name": "Ben Stiller",
+        "popularity": 3.87,
+        "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg",
+        "credit_id": "67dc841d5301aca81a6ba5de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095253,
+        "known_for_department": "Production",
+        "name": "John Lesher",
+        "original_name": "John Lesher",
+        "popularity": 0.1737,
+        "profile_path": "/b4tpps0WWqi93VRHlrzZHoo5zSW.jpg",
+        "credit_id": "67dc842bb70f603e21af2ac7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17871,
+        "known_for_department": "Writing",
+        "name": "John Hamburg",
+        "original_name": "John Hamburg",
+        "popularity": 0.6203,
+        "profile_path": "/flYIdyuPlLZQ8ur7guVGGvffN0R.jpg",
+        "credit_id": "67dc844fc505f52e35f2c81c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 970192,
+        "known_for_department": "Art",
+        "name": "Rena DeAngelo",
+        "original_name": "Rena DeAngelo",
+        "popularity": 0.2821,
+        "profile_path": "/lsl6e1v4JXzuORER8YgAD38GQGn.jpg",
+        "credit_id": "6875a1847aee49045fa7ae49",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17871,
+        "known_for_department": "Writing",
+        "name": "John Hamburg",
+        "original_name": "John Hamburg",
+        "popularity": 0.6203,
+        "profile_path": "/flYIdyuPlLZQ8ur7guVGGvffN0R.jpg",
+        "credit_id": "6887b4dfe517610e93f79305",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563756,
+        "known_for_department": "Directing",
+        "name": "Michael Lerman",
+        "original_name": "Michael Lerman",
+        "popularity": 0.2928,
+        "profile_path": "/kztQ2HnT4Hl3IbyrS9PGFcVmqsQ.jpg",
+        "credit_id": "68c2bc27b6a42c807c1f6457",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131413,
+        "known_for_department": "Crew",
+        "name": "Mike Gunther",
+        "original_name": "Mike Gunther",
+        "popularity": 0.2512,
+        "profile_path": "/5ZbAmoeQxUOqzk1YWN5uaKJ7N2q.jpg",
+        "credit_id": "69001836f5295e9dfa2ab040",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131413,
+        "known_for_department": "Crew",
+        "name": "Mike Gunther",
+        "original_name": "Mike Gunther",
+        "popularity": 0.2512,
+        "profile_path": "/5ZbAmoeQxUOqzk1YWN5uaKJ7N2q.jpg",
+        "credit_id": "6900183d9c0d32362b3bffb5",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2158151,
+        "known_for_department": "Camera",
+        "name": "Julian J. Delacruz",
+        "original_name": "Julian J. Delacruz",
+        "popularity": 0.1983,
+        "profile_path": null,
+        "credit_id": "690018508f13340740a63cfa",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2158151,
+        "known_for_department": "Camera",
+        "name": "Julian J. Delacruz",
+        "original_name": "Julian J. Delacruz",
+        "popularity": 0.1983,
+        "profile_path": null,
+        "credit_id": "6900185447f925a8e03bff8e",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158195,
+        "known_for_department": "Camera",
+        "name": "Sebastian Slayter",
+        "original_name": "Sebastian Slayter",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "690b6a82d6eaad5eb7e186a5",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54164,
+        "known_for_department": "Camera",
+        "name": "Barry Peterson",
+        "original_name": "Barry Peterson",
+        "popularity": 0.2021,
+        "profile_path": "/ytcFXXAzadbSF3uLeIL2XDAejB5.jpg",
+        "credit_id": "6934e0e39b027be70270abd9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60193,
+        "known_for_department": "Art",
+        "name": "Mark Ricker",
+        "original_name": "Mark Ricker",
+        "popularity": 0.092,
+        "profile_path": null,
+        "credit_id": "6934e126aa89eb7d46243c07",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1329415,
+        "known_for_department": "Crew",
+        "name": "Samantha MacIvor",
+        "original_name": "Samantha MacIvor",
+        "popularity": 0.3779,
+        "profile_path": "/ztH9qxR7mknj8Rs2MCNhayA7n5l.jpg",
+        "credit_id": "69682b114c95e3eeb968a028",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 154796,
+        "name": "overbearing father"
+      },
+      {
+        "id": 252875,
+        "name": "daughter\u2013in\u2013law father\u2013in\u2013law relationship"
+      }
+    ]
+  }
+}

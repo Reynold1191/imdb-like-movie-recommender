@@ -1,0 +1,271 @@
+{
+  "adult": false,
+  "backdrop_path": "/fyCKlwarO3Yd6Ikv3EJdvRdp43b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1500099,
+  "imdb_id": "tt37976405",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Versa",
+  "overview": "A young couple looking to start a family who experience emotions\u2014from grief and loss to ultimate joy\u2014as they embark on an ethereal, abstract, and imaginative cosmic dance of life.",
+  "popularity": 10.4289,
+  "poster_path": "/p2zKN6Ic81C1UbLbnak4dZ2wABl.jpg",
+  "production_companies": [
+    {
+      "id": 6125,
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-15",
+  "revenue": 0,
+  "runtime": 8,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Versa",
+  "video": false,
+  "vote_average": 7.767,
+  "vote_count": 30,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717780,
+        "known_for_department": "Visual Effects",
+        "name": "Malcon Pierce",
+        "original_name": "Malcon Pierce",
+        "popularity": 0.0651,
+        "profile_path": "/3fF4riCyMpsmnHB8DPbBfxxmVSW.jpg",
+        "credit_id": "68528a7c9b4c74e3b1bbdbc2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717780,
+        "known_for_department": "Visual Effects",
+        "name": "Malcon Pierce",
+        "original_name": "Malcon Pierce",
+        "popularity": 0.0651,
+        "profile_path": "/3fF4riCyMpsmnHB8DPbBfxxmVSW.jpg",
+        "credit_id": "6939eba716086c73611d26b5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869959,
+        "known_for_department": "Crew",
+        "name": "Katherine Hill",
+        "original_name": "Katherine Hill",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6939ecb3711ea6d443f61da5",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869961,
+        "known_for_department": "Crew",
+        "name": "Ben Agosto",
+        "original_name": "Ben Agosto",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6939ecc0b01e4553c0af1299",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1961706,
+        "known_for_department": "Acting",
+        "name": "Jordan Cowan",
+        "original_name": "Jordan Cowan",
+        "popularity": 0.1366,
+        "profile_path": "/snn78uWcOGn1v58gKbzkXSbijjj.jpg",
+        "credit_id": "6939ecd4dee6938e9df61d8f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96997,
+        "known_for_department": "Production",
+        "name": "Bradford Simonsen",
+        "original_name": "Bradford Simonsen",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "credit_id": "69c81169f9cc371261c80daf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120694,
+        "known_for_department": "Writing",
+        "name": "Jennifer Lee",
+        "original_name": "Jennifer Lee",
+        "popularity": 1.2427,
+        "profile_path": "/cRxBIe0sa2JcBtczzysV4aFUaEy.jpg",
+        "credit_id": "69c8117627b5b67bf8c80e16",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1995126,
+        "known_for_department": "Editing",
+        "name": "Pace Paulsen",
+        "original_name": "Pace Paulsen",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "69c811872319b2b8739debdc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453782,
+        "known_for_department": "Editing",
+        "name": "Shane Glick",
+        "original_name": "Shane Glick",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69c811a7bb7e4e5a11e3be81",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210567,
+        "known_for_department": "Sound",
+        "name": "Haim Mazar",
+        "original_name": "Haim Mazar",
+        "popularity": 0.0409,
+        "profile_path": "/gdoS5KsPiCUdAcyiFdRvLAasVTI.jpg",
+        "credit_id": "69c811f6f0c822d6869dec4e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611562,
+        "known_for_department": "Visual Effects",
+        "name": "Ryan Lang",
+        "original_name": "Ryan Lang",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "69c8121fe1576ea1d9a34883",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763026,
+        "known_for_department": "Crew",
+        "name": "Mohit Kallianpur",
+        "original_name": "Mohit Kallianpur",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "69c8123af402271ea99dec1a",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6102702,
+        "known_for_department": "Crew",
+        "name": "Laura Grondahl",
+        "original_name": "Laura Grondahl",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "69c8127713b2c3f258e3bded",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3725,
+        "name": "pregnancy"
+      },
+      {
+        "id": 6203,
+        "name": "loss"
+      },
+      {
+        "id": 9872,
+        "name": "grief"
+      },
+      {
+        "id": 204016,
+        "name": "child loss"
+      },
+      {
+        "id": 208873,
+        "name": "acceptance"
+      },
+      {
+        "id": 241737,
+        "name": "loss of child"
+      },
+      {
+        "id": 244043,
+        "name": "celestial"
+      }
+    ]
+  }
+}

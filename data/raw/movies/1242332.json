@@ -1,0 +1,715 @@
+{
+  "adult": false,
+  "backdrop_path": "/1nHaO4rTv1E6xVJYIMGP9nmLxE9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.normalthemovie.com/",
+  "id": 1242332,
+  "imdb_id": "tt31195136",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Normal",
+  "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+  "popularity": 19.9852,
+  "poster_path": "/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
+  "production_companies": [
+    {
+      "id": 125584,
+      "logo_path": "/56Lrmj9izLx7SEa0uPp0fVvssea.png",
+      "name": "Aperture Media Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 210819,
+      "logo_path": "/lXW15vGgeQIIGia0oFycQgALb9Y.png",
+      "name": "QWGmire",
+      "origin_country": "US"
+    },
+    {
+      "id": 86647,
+      "logo_path": "/jefZmEJlxUAkuuwkH9CHQchgmJX.png",
+      "name": "OPE Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 223268,
+      "logo_path": null,
+      "name": "Le Foole",
+      "origin_country": "US"
+    },
+    {
+      "id": 207939,
+      "logo_path": null,
+      "name": "Tradecraft",
+      "origin_country": "US"
+    },
+    {
+      "id": 289959,
+      "logo_path": null,
+      "name": "Normal Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-16",
+  "revenue": 2493,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Small town. Big secret.",
+  "title": "Normal",
+  "video": false,
+  "vote_average": 7.25,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59410,
+        "known_for_department": "Acting",
+        "name": "Bob Odenkirk",
+        "original_name": "Bob Odenkirk",
+        "popularity": 4.2412,
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg",
+        "cast_id": 1,
+        "character": "Ulysses",
+        "credit_id": "65c4f4defd6fa1016e793943",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31903,
+        "known_for_department": "Acting",
+        "name": "Henry Winkler",
+        "original_name": "Henry Winkler",
+        "popularity": 2.1927,
+        "profile_path": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg",
+        "cast_id": 9,
+        "character": "Mayor Kibner",
+        "credit_id": "67295d1714d4a39972033de6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17286,
+        "known_for_department": "Acting",
+        "name": "Lena Headey",
+        "original_name": "Lena Headey",
+        "popularity": 5.4011,
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg",
+        "cast_id": 10,
+        "character": "Moira",
+        "credit_id": "67295d1fcc1d12827d0c437e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62651,
+        "known_for_department": "Acting",
+        "name": "Ryan Allen",
+        "original_name": "Ryan Allen",
+        "popularity": 0.3591,
+        "profile_path": "/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg",
+        "cast_id": 11,
+        "character": "Blaine Anderson",
+        "credit_id": "67295d6b14d4a39972033e01",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63814,
+        "known_for_department": "Acting",
+        "name": "Billy MacLellan",
+        "original_name": "Billy MacLellan",
+        "popularity": 0.5362,
+        "profile_path": "/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg",
+        "cast_id": 12,
+        "character": "Deputy Mike Nelson",
+        "credit_id": "67295d7b14d4a39972033e1b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32205,
+        "known_for_department": "Acting",
+        "name": "Brendan Fletcher",
+        "original_name": "Brendan Fletcher",
+        "popularity": 2.4208,
+        "profile_path": "/azeMOxQdCw18ABRwwOMIo3lV1If.jpg",
+        "cast_id": 13,
+        "character": "Keith",
+        "credit_id": "67295d89425bdcd2ace31c24",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172994,
+        "known_for_department": "Acting",
+        "name": "Peter Shinkoda",
+        "original_name": "Peter Shinkoda",
+        "popularity": 0.8213,
+        "profile_path": "/lCQl28poQr4bLwqZjhryGkV73jO.jpg",
+        "cast_id": 14,
+        "character": "Joe",
+        "credit_id": "67295d9626b605bc19e5572f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 84466,
+        "known_for_department": "Acting",
+        "name": "Jess McLeod",
+        "original_name": "Jess McLeod",
+        "popularity": 0.6693,
+        "profile_path": "/nJXORUI8JJVkYTCO4Lpjxz6VgzF.jpg",
+        "cast_id": 15,
+        "character": "Alex",
+        "credit_id": "67295da214d4a39972033e3b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3902965,
+        "known_for_department": "Acting",
+        "name": "Reena Jolly",
+        "original_name": "Reena Jolly",
+        "popularity": 0.1857,
+        "profile_path": "/zd29cqltwMWnRVPJ08vsV02CYYQ.jpg",
+        "cast_id": 37,
+        "character": "Lori",
+        "credit_id": "698d90f413cd953ea23d86c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5791405,
+        "known_for_department": "Production",
+        "name": "Brian Kawakami",
+        "original_name": "Brian Kawakami",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Arata",
+        "credit_id": "69a9c6454df340b67c32a269",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076800,
+        "known_for_department": "Writing",
+        "name": "Derek Kolstad",
+        "original_name": "Derek Kolstad",
+        "popularity": 0.8108,
+        "profile_path": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+        "credit_id": "65c4f558fd6fa1018779970a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137467,
+        "known_for_department": "Directing",
+        "name": "Ben Wheatley",
+        "original_name": "Ben Wheatley",
+        "popularity": 0.8468,
+        "profile_path": "/r8veHr3ExfEfVYWVR93hIDf4RiP.jpg",
+        "credit_id": "65c4f4eff495ee017e0c32f2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59410,
+        "known_for_department": "Acting",
+        "name": "Bob Odenkirk",
+        "original_name": "Bob Odenkirk",
+        "popularity": 4.2412,
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg",
+        "credit_id": "65c4f512713ed4016c175a3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1757536,
+        "known_for_department": "Production",
+        "name": "Marc Provissiero",
+        "original_name": "Marc Provissiero",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "65c4f501021cee019cc3b164",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076800,
+        "known_for_department": "Writing",
+        "name": "Derek Kolstad",
+        "original_name": "Derek Kolstad",
+        "popularity": 0.8108,
+        "profile_path": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+        "credit_id": "67295cf5cc1d12827d0c4357",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59410,
+        "known_for_department": "Acting",
+        "name": "Bob Odenkirk",
+        "original_name": "Bob Odenkirk",
+        "popularity": 4.2412,
+        "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg",
+        "credit_id": "67295cfd83e62f05c6b568db",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1715284,
+        "known_for_department": "Production",
+        "name": "Ellen Rutter",
+        "original_name": "Ellen Rutter",
+        "popularity": 0.0855,
+        "profile_path": "/w0cooG3nJT511xdwFwWTMo4c9LJ.jpg",
+        "credit_id": "67295dbd425bdcd2ace31c36",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61120,
+        "known_for_department": "Production",
+        "name": "Rhonda Baker",
+        "original_name": "Rhonda Baker",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "67295dcb14d4a39972033e56",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2925959,
+        "known_for_department": "Production",
+        "name": "Carrie Wilkins",
+        "original_name": "Carrie Wilkins",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67295ddceb0fdd9cd84b0a68",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96349,
+        "known_for_department": "Acting",
+        "name": "Molly C. Quinn",
+        "original_name": "Molly C. Quinn",
+        "popularity": 2.3557,
+        "profile_path": "/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg",
+        "credit_id": "67295dfa83e62f05c6b56928",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3834797,
+        "known_for_department": "Production",
+        "name": "Matthew M. Welty",
+        "original_name": "Matthew M. Welty",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "67295e3f0ce6d14a409e928d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939406,
+        "known_for_department": "Production",
+        "name": "Elan Gale",
+        "original_name": "Elan Gale",
+        "popularity": 0.1915,
+        "profile_path": "/An6kvqA5gkQnNO9aOqxSiY4U54w.jpg",
+        "credit_id": "67295e50433c82ea267e4ff3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2379438,
+        "known_for_department": "Production",
+        "name": "Josh Adler",
+        "original_name": "Josh Adler",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "67295e8a83e62f05c6b5697c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2022652,
+        "known_for_department": "Production",
+        "name": "Glenn D. Feig",
+        "original_name": "Glenn D. Feig",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "67295eb50ce6d14a409e9300",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041418,
+        "known_for_department": "Production",
+        "name": "Matthew Anderson",
+        "original_name": "Matthew Anderson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67295f4d0ce6d14a409e932e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551916,
+        "known_for_department": "Camera",
+        "name": "Armando Salas",
+        "original_name": "Armando Salas",
+        "popularity": 0.1911,
+        "profile_path": "/7ifR3zE19No3gEjPb8fUATvwDjl.jpg",
+        "credit_id": "680ac121271ecb3ae08a3695",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2156031,
+        "known_for_department": "Directing",
+        "name": "Jonnie Katz",
+        "original_name": "Jonnie Katz",
+        "popularity": 0.2747,
+        "profile_path": "/gjGtIjW4RL634CvZUYHY05z5ilT.jpg",
+        "credit_id": "681940de76723ddd84034892",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969704,
+        "known_for_department": "Editing",
+        "name": "Jonathan Amos",
+        "original_name": "Jonathan Amos",
+        "popularity": 0.185,
+        "profile_path": null,
+        "credit_id": "687604a7e323d5b7dc57122f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099130,
+        "known_for_department": "Production",
+        "name": "Carmen Kotyk",
+        "original_name": "Carmen Kotyk",
+        "popularity": 0.1888,
+        "profile_path": "/rdd4jwz5urcON73O5e8AzlPuoDz.jpg",
+        "credit_id": "687604b934027403fd73314f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178908,
+        "known_for_department": "Art",
+        "name": "Jean-Andre Carriere",
+        "original_name": "Jean-Andre Carriere",
+        "popularity": 0.1595,
+        "profile_path": null,
+        "credit_id": "687604cc8389ceafc1ef1837",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719846,
+        "known_for_department": "Art",
+        "name": "Alexandra Chem",
+        "original_name": "Alexandra Chem",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "687604e569fe7ebbde7c52a3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208813,
+        "known_for_department": "Art",
+        "name": "David Gruer",
+        "original_name": "David Gruer",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6876051bac75f927db6372b0",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191559,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heather Neale",
+        "original_name": "Heather Neale",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "68760530628a488cedd16076",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1463682,
+        "known_for_department": "Crew",
+        "name": "Greg Rementer",
+        "original_name": "Greg Rementer",
+        "popularity": 0.2299,
+        "profile_path": "/vLuhZfvf6EgZ0imQSDi6tmmdQNn.jpg",
+        "credit_id": "6890f43b0441cb35fd11e07d",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5553,
+        "known_for_department": "Sound",
+        "name": "Harry Gregson-Williams",
+        "original_name": "Harry Gregson-Williams",
+        "popularity": 0.4418,
+        "profile_path": "/xLuIAM22zCffnzPyKOSRQQYh03C.jpg",
+        "credit_id": "689bb7e6a2918d7dec8db367",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1518924,
+        "known_for_department": "Sound",
+        "name": "Ryder McNair",
+        "original_name": "Ryder McNair",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "689bb802aecb6c64866d7558",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547887,
+        "known_for_department": "Crew",
+        "name": "Rochelle Okoye",
+        "original_name": "Rochelle Okoye",
+        "popularity": 0.3431,
+        "profile_path": "/jeIYs0OoYFXIYuwFu1VXFR4SsmZ.jpg",
+        "credit_id": "68e9a790dc4dba2db278665f",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076800,
+        "known_for_department": "Writing",
+        "name": "Derek Kolstad",
+        "original_name": "Derek Kolstad",
+        "popularity": 0.8108,
+        "profile_path": "/mi6jxGxkIPjEKNSu9BquWoFMTZy.jpg",
+        "credit_id": "69985dd3b328d3e58f6669a6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94825,
+        "known_for_department": "Production",
+        "name": "Jared Underwood",
+        "original_name": "Jared Underwood",
+        "popularity": 0.0736,
+        "profile_path": null,
+        "credit_id": "69985e0e0c55782365ab91fe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1413501,
+        "known_for_department": "Production",
+        "name": "Andrew C. Robinson",
+        "original_name": "Andrew C. Robinson",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "69985e1da5dbd323ea3027fd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423393,
+        "known_for_department": "Sound",
+        "name": "Martin Pavey",
+        "original_name": "Martin Pavey",
+        "popularity": 0.128,
+        "profile_path": null,
+        "credit_id": "69985e34865a7012dd13bf98",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1768227,
+        "known_for_department": "Crew",
+        "name": "Emmanuel Manzanares",
+        "original_name": "Emmanuel Manzanares",
+        "popularity": 0.0718,
+        "profile_path": "/euR7pMCI08WLXC2mGG3R61mR07R.jpg",
+        "credit_id": "69985e4ab3e7310038ab92ba",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2803492,
+        "known_for_department": "Sound",
+        "name": "Jillian Ennis",
+        "original_name": "Jillian Ennis",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "69985e5c0ea5ba479113be21",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1415,
+        "name": "small town"
+      },
+      {
+        "id": 798,
+        "name": "sheriff"
+      },
+      {
+        "id": 15363,
+        "name": "bank robbery"
+      },
+      {
+        "id": 169977,
+        "name": "small town sheriff"
+      },
+      {
+        "id": 184956,
+        "name": "corrupt mayor"
+      },
+      {
+        "id": 235082,
+        "name": "secret benefactor"
+      },
+      {
+        "id": 274978,
+        "name": "action packed"
+      },
+      {
+        "id": 287455,
+        "name": "criminal plot"
+      },
+      {
+        "id": 298582,
+        "name": "criminal conspiracy"
+      },
+      {
+        "id": 322612,
+        "name": "small town minnesota"
+      }
+    ]
+  }
+}

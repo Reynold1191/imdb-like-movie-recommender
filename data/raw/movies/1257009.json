@@ -1,0 +1,606 @@
+{
+  "adult": false,
+  "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://primitivewarmovie.com/",
+  "id": 1257009,
+  "imdb_id": "tt18312380",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Primitive War",
+  "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy \u2014 prehistoric dinosaurs.",
+  "popularity": 11.673,
+  "poster_path": "/gtCeJQRQPPpwlLfAvdMAVGaCYXt.jpg",
+  "production_companies": [
+    {
+      "id": 135020,
+      "logo_path": "/wqj9mXcpTrWs7yW6lrjYu37G0FC.png",
+      "name": "Sparke Films",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 217753,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This ain't no walk in the park.",
+  "title": "Primitive War",
+  "video": false,
+  "vote_average": 6.536,
+  "vote_count": 261,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12799,
+        "known_for_department": "Acting",
+        "name": "Jeremy Piven",
+        "original_name": "Jeremy Piven",
+        "popularity": 2.736,
+        "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg",
+        "cast_id": 4,
+        "character": "Colonel Jericho",
+        "credit_id": "660503d3f90b19017ca824ae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74423,
+        "known_for_department": "Acting",
+        "name": "Tricia Helfer",
+        "original_name": "Tricia Helfer",
+        "popularity": 3.1229,
+        "profile_path": "/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg",
+        "cast_id": 5,
+        "character": "Sofia",
+        "credit_id": "660503e3813cb6017b19322c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133212,
+        "known_for_department": "Acting",
+        "name": "Ryan Kwanten",
+        "original_name": "Ryan Kwanten",
+        "popularity": 1.468,
+        "profile_path": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg",
+        "cast_id": 6,
+        "character": "Baker",
+        "credit_id": "6605040cd7f4650163db6587",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453100,
+        "known_for_department": "Acting",
+        "name": "Nick Wechsler",
+        "original_name": "Nick Wechsler",
+        "popularity": 0.9069,
+        "profile_path": "/vUkfhJc2x3jrO9WY7D1405g4amE.jpg",
+        "cast_id": 7,
+        "character": "Eli",
+        "credit_id": "6605041d15dea0018527bb23",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207282,
+        "known_for_department": "Acting",
+        "name": "Anthony Ingruber",
+        "original_name": "Anthony Ingruber",
+        "popularity": 0.2103,
+        "profile_path": "/fUTCd1jGGQHn912czglHg28v4gR.jpg",
+        "cast_id": 8,
+        "character": "Keyes",
+        "credit_id": "660504382811a10163da5c29",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203030,
+        "known_for_department": "Acting",
+        "name": "Aaron Glenane",
+        "original_name": "Aaron Glenane",
+        "popularity": 0.3984,
+        "profile_path": "/4JjTJIgJ0GDTo4egADEn3nW79Zk.jpg",
+        "cast_id": 9,
+        "character": "Logan",
+        "credit_id": "6605044b813cb6017b1932a6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3014804,
+        "known_for_department": "Acting",
+        "name": "Albert Mwangi",
+        "original_name": "Albert Mwangi",
+        "popularity": 0.157,
+        "profile_path": "/3F0LoOC0ouN9PsTAgnQU75frBWO.jpg",
+        "cast_id": 35,
+        "character": "Miller",
+        "credit_id": "69c6b1fa7872288daf421f33",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2643797,
+        "known_for_department": "Acting",
+        "name": "Carlos Sanson Jr.",
+        "original_name": "Carlos Sanson Jr.",
+        "popularity": 0.5493,
+        "profile_path": "/cta9cAYDh46lfDdt2sAtWD7GBmH.jpg",
+        "cast_id": 10,
+        "character": "Leon",
+        "credit_id": "6605046315dea0018527bb83",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4079346,
+        "known_for_department": "Acting",
+        "name": "Ana Thu Nguyen",
+        "original_name": "Ana Thu Nguyen",
+        "popularity": 0.2039,
+        "profile_path": "/cwGOgAoVgtEUVDeqW0OoPpcAYvU.jpg",
+        "cast_id": 11,
+        "character": "Con Nhen",
+        "credit_id": "660504742811a10186daa003",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364248,
+        "known_for_department": "Acting",
+        "name": "Adolphus Waylee",
+        "original_name": "Adolphus Waylee",
+        "popularity": 0.0239,
+        "profile_path": "/14jyy1SCiM2xQnG017gFCgyIaEI.jpg",
+        "cast_id": 12,
+        "character": "Xavier",
+        "credit_id": "6605048d15dea0018527bbd7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213070,
+        "known_for_department": "Acting",
+        "name": "Marcus Johnson",
+        "original_name": "Marcus Johnson",
+        "popularity": 0.3588,
+        "profile_path": "/fqAZqGw6fm6R3uBRSyCi0OvVWWO.jpg",
+        "cast_id": 14,
+        "character": "Ibex",
+        "credit_id": "66050563c5840d0184c4a03e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531206,
+        "known_for_department": "Acting",
+        "name": "Jake Ryan",
+        "original_name": "Jake Ryan",
+        "popularity": 0.6169,
+        "profile_path": "/3OO5qc1kj2ny7rCLjKYDdEzPBdJ.jpg",
+        "cast_id": 15,
+        "character": "Major Wallace",
+        "credit_id": "6605058ed7cd06014a87d38d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2570861,
+        "known_for_department": "Acting",
+        "name": "M.J. Kokolis",
+        "original_name": "M.J. Kokolis",
+        "popularity": 0.1269,
+        "profile_path": "/4X75ap3aX0gB1iH0prgzn5a8nFk.jpg",
+        "cast_id": 18,
+        "character": "Sergei",
+        "credit_id": "68ab4c17a47bc31188670376",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555945,
+        "known_for_department": "Acting",
+        "name": "Henry Nixon",
+        "original_name": "Henry Nixon",
+        "popularity": 0.3857,
+        "profile_path": "/fQL3rtJbKL3ZTOEcoFK8Z6qYpHV.jpg",
+        "cast_id": 19,
+        "character": "Bishop",
+        "credit_id": "68c3c488bc5c44280a7ce532",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1893676,
+        "known_for_department": "Acting",
+        "name": "Ryan Panizza",
+        "original_name": "Ryan Panizza",
+        "popularity": 0.0932,
+        "profile_path": "/iniLzLEEkZ6lBqFp2A7lLFmqIAW.jpg",
+        "cast_id": 20,
+        "character": "Tolstoy",
+        "credit_id": "68c3c4952b37e9144e2a0666",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130322,
+        "known_for_department": "Acting",
+        "name": "Jeremy Lindsay Taylor",
+        "original_name": "Jeremy Lindsay Taylor",
+        "popularity": 0.4303,
+        "profile_path": "/bW3vqOPnIFgtps6bsaixGFnxIbj.jpg",
+        "cast_id": 21,
+        "character": "Borodin",
+        "credit_id": "68c3c4a0353114f8d2199e0e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2551333,
+        "known_for_department": "Acting",
+        "name": "Kawakawa Fox-Reo",
+        "original_name": "Kawakawa Fox-Reo",
+        "popularity": 0.0843,
+        "profile_path": "/lNlDmoXmmZTwkeEDo2QUEhYI00Q.jpg",
+        "cast_id": 22,
+        "character": "Ricardo",
+        "credit_id": "68c3c4aae4c792b1693be017",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94798,
+        "known_for_department": "Acting",
+        "name": "Lincoln Lewis",
+        "original_name": "Lincoln Lewis",
+        "popularity": 0.4062,
+        "profile_path": "/icC8jrmgTcfZV41N5s1Bbw7McqY.jpg",
+        "cast_id": 23,
+        "character": "Zimmer",
+        "credit_id": "68c3c4b33307c5da78d26280",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5837275,
+        "known_for_department": "Acting",
+        "name": "Adam Fraser",
+        "original_name": "Adam Fraser",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "American Soldier",
+        "credit_id": "6924d1b5f40bb4e86e9dc080",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4583733,
+        "known_for_department": "Writing",
+        "name": "Ethan Pettus",
+        "original_name": "Ethan Pettus",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65ed77a4edeb430186c32f99",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "65ed7781447f9c018760aa7e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "65ed7776a9b9a40164d54557",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.1192,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "68ab02281b66fbae3a781cb0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429364,
+        "known_for_department": "Camera",
+        "name": "Wade Muller",
+        "original_name": "Wade Muller",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "68ab023d1001163fe36702fd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1737939,
+        "known_for_department": "Acting",
+        "name": "Alex Becconsall",
+        "original_name": "Alex Becconsall",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "credit_id": "68c3c4c5aa620a8b15d26246",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1973574,
+        "known_for_department": "Production",
+        "name": "Carmel Imrie",
+        "original_name": "Carmel Imrie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68c3c4d5e109cb9fbc2ceb49",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3574206,
+        "known_for_department": "Production",
+        "name": "Carly Sparke",
+        "original_name": "Carly Sparke",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68c3c4e2060e088c30cdc7fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c4ece7201899887ce4fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c4f36c830a8aff2a0680",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c50580e2477e8a2ceae8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1670908,
+        "known_for_department": "Directing",
+        "name": "Luke Sparke",
+        "original_name": "Luke Sparke",
+        "popularity": 0.259,
+        "profile_path": "/i3jtTar8GjNNmyyKzFPNofBNlAV.jpg",
+        "credit_id": "68c3c50cd48d9e9a777ce4c9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2134413,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tracey Rose Sparke",
+        "original_name": "Tracey Rose Sparke",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "68c3c51a80e2477e8a2ceaeb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1737939,
+        "known_for_department": "Acting",
+        "name": "Alex Becconsall",
+        "original_name": "Alex Becconsall",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "credit_id": "68c3c52780e2477e8a2ceaee",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5495786,
+        "known_for_department": "Directing",
+        "name": "Zoe Marxsen",
+        "original_name": "Zoe Marxsen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68c3c531e66542feb9861024",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2957,
+        "name": "vietnam war"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1521,
+        "name": "time warp"
+      },
+      {
+        "id": 3417,
+        "name": "wormhole"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 10506,
+        "name": "prehistory"
+      },
+      {
+        "id": 10789,
+        "name": "prehistoric creature"
+      },
+      {
+        "id": 12616,
+        "name": "dinosaur"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      },
+      {
+        "id": 235266,
+        "name": "horror novel"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 286957,
+        "name": "adaptation"
+      },
+      {
+        "id": 325766,
+        "name": "antagonistic"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325781,
+        "name": "celebratory"
+      }
+    ]
+  }
+}

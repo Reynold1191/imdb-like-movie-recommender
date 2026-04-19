@@ -1,0 +1,601 @@
+{
+  "adult": false,
+  "backdrop_path": "/5cgiN7zADfleheeUPWg0SChGtUB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1384216,
+  "imdb_id": "tt21285562",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Dog Stars",
+  "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he\u2019s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+  "popularity": 11.74,
+  "poster_path": "/ePWFnyCQQr4fvBOD1lgKtcvfnCd.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 221347,
+      "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+      "name": "Scott Free Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-08-26",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "The end of the world was just the beginning.",
+  "title": "The Dog Stars",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2034418,
+        "known_for_department": "Acting",
+        "name": "Jacob Elordi",
+        "original_name": "Jacob Elordi",
+        "popularity": 9.1747,
+        "profile_path": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg",
+        "cast_id": 9,
+        "character": "Hig",
+        "credit_id": "677d5ad2ec51791dfe66c576",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16851,
+        "known_for_department": "Acting",
+        "name": "Josh Brolin",
+        "original_name": "Josh Brolin",
+        "popularity": 5.2371,
+        "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+        "cast_id": 11,
+        "character": "Bangley",
+        "credit_id": "67ad025121bcf1821e9f36c8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1392137,
+        "known_for_department": "Acting",
+        "name": "Margaret Qualley",
+        "original_name": "Margaret Qualley",
+        "popularity": 5.8117,
+        "profile_path": "/jStNyMj3acpLuH48awLVLqqlyaV.jpg",
+        "cast_id": 10,
+        "character": "Cima",
+        "credit_id": "67ad02452375bfc5f6d0aeab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 529,
+        "known_for_department": "Acting",
+        "name": "Guy Pearce",
+        "original_name": "Guy Pearce",
+        "popularity": 2.2815,
+        "profile_path": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
+        "cast_id": 12,
+        "character": "Pops",
+        "credit_id": "67ad025d645669137e9f3b6d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19,
+        "known_for_department": "Acting",
+        "name": "Allison Janney",
+        "original_name": "Allison Janney",
+        "popularity": 2.4755,
+        "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "69e1752d79c0d6e28fe46565",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30082,
+        "known_for_department": "Acting",
+        "name": "Benedict Wong",
+        "original_name": "Benedict Wong",
+        "popularity": 1.6635,
+        "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "681ce153d19f21a5d2b1ca4c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4431189,
+        "known_for_department": "Acting",
+        "name": "Alara-Star Khan",
+        "original_name": "Alara-Star Khan",
+        "popularity": 0.2101,
+        "profile_path": "/9GFBpG1EWmd1mG33YU15E2fGXIB.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "69711ac05726e8073e77437b",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578,
+        "known_for_department": "Directing",
+        "name": "Ridley Scott",
+        "original_name": "Ridley Scott",
+        "popularity": 3.1855,
+        "profile_path": "/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+        "credit_id": "672d0c75de511ed7da6a56ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64785,
+        "known_for_department": "Writing",
+        "name": "Mark L. Smith",
+        "original_name": "Mark L. Smith",
+        "popularity": 0.5495,
+        "profile_path": "/d3OP4zzXT2PFk8egnlEkta1gzRR.jpg",
+        "credit_id": "672d0d00599da289809577b0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64785,
+        "known_for_department": "Writing",
+        "name": "Mark L. Smith",
+        "original_name": "Mark L. Smith",
+        "popularity": 0.5495,
+        "profile_path": "/d3OP4zzXT2PFk8egnlEkta1gzRR.jpg",
+        "credit_id": "672d0d195a204592074156ea",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2685219,
+        "known_for_department": "Production",
+        "name": "Cliff Roberts",
+        "original_name": "Cliff Roberts",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "672d0db26c10939a5151497d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5045914,
+        "known_for_department": "Writing",
+        "name": "Peter Heller",
+        "original_name": "Peter Heller",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "672e6ce7f2880d1004f6cd98",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5312332,
+        "known_for_department": "Production",
+        "name": "Lily Brooks-Dalton",
+        "original_name": "Lily Brooks-Dalton",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67d97099562e832c973669d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5312336,
+        "known_for_department": "Production",
+        "name": "Peter Heller",
+        "original_name": "Peter Heller",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67d970c3562e832c973669eb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1527474,
+        "known_for_department": "Production",
+        "name": "Michael A. Pruss",
+        "original_name": "Michael A. Pruss",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "67d970d5e1e3cdcbf9c6b3d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578,
+        "known_for_department": "Directing",
+        "name": "Ridley Scott",
+        "original_name": "Ridley Scott",
+        "popularity": 3.1855,
+        "profile_path": "/97SO7H0UlS3racqjeW5JTy8c6GM.jpg",
+        "credit_id": "67d97107562e832c97366a3e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5312351,
+        "known_for_department": "Production",
+        "name": "Brandon Scott Smith",
+        "original_name": "Brandon Scott Smith",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67d971226a7b980436c6bb2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 946,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janty Yates",
+        "original_name": "Janty Yates",
+        "popularity": 0.3756,
+        "profile_path": null,
+        "credit_id": "68154ce544116ab7bc912d1c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432042,
+        "known_for_department": "Camera",
+        "name": "Micky Froehlich",
+        "original_name": "Micky Froehlich",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "credit_id": "68154d03c38352430995920c",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60579,
+        "known_for_department": "Art",
+        "name": "Chris Seagers",
+        "original_name": "Chris Seagers",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "credit_id": "681ce44f126f7d14b86e3883",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368871,
+        "known_for_department": "Visual Effects",
+        "name": "Charley Henley",
+        "original_name": "Charley Henley",
+        "popularity": 0.2522,
+        "profile_path": null,
+        "credit_id": "68294599218515aa699e2fb7",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928495,
+        "known_for_department": "Sound",
+        "name": "St\u00e9phane Bucher",
+        "original_name": "St\u00e9phane Bucher",
+        "popularity": 0.1729,
+        "profile_path": "/tHpjwZtBYHdWh4FaEaYtTiG0xEC.jpg",
+        "credit_id": "682945e5bb2a3d77b7f555e0",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1519399,
+        "known_for_department": "Camera",
+        "name": "Erik Messerschmidt",
+        "original_name": "Erik Messerschmidt",
+        "popularity": 0.2914,
+        "profile_path": "/6yIwM0T9Jx1atf3R1wJuz0JFXPB.jpg",
+        "credit_id": "6844cc0ad75f28bbdc205cc3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6060,
+        "known_for_department": "Visual Effects",
+        "name": "Neil Corbould",
+        "original_name": "Neil Corbould",
+        "popularity": 0.3974,
+        "profile_path": "/tyrIWpWILlaDroOuzRNI18G9PXn.jpg",
+        "credit_id": "684c946f56011f5acc5c7678",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11880,
+        "known_for_department": "Editing",
+        "name": "Claire Simpson",
+        "original_name": "Claire Simpson",
+        "popularity": 0.3039,
+        "profile_path": "/wMKFN8rYfqDoHvCWoNIHDi63KFu.jpg",
+        "credit_id": "687592e79863d7836d786657",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333160,
+        "known_for_department": "Editing",
+        "name": "Sam Restivo",
+        "original_name": "Sam Restivo",
+        "popularity": 0.1314,
+        "profile_path": "/gSXVOhy6eS4LaSAGa8wN1VUKi5W.jpg",
+        "credit_id": "687592ef2df56dbb4b47e532",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77513,
+        "known_for_department": "Art",
+        "name": "Alessandro Santucci",
+        "original_name": "Alessandro Santucci",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "688d68eab3419ca7da7cee49",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 25063,
+        "known_for_department": "Art",
+        "name": "Alessandra Querzola",
+        "original_name": "Alessandra Querzola",
+        "popularity": 0.1704,
+        "profile_path": null,
+        "credit_id": "688d6903bfb521f3d12613e8",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578651,
+        "known_for_department": "Directing",
+        "name": "Raymond Kirk",
+        "original_name": "Raymond Kirk",
+        "popularity": 0.1681,
+        "profile_path": null,
+        "credit_id": "688d6931eb78ff5941b224cc",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419584,
+        "known_for_department": "Crew",
+        "name": "Massimiliano Ubaldi",
+        "original_name": "Massimiliano Ubaldi",
+        "popularity": 0.129,
+        "profile_path": null,
+        "credit_id": "688d69fcab9e5621477ceeb8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1738644,
+        "known_for_department": "Lighting",
+        "name": "Francesco Zaccaria",
+        "original_name": "Francesco Zaccaria",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "688d6a58eb78ff5941b224d3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27205,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luigi Rocchetti",
+        "original_name": "Luigi Rocchetti",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "68c32c1bf6534c6908e974da",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2151527,
+        "known_for_department": "Production",
+        "name": "Filippo Baldasso",
+        "original_name": "Filippo Baldasso",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68c32c38f6534c6908e974dd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2216217,
+        "known_for_department": "Directing",
+        "name": "Martina G\u00f6tthansova",
+        "original_name": "Martina G\u00f6tthansova",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "68fed1f3bcbe08f958fb70c5",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5553,
+        "known_for_department": "Sound",
+        "name": "Harry Gregson-Williams",
+        "original_name": "Harry Gregson-Williams",
+        "popularity": 0.4418,
+        "profile_path": "/xLuIAM22zCffnzPyKOSRQQYh03C.jpg",
+        "credit_id": "69193943965b35bb239ae48d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 3203,
+        "name": "pilot"
+      },
+      {
+        "id": 1981,
+        "name": "colorado"
+      },
+      {
+        "id": 4305,
+        "name": "radio transmission"
+      },
+      {
+        "id": 9957,
+        "name": "loneliness"
+      },
+      {
+        "id": 15162,
+        "name": "dog"
+      },
+      {
+        "id": 163114,
+        "name": "gunman"
+      },
+      {
+        "id": 188973,
+        "name": "pandemic"
+      },
+      {
+        "id": 207972,
+        "name": "lonely man"
+      },
+      {
+        "id": 238227,
+        "name": "dead wife"
+      },
+      {
+        "id": 245251,
+        "name": "transmission"
+      },
+      {
+        "id": 249891,
+        "name": "scavengers"
+      },
+      {
+        "id": 348204,
+        "name": "dystopian"
+      },
+      {
+        "id": 359337,
+        "name": "post-apocalyptic"
+      }
+    ]
+  }
+}

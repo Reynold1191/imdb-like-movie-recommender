@@ -1,0 +1,873 @@
+{
+  "adult": false,
+  "backdrop_path": "/qkknq3P4pzOe51IKY8ClgOZE3WA.jpg",
+  "belongs_to_collection": {
+    "id": 573436,
+    "name": "Spider-Man: Spider-Verse Collection",
+    "poster_path": "/eD4bGQNfmqExIAzKdvX5gDHhI2.jpg",
+    "backdrop_path": "/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse",
+  "id": 911916,
+  "imdb_id": "tt16360004",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Spider-Man: Beyond the Spider-Verse",
+  "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
+  "popularity": 11.4996,
+  "poster_path": "/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 77973,
+      "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 14439,
+      "logo_path": null,
+      "name": "Arad Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2027-06-17",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "title": "Spider-Man: Beyond the Spider-Verse",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587506,
+        "known_for_department": "Acting",
+        "name": "Shameik Moore",
+        "original_name": "Shameik Moore",
+        "popularity": 3.3876,
+        "profile_path": "/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg",
+        "cast_id": 11,
+        "character": "Miles Morales (voice)",
+        "credit_id": "61ac141c326c19008aba62f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130640,
+        "known_for_department": "Acting",
+        "name": "Hailee Steinfeld",
+        "original_name": "Hailee Steinfeld",
+        "popularity": 3.7636,
+        "profile_path": "/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg",
+        "cast_id": 15,
+        "character": "Gwen Stacy (voice)",
+        "credit_id": "6479f566e323f300c4295a5d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226366,
+        "known_for_department": "Acting",
+        "name": "Brian Tyree Henry",
+        "original_name": "Brian Tyree Henry",
+        "popularity": 1.6709,
+        "profile_path": "/1UgDnFt3OteCJQPiUelWzIR5bvT.jpg",
+        "cast_id": 26,
+        "character": "Jefferson Morales (voice)",
+        "credit_id": "647adf2017497300de662341",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141610,
+        "known_for_department": "Acting",
+        "name": "Luna Lauren V\u00e9lez",
+        "original_name": "Luna Lauren V\u00e9lez",
+        "popularity": 1.5264,
+        "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg",
+        "cast_id": 27,
+        "character": "Rio Morales (voice)",
+        "credit_id": "647adf6e17497300a81925b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25072,
+        "known_for_department": "Acting",
+        "name": "Oscar Isaac",
+        "original_name": "Oscar Isaac",
+        "popularity": 3.5158,
+        "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg",
+        "cast_id": 16,
+        "character": "Miguel O'Hara (voice)",
+        "credit_id": "6479f5950e29a200a65fb342",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543505,
+        "known_for_department": "Acting",
+        "name": "Jake Johnson",
+        "original_name": "Jake Johnson",
+        "popularity": 1.5286,
+        "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg",
+        "cast_id": 17,
+        "character": "Peter B. Parker (voice)",
+        "credit_id": "6479f5de93828e00f9d6a032",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17881,
+        "known_for_department": "Acting",
+        "name": "Jason Schwartzman",
+        "original_name": "Jason Schwartzman",
+        "popularity": 1.8436,
+        "profile_path": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg",
+        "cast_id": 20,
+        "character": "Spot (voice)",
+        "credit_id": "647a2f38cf4b8b00c3d1a43c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1455336,
+        "known_for_department": "Acting",
+        "name": "Issa Rae",
+        "original_name": "Issa Rae",
+        "popularity": 1.1622,
+        "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg",
+        "cast_id": 18,
+        "character": "Jessica Drew (voice)",
+        "credit_id": "6479f618cf4b8b0122754e0a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206919,
+        "known_for_department": "Acting",
+        "name": "Daniel Kaluuya",
+        "original_name": "Daniel Kaluuya",
+        "popularity": 1.8387,
+        "profile_path": "/jj2kZqJobjom36wlhlYhc38nTwN.jpg",
+        "cast_id": 19,
+        "character": "Hobie Brown (voice)",
+        "credit_id": "6479f653cf4b8b01031dae59",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2963,
+        "known_for_department": "Acting",
+        "name": "Nicolas Cage",
+        "original_name": "Nicolas Cage",
+        "popularity": 6.7658,
+        "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
+        "cast_id": 21,
+        "character": "Spider-Man Noir (voice)",
+        "credit_id": "647a831ee323f300c429885d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933558,
+        "known_for_department": "Acting",
+        "name": "John Mulaney",
+        "original_name": "John Mulaney",
+        "popularity": 0.9851,
+        "profile_path": "/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg",
+        "cast_id": 22,
+        "character": "Spider-Ham (voice)",
+        "credit_id": "647a838b0e29a200dcba75cb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1109702,
+        "known_for_department": "Acting",
+        "name": "Karan Soni",
+        "original_name": "Karan Soni",
+        "popularity": 1.4291,
+        "profile_path": "/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg",
+        "cast_id": 62,
+        "character": "Pavitr Prabhakar (voice)",
+        "credit_id": "697a02a793249c84d9ef3b2b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443708,
+        "known_for_department": "Acting",
+        "name": "Kimiko Glenn",
+        "original_name": "Kimiko Glenn",
+        "popularity": 0.9405,
+        "profile_path": "/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg",
+        "cast_id": 23,
+        "character": "Peni Parker (voice)",
+        "credit_id": "647a83d0cf4b8b00e2d54c9e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 561869,
+        "known_for_department": "Acting",
+        "name": "Amandla Stenberg",
+        "original_name": "Amandla Stenberg",
+        "popularity": 4.1159,
+        "profile_path": "/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg",
+        "cast_id": 24,
+        "character": "Margo Kess (voice)",
+        "credit_id": "647a846593828e00f9d6ce40",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932967,
+        "known_for_department": "Acting",
+        "name": "Mahershala Ali",
+        "original_name": "Mahershala Ali",
+        "popularity": 2.6857,
+        "profile_path": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg",
+        "cast_id": 28,
+        "character": "Uncle Aaron (voice)",
+        "credit_id": "647adfaa93828e011624360a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1664716,
+        "known_for_department": "Acting",
+        "name": "Jharrel Jerome",
+        "original_name": "Jharrel Jerome",
+        "popularity": 1.0299,
+        "profile_path": "/zH840Fv86TixTLVZKzPZJJacphd.jpg",
+        "cast_id": 29,
+        "character": "Miles G. Morales (voice)",
+        "credit_id": "647b6dafcaef2d00fce5a2b6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1260481,
+        "known_for_department": "Acting",
+        "name": "Greta Lee",
+        "original_name": "Greta Lee",
+        "popularity": 1.656,
+        "profile_path": "/6SydTis4XUcovlwIGskT59JowLX.jpg",
+        "cast_id": 34,
+        "character": "LYLA (voice)",
+        "credit_id": "65837a42992fe63dfa728027",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62861,
+        "known_for_department": "Acting",
+        "name": "Andy Samberg",
+        "original_name": "Andy Samberg",
+        "popularity": 3.2693,
+        "profile_path": "/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg",
+        "cast_id": 35,
+        "character": "Ben Reilly (voice)",
+        "credit_id": "6584cf5f111da118e1710420",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74242,
+        "known_for_department": "Acting",
+        "name": "Shea Whigham",
+        "original_name": "Shea Whigham",
+        "popularity": 1.6189,
+        "profile_path": "/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
+        "cast_id": 36,
+        "character": "George Stacy (voice)",
+        "credit_id": "6584cf7771f0951a0523b32f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1962692,
+        "known_for_department": "Acting",
+        "name": "Marvin Jones III",
+        "original_name": "Marvin Jones III",
+        "popularity": 0.632,
+        "profile_path": "/nS4X8TP3idFsxDdV9UqTRbz585g.jpg",
+        "cast_id": 61,
+        "character": "Tombstone (voice)",
+        "credit_id": "68d2ed9a63370bc3d1ac8ddc",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23626,
+        "known_for_department": "Acting",
+        "name": "Liev Schreiber",
+        "original_name": "Liev Schreiber",
+        "popularity": 2.7319,
+        "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg",
+        "cast_id": 71,
+        "character": "Wilson Fisk (voice)",
+        "credit_id": "69ddb212ef7501e5271da71d",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425616,
+        "known_for_department": "Production",
+        "name": "Amy Pascal",
+        "original_name": "Amy Pascal",
+        "popularity": 0.6834,
+        "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg",
+        "credit_id": "61ac12d2c072a2001d175861",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7626,
+        "known_for_department": "Production",
+        "name": "Avi Arad",
+        "original_name": "Avi Arad",
+        "popularity": 0.5065,
+        "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg",
+        "credit_id": "61ac12dd38e510004131805f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155267,
+        "known_for_department": "Production",
+        "name": "Christopher Miller",
+        "original_name": "Christopher Miller",
+        "popularity": 1.866,
+        "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+        "credit_id": "61ac12f4aa659e001cb27393",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107446,
+        "known_for_department": "Production",
+        "name": "Phil Lord",
+        "original_name": "Phil Lord",
+        "popularity": 2.1254,
+        "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+        "credit_id": "61ac12fe596a91004338b07b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582922,
+        "known_for_department": "Sound",
+        "name": "Daniel Pemberton",
+        "original_name": "Daniel Pemberton",
+        "popularity": 0.5414,
+        "profile_path": "/dPcjpSoCg1nraqCUD4tvRK3QtHQ.jpg",
+        "credit_id": "647ce1c626346200dc429f14",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 155267,
+        "known_for_department": "Production",
+        "name": "Christopher Miller",
+        "original_name": "Christopher Miller",
+        "popularity": 1.866,
+        "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+        "credit_id": "647bd10593828e0116249001",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57264,
+        "known_for_department": "Writing",
+        "name": "David Callaham",
+        "original_name": "David Callaham",
+        "popularity": 0.6603,
+        "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg",
+        "credit_id": "647bd108e323f30106153e6c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107446,
+        "known_for_department": "Production",
+        "name": "Phil Lord",
+        "original_name": "Phil Lord",
+        "popularity": 2.1254,
+        "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+        "credit_id": "647bd10de323f300a7d5c47a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936670,
+        "known_for_department": "Directing",
+        "name": "Bob Persichetti",
+        "original_name": "Bob Persichetti",
+        "popularity": 0.465,
+        "profile_path": "/jmpNVUvvhJB2X2eOSKpveFnetM8.jpg",
+        "credit_id": "6761af5f5c7a1edb1bb512b4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046497,
+        "known_for_department": "Directing",
+        "name": "Justin K. Thompson",
+        "original_name": "Justin K. Thompson",
+        "popularity": 0.6672,
+        "profile_path": "/mRMi8Q2fmlfbDYkE7A63gzFtGsZ.jpg",
+        "credit_id": "6761af6c44476b5b60b50874",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76590,
+        "known_for_department": "Production",
+        "name": "Jinko Gotoh",
+        "original_name": "Jinko Gotoh",
+        "popularity": 0.1926,
+        "profile_path": "/pSaO0uaxz0Ow8DJ2vBfdBATL7Jz.jpg",
+        "credit_id": "6761afb7c29ba495edcbe580",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320090,
+        "known_for_department": "Production",
+        "name": "Aditya Sood",
+        "original_name": "Aditya Sood",
+        "popularity": 0.2596,
+        "profile_path": "/jtL8x7tcNJSF1muFcGSF16K7SUw.jpg",
+        "credit_id": "6761afccc29ba495edcbe597",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35666,
+        "known_for_department": "Production",
+        "name": "Christina Steinberg",
+        "original_name": "Christina Steinberg",
+        "popularity": 0.2818,
+        "profile_path": "/5o9DnKyNJVVi8TkKDvLmk65JGxQ.jpg",
+        "credit_id": "6761afd5328322fcf318a798",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645479,
+        "known_for_department": "Production",
+        "name": "Jessica Berri",
+        "original_name": "Jessica Berri",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6761afe544476b5b60b508c2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2013845,
+        "known_for_department": "Visual Effects",
+        "name": "Michael Lasker",
+        "original_name": "Michael Lasker",
+        "popularity": 0.0379,
+        "profile_path": "/4aGkIMP0EQljzqATYli7wYkyRzi.jpg",
+        "credit_id": "67eb5487b0a9ac74158be5ac",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3730367,
+        "known_for_department": "Art",
+        "name": "Samantha Suyi Lee",
+        "original_name": "Samantha Suyi Lee",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67ebacd558e0aa2338fb06fc",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2196774,
+        "known_for_department": "Art",
+        "name": "Patrick O'Keefe",
+        "original_name": "Patrick O'Keefe",
+        "popularity": 0.2385,
+        "profile_path": "/xxJuqiJkLmEAyYBalWh8Ihj0mox.jpg",
+        "credit_id": "67ee6548cf06190cbae19ff3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355897,
+        "known_for_department": "Lighting",
+        "name": "Kaitlyn Fox",
+        "original_name": "Kaitlyn Fox",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "67ee663b15f6ba86f1e19073",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3551548,
+        "known_for_department": "Visual Effects",
+        "name": "Jes\u00fas Alonso Iglesias",
+        "original_name": "Jes\u00fas Alonso Iglesias",
+        "popularity": 0.249,
+        "profile_path": null,
+        "credit_id": "67ee6814b5b1c5a4c3a7c002",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2199361,
+        "known_for_department": "Writing",
+        "name": "Vi-Dieu Nguyen",
+        "original_name": "Vi-Dieu Nguyen",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "67ee68cccf06190cbae1a17f",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1232444,
+        "known_for_department": "Writing",
+        "name": "Erik Wiese",
+        "original_name": "Erik Wiese",
+        "popularity": 0.1682,
+        "profile_path": null,
+        "credit_id": "67ee69141d1ccf5f4f62a30e",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1001924,
+        "known_for_department": "Camera",
+        "name": "Alice Brooks",
+        "original_name": "Alice Brooks",
+        "popularity": 0.2017,
+        "profile_path": "/fLsJb9Jca4poIQ4NR2Xzz7gMFgT.jpg",
+        "credit_id": "67fd644761b1c4bb32994404",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546437,
+        "known_for_department": "Editing",
+        "name": "Michael Andrews",
+        "original_name": "Michael Andrews",
+        "popularity": 0.2112,
+        "profile_path": "/rNwczFYfFlljjAnoAZjZQsRwNwi.jpg",
+        "credit_id": "67fd64c4c1e0a708cbad3b20",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1562034,
+        "known_for_department": "Crew",
+        "name": "Abo Biglarpour",
+        "original_name": "Abo Biglarpour",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "credit_id": "697f671b34340bf6a797446e",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5977308,
+        "known_for_department": "Crew",
+        "name": "Alejandro Ozai",
+        "original_name": "Alejandro Ozai",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "697f675e650a32eec76f740d",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5977341,
+        "known_for_department": "Crew",
+        "name": "Ritik Keswani",
+        "original_name": "Ritik Keswani",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "697f6a0f20858d1ed070e9b1",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1261455,
+        "known_for_department": "Directing",
+        "name": "Pierre Perifel",
+        "original_name": "Pierre Perifel",
+        "popularity": 0.8139,
+        "profile_path": "/wNKzhbKZxbO7ODIP9TW6x7T4M1k.jpg",
+        "credit_id": "698048efd4336c055db98b3c",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2912489,
+        "known_for_department": "Visual Effects",
+        "name": "Benjamin Hendricks",
+        "original_name": "Benjamin Hendricks",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "6990eb2026984a5163123daf",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382000,
+        "known_for_department": "Writing",
+        "name": "Brian Michael Bendis",
+        "original_name": "Brian Michael Bendis",
+        "popularity": 0.3552,
+        "profile_path": "/hPafqzHFJ69Pc1rGq7oXGylcfUV.jpg",
+        "credit_id": "6993705f4de3a7f624fa3866",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2358524,
+        "known_for_department": "Editing",
+        "name": "Sarah D. Cole",
+        "original_name": "Sarah D. Cole",
+        "popularity": 0.2153,
+        "profile_path": "/42KIaxHZ7nMZIoyuft05SUR3yhW.jpg",
+        "credit_id": "699370943fbae15df32af760",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6014201,
+        "known_for_department": "Visual Effects",
+        "name": "Kade Byrand",
+        "original_name": "Kade Byrand",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6994ea4b4c1a324d621250bf",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 1701,
+        "name": "hero"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 3289,
+        "name": "villain"
+      },
+      {
+        "id": 7939,
+        "name": "portal"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 41523,
+        "name": "brooklyn, new york city"
+      },
+      {
+        "id": 155030,
+        "name": "superhero team"
+      },
+      {
+        "id": 163074,
+        "name": "super villain"
+      },
+      {
+        "id": 188237,
+        "name": "teenage romance"
+      },
+      {
+        "id": 205734,
+        "name": "family dynamics"
+      },
+      {
+        "id": 245157,
+        "name": "alternate universe"
+      },
+      {
+        "id": 272493,
+        "name": "female superhero"
+      },
+      {
+        "id": 287046,
+        "name": "afro-latino"
+      },
+      {
+        "id": 299365,
+        "name": "interdimensional travel"
+      }
+    ]
+  }
+}

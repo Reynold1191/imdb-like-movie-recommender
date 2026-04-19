@@ -1,0 +1,268 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYYpIStJ6eetCfwwl1k4BnYbr2E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 384527,
+  "imdb_id": "tt0080642",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Dolce... calda Lisa",
+  "overview": "80's Italian sleaze with the luscious Claudia Rocchi, Italian porno regular Guia Lauri Filzi, and softcore actress Annj Goren.  The film is about Lisa, a young pretty wife stuck with an older husband who cannot satisfy her sexually nor in other ways.  She becomes bored with her everyday life and cheats on her husband sleeping with another older man.  Still not satisfied she hooks up with a rich man (Enzo Fisichella) who introduces her to a young stud (Mario Cutini) and his two lesbian playmates (Guia Lauri Filzi and Annj Goren). At the party Lisa is taken by the young man while the others watch. This seems to do the trick for Lisa. Her curiosity for the young man deepens and she wants to see him again. However, it turns out that he is a very rude partner instead of the gentle lover that she wanted.  Shot in Rome, Italy.",
+  "popularity": 11.7031,
+  "poster_path": "/taoUcLRMSijDDySXv9AT2oX9BmO.jpg",
+  "production_companies": [
+    {
+      "id": 118727,
+      "logo_path": null,
+      "name": "Codex Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1980-03-28",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dolce... calda Lisa",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937654,
+        "known_for_department": "Acting",
+        "name": "Luigina Rocchi",
+        "original_name": "Luigina Rocchi",
+        "popularity": 0.4348,
+        "profile_path": "/jtX62XtWnIujZs7ueCTdsOklz7J.jpg",
+        "cast_id": 13,
+        "character": "Lisa",
+        "credit_id": "57041b599251415bb0000801",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468297,
+        "known_for_department": "Acting",
+        "name": "Francesco Parisi",
+        "original_name": "Francesco Parisi",
+        "popularity": 0.0843,
+        "profile_path": "/zlA6LSIjTkLC4vtO7peyRJIn9rH.jpg",
+        "cast_id": 7,
+        "character": "Lisa's husband",
+        "credit_id": "56cf2db2c3a3681e4a00291c",
+        "order": 1
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 556714,
+        "known_for_department": "Acting",
+        "name": "Mario Cutini",
+        "original_name": "Mario Cutini",
+        "popularity": 0.0,
+        "profile_path": "/3w7wZCUXT4ZCrkuFlrYudsJNPhO.jpg",
+        "cast_id": 5,
+        "character": "Marco",
+        "credit_id": "56cf2d68c3a3681e3c003173",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1582775,
+        "known_for_department": "Acting",
+        "name": "Maruska Ferretti",
+        "original_name": "Maruska Ferretti",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Patrizia, Marco's lover",
+        "credit_id": "56cf2d579251413e6a002d88",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239654,
+        "known_for_department": "Acting",
+        "name": "Enzo Fisichella",
+        "original_name": "Enzo Fisichella",
+        "popularity": 0.252,
+        "profile_path": "/7f8A4VV75Gqfwg0IRilAfQMZcJ.jpg",
+        "cast_id": 2,
+        "character": "The Count",
+        "credit_id": "56cf2b029251413e59002aa9",
+        "order": 4
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 41072,
+        "known_for_department": "Acting",
+        "name": "Guia Lauri Filzi",
+        "original_name": "Guia Lauri Filzi",
+        "popularity": 0.0,
+        "profile_path": "/5kEDLtB0LpUVj8JSq4oS2tm9Ixr.jpg",
+        "cast_id": 1,
+        "character": "Carmen",
+        "credit_id": "56cf2a11c3a3681e440034da",
+        "order": 5
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 100436,
+        "known_for_department": "Acting",
+        "name": "Annj Goren",
+        "original_name": "Annj Goren",
+        "popularity": 0.0,
+        "profile_path": "/hfQoRtXdbHf5VTeXW4v7V0uvcFP.jpg",
+        "cast_id": 6,
+        "character": "Carmen's lover",
+        "credit_id": "56cf2d92925141799e000183",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99446,
+        "known_for_department": "Acting",
+        "name": "Giovanni Di Benedetto",
+        "original_name": "Giovanni Di Benedetto",
+        "popularity": 0.0723,
+        "profile_path": "/yknDKsf8plEdYXKI9nbiyNF344f.jpg",
+        "cast_id": 8,
+        "character": "Ing. Boschi (as Gianni Di Benedetto)",
+        "credit_id": "56cf2df9c3a3681e39002994",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1289998,
+        "known_for_department": "Sound",
+        "name": "Paolo Ormi",
+        "original_name": "Paolo Ormi",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "56d02013c3a3681e3c006061",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127102,
+        "known_for_department": "Editing",
+        "name": "Adriano Tagliavia",
+        "original_name": "Adriano Tagliavia",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "56d41dd1c3a3681e3901420f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584441,
+        "known_for_department": "Camera",
+        "name": "Roberto Locci",
+        "original_name": "Roberto Locci",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "56d41dbb92514157b5007452",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127102,
+        "known_for_department": "Editing",
+        "name": "Adriano Tagliavia",
+        "original_name": "Adriano Tagliavia",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "56d41cc2c3a3681e4a013d97",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127102,
+        "known_for_department": "Editing",
+        "name": "Adriano Tagliavia",
+        "original_name": "Adriano Tagliavia",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "590b9639c3a3686271000808",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 739,
+        "name": "sexual abuse"
+      },
+      {
+        "id": 588,
+        "name": "rome, italy"
+      },
+      {
+        "id": 2426,
+        "name": "group sex"
+      },
+      {
+        "id": 10337,
+        "name": "cheat on husband"
+      },
+      {
+        "id": 9767,
+        "name": "beautiful woman"
+      },
+      {
+        "id": 15136,
+        "name": "female homosexuality"
+      },
+      {
+        "id": 197410,
+        "name": "sleaze"
+      }
+    ]
+  }
+}

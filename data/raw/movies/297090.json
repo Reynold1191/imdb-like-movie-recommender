@@ -1,0 +1,491 @@
+{
+  "adult": false,
+  "backdrop_path": "/bYXYrMZeS792zS87xD9ySUALVgK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 297090,
+  "imdb_id": "tt3617996",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "\u3061\u3087\u3063\u3068\u304b\u308f\u3044\u3044\u30a2\u30a4\u30a2\u30f3\u30e1\u30a4\u30c7\u30f3",
+  "overview": "The \"Torture Club\" is an official after-school activity at the private school Saint Honesty Gakuen. Yuzuki has no idea about the club when she enrolls, and gets abducted by the club members and hauled off the club-room. There, she finds out that upper-class student Aoi, her secret idol, is in the club, and decides to join, but\u2026",
+  "popularity": 9.9054,
+  "poster_path": "/rJQQxeNqf4Cs0NtlftVJyfHDoEc.jpg",
+  "production_companies": [
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 84462,
+      "logo_path": null,
+      "name": "Shaiker",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-07-19",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Torture Club",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553173,
+        "known_for_department": "Acting",
+        "name": "Noriko Kohara",
+        "original_name": "\u5c0f\u539f\u5fb3\u5b50",
+        "popularity": 1.6064,
+        "profile_path": "/hEvoP27BwLYVvrTUKHJeZVb5d1g.jpg",
+        "cast_id": 0,
+        "character": "Yuzuki Muto",
+        "credit_id": "54398d4ec3a368199c0009cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373041,
+        "known_for_department": "Acting",
+        "name": "Haruna Yoshizumi",
+        "original_name": "Haruna Yoshizumi",
+        "popularity": 0.392,
+        "profile_path": "/sjVAdCOiFYgZloTO4n9yzkBB4Hq.jpg",
+        "cast_id": 1,
+        "character": "Aoi Funaki",
+        "credit_id": "54398d830e0a2649ab000a67",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1266271,
+        "known_for_department": "Acting",
+        "name": "Yuki Mamiya",
+        "original_name": "\u685d\u7530\u5e78\u5e0c",
+        "popularity": 2.6096,
+        "profile_path": "/xhCsLxrOz2YxCDAcTaMCBY4ftXP.jpg",
+        "cast_id": 2,
+        "character": "Yuri Kobashi",
+        "credit_id": "54398db5c3a36819a1000ac1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1453353,
+        "known_for_department": "Acting",
+        "name": "Mika Yano",
+        "original_name": "\u77e2\u91ce\u672a\u590f",
+        "popularity": 0.6669,
+        "profile_path": "/3zqDaX5Ws7QE28HdLv3tU8KMbGp.jpg",
+        "cast_id": 9,
+        "character": "Maika Shinzaki",
+        "credit_id": "5ba345420e0a265e5301310c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2041432,
+        "known_for_department": "Acting",
+        "name": "Nami Motoyama",
+        "original_name": "\u672c\u5c71\u306a\u307f",
+        "popularity": 0.606,
+        "profile_path": "/5csG46OjjS0nbKBMAsAcbPxeC5I.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5ebc1bb14ca676001fd7552b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2092979,
+        "known_for_department": "Acting",
+        "name": "Kanako Mochida",
+        "original_name": "Kanako Mochida",
+        "popularity": 0.3182,
+        "profile_path": "/4UeOUSIT0N0htICRX8Dne8t3f7k.jpg",
+        "cast_id": 8,
+        "character": "Secretary",
+        "credit_id": "5ba34530c3a3683396012e39",
+        "order": 5
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1453351,
+        "known_for_department": "Acting",
+        "name": "Reiko Hayama",
+        "original_name": "\u8449\u5c71\u30ec\u30a4\u30b3",
+        "popularity": 0.0,
+        "profile_path": "/dgzlH7ofnGDZNhat0psAjXfvGnP.jpg",
+        "cast_id": 7,
+        "character": "Rin Hokuto",
+        "credit_id": "5ba34513c3a368339f012ae8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35643,
+        "known_for_department": "Acting",
+        "name": "Shungicu Uchida",
+        "original_name": "\u5185\u7530\u6625\u83ca",
+        "popularity": 0.9216,
+        "profile_path": "/yULFUme9KfJPscwe9KJf5nrNRHS.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5ebc1d98c3514c001e5f2700",
+        "order": 7
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 2041193,
+        "known_for_department": "Acting",
+        "name": "Rei Mizuna",
+        "original_name": "\u307f\u3065\u306a\u308c\u3044",
+        "popularity": 0.0,
+        "profile_path": "/zMqX1IVEf3pkcpxXIO9RFXUrR3U.jpg",
+        "cast_id": 16,
+        "character": "Hokuto's henchwoman",
+        "credit_id": "5ebc1e6fa294f000220c20c2",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1206861,
+        "known_for_department": "Directing",
+        "name": "K\u014dta Yoshida",
+        "original_name": "\u5409\u7530\u6d69\u592a",
+        "popularity": 0.8101,
+        "profile_path": "/t7iqeN906IFIjwkQv5T2SRD005I.jpg",
+        "credit_id": "54398f18c3a3681998000a15",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1161666,
+        "known_for_department": "Production",
+        "name": "Ujikatsu Omori",
+        "original_name": "\u5927\u68ee\u6c0f\u52dd",
+        "popularity": 0.15,
+        "profile_path": null,
+        "credit_id": "54399a6e0e0a2649b6000c3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1373046,
+        "known_for_department": "Production",
+        "name": "Hidehisa Chiwata",
+        "original_name": "\u5343\u7dbf\u82f1\u4e45",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "54399aca0e0a2649ab000bd7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034266,
+        "known_for_department": "Production",
+        "name": "Yuichi Shibahara",
+        "original_name": "\u67f4\u539f\u7950\u4e00",
+        "popularity": 0.2383,
+        "profile_path": null,
+        "credit_id": "54399ae30e0a2649b6000c58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130943,
+        "known_for_department": "Sound",
+        "name": "Akira Matsumoto",
+        "original_name": "\u677e\u672c\u7ae0",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "6451cc931056110173ea4eb4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1265976,
+        "known_for_department": "Sound",
+        "name": "Mikisuke Shimazu",
+        "original_name": "\u5cf6\u6d25\u672a\u6765\u4ecb",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "647dd834cf4b8b01031f519c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1206861,
+        "known_for_department": "Directing",
+        "name": "K\u014dta Yoshida",
+        "original_name": "\u5409\u7530\u6d69\u592a",
+        "popularity": 0.8101,
+        "profile_path": "/t7iqeN906IFIjwkQv5T2SRD005I.jpg",
+        "credit_id": "5e97643919ab590014462b74",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403483,
+        "known_for_department": "Writing",
+        "name": "Makoto Fukami",
+        "original_name": "\u6df1\u898b\u771f",
+        "popularity": 0.7907,
+        "profile_path": "/j37RmTE2nmSaiZQ4q44KpP5Lfn7.jpg",
+        "credit_id": "5e97644d19ab590014462b80",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2602784,
+        "known_for_department": "Writing",
+        "name": "Alpha AlfLayla",
+        "original_name": "Alpha AlfLayla",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "5e97645b9defda001aba6741",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161664,
+        "known_for_department": "Production",
+        "name": "Shinichirou Inoue",
+        "original_name": "\u4e95\u4e0a\u4f38\u4e00\u90ce",
+        "popularity": 0.4848,
+        "profile_path": "/qxdvBbkO8QBIdPETF8SJ87R5u4H.jpg",
+        "credit_id": "5ebc1dcd614c6d001c8ed863",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720856,
+        "known_for_department": "Production",
+        "name": "Akio Motojima",
+        "original_name": "\u672c\u5cf6\u7ae0\u96c4",
+        "popularity": 0.1458,
+        "profile_path": null,
+        "credit_id": "5ebc1ea3a294f000200bfb6c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1650711,
+        "known_for_department": "Crew",
+        "name": "Masafumi Seki",
+        "original_name": "Masafumi Seki",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ebc1ed0a294f000200bfc6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190575,
+        "known_for_department": "Art",
+        "name": "Shuji Yamashita",
+        "original_name": "\u5c71\u4e0b\u4fee\u4f8d",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "credit_id": "5ebc1f32c3514c001f5bd3f7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1750848,
+        "known_for_department": "Art",
+        "name": "K\u00f4suke Nishibuchi",
+        "original_name": "\u897f\u6e15\u6d69\u7950",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5ebc1f64614c6d001d8ffc45",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637093,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Naomi Oikawa",
+        "original_name": "Naomi Oikawa",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ebc1f81a294f000210c5014",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553067,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Masae Miyamoto",
+        "original_name": "\u5bae\u672c\u307e\u3055\u6c5f",
+        "popularity": 0.2797,
+        "profile_path": null,
+        "credit_id": "5ebc1f94aad9c20021237863",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608496,
+        "known_for_department": "Sound",
+        "name": "Yoshio Nakamura",
+        "original_name": "\u4e2d\u6751\u4f73\u592e",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5ebc1fd6c3514c001e5f290b",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637094,
+        "known_for_department": "Editing",
+        "name": "Masayuki Narumi",
+        "original_name": "Masayuki Narumi",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5ebc20080cb335001fceae58",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637096,
+        "known_for_department": "Production",
+        "name": "Yuya Kusuma",
+        "original_name": "Yuya Kusuma",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5ebc203caad9c2002024c341",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1792427,
+        "known_for_department": "Directing",
+        "name": "Naoyoshi Kawamatsu",
+        "original_name": "\u5ddd\u677e\u5c1a\u826f",
+        "popularity": 0.2023,
+        "profile_path": null,
+        "credit_id": "5ebc206cc3514c001e5f2a16",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 910,
+        "name": "bondage"
+      },
+      {
+        "id": 9833,
+        "name": "lesbian relationship"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 156777,
+        "name": "teenage sexuality"
+      },
+      {
+        "id": 158713,
+        "name": "bdsm"
+      },
+      {
+        "id": 264386,
+        "name": "lesbian"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1017 @@
+{
+  "adult": false,
+  "backdrop_path": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://cannibalholocaust.net/",
+  "id": 8689,
+  "imdb_id": "tt0078935",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Cannibal Holocaust",
+  "overview": "A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.",
+  "popularity": 13.4437,
+  "poster_path": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+  "production_companies": [
+    {
+      "id": 17893,
+      "logo_path": null,
+      "name": "F.D. Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 192617,
+      "logo_path": null,
+      "name": "Bolivariana Films",
+      "origin_country": "CO"
+    },
+    {
+      "id": 220144,
+      "logo_path": null,
+      "name": "United Artists Europa",
+      "origin_country": ""
+    },
+    {
+      "id": 1723,
+      "logo_path": null,
+      "name": "Transcontinental Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1980-02-07",
+  "revenue": 2000000,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They eat and they are eaten!",
+  "title": "Cannibal Holocaust",
+  "video": false,
+  "vote_average": 6.27,
+  "vote_count": 1836,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 55648,
+        "known_for_department": "Acting",
+        "name": "Robert Kerman",
+        "original_name": "Robert Kerman",
+        "popularity": 0.0,
+        "profile_path": "/kjQ8g1UBn4l1T8flT4qZ9OwbE2k.jpg",
+        "cast_id": 3,
+        "character": "Professor Harold Monroe",
+        "credit_id": "52fe44b4c3a36847f80a55c9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55652,
+        "known_for_department": "Acting",
+        "name": "Francesca Ciardi",
+        "original_name": "Francesca Ciardi",
+        "popularity": 0.2789,
+        "profile_path": "/slZvL8ENq49hJ2iYPMNBXqyoJNa.jpg",
+        "cast_id": 7,
+        "character": "Faye Daniels",
+        "credit_id": "52fe44b4c3a36847f80a55d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55649,
+        "known_for_department": "Acting",
+        "name": "Perry Pirkanen",
+        "original_name": "Perry Pirkanen",
+        "popularity": 0.1799,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jack Anders",
+        "credit_id": "52fe44b4c3a36847f80a55cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55650,
+        "known_for_department": "Acting",
+        "name": "Luca Barbareschi",
+        "original_name": "Luca Barbareschi",
+        "popularity": 0.4127,
+        "profile_path": "/fREMNtoQqVWLA8hG3JbqD9ALxvP.jpg",
+        "cast_id": 5,
+        "character": "Mark Tomaso",
+        "credit_id": "52fe44b4c3a36847f80a55d1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55651,
+        "known_for_department": "Acting",
+        "name": "Salvatore Basile",
+        "original_name": "Salvatore Basile",
+        "popularity": 0.5101,
+        "profile_path": "/ojSEGsVcoeaZvNO9mfOeL74ZbXA.jpg",
+        "cast_id": 6,
+        "character": "Chaco Losojos",
+        "credit_id": "52fe44b4c3a36847f80a55d5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4105248,
+        "known_for_department": "Acting",
+        "name": "Ricardo Fuentes",
+        "original_name": "Ricardo Fuentes",
+        "popularity": 0.2091,
+        "profile_path": "/qYRuJE1g337nAc6GxBw1QJjsnZC.jpg",
+        "cast_id": 65,
+        "character": "Miguel Lujan",
+        "credit_id": "6483e6b4d2b209010c18bdec",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55653,
+        "known_for_department": "Acting",
+        "name": "Carl Gabriel Yorke",
+        "original_name": "Carl Gabriel Yorke",
+        "popularity": 0.2837,
+        "profile_path": "/A4JbFJlm1bnybDrbCyjzTkCRS4z.jpg",
+        "cast_id": 8,
+        "character": "Alan Yates",
+        "credit_id": "52fe44b4c3a36847f80a55dd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105341,
+        "known_for_department": "Acting",
+        "name": "Paolo Paoloni",
+        "original_name": "Paolo Paoloni",
+        "popularity": 0.1909,
+        "profile_path": "/mPBSvVQzXMqq1tDTe3nyIP1HfNF.jpg",
+        "cast_id": 22,
+        "character": "1st Executive",
+        "credit_id": "54b931eb9251411d6a004bb7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1414253,
+        "known_for_department": "Acting",
+        "name": "Lionello Pio Di Savoia",
+        "original_name": "Lionello Pio Di Savoia",
+        "popularity": 0.2668,
+        "profile_path": "/6K2CRvTYYzWxEmQZYv9KGQvPjMW.jpg",
+        "cast_id": 24,
+        "character": "2nd Executive",
+        "credit_id": "54b9322592514148bd001a15",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937654,
+        "known_for_department": "Acting",
+        "name": "Luigina Rocchi",
+        "original_name": "Luigina Rocchi",
+        "popularity": 0.4348,
+        "profile_path": "/jtX62XtWnIujZs7ueCTdsOklz7J.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "54b9323e92514148bd001a1b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905841,
+        "known_for_department": "Acting",
+        "name": "Mauricio Rodr\u00edguez",
+        "original_name": "Mauricio Rodr\u00edguez",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "",
+        "credit_id": "63dea18c373ac2007f0154f0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905842,
+        "known_for_department": "Acting",
+        "name": "Ricardo Ram\u00edrez",
+        "original_name": "Ricardo Ram\u00edrez",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "",
+        "credit_id": "63dea1a18741c400871491e0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905843,
+        "known_for_department": "Acting",
+        "name": "Guillermo Bueno",
+        "original_name": "Guillermo Bueno",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "",
+        "credit_id": "63dea1ae8741c400c7f1c86a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905844,
+        "known_for_department": "Acting",
+        "name": "William S\u00e1nchez",
+        "original_name": "William S\u00e1nchez",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "",
+        "credit_id": "63dea1c56ee3d7007a7da5e2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905845,
+        "known_for_department": "Acting",
+        "name": "\u00c1ngel Manuel Garc\u00eda",
+        "original_name": "\u00c1ngel Manuel Garc\u00eda",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "",
+        "credit_id": "63dea1de8741c40099b4224b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905847,
+        "known_for_department": "Acting",
+        "name": "Edgardo Maza Anaya",
+        "original_name": "Edgardo Maza Anaya",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "",
+        "credit_id": "63dea1ef6ee3d70081af7a7e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1414252,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucia Costantini",
+        "original_name": "Lucia Costantini",
+        "popularity": 0.083,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Adulteress (uncredited)",
+        "credit_id": "5edda4538d52c90027a7c1e0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45572,
+        "known_for_department": "Directing",
+        "name": "Ruggero Deodato",
+        "original_name": "Ruggero Deodato",
+        "popularity": 0.5687,
+        "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+        "cast_id": 26,
+        "character": "Man Sitting in NYU Campus (uncredited)",
+        "credit_id": "54b93252c3a3681411001807",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177374,
+        "known_for_department": "Acting",
+        "name": "Enrico Papa",
+        "original_name": "Enrico Papa",
+        "popularity": 0.0835,
+        "profile_path": "/akhgIQ5Yj44y81qWxy2CJpZq2rI.jpg",
+        "cast_id": 51,
+        "character": "Pantheon Interviewer (uncredited)",
+        "credit_id": "5edda48e8d52c90022a551af",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212047,
+        "known_for_department": "Acting",
+        "name": "David Sage",
+        "original_name": "David Sage",
+        "popularity": 0.3634,
+        "profile_path": "/vH6jckatlKSJCbTkRcpm7FuxgTt.jpg",
+        "cast_id": 52,
+        "character": "Alan's Father (uncredited)",
+        "credit_id": "5edda4beb42242002092db65",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45572,
+        "known_for_department": "Directing",
+        "name": "Ruggero Deodato",
+        "original_name": "Ruggero Deodato",
+        "popularity": 0.5687,
+        "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+        "credit_id": "52fe44b4c3a36847f80a55c5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55647,
+        "known_for_department": "Writing",
+        "name": "Gianfranco Clerici",
+        "original_name": "Gianfranco Clerici",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a55e3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55647,
+        "known_for_department": "Writing",
+        "name": "Gianfranco Clerici",
+        "original_name": "Gianfranco Clerici",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a55e9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101572,
+        "known_for_department": "Production",
+        "name": "Franco Di Nunzio",
+        "original_name": "Franco Di Nunzio",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a55ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101573,
+        "known_for_department": "Production",
+        "name": "Franco Palaggi",
+        "original_name": "Franco Palaggi",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a55f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33804,
+        "known_for_department": "Sound",
+        "name": "Riz Ortolani",
+        "original_name": "Riz Ortolani",
+        "popularity": 0.2749,
+        "profile_path": "/nFJdprMcg4MJTk9WP5BHfDQvCWm.jpg",
+        "credit_id": "52fe44b4c3a36847f80a55fb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101574,
+        "known_for_department": "Camera",
+        "name": "Sergio D'Offizi",
+        "original_name": "Sergio D'Offizi",
+        "popularity": 0.0869,
+        "profile_path": "/rz8lvcxx2rotW8fCUzqij5PdCpM.jpg",
+        "credit_id": "52fe44b4c3a36847f80a5601",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53197,
+        "known_for_department": "Editing",
+        "name": "Vincenzo Tomassi",
+        "original_name": "Vincenzo Tomassi",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a5607",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1266717,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Massimo Giustini",
+        "original_name": "Massimo Giustini",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a5613",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32672,
+        "known_for_department": "Crew",
+        "name": "Aldo Gasparri",
+        "original_name": "Aldo Gasparri",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a5619",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266719,
+        "known_for_department": "Production",
+        "name": "Giovanni Masini",
+        "original_name": "Giovanni Masini",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe44b4c3a36847f80a5625",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101554,
+        "known_for_department": "Art",
+        "name": "Massimo Antonello Geleng",
+        "original_name": "Massimo Antonello Geleng",
+        "popularity": 0.3046,
+        "profile_path": "/i3j7I3Jsr2SSNqgXWTdRbUd5KB9.jpg",
+        "credit_id": "610fa17c960cde00456d6fd3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905835,
+        "known_for_department": "Directing",
+        "name": "Carlos Eduardo Uribe",
+        "original_name": "Carlos Eduardo Uribe",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63dea033ce5d8200cd901304",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3476523,
+        "known_for_department": "Acting",
+        "name": "Gloria Jaramillo",
+        "original_name": "Gloria Jaramillo",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63dea0589974ee00b9966abf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905837,
+        "known_for_department": "Directing",
+        "name": "Alberto Jim\u00e9nez Ruiz",
+        "original_name": "Alberto Jim\u00e9nez Ruiz",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "63dea09be55937007b778a94",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44955,
+        "known_for_department": "Directing",
+        "name": "Lamberto Bava",
+        "original_name": "Lamberto Bava",
+        "popularity": 0.9481,
+        "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+        "credit_id": "5a90b160c3a36824fd000697",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 582413,
+        "known_for_department": "Sound",
+        "name": "Gianni D'Amico",
+        "original_name": "Gianni D'Amico",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "credit_id": "5a90b16b925141417a0005a5",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1983890,
+        "known_for_department": "Sound",
+        "name": "Bruno Longobardo",
+        "original_name": "Bruno Longobardo",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5a90b177925141417400060b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625614,
+        "known_for_department": "Sound",
+        "name": "Raul Montesanti",
+        "original_name": "Raul Montesanti",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "5a90b1840e0a2616c3000692",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73624,
+        "known_for_department": "Writing",
+        "name": "Giorgio Stegani",
+        "original_name": "Giorgio Stegani",
+        "popularity": 0.2279,
+        "profile_path": null,
+        "credit_id": "5edda150b42242002092d5ec",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1202360,
+        "known_for_department": "Production",
+        "name": "Bill Williams",
+        "original_name": "Bill Williams",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5edda1aeb42242002092d68c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758392,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicola Catalani",
+        "original_name": "Nicola Catalani",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "credit_id": "5edda1dcf36a32001e88b005",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55651,
+        "known_for_department": "Acting",
+        "name": "Salvatore Basile",
+        "original_name": "Salvatore Basile",
+        "popularity": 0.5101,
+        "profile_path": "/ojSEGsVcoeaZvNO9mfOeL74ZbXA.jpg",
+        "credit_id": "5edda1fef36a32001d8bde49",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1958071,
+        "known_for_department": "Sound",
+        "name": "Umberto Montesanti",
+        "original_name": "Umberto Montesanti",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5edda2389c24fc002068a388",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867698,
+        "known_for_department": "Camera",
+        "name": "Ennio Brizzolari",
+        "original_name": "Ennio Brizzolari",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "5edda26cf36a32001e88b2d1",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724136,
+        "known_for_department": "Camera",
+        "name": "Paolo Cavicchioli",
+        "original_name": "Paolo Cavicchioli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5edda27cb42242001f9236d3",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1120225,
+        "known_for_department": "Camera",
+        "name": "Roberto Forges Davanzati",
+        "original_name": "Roberto Forges Davanzati",
+        "popularity": 0.1267,
+        "profile_path": "/svU3xB3Db2mnjDPfBNuJ5ysxVLq.jpg",
+        "credit_id": "5edda29e8d52c90027a7be77",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1711431,
+        "known_for_department": "Camera",
+        "name": "Enrico Maggi",
+        "original_name": "Enrico Maggi",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "5edda2b28d52c90022a54e56",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2670269,
+        "known_for_department": "Lighting",
+        "name": "Luigi Pasqualini",
+        "original_name": "Luigi Pasqualini",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5edda2c38d52c90021a47861",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1414252,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucia Costantini",
+        "original_name": "Lucia Costantini",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "5edda2dcf36a32001d8bdfee",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1058164,
+        "known_for_department": "Editing",
+        "name": "Rita Antonelli",
+        "original_name": "Rita Antonelli",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5edda307f36a32001f8a9a1e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2087964,
+        "known_for_department": "Directing",
+        "name": "Rossana Rocchi",
+        "original_name": "Rossana Rocchi",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "5edda32cb422420021937961",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334558,
+        "known_for_department": "Production",
+        "name": "Vito Di Bari",
+        "original_name": "Vito Di Bari",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5edda345f36a3200208968ae",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1266718,
+        "known_for_department": "Art",
+        "name": "Rodolfo Ruzza",
+        "original_name": "Rodolfo Ruzza",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5f01a675f031740037553816",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 596,
+        "name": "adultery"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 1585,
+        "name": "snake"
+      },
+      {
+        "id": 4931,
+        "name": "pig"
+      },
+      {
+        "id": 1463,
+        "name": "culture clash"
+      },
+      {
+        "id": 4720,
+        "name": "ritual"
+      },
+      {
+        "id": 886,
+        "name": "movie business"
+      },
+      {
+        "id": 2517,
+        "name": "leech"
+      },
+      {
+        "id": 3986,
+        "name": "spider"
+      },
+      {
+        "id": 5160,
+        "name": "animal attack"
+      },
+      {
+        "id": 9701,
+        "name": "controversy"
+      },
+      {
+        "id": 4551,
+        "name": "swamp"
+      },
+      {
+        "id": 10148,
+        "name": "tribe"
+      },
+      {
+        "id": 5569,
+        "name": "vomit"
+      },
+      {
+        "id": 5968,
+        "name": "amazon rainforest"
+      },
+      {
+        "id": 9732,
+        "name": "film in film"
+      },
+      {
+        "id": 10864,
+        "name": "human sacrifice"
+      },
+      {
+        "id": 10787,
+        "name": "jungle"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 13083,
+        "name": "rape and murder"
+      },
+      {
+        "id": 14707,
+        "name": "brutality"
+      },
+      {
+        "id": 14895,
+        "name": "cannibal"
+      },
+      {
+        "id": 15394,
+        "name": "hatchet"
+      },
+      {
+        "id": 18266,
+        "name": "south america"
+      },
+      {
+        "id": 33490,
+        "name": "filmmaking"
+      },
+      {
+        "id": 156091,
+        "name": "missing person"
+      },
+      {
+        "id": 161166,
+        "name": "misogyny"
+      },
+      {
+        "id": 162745,
+        "name": "ritual sacrifice"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 188460,
+        "name": "tortoise"
+      },
+      {
+        "id": 189921,
+        "name": "video nasty"
+      },
+      {
+        "id": 192694,
+        "name": "lost footage"
+      },
+      {
+        "id": 205685,
+        "name": "animal cruelty"
+      },
+      {
+        "id": 210856,
+        "name": "amazon tribe"
+      },
+      {
+        "id": 232071,
+        "name": "vomiting woman"
+      },
+      {
+        "id": 243608,
+        "name": "abused woman"
+      },
+      {
+        "id": 246926,
+        "name": "film within a film"
+      },
+      {
+        "id": 248288,
+        "name": "adulterous wife"
+      },
+      {
+        "id": 253980,
+        "name": "film censorship"
+      },
+      {
+        "id": 263398,
+        "name": "film industry"
+      },
+      {
+        "id": 276164,
+        "name": "pseudo-documentary"
+      },
+      {
+        "id": 278235,
+        "name": "cannibalism"
+      },
+      {
+        "id": 299360,
+        "name": "guerilla filmmaking"
+      },
+      {
+        "id": 310003,
+        "name": "banned film"
+      },
+      {
+        "id": 310004,
+        "name": "disemboweling"
+      },
+      {
+        "id": 310005,
+        "name": "film reel"
+      },
+      {
+        "id": 310006,
+        "name": "yacomo"
+      },
+      {
+        "id": 342626,
+        "name": "b-horror"
+      },
+      {
+        "id": 365923,
+        "name": "found footage adjacent"
+      },
+      {
+        "id": 370950,
+        "name": "hybrid found footage"
+      }
+    ]
+  }
+}

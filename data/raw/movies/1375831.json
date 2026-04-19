@@ -1,0 +1,500 @@
+{
+  "adult": false,
+  "backdrop_path": "/jwRbJMGO3OZCwFLoJXn8tEbatJ2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1375831,
+  "imdb_id": "tt17348060",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Diabolic",
+  "overview": "A woman's hope for a miracle cure turns into a nightmare when she confronts the vengeful spirit of a cursed witch, determined to claim her as a vessel for her evil power.",
+  "popularity": 14.2554,
+  "poster_path": "/3qikoc12LQH6upkLZZlJY8wEZvN.jpg",
+  "production_companies": [
+    {
+      "id": 106364,
+      "logo_path": null,
+      "name": "Sunjive Studios",
+      "origin_country": "AU"
+    },
+    {
+      "id": 242650,
+      "logo_path": null,
+      "name": "Empire Road Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-11-20",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "God forgives... evil doesn't.",
+  "title": "Diabolic",
+  "video": false,
+  "vote_average": 6.279,
+  "vote_count": 43,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2140619,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Cullen",
+        "original_name": "Elizabeth Cullen",
+        "popularity": 0.3119,
+        "profile_path": "/1Piix4T41OIpmQzkHONTBx8QWlO.jpg",
+        "cast_id": 1,
+        "character": "Elise",
+        "credit_id": "67191754769107d77b47606b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382755,
+        "known_for_department": "Acting",
+        "name": "John Harlan Kim",
+        "original_name": "John Harlan Kim",
+        "popularity": 0.3609,
+        "profile_path": "/hnGA5MwUfNJzzqk1korHzXTILWN.jpg",
+        "cast_id": 2,
+        "character": "Adam",
+        "credit_id": "671917681ea33928297cdb50",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188977,
+        "known_for_department": "Acting",
+        "name": "Mia Challis",
+        "original_name": "Mia Challis",
+        "popularity": 0.1229,
+        "profile_path": "/tIhPtbNUYwOiPEwXLH3FtyKZ9Pl.jpg",
+        "cast_id": 3,
+        "character": "Gwen",
+        "credit_id": "671917852685cb6563c08117",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 217991,
+        "known_for_department": "Acting",
+        "name": "Genevieve Mooy",
+        "original_name": "Genevieve Mooy",
+        "popularity": 0.1131,
+        "profile_path": "/dXfEibGGn3nat4Slue2q5KR3x8e.jpg",
+        "cast_id": 4,
+        "character": "Alma",
+        "credit_id": "671917a16d6b705dc8711592",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734102,
+        "known_for_department": "Acting",
+        "name": "Robin Goldsworthy",
+        "original_name": "Robin Goldsworthy",
+        "popularity": 0.0867,
+        "profile_path": "/ntlj2zjfU6WILqihArCQw27fB2L.jpg",
+        "cast_id": 5,
+        "character": "Hyrum",
+        "credit_id": "671917b59ff681d9e0a39dac",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987865,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Phillips",
+        "original_name": "Daniel J. Phillips",
+        "popularity": 0.0526,
+        "profile_path": "/jw4wKDmQGzNEY3alGGfutKNKrtE.jpg",
+        "credit_id": "671917df4542e371fe0a22bf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987865,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Phillips",
+        "original_name": "Daniel J. Phillips",
+        "popularity": 0.0526,
+        "profile_path": "/jw4wKDmQGzNEY3alGGfutKNKrtE.jpg",
+        "credit_id": "671917eb5d0de89042d8bdf4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017534,
+        "known_for_department": "Writing",
+        "name": "Mike Harding",
+        "original_name": "Mike Harding",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "671918156d6b705dc87115e3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017534,
+        "known_for_department": "Writing",
+        "name": "Mike Harding",
+        "original_name": "Mike Harding",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "671918219ff681d9e0a39dcf",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987865,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Phillips",
+        "original_name": "Daniel J. Phillips",
+        "popularity": 0.0526,
+        "profile_path": "/jw4wKDmQGzNEY3alGGfutKNKrtE.jpg",
+        "credit_id": "6719182c1ea33928297cdc37",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017536,
+        "known_for_department": "Writing",
+        "name": "Ticia Madsen",
+        "original_name": "Ticia Madsen",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6719183e2685cb6563c081af",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707968,
+        "known_for_department": "Production",
+        "name": "Silvio Salom",
+        "original_name": "Silvio Salom",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "671919bb427c5c19f025a74d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987865,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Phillips",
+        "original_name": "Daniel J. Phillips",
+        "popularity": 0.0526,
+        "profile_path": "/jw4wKDmQGzNEY3alGGfutKNKrtE.jpg",
+        "credit_id": "671919c5427c5c19f025a753",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4939801,
+        "known_for_department": "Production",
+        "name": "Grant Hardie",
+        "original_name": "Grant Hardie",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "671919de427c5c19f025a75a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045339,
+        "known_for_department": "Production",
+        "name": "Mark Patterson",
+        "original_name": "Mark Patterson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671919f3427c5c19f025a775",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1362288,
+        "known_for_department": "Production",
+        "name": "Julie Byrne",
+        "original_name": "Julie Byrne",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67191a339ff681d9e0a39e5f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4585044,
+        "known_for_department": "Production",
+        "name": "Jordan Dykstra",
+        "original_name": "Jordan Dykstra",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "67191a902685cb6563c08339",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1175113,
+        "known_for_department": "Production",
+        "name": "Andrew Mann",
+        "original_name": "Andrew Mann",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "67191ac134c0fabd681c358f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017561,
+        "known_for_department": "Production",
+        "name": "Simone McCullagh",
+        "original_name": "Simone McCullagh",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67191add34c0fabd681c35a2",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3808207,
+        "known_for_department": "Acting",
+        "name": "James Whitrow",
+        "original_name": "James Whitrow",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67191af65d0de89042d8bee8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4679118,
+        "known_for_department": "Sound",
+        "name": "Will Spartalis",
+        "original_name": "Will Spartalis",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67191b1efefd1e0510ffcccd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1987876,
+        "known_for_department": "Crew",
+        "name": "Michael Tessari",
+        "original_name": "Michael Tessari",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67191b325d0de89042d8bf0f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61772,
+        "known_for_department": "Production",
+        "name": "Faith Martin",
+        "original_name": "Faith Martin",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "67191b4634c0fabd681c35ee",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2885500,
+        "known_for_department": "Art",
+        "name": "Jonah Booth-Remmers",
+        "original_name": "Jonah Booth-Remmers",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67191b6c34c0fabd681c37ce",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3157794,
+        "known_for_department": "Production",
+        "name": "Ria Kelly",
+        "original_name": "Ria Kelly",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "67191b85b3d5cbb842f3c212",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2885507,
+        "known_for_department": "Crew",
+        "name": "Matteo Medos",
+        "original_name": "Matteo Medos",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "67191b9734c0fabd681c37ef",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1924081,
+        "known_for_department": "Sound",
+        "name": "Leigh Kenyon",
+        "original_name": "Leigh Kenyon",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67191ba9b3d5cbb842f3c240",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9357,
+        "known_for_department": "Crew",
+        "name": "Glenn Boswell",
+        "original_name": "Glenn Boswell",
+        "popularity": 0.3055,
+        "profile_path": null,
+        "credit_id": "67191bbe2685cb6563c0837c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445877,
+        "known_for_department": "Acting",
+        "name": "Olga Miller",
+        "original_name": "Olga Miller",
+        "popularity": 0.1426,
+        "profile_path": "/387I7r2u6zPAKCmCR2GxNumnPQf.jpg",
+        "credit_id": "67191bcc2685cb6563c0838d",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001112,
+        "known_for_department": "Editing",
+        "name": "Renee Diprose",
+        "original_name": "Renee Diprose",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67191be534c0fabd681c3825",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 616,
+        "name": "witch"
+      },
+      {
+        "id": 10114,
+        "name": "evil spirit"
+      },
+      {
+        "id": 15001,
+        "name": "demon"
+      },
+      {
+        "id": 185455,
+        "name": "latter day saints"
+      },
+      {
+        "id": 241827,
+        "name": "demonic"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 325825,
+        "name": "horrified"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      }
+    ]
+  }
+}

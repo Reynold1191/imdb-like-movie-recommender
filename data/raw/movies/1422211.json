@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/ipgr36Ewu2nWd4hoPkNEVgnSxtr.jpg",
+  "belongs_to_collection": {
+    "id": 1443223,
+    "name": "The Pursuit of Lust Collection",
+    "poster_path": "/7nQuzghgCO4zqJkeFozbGtmz8aT.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1422211,
+  "imdb_id": "tt35681085",
+  "origin_country": [
+    "MN"
+  ],
+  "original_language": "mn",
+  "original_title": "\u0414\u0443\u0440 \u0442\u0430\u0447\u0430\u0430\u043b\u044b\u043d \u044d\u0440\u044d\u043b\u0434",
+  "overview": "Sensual Mongolian actress E.Khandmaa stars in this romantic drama, which highlights a housewife\u2019s longing for pleasure her passionless husband fails to provide. That is until her spouse\u2019s business client eventually gives in to her desires.",
+  "popularity": 11.354,
+  "poster_path": "/ccHAt7cysIQInKpZQkKTXYMU3oz.jpg",
+  "production_companies": [
+    {
+      "id": 219104,
+      "logo_path": "/oubqAjHsxHZc5E8XoMqugpmMDh6.png",
+      "name": "Mongolian Film Industry Association",
+      "origin_country": "MN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MN",
+      "name": "Mongolia"
+    }
+  ],
+  "release_date": "2025-01-23",
+  "revenue": 0,
+  "runtime": 38,
+  "spoken_languages": [
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Pursuit of Lust",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5197785,
+        "known_for_department": "Acting",
+        "name": "STEPINSTONE",
+        "original_name": "STEPINSTONE",
+        "popularity": 0.2306,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6791e3a5efa85337c3fa6a06",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5197787,
+        "known_for_department": "Acting",
+        "name": "E.KHANDMAA",
+        "original_name": "E.KHANDMAA",
+        "popularity": 0.4986,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6791e3ac0a041b47e7fa6e65",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5197788,
+        "known_for_department": "Acting",
+        "name": "E.BATKHULEG",
+        "original_name": "E.BATKHULEG",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6791e3b38d1ddd930ab571fa",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4100666,
+        "known_for_department": "Directing",
+        "name": "Batdelger Byambasvren",
+        "original_name": "Batdelger Byambasuren",
+        "popularity": 0.4387,
+        "profile_path": null,
+        "credit_id": "67e3a4f8d4052f4793dc9a1b",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      }
+    ]
+  }
+}

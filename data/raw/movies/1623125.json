@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/hQFl9Ph7KXcRDc3BbN9mGkNivNh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81674730",
+  "id": 1623125,
+  "imdb_id": "tt39314348",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Gorilla Story: Told by David Attenborough",
+  "overview": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and how Pablo's direct descendants are doing today.",
+  "popularity": 13.5643,
+  "poster_path": "/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-04-17",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Gorilla Story: Told by David Attenborough",
+  "video": false,
+  "vote_average": 8.6,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86543,
+        "known_for_department": "Acting",
+        "name": "David Attenborough",
+        "original_name": "David Attenborough",
+        "popularity": 1.4804,
+        "profile_path": "/tt3LW3XftcvxOZtMXmIaJSWFN7y.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "69c142ccd73be1cc8e7b3235",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1688115,
+        "known_for_department": "Directing",
+        "name": "James Reed",
+        "original_name": "James Reed",
+        "popularity": 0.2877,
+        "profile_path": "/1lb8JzMC2XkR61nO6YyoKwdZYFT.jpg",
+        "credit_id": "69c142f6cbc595fdc74ff64e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 971,
+        "name": "rwanda"
+      },
+      {
+        "id": 690,
+        "name": "gorilla"
+      },
+      {
+        "id": 221355,
+        "name": "nature documentary"
+      },
+      {
+        "id": 252105,
+        "name": "animal behaviour"
+      },
+      {
+        "id": 292758,
+        "name": "baby gorilla"
+      },
+      {
+        "id": 305903,
+        "name": "animal documentary"
+      },
+      {
+        "id": 345562,
+        "name": "animal behavior"
+      }
+    ]
+  }
+}

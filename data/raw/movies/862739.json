@@ -1,0 +1,442 @@
+{
+  "adult": false,
+  "backdrop_path": "/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.filmaxinternationalsales.com/",
+  "id": 862739,
+  "imdb_id": "tt15460036",
+  "origin_country": [
+    "AR",
+    "MX",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La virgen de la tosquera",
+  "overview": "On the eve of the 2001 outbreak, Natalia falls madly in love with her lifelong friend Diego. The romance is interrupted when he meets the more experienced Silvia. With the help of her grandma Rita, Natalia decides to call on incantations and curses to jinx Diego and Silvia's blossoming relationship.",
+  "popularity": 10.5093,
+  "poster_path": "/xqbUNS0uvqWEgvTWFuxba7Qs4yi.jpg",
+  "production_companies": [
+    {
+      "id": 127536,
+      "logo_path": "/uagIeESZ9umbdJMxVEwpRxgnJos.png",
+      "name": "Mostra Cine",
+      "origin_country": "AR"
+    },
+    {
+      "id": 52952,
+      "logo_path": null,
+      "name": "AjiMolido Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 129286,
+      "logo_path": "/rdrbuB6xrmyMojsauBVp6chGBuw.png",
+      "name": "Caponeto",
+      "origin_country": "MX"
+    },
+    {
+      "id": 130875,
+      "logo_path": "/kGs7fwMxgxpYkFDxCGG6kKqPdnw.png",
+      "name": "Mr. Miyagi",
+      "origin_country": "ES"
+    },
+    {
+      "id": 89127,
+      "logo_path": "/bCjod1AL15DQgCQu3TFe75nO1oW.png",
+      "name": "Eficine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-04-08",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Virgin of the Quarry Lake",
+  "video": false,
+  "vote_average": 5.931,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4729742,
+        "known_for_department": "Acting",
+        "name": "Dolores Oliverio",
+        "original_name": "Dolores Oliverio",
+        "popularity": 0.1451,
+        "profile_path": "/12YrqRRfWBJC1DDCZMGTxk8nZ03.jpg",
+        "cast_id": 5,
+        "character": "Natalia",
+        "credit_id": "6656dccba5a384cceee4e038",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488707,
+        "known_for_department": "Acting",
+        "name": "Fernanda Echevarr\u00eda del Rivero",
+        "original_name": "Fernanda Echevarr\u00eda",
+        "popularity": 0.2569,
+        "profile_path": "/ag5uwMvjrUtNHWEcwNeELI3mZlm.jpg",
+        "cast_id": 13,
+        "character": "Silvia",
+        "credit_id": "6656dd6006e64be55f599422",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4742274,
+        "known_for_department": "Acting",
+        "name": "Agust\u00edn Sosa",
+        "original_name": "Agust\u00edn Sosa",
+        "popularity": 0.0495,
+        "profile_path": "/3Os6IEgYaAB9gHQQdPGDPIop23a.jpg",
+        "cast_id": 7,
+        "character": "Diego",
+        "credit_id": "6656dd0cbb144c8d77a6da6e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 967362,
+        "known_for_department": "Acting",
+        "name": "Luisa Merelas",
+        "original_name": "Luisa Merelas",
+        "popularity": 0.1229,
+        "profile_path": "/3A360cW4WwZBlTJPRTCiZXK8rnK.jpg",
+        "cast_id": 6,
+        "character": "Rita",
+        "credit_id": "6656dcd043b7973e5ba8b378",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5197843,
+        "known_for_department": "Acting",
+        "name": "Isabel Bracamonte",
+        "original_name": "Isabel Bracamonte",
+        "popularity": 0.0143,
+        "profile_path": "/cXtVKE6Q2EibPGhZ1i0TSsyuLIN.jpg",
+        "cast_id": 14,
+        "character": "Josefina",
+        "credit_id": "6791f03e80817cdfd4b57693",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4742275,
+        "known_for_department": "Acting",
+        "name": "Candela Flores",
+        "original_name": "Candela Flores",
+        "popularity": 0.0214,
+        "profile_path": "/8zRwpGCPU9HoCnWAfERNxZp7c0H.jpg",
+        "cast_id": 20,
+        "character": "Mariela",
+        "credit_id": "6967f0a4314f8be2e92c37dc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1659287,
+        "known_for_department": "Acting",
+        "name": "Dady Brieva",
+        "original_name": "Dady Brieva",
+        "popularity": 0.1181,
+        "profile_path": "/6ixp82EEsceFdcqb5yx6FBoxSIS.jpg",
+        "cast_id": 8,
+        "character": "Gerardo",
+        "credit_id": "6656dd13d67589827ca397c1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4018082,
+        "known_for_department": "Acting",
+        "name": "V\u00edctor L\u00f3pez",
+        "original_name": "V\u00edctor L\u00f3pez",
+        "popularity": 0.0387,
+        "profile_path": "/8KntmQSe96lRvLQx1xl94nGMu8b.jpg",
+        "cast_id": 9,
+        "character": "Linyera",
+        "credit_id": "6656dd1da5067477b82156df",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6103556,
+        "known_for_department": "Acting",
+        "name": "Marcelo Antonio Diaz",
+        "original_name": "Marcelo Antonio Diaz",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Juancho",
+        "credit_id": "69c8bd4662c311111ce6c8f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1859061,
+        "known_for_department": "Acting",
+        "name": "Alejandra Peralta Ramos",
+        "original_name": "Alejandra Peralta Ramos",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Dona Ianopulos",
+        "credit_id": "69c8bdf00a566d5c35a5b878",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6103557,
+        "known_for_department": "Acting",
+        "name": "Maicol Orihuela",
+        "original_name": "Maicol Orihuela",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Kechu",
+        "credit_id": "69c8be13bbc950521da5b80d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2416566,
+        "known_for_department": "Acting",
+        "name": "Willy Olarte",
+        "original_name": "Willy Olarte",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Hector",
+        "credit_id": "69c8bfeffa768b8dc2a76cf7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6103565,
+        "known_for_department": "Acting",
+        "name": "Matheo Falbo",
+        "original_name": "Matheo Falbo",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Pibe de puente",
+        "credit_id": "69c8c026fa768b8dc2a76d03",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1584517,
+        "known_for_department": "Writing",
+        "name": "Laura Casab\u00e9",
+        "original_name": "Laura Casab\u00e9",
+        "popularity": 0.0641,
+        "profile_path": "/mIZI0DDX6SmdpKYj1Jew0RUhvXa.jpg",
+        "credit_id": "611cdfb74a0b19005c1ce9ee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291436,
+        "known_for_department": "Directing",
+        "name": "Benjam\u00edn Naishtat",
+        "original_name": "Benjam\u00edn Naishtat",
+        "popularity": 0.1216,
+        "profile_path": "/kXrlpIyhdhXHsxVQ6aFVWM83OC4.jpg",
+        "credit_id": "611cdfc66654080075fdc972",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1509683,
+        "known_for_department": "Production",
+        "name": "Alejandro Israel",
+        "original_name": "Alejandro Israel",
+        "popularity": 0.0286,
+        "profile_path": "/8bk9ZTFdXCDG6EBP7S5YEsFnHHX.jpg",
+        "credit_id": "6656dc986512b7bff321718b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3007121,
+        "known_for_department": "Production",
+        "name": "Valeria Bistagnino",
+        "original_name": "Valeria Bistagnino",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "6656dca1af1d5bca745994d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372631,
+        "known_for_department": "Camera",
+        "name": "Diego Tenorio",
+        "original_name": "Diego Tenorio",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "679d7143ebb9962403261d6c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2230600,
+        "known_for_department": "Art",
+        "name": "Marina Raggio",
+        "original_name": "Marina Raggio",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "679d716df0f9dbdba6953366",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3004308,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gustavo Alderete",
+        "original_name": "Gustavo Alderete",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "679d7185ebb9962403261d8e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1142740,
+        "known_for_department": "Editing",
+        "name": "Ana Rem\u00f3n",
+        "original_name": "Ana Rem\u00f3n",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "68e159ea975740ac5a6171b3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5729146,
+        "known_for_department": "Sound",
+        "name": "Valeria Goethals",
+        "original_name": "Valeria Goethals",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "696b8426e131550d637f994b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3149366,
+        "known_for_department": "Writing",
+        "name": "Mariana Enriquez",
+        "original_name": "Mariana Enriquez",
+        "popularity": 0.0214,
+        "profile_path": "/t59blBX42kS48HdZ95kdlXDihdH.jpg",
+        "credit_id": "696b865a3f6de5a4fff94218",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129914,
+        "known_for_department": "Directing",
+        "name": "Andr\u00e9s Borghi",
+        "original_name": "Andr\u00e9s Borghi",
+        "popularity": 0.1201,
+        "profile_path": "/c59VQb9L6VMlt1N8aet2N5IPGjW.jpg",
+        "credit_id": "69c24d2ddf8c002c77d24efc",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 13088,
+        "name": "summer"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      }
+    ]
+  }
+}

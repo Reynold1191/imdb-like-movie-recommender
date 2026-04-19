@@ -1,0 +1,410 @@
+{
+  "adult": false,
+  "backdrop_path": "/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1243741,
+  "imdb_id": "tt13165898",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ballistic",
+  "overview": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of revenge against those responsible.",
+  "popularity": 27.7141,
+  "poster_path": "/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+  "production_companies": [
+    {
+      "id": 46512,
+      "logo_path": null,
+      "name": "Fella Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 19456,
+      "logo_path": "/d6rHHbJPFkDlULQsvxYgRh9McvN.png",
+      "name": "Envision Media Arts",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-17",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A mother's pain, a bullet's purpose.",
+  "title": "Ballistic",
+  "video": false,
+  "vote_average": 7.091,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17286,
+        "known_for_department": "Acting",
+        "name": "Lena Headey",
+        "original_name": "Lena Headey",
+        "popularity": 5.4011,
+        "profile_path": "/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg",
+        "cast_id": 1,
+        "character": "Nance Redfield",
+        "credit_id": "65c931c29451e701847c7cdd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15029,
+        "known_for_department": "Acting",
+        "name": "Enrico Colantoni",
+        "original_name": "Enrico Colantoni",
+        "popularity": 1.8466,
+        "profile_path": "/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg",
+        "cast_id": 23,
+        "character": "Rick Barber",
+        "credit_id": "69e3e559df74d7ef1d04df7b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1780007,
+        "known_for_department": "Acting",
+        "name": "Amybeth McNulty",
+        "original_name": "Amybeth McNulty",
+        "popularity": 1.596,
+        "profile_path": "/kp8cqxIFdAThkdoNU0qpCZsokqO.jpg",
+        "cast_id": 2,
+        "character": "Diana",
+        "credit_id": "65c931ca3c3ab00184cf0d2c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1644031,
+        "known_for_department": "Acting",
+        "name": "Michael Lipka",
+        "original_name": "Michael Lipka",
+        "popularity": 0.1441,
+        "profile_path": "/k7BO58BHYmajR1TdTvOFKtcHCPJ.jpg",
+        "cast_id": 14,
+        "character": "Clark",
+        "credit_id": "65eee3e4a14e100162e039b3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3262040,
+        "known_for_department": "Acting",
+        "name": "Jordan Kronis",
+        "original_name": "Jordan Kronis",
+        "popularity": 0.1868,
+        "profile_path": "/c2JAnqeG6IYuSMBrCQjV6M2OIUO.jpg",
+        "cast_id": 17,
+        "character": "Jesse Redfield",
+        "credit_id": "66b3b279f6da4023a17b9784",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652138,
+        "known_for_department": "Acting",
+        "name": "Hamza Haq",
+        "original_name": "Hamza Haq",
+        "popularity": 0.394,
+        "profile_path": "/mVgpYlzmBICBUh2YBxX3SFpwfis.jpg",
+        "cast_id": 15,
+        "character": "Kahlil Nabizada",
+        "credit_id": "66b3b24489eea18861622764",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232769,
+        "known_for_department": "Acting",
+        "name": "Amanda Brugel",
+        "original_name": "Amanda Brugel",
+        "popularity": 0.9631,
+        "profile_path": "/3W1RR8CzP5uk6sFt92i1QyjGLRT.jpg",
+        "cast_id": 16,
+        "character": "Salindo",
+        "credit_id": "66b3b2557a6538c8807b96a6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78465,
+        "known_for_department": "Acting",
+        "name": "Paolo Mancini",
+        "original_name": "Paolo Mancini",
+        "popularity": 0.3351,
+        "profile_path": "/9vX2DsNs4ZOit9Qb0boTnRnwIAe.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "66b3b287e57a68ce3be18412",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4704600,
+        "known_for_department": "Acting",
+        "name": "Kendall Christie",
+        "original_name": "Kendall Christie",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Joy Rhoads",
+        "credit_id": "672417dca9df53ccf9c6836a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64471,
+        "known_for_department": "Acting",
+        "name": "Chad Faust",
+        "original_name": "Chad Faust",
+        "popularity": 0.8863,
+        "profile_path": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
+        "cast_id": 20,
+        "character": "SSG Buchanan",
+        "credit_id": "672417e8a9df53ccf9c6837c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034087,
+        "known_for_department": "Acting",
+        "name": "Victoria Jacques",
+        "original_name": "Victoria Jacques",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Diana's mother",
+        "credit_id": "67241800a9df53ccf9c68392",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64471,
+        "known_for_department": "Acting",
+        "name": "Chad Faust",
+        "original_name": "Chad Faust",
+        "popularity": 0.8863,
+        "profile_path": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
+        "credit_id": "65c931d84350110183e9eda5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64471,
+        "known_for_department": "Acting",
+        "name": "Chad Faust",
+        "original_name": "Chad Faust",
+        "popularity": 0.8863,
+        "profile_path": "/9Yy0UOpLVrzLg5u5Gi60R3nJ364.jpg",
+        "credit_id": "65c931fdce6c4c017cbacd85",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78464,
+        "known_for_department": "Writing",
+        "name": "Thomas Michael",
+        "original_name": "Thomas Michael",
+        "popularity": 0.1657,
+        "profile_path": "/qulP9bJOT5wR1bAjDQOTU8l9jhz.jpg",
+        "credit_id": "65c93262b6cff10185a72bed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1699816,
+        "known_for_department": "Production",
+        "name": "David Tish",
+        "original_name": "David Tish",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "65c93286e295b4012ff80c44",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1067252,
+        "known_for_department": "Production",
+        "name": "Lee Nelson",
+        "original_name": "Lee Nelson",
+        "popularity": 0.2085,
+        "profile_path": null,
+        "credit_id": "65c93292b6cff10185a72c07",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2907275,
+        "known_for_department": "Production",
+        "name": "Roman Kopelevich",
+        "original_name": "Roman Kopelevich",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "65c932ac9451e701847c7d81",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541802,
+        "known_for_department": "Production",
+        "name": "Crystal Hill",
+        "original_name": "Crystal Hill",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65c932ba680be8017ea57d3f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1067252,
+        "known_for_department": "Production",
+        "name": "Lee Nelson",
+        "original_name": "Lee Nelson",
+        "popularity": 0.2085,
+        "profile_path": null,
+        "credit_id": "65eee382595a5601603d91a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1699816,
+        "known_for_department": "Production",
+        "name": "David Tish",
+        "original_name": "David Tish",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "65eee3913081310186233219",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2875297,
+        "known_for_department": "Camera",
+        "name": "Kristofer Bonnell",
+        "original_name": "Kristofer Bonnell",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "65eee3bf308131016322bd7d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1810403,
+        "known_for_department": "Production",
+        "name": "Melissa A. Smith",
+        "original_name": "Melissa A. Smith",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "credit_id": "65eee3d1efe37c0163ee0220",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447893,
+        "known_for_department": "Sound",
+        "name": "Dillon Baldassero",
+        "original_name": "Dillon Baldassero",
+        "popularity": 0.0368,
+        "profile_path": "/5tjUa1ZPlU4rDgMqvQKdu3LH09U.jpg",
+        "credit_id": "67241813a616bbe715e1d340",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 7158,
+        "name": "afghanistan war (2001-2021)"
+      },
+      {
+        "id": 250191,
+        "name": "ammunition"
+      },
+      {
+        "id": 252204,
+        "name": "revenge thriller"
+      },
+      {
+        "id": 305726,
+        "name": "grieving mother"
+      }
+    ]
+  }
+}

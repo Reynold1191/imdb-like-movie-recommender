@@ -1,0 +1,474 @@
+{
+  "adult": false,
+  "backdrop_path": "/rdAfNZTzATSSPRKNHLdovkV5gJW.jpg",
+  "belongs_to_collection": {
+    "id": 782745,
+    "name": "True Story of a Woman in Jail Collection",
+    "poster_path": "/Q0O4fa0SDgsbw8lAP7fMUUOAWc.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.nikkatsu.com/movie/25369.html",
+  "id": 155601,
+  "imdb_id": "tt0229076",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "\u7d9a\u5b9f\u9332\u304a\u3093\u306a\u9451\u5225\u6240",
+  "overview": "\"Jealous\" man-killer Mayumi (Hitomi Kozue) is sent back into solitary confinement after being re-arrested for the murder of the doctor who fingered her for a botched surgery.  After emerging from solitary confinement to find an all-new gang of bullies picking on a meek, young female prisoner, Mayumi is now a much harder soul who takes no attitude from anyone, and she turns savage when the poor girl is enslaved by Yakuza.",
+  "popularity": 9.8208,
+  "poster_path": "/cvyKtFoyxLdPYB4NjL7VlJRnNXN.jpg",
+  "production_companies": [
+    {
+      "id": 955,
+      "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+      "name": "Nikkatsu Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1975-07-01",
+  "revenue": 0,
+  "runtime": 70,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "True Story of a Woman in Jail: Continues",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1010159,
+        "known_for_department": "Acting",
+        "name": "Hitomi Kozue",
+        "original_name": "\u68a2\u3072\u3068\u307f",
+        "popularity": 2.9355,
+        "profile_path": "/mBxtzn1mhIFSyldYNK8bZCAJY1u.jpg",
+        "cast_id": 3,
+        "character": "Mayumi Houjou",
+        "credit_id": "52fe4b839251416c910dcf2d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207530,
+        "known_for_department": "Acting",
+        "name": "Machiko Aoki",
+        "original_name": "\u9752\u6728\u771f\u77e5\u5b50",
+        "popularity": 0.4546,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Keiko",
+        "credit_id": "52fe4b839251416c910dcf31",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126834,
+        "known_for_department": "Acting",
+        "name": "Arikawa Mihoko",
+        "original_name": "Arikawa Mihoko",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Yukie Noda",
+        "credit_id": "52fe4b839251416c910dcf35",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1126835,
+        "known_for_department": "Acting",
+        "name": "Natsuki Kumi",
+        "original_name": "Natsuki Kumi",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Hideko",
+        "credit_id": "52fe4b839251416c910dcf39",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207531,
+        "known_for_department": "Acting",
+        "name": "Sanae Shiba",
+        "original_name": "Sanae Shiba",
+        "popularity": 0.227,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "52fe4b839251416c910dcf3d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014846,
+        "known_for_department": "Acting",
+        "name": "Kenji Shimamura",
+        "original_name": "Kenji Shimamura",
+        "popularity": 0.3314,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Saotome",
+        "credit_id": "52fe4b839251416c910dcf41",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207532,
+        "known_for_department": "Acting",
+        "name": "Akiko Yoshii",
+        "original_name": "Akiko Yoshii",
+        "popularity": 0.2323,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Kuniko Hoj\u00f4",
+        "credit_id": "52fe4b839251416c910dcf45",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133714,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Ch\u014d",
+        "original_name": "\u9577\u5f18",
+        "popularity": 0.663,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "61fad01efe6c1800441ed7da",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555337,
+        "known_for_department": "Acting",
+        "name": "Yoshie Kitsuda",
+        "original_name": "\u6a58\u7530\u826f\u6c5f",
+        "popularity": 1.2721,
+        "profile_path": "/rEsFSXbeVstGbm4KSkKlIJImdF8.jpg",
+        "cast_id": 20,
+        "character": "Mitsuko Shiga",
+        "credit_id": "61fad034ae6f09001ceb0e55",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66614,
+        "known_for_department": "Acting",
+        "name": "Wataru Kobayashi",
+        "original_name": "Wataru Kobayashi",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "And\u00f4",
+        "credit_id": "61fad044ae28114e783c205f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014976,
+        "known_for_department": "Acting",
+        "name": "Tamaki Komiyama",
+        "original_name": "\u5c0f\u898b\u5c71\u7389\u6a39",
+        "popularity": 0.5431,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "The Man",
+        "credit_id": "61fad0529e40120044d9ec71",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269376,
+        "known_for_department": "Acting",
+        "name": "Hiroyuki Mikawa",
+        "original_name": "Hiroyuki Mikawa",
+        "popularity": 0.3532,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Goz\u00f4 Shiga",
+        "credit_id": "61fad06259e8a90044e49333",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270006,
+        "known_for_department": "Acting",
+        "name": "Ken Mizoguchi",
+        "original_name": "\u6e9d\u53e3\u62f3",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "The Punk",
+        "credit_id": "61fad076dfaae900f5e23b89",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1119140,
+        "known_for_department": "Acting",
+        "name": "Kunio Shimizu",
+        "original_name": "Kunio Shimizu",
+        "popularity": 0.3732,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Jir\u00f4 Shiga",
+        "credit_id": "61fad08feee1860044e28f1e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000201,
+        "known_for_department": "Acting",
+        "name": "Ei Shirai",
+        "original_name": "Ei Shirai",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "The Gentleman-like Man",
+        "credit_id": "61fad09f1e259a00450af325",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233696,
+        "known_for_department": "Acting",
+        "name": "Sabur\u014d Sh\u014dji",
+        "original_name": "\u5e84\u53f8\u4e09\u90ce",
+        "popularity": 0.4141,
+        "profile_path": "/2EU9yOqzmJq5AVupGejdXVoiIXW.jpg",
+        "cast_id": 27,
+        "character": "The Punk",
+        "credit_id": "61fad0b1072166011b9de453",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1010158,
+        "known_for_department": "Directing",
+        "name": "K\u014dy\u016b Ohara",
+        "original_name": "\u5c0f\u539f\u5b8f\u88d5",
+        "popularity": 0.9998,
+        "profile_path": "/roo0xaBgJgnuqCjGXP8Wa7muQp7.jpg",
+        "credit_id": "52fe4b839251416c910dcf23",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807759,
+        "known_for_department": "Production",
+        "name": "Yoshiyuki Kaino",
+        "original_name": "Yoshiyuki Kaino",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "62daeec81c6aa705b6d8ae82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090121,
+        "known_for_department": "Writing",
+        "name": "Akira Momoi",
+        "original_name": "\u6843\u4e95\u7ae0",
+        "popularity": 0.596,
+        "profile_path": null,
+        "credit_id": "5e2b6432688cd00015c7a79f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086814,
+        "known_for_department": "Camera",
+        "name": "Yoshihiro Yamazaki",
+        "original_name": "\u5c71\u5d0e\u5584\u5f18",
+        "popularity": 0.2403,
+        "profile_path": null,
+        "credit_id": "5e2b64931685da0017e5f5c0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559966,
+        "known_for_department": "Lighting",
+        "name": "Hideo Kumagai",
+        "original_name": "\u718a\u8c37\u79c0\u592b",
+        "popularity": 0.3394,
+        "profile_path": null,
+        "credit_id": "5e2b64a6c56d2d00134a6b8d",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543975,
+        "known_for_department": "Sound",
+        "name": "Tsuneo Furuyama",
+        "original_name": "\u53e4\u5c71\u6052\u592b",
+        "popularity": 0.1348,
+        "profile_path": null,
+        "credit_id": "5e2b64b0c56d2d00154a5c48",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1674466,
+        "known_for_department": "Art",
+        "name": "Takashi Hayashi",
+        "original_name": "Takashi Hayashi",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5e2b64bf1685da0011e59b12",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70632,
+        "known_for_department": "Editing",
+        "name": "Akira Suzuki",
+        "original_name": "\u9234\u6728\u6644",
+        "popularity": 0.4978,
+        "profile_path": null,
+        "credit_id": "5e2b64c9532acb0013516a5e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167911,
+        "known_for_department": "Directing",
+        "name": "Akihiko Yamaki",
+        "original_name": "\u516b\u5dfb\u6676\u5f66",
+        "popularity": 1.2509,
+        "profile_path": null,
+        "credit_id": "5e2b64d5c56d2d00154a5c6e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2519500,
+        "known_for_department": "Directing",
+        "name": "Hatsuko Nakagawa",
+        "original_name": "Hatsuko Nakagawa",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e2b64fb1685da0017e5f6b0",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      },
+      {
+        "id": 236,
+        "name": "suicide"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 1563,
+        "name": "prisoner"
+      },
+      {
+        "id": 5424,
+        "name": "women's prison"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 9833,
+        "name": "lesbian relationship"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 159551,
+        "name": "pink film"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      },
+      {
+        "id": 348517,
+        "name": "roman porno"
+      }
+    ]
+  }
+}

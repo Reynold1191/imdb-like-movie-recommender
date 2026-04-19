@@ -1,0 +1,848 @@
+{
+  "adult": false,
+  "backdrop_path": "/kG8bBajeSTUxJGmS47WujcraZUk.jpg",
+  "belongs_to_collection": null,
+  "budget": 4250000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.uglystepsister.movie",
+  "id": 1284120,
+  "imdb_id": "tt29344903",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Den stygge stes\u00f8steren",
+  "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince\u2019s eye.",
+  "popularity": 17.6003,
+  "poster_path": "/rayAREIKtSinuov10GvrZHyXfXH.jpg",
+  "production_companies": [
+    {
+      "id": 21979,
+      "logo_path": "/pVdOYVNJracFdcEsDihqz3VSZ0U.png",
+      "name": "Mer Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 51112,
+      "logo_path": "/kWLbDFg6koYqFMYjmjcifeBFB8F.png",
+      "name": "Lava Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 162093,
+      "logo_path": "/f9KIm9oEcVXMROucR8s3XKjXOZk.png",
+      "name": "MOTOR",
+      "origin_country": "DK"
+    },
+    {
+      "id": 171066,
+      "logo_path": "/tjNpvJOTCwvPL2faaj3r2RR3dTs.png",
+      "name": "Scanbox Production",
+      "origin_country": "DK"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 218924,
+      "logo_path": null,
+      "name": "Mediefondet Zefyr",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i V\u00e4st",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 5325096,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If the shoe doesn't fit...",
+  "title": "The Ugly Stepsister",
+  "video": false,
+  "vote_average": 7.303,
+  "vote_count": 1097,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2890913,
+        "known_for_department": "Acting",
+        "name": "Lea Myren",
+        "original_name": "Lea Mathilde Skar-Myren",
+        "popularity": 0.6008,
+        "profile_path": "/wRsFFN1lhGcVM5kQFnLRW0wlQXR.jpg",
+        "cast_id": 30,
+        "character": "Elvira",
+        "credit_id": "67105179db79c9ceae0ebedc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63769,
+        "known_for_department": "Acting",
+        "name": "Ane Dahl Torp",
+        "original_name": "Ane Dahl Torp",
+        "popularity": 0.7102,
+        "profile_path": "/loW4MVWGzbJJzcBb8HNotalmLtk.jpg",
+        "cast_id": 13,
+        "character": "Rebekka",
+        "credit_id": "6633fdffaf4324012b542f4e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384976,
+        "known_for_department": "Acting",
+        "name": "Thea Sofie Loch N\u00e6ss",
+        "original_name": "Thea Sofie Loch N\u00e6ss",
+        "popularity": 1.8443,
+        "profile_path": "/fzd0RI8Vnsw1LoG81YthvdnaeJD.jpg",
+        "cast_id": 12,
+        "character": "Agnes",
+        "credit_id": "6633fdf39590e30126bae555",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3126191,
+        "known_for_department": "Acting",
+        "name": "Flo Fagerli",
+        "original_name": "Flo Fagerli",
+        "popularity": 0.5371,
+        "profile_path": "/yem43JCCG9xpjTT1IuosGtmZVNA.jpg",
+        "cast_id": 14,
+        "character": "Alma",
+        "credit_id": "671050716bffa14cf411074b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3676023,
+        "known_for_department": "Acting",
+        "name": "Isac Calmroth",
+        "original_name": "Isac Calmroth",
+        "popularity": 0.2228,
+        "profile_path": "/doyeUwvMsSkNuNzak9kBt26fNuP.jpg",
+        "cast_id": 15,
+        "character": "Prince Julian",
+        "credit_id": "6710507b6bffa14cf4110751",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2984635,
+        "known_for_department": "Acting",
+        "name": "Malte G\u00e5rdinger",
+        "original_name": "Malte G\u00e5rdinger",
+        "popularity": 1.0836,
+        "profile_path": "/vDtILRvipBzF2bVqZBiqMQ1HehP.jpg",
+        "cast_id": 16,
+        "character": "Isak",
+        "credit_id": "671050816bffa14cf4110754",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114580,
+        "known_for_department": "Acting",
+        "name": "Ralph Carlsson",
+        "original_name": "Ralph Carlsson",
+        "popularity": 0.2315,
+        "profile_path": "/iTvT8uyyVrWbyczhSGRYHeOmb9Z.jpg",
+        "cast_id": 17,
+        "character": "Otto",
+        "credit_id": "671050886bffa14cf4110761",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 213487,
+        "known_for_department": "Acting",
+        "name": "Cecilia Forss",
+        "original_name": "Cecilia Forss",
+        "popularity": 0.38,
+        "profile_path": "/mutGaRS2YbySqxyUvGQNYWLeJKX.jpg",
+        "cast_id": 24,
+        "character": "Sophie von Kronenberg",
+        "credit_id": "671050c2db79c9ceae0ebe85",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 968176,
+        "known_for_department": "Acting",
+        "name": "Katarzyna Herman",
+        "original_name": "Katarzyna Herman",
+        "popularity": 0.2397,
+        "profile_path": "/yD23VXf4IGH89jSBrOfJYY4Q7GW.jpg",
+        "cast_id": 21,
+        "character": "Madam Vanja",
+        "credit_id": "671050ac6f7707af40fa665a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 526011,
+        "known_for_department": "Acting",
+        "name": "Adam Lundgren",
+        "original_name": "Adam Lundgren",
+        "popularity": 0.5776,
+        "profile_path": "/hB62780sPK5HpHBylShEsrtfIh1.jpg",
+        "cast_id": 22,
+        "character": "Dr. Esth\u00e9tique",
+        "credit_id": "671050b36f7707af40fa6661",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3556645,
+        "known_for_department": "Acting",
+        "name": "Willy Ramnek Petri",
+        "original_name": "Willy Ramnek Petri",
+        "popularity": 0.1247,
+        "profile_path": "/wxBH04VtvbWt2mB2O9kz5E7f0oV.jpg",
+        "cast_id": 23,
+        "character": "Frederik von Bluckfish",
+        "credit_id": "671050badb79c9ceae0ebe81",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95703,
+        "known_for_department": "Acting",
+        "name": "Kyrre Hellum",
+        "original_name": "Kyrre Hellum",
+        "popularity": 0.3228,
+        "profile_path": "/pFhPPKfngoI6D08aUm5c8dKgV7h.jpg",
+        "cast_id": 25,
+        "character": "Jan",
+        "credit_id": "671050c96f7707af40fa667a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1951765,
+        "known_for_department": "Acting",
+        "name": "Isac Aspberg",
+        "original_name": "Isac Aspberg",
+        "popularity": 0.0379,
+        "profile_path": "/eL16agzse7z78mMzGpJSNb7yDkK.jpg",
+        "cast_id": 18,
+        "character": "Finsmakeren",
+        "credit_id": "671050906bffa14cf4110765",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2447492,
+        "known_for_department": "Acting",
+        "name": "Albin Weidenbladh",
+        "original_name": "Albin Weidenbladh",
+        "popularity": 0.0143,
+        "profile_path": "/y3jUFUHgc8DVYlWgcw2TONcGHE4.jpg",
+        "cast_id": 19,
+        "character": "Alteteren",
+        "credit_id": "671050976bffa14cf4110768",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5004997,
+        "known_for_department": "Acting",
+        "name": "Oksana Czerkasyna",
+        "original_name": "Oksana Czerkasyna",
+        "popularity": 0.0071,
+        "profile_path": "/y2bmkGPKRnonXIClDxH8ew69dlz.jpg",
+        "cast_id": 20,
+        "character": "Kokk",
+        "credit_id": "671050a36f7707af40fa6655",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309637,
+        "known_for_department": "Acting",
+        "name": "Richard Forsgren",
+        "original_name": "Richard Forsgren",
+        "popularity": 0.1903,
+        "profile_path": "/aoZ4qgn6LaMwZRnGfWngN3rlugP.jpg",
+        "cast_id": 26,
+        "character": "Hovmester",
+        "credit_id": "671050cf6bffa14cf4110785",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137308,
+        "known_for_department": "Acting",
+        "name": "Pawe\u0142 Janyst",
+        "original_name": "Pawe\u0142 Janyst",
+        "popularity": 0.1227,
+        "profile_path": "/3I6wbyBPvX40taQWjS7KghvZ7NG.jpg",
+        "cast_id": 52,
+        "character": "Bankmann",
+        "credit_id": "682712610421d14ee22d30d0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2759051,
+        "known_for_department": "Acting",
+        "name": "Piotr Czarnecki",
+        "original_name": "Piotr Czarnecki",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Grensevankt",
+        "credit_id": "682712a65ecb61e45d5a4213",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1527552,
+        "known_for_department": "Acting",
+        "name": "Agnieszka \u017bulewska",
+        "original_name": "Agnieszka \u017bulewska",
+        "popularity": 0.3659,
+        "profile_path": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg",
+        "cast_id": 27,
+        "character": "Agnes's Mother",
+        "credit_id": "671050d76bffa14cf411078e",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2478900,
+        "known_for_department": "Acting",
+        "name": "Staffan Kolhammar",
+        "original_name": "Staffan Kolhammar",
+        "popularity": 0.0336,
+        "profile_path": "/srGgXVoyQZ42vrcXuCymcteUy9V.jpg",
+        "cast_id": 29,
+        "character": "Budbringer",
+        "credit_id": "671050ed6f7707af40fa6684",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943463,
+        "known_for_department": "Acting",
+        "name": "Philip Lenkowsky",
+        "original_name": "Philip Lenkowsky",
+        "popularity": 0.3222,
+        "profile_path": "/1XXxBOgGrtRyUQahEb0CjTQBv0x.jpg",
+        "cast_id": 28,
+        "character": "Baron Von Bluckfish",
+        "credit_id": "671050e3db79c9ceae0ebe9f",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6797,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manon Rasmussen",
+        "original_name": "Manon Rasmussen",
+        "popularity": 0.0797,
+        "profile_path": "/aSk5jN5evDKRQs5ovatwCKRhqDW.jpg",
+        "credit_id": "6633fd2566565a0128140654",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2017127,
+        "known_for_department": "Production",
+        "name": "Theis N\u00f8rgaard",
+        "original_name": "Theis N\u00f8rgaard",
+        "popularity": 0.0214,
+        "profile_path": "/7XHaoGgtSqRTOxq5GPoSxFpB0ct.jpg",
+        "credit_id": "6633fcfd358da7012a54d5e4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179,
+        "known_for_department": "Camera",
+        "name": "Marcel Zyskind",
+        "original_name": "Marcel Zyskind",
+        "popularity": 0.1037,
+        "profile_path": "/huDi81LUS7l0KAs5rVQM0pQINfJ.jpg",
+        "credit_id": "6633fd61c3926601296db17a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400327,
+        "known_for_department": "Visual Effects",
+        "name": "Peter Hjorth",
+        "original_name": "Peter Hjorth",
+        "popularity": 0.0874,
+        "profile_path": "/bmxiFVD0pn6nF88M7wuK64IKcnX.jpg",
+        "credit_id": "6633fd7c358da7012454d2d0",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1365899,
+        "known_for_department": "Production",
+        "name": "Maria Ekerhovd",
+        "original_name": "Maria Ekerhovd",
+        "popularity": 0.2251,
+        "profile_path": "/miwESw9dFupTTLaSyQNZvQ8ueSC.jpg",
+        "credit_id": "6633fc8d99d5c3012c56de31",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1639085,
+        "known_for_department": "Production",
+        "name": "Lizette Jonjic",
+        "original_name": "Lizette Jonjic",
+        "popularity": 0.1015,
+        "profile_path": "/7KlrNHEekxGM6R26iTgEkRIMCjY.jpg",
+        "credit_id": "6633fca7358da7012754c4fe",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453682,
+        "known_for_department": "Production",
+        "name": "Mariusz W\u0142odarski",
+        "original_name": "Mariusz W\u0142odarski",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "6633fce483ee67012a407d5f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480411,
+        "known_for_department": "Directing",
+        "name": "Emilie Blichfeldt",
+        "original_name": "Emilie Blichfeldt",
+        "popularity": 0.1766,
+        "profile_path": "/nlFQv44hBzx3mNipNTI4h6vfTZT.jpg",
+        "credit_id": "671054cccf8de877b49f89f3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480411,
+        "known_for_department": "Directing",
+        "name": "Emilie Blichfeldt",
+        "original_name": "Emilie Blichfeldt",
+        "popularity": 0.1766,
+        "profile_path": "/nlFQv44hBzx3mNipNTI4h6vfTZT.jpg",
+        "credit_id": "671054d16bffa14cf411090c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60407,
+        "known_for_department": "Production",
+        "name": "Ada Solomon",
+        "original_name": "Ada Solomon",
+        "popularity": 0.0726,
+        "profile_path": "/7NjdcEuPcaL1mAGh4UvY4AbG0Um.jpg",
+        "credit_id": "671054e9cf8de877b49f8a02",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808140,
+        "known_for_department": "Crew",
+        "name": "Vincent Larsson",
+        "original_name": "Vincent Larsson",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "671054fbdb79c9ceae0ec096",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170697,
+        "known_for_department": "Production",
+        "name": "Jesper Morthorst",
+        "original_name": "Jesper Morthorst",
+        "popularity": 0.0382,
+        "profile_path": "/fJJBDhXpsn34f50L9RGReqEdI1h.jpg",
+        "credit_id": "671055041b912add2edbabd8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4199242,
+        "known_for_department": "Production",
+        "name": "Luiza Skrzek",
+        "original_name": "Luiza Skrzek",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6710550c1b912add2edbabdc",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1114056,
+        "known_for_department": "Writing",
+        "name": "Christian Torpe",
+        "original_name": "Christian Torpe",
+        "popularity": 0.2741,
+        "profile_path": "/cHEQOGYumRv5GOeLJQoWYkygZiY.jpg",
+        "credit_id": "671055186bffa14cf4110923",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179,
+        "known_for_department": "Camera",
+        "name": "Marcel Zyskind",
+        "original_name": "Marcel Zyskind",
+        "popularity": 0.1037,
+        "profile_path": "/huDi81LUS7l0KAs5rVQM0pQINfJ.jpg",
+        "credit_id": "67105527cf8de877b49f8a0f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425110,
+        "known_for_department": "Editing",
+        "name": "Olivia Neergaard-Holm",
+        "original_name": "Olivia Neergaard-Holm",
+        "popularity": 0.1717,
+        "profile_path": null,
+        "credit_id": "671055321b912add2edbabe8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2670014,
+        "known_for_department": "Production",
+        "name": "Luise Nes",
+        "original_name": "Luise Nes",
+        "popularity": 0.0739,
+        "profile_path": null,
+        "credit_id": "6710553acf8de877b49f8a17",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1814879,
+        "known_for_department": "Directing",
+        "name": "Mi\u0142osz Sawicki",
+        "original_name": "Mi\u0142osz Sawicki",
+        "popularity": 0.1083,
+        "profile_path": null,
+        "credit_id": "671055401b912add2edbabeb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547006,
+        "known_for_department": "Production",
+        "name": "Catrin Wideryd",
+        "original_name": "Catrin Wideryd",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "671055466bffa14cf4110939",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321584,
+        "known_for_department": "Art",
+        "name": "Sabine Hviid",
+        "original_name": "Sabine Hviid",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "6710554e1b912add2edbabee",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 559155,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Cathrine Sauerberg",
+        "original_name": "Anne Cathrine Sauerberg",
+        "popularity": 0.1431,
+        "profile_path": "/4wrzGLK2e35cxvVw8q7vZSMoEj4.jpg",
+        "credit_id": "6710555c6f7707af40fa6799",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321584,
+        "known_for_department": "Art",
+        "name": "Sabine Hviid",
+        "original_name": "Sabine Hviid",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "671055656bffa14cf4110944",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5005011,
+        "known_for_department": "Art",
+        "name": "Klaudia Klimka",
+        "original_name": "Klaudia Klimka",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6710556ccf8de877b49f8a27",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136364,
+        "known_for_department": "Sound",
+        "name": "Tormod Ringnes",
+        "original_name": "Tormod Ringnes",
+        "popularity": 0.0932,
+        "profile_path": "/1bg83Y4KaR0nv9n1HkCM3l6ledK.jpg",
+        "credit_id": "671055731b912add2edbac3b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180805,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Thomas Foldberg",
+        "original_name": "Thomas Foldberg",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "6710557d1b912add2edbac42",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2804823,
+        "known_for_department": "Visual Effects",
+        "name": "Henning Szpiro Eriksen",
+        "original_name": "Henning Szpiro Eriksen",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67105599cf8de877b49f8a39",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 980260,
+        "known_for_department": "Sound",
+        "name": "John Erik Kaada",
+        "original_name": "John Erik Kaada",
+        "popularity": 0.0368,
+        "profile_path": "/4qZJcPFijemxxjx7lyDVV8r1hYD.jpg",
+        "credit_id": "680859826e1a769e81eecf5a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4449087,
+        "known_for_department": "Sound",
+        "name": "Vilde Tuv",
+        "original_name": "Vilde Tuv",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "680859a66e1a769e81eecf70",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4355653,
+        "known_for_department": "Crew",
+        "name": "Daniela Kom\u0119dera",
+        "original_name": "Daniela Kom\u0119dera",
+        "popularity": 0.0286,
+        "profile_path": "/oYeewEmGD5wdEOXR0KGnlUFLIz5.jpg",
+        "credit_id": "69500bfbc1ce862e0e2fbe0d",
+        "department": "Crew",
+        "job": "Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 179411,
+        "name": "based on fairy tale"
+      },
+      {
+        "id": 214664,
+        "name": "beauty standards"
+      },
+      {
+        "id": 265586,
+        "name": "stepmother stepdaughter relationship"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      },
+      {
+        "id": 295907,
+        "name": "psychological horror"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 323091,
+        "name": "cinderella story"
+      },
+      {
+        "id": 325776,
+        "name": "baffled"
+      },
+      {
+        "id": 325813,
+        "name": "exuberant"
+      },
+      {
+        "id": 325816,
+        "name": "forceful"
+      }
+    ]
+  }
+}

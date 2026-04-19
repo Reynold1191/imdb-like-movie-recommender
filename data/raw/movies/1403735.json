@@ -1,0 +1,311 @@
+{
+  "adult": false,
+  "backdrop_path": "/vNUwK5P42m81uG57kKI1WxSZwIQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1403735,
+  "imdb_id": "tt32831759",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "\u0c32\u0c48\u0c32\u0c3e",
+  "overview": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
+  "popularity": 15.6367,
+  "poster_path": "/aFogllaRGlAhk1nqvVGFpZpl4qU.jpg",
+  "production_companies": [
+    {
+      "id": 100071,
+      "logo_path": null,
+      "name": "Shine Screens",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-02-14",
+  "revenue": 0,
+  "runtime": 134,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Laila",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1893251,
+        "known_for_department": "Acting",
+        "name": "Vishwak Sen",
+        "original_name": "Vishwak Sen",
+        "popularity": 0.9058,
+        "profile_path": "/ffWsFHwde7M3W2IiIfn01htpALX.jpg",
+        "cast_id": 1,
+        "character": "Sonu Model / Laila",
+        "credit_id": "67614e77cdf1ed2e43189f57",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3154351,
+        "known_for_department": "Acting",
+        "name": "Akanksha Sharma",
+        "original_name": "Akansha Sharma",
+        "popularity": 0.3565,
+        "profile_path": "/aqPeJiZLSTDQnNmQPvchS1FlBVA.jpg",
+        "cast_id": 20,
+        "character": "Jenny",
+        "credit_id": "67f23ad3931ce174a2d9d4e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584878,
+        "known_for_department": "Acting",
+        "name": "Babloo Prithiveeraj",
+        "original_name": "Babloo Prithiveeraj",
+        "popularity": 1.0307,
+        "profile_path": "/lnRXcRebSmfJaSaRqTt91o1vkhE.jpg",
+        "cast_id": 15,
+        "character": "Shankar \"Shanku\"",
+        "credit_id": "67ad9b668c5579ba6e36e208",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109743,
+        "known_for_department": "Acting",
+        "name": "Abhimanyu Singh",
+        "original_name": "Abhimanyu Singh",
+        "popularity": 0.7271,
+        "profile_path": "/ucGZIeHvG9SsW9B94InteMyOlpD.jpg",
+        "cast_id": 17,
+        "character": "Rusthom",
+        "credit_id": "67ad9b7a1168deda109f4c49",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 312870,
+        "known_for_department": "Acting",
+        "name": "Vineet Kumar",
+        "original_name": "Vineet Kumar",
+        "popularity": 0.4687,
+        "profile_path": "/qAOIqG6kjysnSDlhkueQ7XaLc7t.jpg",
+        "cast_id": 18,
+        "character": "Khaidi",
+        "credit_id": "67ad9b8a1168deda109f4c65",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3237637,
+        "known_for_department": "Acting",
+        "name": "Kamakshi Bhaskarla",
+        "original_name": "Kamakshi Bhaskarla",
+        "popularity": 0.4581,
+        "profile_path": "/rS6eRKX0ZldriYdZjx6zf8faoHH.jpg",
+        "cast_id": 23,
+        "character": "Sundari",
+        "credit_id": "67f95e93ea80d8517599bcef",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3747367,
+        "known_for_department": "Acting",
+        "name": "Surabhi Prabhavathi",
+        "original_name": "\u0c38\u0c41\u0c30\u0c2d\u0c3f \u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c35\u0c24\u0c3f",
+        "popularity": 1.5977,
+        "profile_path": "/lEpxXvSXJEmM0qssUoTWv2Fsi9y.jpg",
+        "cast_id": 21,
+        "character": "Subhaleka",
+        "credit_id": "67f95d3dcce7690230ad81ba",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223146,
+        "known_for_department": "Acting",
+        "name": "Ravi Mariya",
+        "original_name": "Ravi Mariya",
+        "popularity": 0.5176,
+        "profile_path": "/2OKPiv0HobYPSrFMM6LZPxuLMgc.jpg",
+        "cast_id": 11,
+        "character": "Waseem",
+        "credit_id": "67ad9b361168deda109f4c35",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429160,
+        "known_for_department": "Acting",
+        "name": "Prudhviraj",
+        "original_name": "Prudhviraj",
+        "popularity": 0.7333,
+        "profile_path": "/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "67d1fc0a3602026906817661",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4477653,
+        "known_for_department": "Acting",
+        "name": "Sunisith",
+        "original_name": "Sunisith",
+        "popularity": 0.0338,
+        "profile_path": "/3fdfMFnJNJPQ6jyhLLUNpCiwZhg.jpg",
+        "cast_id": 22,
+        "character": "Sunisith",
+        "credit_id": "67f95dbd7f70ac1a21d9766e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3450962,
+        "known_for_department": "Acting",
+        "name": "Sunaina Badam",
+        "original_name": "Sunaina Badam",
+        "popularity": 0.4453,
+        "profile_path": "/mXYC9Aue1uE09Wgs9AWxGq7aHvj.jpg",
+        "cast_id": 24,
+        "character": "Judge Madhumita",
+        "credit_id": "67f974497f70ac1a21d980d6",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2279496,
+        "known_for_department": "Production",
+        "name": "Sahu Garapati",
+        "original_name": "Sahu Garapati",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "67614e9de7c4fdd92dcbe062",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1893251,
+        "known_for_department": "Acting",
+        "name": "Vishwak Sen",
+        "original_name": "Vishwak Sen",
+        "popularity": 0.9058,
+        "profile_path": "/ffWsFHwde7M3W2IiIfn01htpALX.jpg",
+        "credit_id": "676fbe412c9097b266617d63",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455511,
+        "known_for_department": "Sound",
+        "name": "Leon James",
+        "original_name": "Leon James",
+        "popularity": 0.0793,
+        "profile_path": "/kenu25DL1IiASnsk1f5MptCj5qH.jpg",
+        "credit_id": "676fbe526cc4caf8fb9282b7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5240969,
+        "known_for_department": "Directing",
+        "name": "Ram Narayan",
+        "original_name": "Ram Narayan",
+        "popularity": 0.1883,
+        "profile_path": null,
+        "credit_id": "67ab9b517c9910814f9bb965",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544262,
+        "known_for_department": "Camera",
+        "name": "Richard Prasad",
+        "original_name": "Richard Prasad",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67ab9bde518408abf8bb3d01",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5240971,
+        "known_for_department": "Editing",
+        "name": "Sagar Dadi",
+        "original_name": "Sagar Dadi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67ab9bf39ed73a4324b08182",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4333289,
+        "known_for_department": "Acting",
+        "name": "Vasudeva Murthy",
+        "original_name": "Vasudeva Murthy",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "credit_id": "67ad9af81168deda109f4c2f",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

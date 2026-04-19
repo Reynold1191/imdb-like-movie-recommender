@@ -1,0 +1,559 @@
+{
+  "adult": false,
+  "backdrop_path": "/e5lxpaVyazQX723A3svR17WxckP.jpg",
+  "belongs_to_collection": null,
+  "budget": 19000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 519465,
+  "imdb_id": "tt8378126",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Dronningen",
+  "overview": "Anne, a brilliant and dedicated advocacy lawyer specialising in society\u2019s most vulnerable, children and young adults, lives what appears to be the picture-perfect life with her doctor-husband, Peter, and their twin daughters. When her estranged teenage stepson, Gustav, moves in with them, Anne\u2019s escalating desire leads her down a dangerous rabbit hole which, once exposed, unleashes a sequence of events destined to destroy her world.",
+  "popularity": 10.7643,
+  "poster_path": "/dfFVDIgovEfQZn53VRKLV2JQnRJ.jpg",
+  "production_companies": [
+    {
+      "id": 119,
+      "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 235,
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2019-03-27",
+  "revenue": 0,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Queen of Hearts",
+  "video": false,
+  "vote_average": 6.907,
+  "vote_count": 370,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4460,
+        "known_for_department": "Acting",
+        "name": "Trine Dyrholm",
+        "original_name": "Trine Dyrholm",
+        "popularity": 1.4449,
+        "profile_path": "/ntUn5eKFlQxbjPci5A99qJOjulY.jpg",
+        "cast_id": 0,
+        "character": "Anne",
+        "credit_id": "5ada44f5c3a3686a23000886",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1428295,
+        "known_for_department": "Acting",
+        "name": "Gustav Lindh",
+        "original_name": "Gustav Lindh",
+        "popularity": 0.6303,
+        "profile_path": "/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg",
+        "cast_id": 1,
+        "character": "Gustav",
+        "credit_id": "5ada45070e0a262d3c0008a6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143391,
+        "known_for_department": "Acting",
+        "name": "Magnus Krepper",
+        "original_name": "Magnus Krepper",
+        "popularity": 0.6904,
+        "profile_path": "/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg",
+        "cast_id": 2,
+        "character": "Peter",
+        "credit_id": "5ada4513c3a3686a190009d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407274,
+        "known_for_department": "Acting",
+        "name": "Liv Esm\u00e5r Dannemann",
+        "original_name": "Liv Esm\u00e5r Dannemann",
+        "popularity": 0.1769,
+        "profile_path": "/bcw4a48dmeeDn2cQvy3XRB7ClOO.jpg",
+        "cast_id": 16,
+        "character": "Frida",
+        "credit_id": "5d7631132ea6b90013c103d0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407273,
+        "known_for_department": "Acting",
+        "name": "Silja Esm\u00e5r Dannemann",
+        "original_name": "Silja Esm\u00e5r Dannemann",
+        "popularity": 0.2491,
+        "profile_path": "/lB5S8dy00sxsOxpOvb0EJZ9Tn6m.jpg",
+        "cast_id": 15,
+        "character": "Fanny",
+        "credit_id": "5d7630ef2ea6b90012c10a8b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407275,
+        "known_for_department": "Acting",
+        "name": "Stine Gyldenkerne",
+        "original_name": "Stine Gyldenkerne",
+        "popularity": 0.1276,
+        "profile_path": "/dML08k8tNLn66oKG6ZtTqpZD9zy.jpg",
+        "cast_id": 17,
+        "character": "Lina",
+        "credit_id": "5d76312a12970c00129b93cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73214,
+        "known_for_department": "Acting",
+        "name": "Preben Kristensen",
+        "original_name": "Preben Kristensen",
+        "popularity": 0.1319,
+        "profile_path": "/6kB691r8wZSiM5sYupPulczZ6pb.jpg",
+        "cast_id": 12,
+        "character": "Erik",
+        "credit_id": "5b3a714ac3a3684561016cac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 582051,
+        "known_for_department": "Acting",
+        "name": "Frederikke Dahl Hansen",
+        "original_name": "Frederikke Dahl Hansen",
+        "popularity": 0.3662,
+        "profile_path": "/6LSQFl8ywMKrwlmeGU3H842ejek.jpg",
+        "cast_id": 3,
+        "character": "Cecilie",
+        "credit_id": "5ada454992514123120008d2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1518350,
+        "known_for_department": "Acting",
+        "name": "Ella Solgaard",
+        "original_name": "Ella Solgaard",
+        "popularity": 0.1043,
+        "profile_path": "/te6KJFqoxwRFN2hN9K9P2Gvn6ZW.jpg",
+        "cast_id": 13,
+        "character": "Sara",
+        "credit_id": "5b3a715ec3a368483b00d35f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2038233,
+        "known_for_department": "Acting",
+        "name": "Carla Philip R\u00f8der",
+        "original_name": "Carla Philip R\u00f8der",
+        "popularity": 0.2604,
+        "profile_path": "/brbXQv5vR3tmV8qQoRJSCH4R7CI.jpg",
+        "cast_id": 19,
+        "character": "Amanda",
+        "credit_id": "5d7631572ea6b90012c10af6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407277,
+        "known_for_department": "Acting",
+        "name": "Peter Khouri",
+        "original_name": "Peter Khouri",
+        "popularity": 0.0662,
+        "profile_path": "/aPs9hIMK8NQAmdgNWAHm327rZHh.jpg",
+        "cast_id": 21,
+        "character": "Janus",
+        "credit_id": "5d7632bb5294e70010f52c54",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582347,
+        "known_for_department": "Acting",
+        "name": "Mads Knarreborg",
+        "original_name": "Mads Knarreborg",
+        "popularity": 0.0952,
+        "profile_path": "/1ztJvsh2CnuWaPaIHbwF3i4hhos.jpg",
+        "cast_id": 20,
+        "character": "Thomas",
+        "credit_id": "5d76328b5294e7000ef5333b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2130931,
+        "known_for_department": "Acting",
+        "name": "Marie Dalsgaard",
+        "original_name": "Marie Dalsgaard",
+        "popularity": 0.149,
+        "profile_path": "/kC9rKdXgFDD9E99GrWGuWkPxDSS.jpg",
+        "cast_id": 22,
+        "character": "Ellen",
+        "credit_id": "5d7632d15294e7000ef533c8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2117343,
+        "known_for_department": "Acting",
+        "name": "Elias Budde Christensen",
+        "original_name": "Elias Budde Christensen",
+        "popularity": 0.1143,
+        "profile_path": "/3tcDtPuEV9PyDOvOM9E3PDHtkxc.jpg",
+        "cast_id": 18,
+        "character": "Boy in Court",
+        "credit_id": "5d76314312970c00139b9a98",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407278,
+        "known_for_department": "Acting",
+        "name": "Noel Bouhon Kiertzer",
+        "original_name": "Noel Bouhon Kiertzer",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Lucas",
+        "credit_id": "5d7632e52ea6b90010c10674",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2407279,
+        "known_for_department": "Acting",
+        "name": "Nessie Beik",
+        "original_name": "Nessie Beik",
+        "popularity": 0.0596,
+        "profile_path": "/bc8StDxOoqzSwAREtJIwpjKD2mG.jpg",
+        "cast_id": 25,
+        "character": "Social Worker",
+        "credit_id": "5d7633102ea6b90010c106a7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407280,
+        "known_for_department": "Acting",
+        "name": "Stanley Bakar",
+        "original_name": "Stanley Bakar",
+        "popularity": 0.0387,
+        "profile_path": "/tmbNECsbXC2aWv9hHquDNYmqWS6.jpg",
+        "cast_id": 26,
+        "character": "Assistant",
+        "credit_id": "5d7633385294e7000ef53448",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2407281,
+        "known_for_department": "Acting",
+        "name": "Anders Hedegaard Andersen",
+        "original_name": "Anders Hedegaard Andersen",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Clerk",
+        "credit_id": "5d7633495294e7000ef5345d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934697,
+        "known_for_department": "Acting",
+        "name": "Mathias Rahb\u00e6k",
+        "original_name": "Mathias Rahb\u00e6k",
+        "popularity": 0.131,
+        "profile_path": "/emnfJytY3flFltux4d091mKZAmd.jpg",
+        "cast_id": 34,
+        "character": "Defendant",
+        "credit_id": "66d98521779e1ff192bf6c9b",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574550,
+        "known_for_department": "Directing",
+        "name": "Ali Abbasi",
+        "original_name": "Ali Abbasi",
+        "popularity": 0.505,
+        "profile_path": "/1mwdpvwjAG1NkvUwpdBMEMJnjK2.jpg",
+        "credit_id": "628436cb0859b4009a859ed0",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1372319,
+        "known_for_department": "Production",
+        "name": "Caroline Blanco",
+        "original_name": "Caroline Blanco",
+        "popularity": 0.0519,
+        "profile_path": "/4rHxm827k9A52k2MN0WBulRREud.jpg",
+        "credit_id": "5ada45a30e0a262d4500097b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1290996,
+        "known_for_department": "Directing",
+        "name": "May el-Toukhy",
+        "original_name": "May el-Toukhy",
+        "popularity": 0.3156,
+        "profile_path": "/5DlwQ6AZBEYsnBQXbXMxvwYklkC.jpg",
+        "credit_id": "5ada45680e0a262d48000a51",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1994076,
+        "known_for_department": "Editing",
+        "name": "Rasmus Stensgaard Madsen",
+        "original_name": "Rasmus Stensgaard Madsen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ada45d50e0a262d48000aa4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1517987,
+        "known_for_department": "Writing",
+        "name": "Maren Louise K\u00e4ehne",
+        "original_name": "Maren Louise K\u00e4ehne",
+        "popularity": 0.208,
+        "profile_path": "/bOKtkaxtC5IqkcsRQzDdg4BBblO.jpg",
+        "credit_id": "5ada4592c3a3686a230008ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1290996,
+        "known_for_department": "Directing",
+        "name": "May el-Toukhy",
+        "original_name": "May el-Toukhy",
+        "popularity": 0.3156,
+        "profile_path": "/5DlwQ6AZBEYsnBQXbXMxvwYklkC.jpg",
+        "credit_id": "5ada458392514123cf0009c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1616244,
+        "known_for_department": "Camera",
+        "name": "Jasper Spanning",
+        "original_name": "Jasper Spanning",
+        "popularity": 0.0478,
+        "profile_path": "/2VcCGuNpDPrs8RNPcvvNrqq1l6n.jpg",
+        "credit_id": "6498c63db3440900e27268b0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141885,
+        "known_for_department": "Production",
+        "name": "Rene Ezra",
+        "original_name": "Rene Ezra",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "5ca2529e9251411a16096392",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2972056,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rebecca Richmond",
+        "original_name": "Rebecca Richmond",
+        "popularity": 0.0404,
+        "profile_path": "/daRaQcH7Q3RnvAmvJdf9Pf9CHPP.jpg",
+        "credit_id": "602dba6d8ac3d0003fcda80d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mia Stensgaard",
+        "original_name": "Mia Stensgaard",
+        "popularity": 0.0143,
+        "profile_path": "/ni5B49wkqyqK1xOXrTsAFKcVjKW.jpg",
+        "credit_id": "602dba5087e63e00409496d9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077404,
+        "known_for_department": "Sound",
+        "name": "Jon Ekstrand",
+        "original_name": "Jon Ekstrand",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "602dba372cde98003c2e53e5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443980,
+        "known_for_department": "Crew",
+        "name": "Jon Truelsen",
+        "original_name": "Jon Truelsen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "602dba5ea14bef004064054f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1499110,
+        "known_for_department": "Visual Effects",
+        "name": "Katharina Bormann",
+        "original_name": "Katharina Bormann",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "68f0330fcdef0a1d751e1e80",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10909,
+        "name": "lawyer"
+      },
+      {
+        "id": 33841,
+        "name": "incest"
+      },
+      {
+        "id": 157799,
+        "name": "older woman younger man relationship"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 207767,
+        "name": "erotic thriller"
+      },
+      {
+        "id": 230960,
+        "name": "unfaithful wife"
+      },
+      {
+        "id": 282667,
+        "name": "age-gap relationship"
+      },
+      {
+        "id": 292860,
+        "name": "stepmother stepson relationship"
+      },
+      {
+        "id": 350361,
+        "name": "stepmother stepson incest"
+      },
+      {
+        "id": 350362,
+        "name": "stepmother stepson sex"
+      }
+    ]
+  }
+}

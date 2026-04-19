@@ -1,0 +1,185 @@
+{
+  "adult": false,
+  "backdrop_path": "/mlaq0055pIRfBeMqp6KmuDM2KvB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.aha.video/movie/maalai-nera-malipoo",
+  "id": 1137861,
+  "imdb_id": "tt24325382",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "\u0bae\u0bbe\u0bb2\u0bc8 \u0ba8\u0bc7\u0bb0 \u0bae\u0bb2\u0bcd\u0bb2\u0bbf\u0baa\u0bcd\u0baa\u0bc2",
+  "overview": "The movie is about how the global pandemic forces a prostitute to change her medium of work onto a digital platform and how her relationship with her son is affected",
+  "popularity": 16.8421,
+  "poster_path": "/5JQPJNIjNVxlHcx9VX5pvKUj3LQ.jpg",
+  "production_companies": [
+    {
+      "id": 201805,
+      "logo_path": null,
+      "name": "Every Frame Matters",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-06-09",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Peek into the Life of a Sex Worker",
+  "title": "Maalai Nera Malipoo",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1334007,
+        "known_for_department": "Acting",
+        "name": "Vinithra Madhavan Menon",
+        "original_name": "Vinithra Madhavan Menon",
+        "popularity": 0.2889,
+        "profile_path": "/gfcuT94nu8nwcb7sRVepmjrbBSh.jpg",
+        "cast_id": 1,
+        "character": "Lakshmi",
+        "credit_id": "64824fbc99259c00accb7701",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3565414,
+        "known_for_department": "Acting",
+        "name": "Master Ashwin",
+        "original_name": "Master Ashwin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Karna",
+        "credit_id": "6482586be375c0011c7eba18",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4103405,
+        "known_for_department": "Acting",
+        "name": "Dhinesh Pandiyar",
+        "original_name": "Dhinesh Pandiyar",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Raj Anna",
+        "credit_id": "6482588c99259c00ff0d4be7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128607,
+        "known_for_department": "Acting",
+        "name": "Arjun Maheswar",
+        "original_name": "Arjun Maheswar",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Ravi",
+        "credit_id": "6496cecaeb79c200ad713333",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128608,
+        "known_for_department": "Acting",
+        "name": "Samyuktha",
+        "original_name": "Samyuktha",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Young Lakshmi",
+        "credit_id": "6496cedf6f43ec00ac3ac01c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339139,
+        "known_for_department": "Acting",
+        "name": "Manibharathi",
+        "original_name": "Manibharathi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6496cefa955c6500c7ae29e2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4103447,
+        "known_for_department": "Production",
+        "name": "Vijayalakshmi Narayanan",
+        "original_name": "Vijayalakshmi Narayanan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64826487bf31f250559fa933",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4103446,
+        "known_for_department": "Directing",
+        "name": "Sanjay Narayanan",
+        "original_name": "Sanjay Narayanan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64826461c9dbf9011dfaccf7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4103446,
+        "known_for_department": "Directing",
+        "name": "Sanjay Narayanan",
+        "original_name": "Sanjay Narayanan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6482646fe2726001072104d7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

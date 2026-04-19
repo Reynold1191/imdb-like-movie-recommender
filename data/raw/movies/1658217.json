@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": "/3JywdyUB4QsMdK9rHqiU2kAGSVg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1658217,
+  "imdb_id": "tt40541178",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Sawsawan",
+  "overview": "Karen plays Dolor, a street food vendor with big dreams. Men flock Dolor's stall not just for her dipping sauce but for the secret pleasure that comes with it.",
+  "popularity": 11.4538,
+  "poster_path": "/6L9hxSBK7JNISnvhrnnHb4BYRd6.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-04-10",
+  "revenue": 0,
+  "runtime": 72,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sawsawan",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5326859,
+        "known_for_department": "Acting",
+        "name": "Karen Lopez",
+        "original_name": "Karen Lopez",
+        "popularity": 1.4824,
+        "profile_path": "/e8ly5dCswOAu7HqmB7hdM1euDGr.jpg",
+        "cast_id": 1,
+        "character": "Dolor",
+        "credit_id": "69c4bae58a71e017448abbf0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5980949,
+        "known_for_department": "Acting",
+        "name": "Rhian Rivera",
+        "original_name": "Rhian Rivera",
+        "popularity": 0.429,
+        "profile_path": "/dlyGvNhAdUhOHgRzVfudI4AXQz5.jpg",
+        "cast_id": 2,
+        "character": "Ada",
+        "credit_id": "69c4baf0eaa74a17d21c81ea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3763107,
+        "known_for_department": "Acting",
+        "name": "Amor Lapus",
+        "original_name": "Amor Lapus",
+        "popularity": 1.192,
+        "profile_path": "/x9BI2rJ84BucYEKNvhWmo8o3q6u.jpg",
+        "cast_id": 4,
+        "character": "Myrna",
+        "credit_id": "69c4bb05162d5fcf1db7d339",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5660222,
+        "known_for_department": "Acting",
+        "name": "Allen Legazpi",
+        "original_name": "Allen Legazpi",
+        "popularity": 0.21,
+        "profile_path": "/socApl9YcP094i9Zj7fbtDZL26y.jpg",
+        "cast_id": 3,
+        "character": "Basti",
+        "credit_id": "69c4bafd763afcc1d51c81fe",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5842941,
+        "known_for_department": "Acting",
+        "name": "Jio Yoshida",
+        "original_name": "Jio Yoshida",
+        "popularity": 0.1772,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "James",
+        "credit_id": "69c4bb1603005442317cac49",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6097843,
+        "known_for_department": "Acting",
+        "name": "Aeron Henry Cruz",
+        "original_name": "Aeron Henry Cruz",
+        "popularity": 0.2053,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dr. Jimenez",
+        "credit_id": "69c4bb43759762520b62ca41",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5824853,
+        "known_for_department": "Acting",
+        "name": "Joko Rivera",
+        "original_name": "Joko Rivera",
+        "popularity": 0.074,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Mario",
+        "credit_id": "69c4bb23863eb8a1ea62ca28",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4207773,
+        "known_for_department": "Directing",
+        "name": "Rodante Pajemna Jr.",
+        "original_name": "Rodante Pajemna Jr.",
+        "popularity": 0.8133,
+        "profile_path": "/db1ocKoW8iXE6BrjnMnW6zr7eLS.jpg",
+        "credit_id": "69c4bb6f83fd4c8cbd42081e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

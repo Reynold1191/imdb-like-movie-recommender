@@ -1,0 +1,592 @@
+{
+  "adult": false,
+  "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0G4XCZW3X",
+  "id": 1252037,
+  "imdb_id": "tt31495504",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Tiger",
+  "overview": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines. As they make their way through the lethal no-man's land, they must confront not only the enemy, but also their own fears and inner demons. Fueled by the Wehrmacht's methamphetamine, their mission increasingly becomes a journey into the heart of darkness.",
+  "popularity": 13.5679,
+  "poster_path": "/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+  "production_companies": [
+    {
+      "id": 78486,
+      "logo_path": "/oKG2ahqSVN8i5Rd0U9ZNbNY6jK7.png",
+      "name": "Pantaleon Films",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Tank",
+  "video": false,
+  "vote_average": 7.069,
+  "vote_count": 399,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36097,
+        "known_for_department": "Acting",
+        "name": "Laurence Rupp",
+        "original_name": "Laurence Rupp",
+        "popularity": 0.5053,
+        "profile_path": "/91VVksg6HJxUv0ahiay7ryatUqP.jpg",
+        "cast_id": 7,
+        "character": "Christian Weller",
+        "credit_id": "65e06b6c51f99a018556eee0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1327315,
+        "known_for_department": "Acting",
+        "name": "David Sch\u00fctter",
+        "original_name": "David Sch\u00fctter",
+        "popularity": 0.7413,
+        "profile_path": "/eCyL55l0fb9tccOQfdCGCd7XKAf.jpg",
+        "cast_id": 8,
+        "character": "Philip Gerkens",
+        "credit_id": "65e06b7d5294e701304e43e6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6082,
+        "known_for_department": "Acting",
+        "name": "Sebastian Urzendowsky",
+        "original_name": "Sebastian Urzendowsky",
+        "popularity": 0.3872,
+        "profile_path": "/hhviYpZZZIHkWVrd8LHWmVyreSp.jpg",
+        "cast_id": 9,
+        "character": "Keilig",
+        "credit_id": "65e06b859dee58017c7c54eb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824940,
+        "known_for_department": "Acting",
+        "name": "Leonard Kunz",
+        "original_name": "Leonard Kunz",
+        "popularity": 0.2923,
+        "profile_path": "/htq6xkZ03jkwLFdgbXMbranPRvI.jpg",
+        "cast_id": 10,
+        "character": "Helmut",
+        "credit_id": "65e06b8f2d531a0185c013c1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603990,
+        "known_for_department": "Acting",
+        "name": "Yoran Leicher",
+        "original_name": "Yoran Leicher",
+        "popularity": 0.2109,
+        "profile_path": "/xn7csx8aw5VjPyNMxoViyfF8EyQ.jpg",
+        "cast_id": 11,
+        "character": "Michel",
+        "credit_id": "65e06b9aa39d0b016307abf9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1846,
+        "known_for_department": "Acting",
+        "name": "Andr\u00e9 Hennicke",
+        "original_name": "Andr\u00e9 Hennicke",
+        "popularity": 0.4833,
+        "profile_path": "/ooLG1YJU6hsc5KNGeHqTkwv0GMe.jpg",
+        "cast_id": 13,
+        "character": "Lieutenant Colonel Krebs",
+        "credit_id": "672899545918137cfc39b9e0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36463,
+        "known_for_department": "Acting",
+        "name": "Arndt Schwering-Sohnrey",
+        "original_name": "Arndt Schwering-Sohnrey",
+        "popularity": 0.2721,
+        "profile_path": "/5SlJCZzHK8OCmKZWkfFywrhouFi.jpg",
+        "cast_id": 14,
+        "character": "L\u00f6ffler",
+        "credit_id": "67289964761979f005e2d249",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1150511,
+        "known_for_department": "Acting",
+        "name": "Tilman Strauss",
+        "original_name": "Tilman Strauss",
+        "popularity": 0.0407,
+        "profile_path": "/pyh3uluxusir39NOnThNFwGG3r0.jpg",
+        "cast_id": 15,
+        "character": "Paul von Hardenburg",
+        "credit_id": "67289973c090109580fa0040",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3412516,
+        "known_for_department": "Acting",
+        "name": "Al\u017eb\u011bta Mal\u00e1",
+        "original_name": "Al\u017eb\u011bta Mal\u00e1",
+        "popularity": 0.1249,
+        "profile_path": "/esYiX0Ql5d4qDgNfqojaVRcIwv6.jpg",
+        "cast_id": 28,
+        "character": "Marion",
+        "credit_id": "695aa7f60c48d556ecc37954",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4870692,
+        "known_for_department": "Acting",
+        "name": "Samuel Himal",
+        "original_name": "Samuel Himal",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Fritz",
+        "credit_id": "695aa7b6c702ee9a62c37b8c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3636257,
+        "known_for_department": "Acting",
+        "name": "Yana Shevchenko",
+        "original_name": "Yana Shevchenko",
+        "popularity": 0.0193,
+        "profile_path": "/agclFoDkWUoCdbWm4KIHrPsFA7m.jpg",
+        "cast_id": 16,
+        "character": "Secretary at the Command Bunker (uncredited)",
+        "credit_id": "672899829e0877d1d8afbeeb",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52961,
+        "known_for_department": "Directing",
+        "name": "Dennis Gansel",
+        "original_name": "Dennis Gansel",
+        "popularity": 0.7764,
+        "profile_path": "/tf34YKOXKKzE3ib21FSFiACCWi2.jpg",
+        "credit_id": "65e06b1c2d531a0162bf3af3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52961,
+        "known_for_department": "Directing",
+        "name": "Dennis Gansel",
+        "original_name": "Dennis Gansel",
+        "popularity": 0.7764,
+        "profile_path": "/tf34YKOXKKzE3ib21FSFiACCWi2.jpg",
+        "credit_id": "65e06b242d531a0185c01315",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570935,
+        "known_for_department": "Writing",
+        "name": "Colin Teevan",
+        "original_name": "Colin Teevan",
+        "popularity": 0.1028,
+        "profile_path": "/fP7y2MC2ms1KT7gqC1xg0JU4pgi.jpg",
+        "credit_id": "65e06b3207e281017cdcf471",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50355,
+        "known_for_department": "Production",
+        "name": "Dan Maag",
+        "original_name": "Dan Maag",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "65e06b3f51f99a018556ee97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42448,
+        "known_for_department": "Directing",
+        "name": "Frank Kusche",
+        "original_name": "Frank Kusche",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "65e06b4b51f99a016256438b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49363,
+        "known_for_department": "Lighting",
+        "name": "Carlo Jelavic",
+        "original_name": "Carlo Jelavic",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "65e06b61a284eb0164d3ff68",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5197,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anke Winckler",
+        "original_name": "Anke Winckler",
+        "popularity": 0.0306,
+        "profile_path": "/bDW88mbbbAify42Y14tvATgn321.jpg",
+        "credit_id": "68871fd5a33cb327a372f00a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3983653,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Meg Tanner",
+        "original_name": "Meg Tanner",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68871ff728a6b89656d9b60c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6998,
+        "known_for_department": "Art",
+        "name": "Nick Palmer",
+        "original_name": "Nick Palmer",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "688720097587c4222af791ab",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11457,
+        "known_for_department": "Art",
+        "name": "Jind\u0159ich Ko\u010d\u00ed",
+        "original_name": "Jind\u0159ich Ko\u010d\u00ed",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "688720c5ac0991943b16c83a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2539388,
+        "known_for_department": "Production",
+        "name": "Leonard H\u00e4berle",
+        "original_name": "Leonard H\u00e4berle",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "688720ea268343956855f239",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114296,
+        "known_for_department": "Production",
+        "name": "Marco Beckmann",
+        "original_name": "Marco Beckmann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6958514a0cf7610cedcbef9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52963,
+        "known_for_department": "Sound",
+        "name": "Heiko Maile",
+        "original_name": "Heiko Maile",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "credit_id": "69590d5167730dfe967c786e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42154,
+        "known_for_department": "Production",
+        "name": "Patrick Zorer",
+        "original_name": "Patrick Zorer",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "695aa86e6ff6cb07287c823c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2441517,
+        "known_for_department": "Production",
+        "name": "Stephanie Schettler-K\u00f6hler",
+        "original_name": "Stephanie Schettler-K\u00f6hler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "695aa887aee9f647a47508cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2647743,
+        "known_for_department": "Production",
+        "name": "Nicolas Paalzow",
+        "original_name": "Nicolas Paalzow",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "695aa8a3bf4a3fbe834af931",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1979923,
+        "known_for_department": "Editing",
+        "name": "Benjamin Kaubisch",
+        "original_name": "Benjamin Kaubisch",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "695aa8edfba9963c454ada27",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486518,
+        "known_for_department": "Production",
+        "name": "Roman Ka\u0161parovsk\u00fd",
+        "original_name": "Roman Ka\u0161parovsk\u00fd",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "695aa95d3f5867198a7c819f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3664637,
+        "known_for_department": "Directing",
+        "name": "Jakub Dvorak",
+        "original_name": "Jakub Dvorak",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "695aa98701fdd85625e43a8e",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2321844,
+        "known_for_department": "Directing",
+        "name": "Filip Moravec",
+        "original_name": "Filip Moravec",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "695aa99e331d3a25e7cc94c8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2624274,
+        "known_for_department": "Directing",
+        "name": "Ji\u0159\u00ed Kol\u00e1rsk\u00fd",
+        "original_name": "Ji\u0159\u00ed Kol\u00e1rsk\u00fd",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "695aa9b382c7f5caae3be50e",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47830,
+        "known_for_department": "Sound",
+        "name": "Jakub \u010cech",
+        "original_name": "Jakub \u010cech",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "695aa9e7bf538b7f4fd7c6bf",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2435616,
+        "known_for_department": "Sound",
+        "name": "Peter Hil\u010dansk\u00fd",
+        "original_name": "Peter Hil\u010dansk\u00fd",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "credit_id": "695aa9fc20dfa93928d79c48",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6004225,
+        "known_for_department": "Crew",
+        "name": "Marek Pinc",
+        "original_name": "Marek Pinc",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "698eed1832f2c2d31a305be9",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3944,
+        "known_for_department": "Production",
+        "name": "Suse Marquardt",
+        "original_name": "Suse Marquardt",
+        "popularity": 0.0839,
+        "profile_path": "/k8y2IN1hG8A2lh9uyOEeHKT63I3.jpg",
+        "credit_id": "69922688beda484cea2877c0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1411043,
+        "known_for_department": "Production",
+        "name": "Arwa Salmanova",
+        "original_name": "Arwa Salmanova",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "6992269ccff3ff79e2065386",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 11117,
+        "name": "tank"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      },
+      {
+        "id": 336082,
+        "name": "eastern front"
+      },
+      {
+        "id": 348671,
+        "name": "meth"
+      }
+    ]
+  }
+}

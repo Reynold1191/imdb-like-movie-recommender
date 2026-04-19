@@ -1,0 +1,942 @@
+{
+  "adult": false,
+  "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+  "belongs_to_collection": null,
+  "budget": 825000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.mosfilm.ru/mirror/",
+  "id": 1396,
+  "imdb_id": "tt0072443",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
+  "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+  "popularity": 16.0256,
+  "poster_path": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+  "production_companies": [
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1975-03-07",
+  "revenue": 124367,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mirror",
+  "video": false,
+  "vote_average": 7.954,
+  "vote_count": 1082,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55512,
+        "known_for_department": "Acting",
+        "name": "Margarita Terekhova",
+        "original_name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0422\u0435\u0440\u0435\u0445\u043e\u0432\u0430",
+        "popularity": 1.3441,
+        "profile_path": "/28pPZOjEoL8o6Ewb8HW2SdrzU6D.jpg",
+        "cast_id": 5,
+        "character": "Natalya / Maroussia - the Mother",
+        "credit_id": "52fe42f3c3a36847f802f0d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55514,
+        "known_for_department": "Acting",
+        "name": "Ignat Daniltsev",
+        "original_name": "\u0418\u0433\u043d\u0430\u0442 \u0414\u0430\u043d\u0438\u043b\u044c\u0446\u0435\u0432",
+        "popularity": 0.4199,
+        "profile_path": "/cf63G5PBEcqVWcHcgkWoTFZ0PU0.jpg",
+        "cast_id": 7,
+        "character": "Ignat / Alexei - 12 Years Old",
+        "credit_id": "52fe42f3c3a36847f802f0d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8471,
+        "known_for_department": "Acting",
+        "name": "Larisa Tarkovskaya",
+        "original_name": "\u041b\u0430\u0440\u0438\u0441\u0430 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+        "popularity": 0.3642,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nadezha",
+        "credit_id": "52fe42f3c3a36847f802f0cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55513,
+        "known_for_department": "Acting",
+        "name": "Alla Demidova",
+        "original_name": "\u0410\u043b\u043b\u0430 \u0414\u0435\u043c\u0438\u0434\u043e\u0432\u0430",
+        "popularity": 1.1495,
+        "profile_path": "/b5Zarge6KPfANSpwWkehIDkVyeD.jpg",
+        "cast_id": 6,
+        "character": "Lisa",
+        "credit_id": "52fe42f3c3a36847f802f0d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8475,
+        "known_for_department": "Acting",
+        "name": "Anatoliy Solonitsyn",
+        "original_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u0421\u043e\u043b\u043e\u043d\u0438\u0446\u044b\u043d",
+        "popularity": 1.1742,
+        "profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg",
+        "cast_id": 21,
+        "character": "Forensic Doctor",
+        "credit_id": "532dbcc99251413a8100196c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190992,
+        "known_for_department": "Acting",
+        "name": "Mykola Hrynko",
+        "original_name": "\u041c\u0438\u043a\u043e\u043b\u0430 \u0413\u0440\u0438\u043d\u044c\u043a\u043e",
+        "popularity": 0.8198,
+        "profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+        "cast_id": 20,
+        "character": "Printery Director",
+        "credit_id": "52fe42f3c3a36847f802f105",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8480,
+        "known_for_department": "Production",
+        "name": "Tamara Ogorodnikova",
+        "original_name": "\u0422\u0430\u043c\u0430\u0440\u0430 \u041e\u0433\u043e\u0440\u043e\u0434\u043d\u0438\u043a\u043e\u0432\u0430",
+        "popularity": 0.4311,
+        "profile_path": "/dpSKediIMxmz6L9rZzxthVDpgeK.jpg",
+        "cast_id": 12,
+        "character": "Nanny / Neighbour / Strange Woman at Tea Table",
+        "credit_id": "52fe42f3c3a36847f802f0e5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13710,
+        "known_for_department": "Acting",
+        "name": "Yuriy Nazarov",
+        "original_name": "\u042e\u0440\u0438\u0439 \u041d\u0430\u0437\u0430\u0440\u043e\u0432",
+        "popularity": 0.8471,
+        "profile_path": "/5kSJ2Q9fcUYD5yeGvQiw2z4tFxC.jpg",
+        "cast_id": 10,
+        "character": "Rifle Shooting Instructor",
+        "credit_id": "52fe42f3c3a36847f802f0dd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090481,
+        "known_for_department": "Acting",
+        "name": "Oleg Yankovskiy",
+        "original_name": "\u041e\u043b\u0435\u0433 \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 0.8857,
+        "profile_path": "/4Mw5mEOQKSkpV0zKEGZcfHOYSGL.jpg",
+        "cast_id": 18,
+        "character": "The Father",
+        "credit_id": "52fe42f3c3a36847f802f101",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55516,
+        "known_for_department": "Acting",
+        "name": "Filipp Yankovsky",
+        "original_name": "\u0424\u0438\u043b\u0438\u043f\u043f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 0.7017,
+        "profile_path": "/9fuNu6Psr1ZHlND2G6Xd5m1B9yZ.jpg",
+        "cast_id": 30,
+        "character": "Aleksei - 5 Years Old",
+        "credit_id": "5a7fb7c09251414107015280",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1836807,
+        "known_for_department": "Acting",
+        "name": "Tatyana Reshetnikova",
+        "original_name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0420\u0435\u0448\u0435\u0442\u043d\u0438\u043a\u043e\u0432\u0430",
+        "popularity": 0.1864,
+        "profile_path": "/hwUIBK42aHE0qSCTBeDYUpRsIJB.jpg",
+        "cast_id": 29,
+        "character": "Proofreader in Printing House",
+        "credit_id": "5a7fb79f0e0a262aa0017217",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1119000,
+        "known_for_department": "Acting",
+        "name": "Innokentiy Smoktunovskiy",
+        "original_name": "\u0418\u043d\u043d\u043e\u043a\u0435\u043d\u0442\u0438\u0439 \u0421\u043c\u043e\u043a\u0442\u0443\u043d\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 0.8607,
+        "profile_path": "/cKhKa6bILO5bp9Miwd5HXQVUEUz.jpg",
+        "cast_id": 53,
+        "character": "Narrator - The Author's Words (voice)",
+        "credit_id": "5e760262cabfe400151fad0b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353458,
+        "known_for_department": "Crew",
+        "name": "Arseny Tarkovsky",
+        "original_name": "\u0410\u0440\u0441\u0435\u043d\u0438\u0439 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 0.4064,
+        "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+        "cast_id": 54,
+        "character": "Narrator - His Own Poems (voice)",
+        "credit_id": "5e7602e7357c0000194e6ccf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579447,
+        "known_for_department": "Acting",
+        "name": "Mariya Tarkovskaya-Vishnyakova",
+        "original_name": "\u041c\u0430\u0440\u0438\u044f \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0430\u044f-\u0412\u0438\u0448\u043d\u044f\u043a\u043e\u0432\u0430",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Old Mother",
+        "credit_id": "5e7ccffceec4f355eaa95a1b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2579446,
+        "known_for_department": "Acting",
+        "name": "Yuri Sventikov",
+        "original_name": "\u042e\u0440\u0438\u0439 \u0421\u0432\u0435\u043d\u0442\u0438\u043a\u043e\u0432",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Asafiev - War Orphan",
+        "credit_id": "5e7cce6beec4f34267a9588e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579448,
+        "known_for_department": "Acting",
+        "name": "Olga Kizilova",
+        "original_name": "\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u0437\u0438\u043b\u043e\u0432\u0430",
+        "popularity": 0.188,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Redheaded Girl",
+        "credit_id": "5e7cd037fea0d772afc8aa32",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2573430,
+        "known_for_department": "Acting",
+        "name": "Ernesto del Bosque",
+        "original_name": "Ernesto del Bosque",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Spanish Refugee",
+        "credit_id": "5e760090cabfe400182077e2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2573431,
+        "known_for_department": "Acting",
+        "name": "Luis Correcher",
+        "original_name": "Luis Correcher",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Spanish Refugee",
+        "credit_id": "5e7600c3357c0000194e6b31",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2573432,
+        "known_for_department": "Acting",
+        "name": "\u00c1ngel Guti\u00e9rrez",
+        "original_name": "\u00c1ngel Guti\u00e9rrez",
+        "popularity": 0.0671,
+        "profile_path": "/AdidiisXZshpQdR2DujhU1Qb0rp.jpg",
+        "cast_id": 48,
+        "character": "Spanish Refugee",
+        "credit_id": "5e7601222fe2fa001213f267",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579453,
+        "known_for_department": "Acting",
+        "name": "Dionisio Garc\u00eda Zapico",
+        "original_name": "Dionisio Garc\u00eda Zapico",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Spanish Refugee",
+        "credit_id": "5e7cd2146c74b95757ca6e24",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579476,
+        "known_for_department": "Acting",
+        "name": "Tomas Pamies",
+        "original_name": "Tomas Pamies",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Spanish Refugee",
+        "credit_id": "5e7cd65bab1bc70f27c2af37",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2573436,
+        "known_for_department": "Acting",
+        "name": "Teresa Del Bosque",
+        "original_name": "Teresa Del Bosque",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Spanish Refugee Twin",
+        "credit_id": "5e7601bba055ef00122cc364",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2573437,
+        "known_for_department": "Acting",
+        "name": "Tatiana Del Bosque",
+        "original_name": "Tatiana Del Bosque",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Spanish Refugee Twin",
+        "credit_id": "5e7601d1b1f68d0012e34576",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8463,
+        "known_for_department": "Editing",
+        "name": "Lyudmila Feiginova",
+        "original_name": "\u041b\u044e\u0434\u043c\u0438\u043b\u0430 \u0424\u0435\u0439\u0433\u0438\u043d\u043e\u0432\u0430",
+        "popularity": 0.2315,
+        "profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+        "credit_id": "52fe42f3c3a36847f802f0f1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55518,
+        "known_for_department": "Camera",
+        "name": "Georgi Rerberg",
+        "original_name": "\u0413\u0435\u043e\u0440\u0433\u0438\u0439 \u0420\u0435\u0440\u0431\u0435\u0440\u0433",
+        "popularity": 0.3084,
+        "profile_path": "/9ausnjqac0MVwVMuPIkK6Edq5t9.jpg",
+        "credit_id": "52fe42f3c3a36847f802f0f7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 55517,
+        "known_for_department": "Writing",
+        "name": "Aleksandr Misharin",
+        "original_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041c\u0438\u0448\u0430\u0440\u0438\u043d",
+        "popularity": 0.3709,
+        "profile_path": "/kZ75SzAjmY4JMH1EoVPCMlbrLMm.jpg",
+        "credit_id": "53da4edb0e0a2652df0023bd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 1.7787,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "53da4ee50e0a2652e500239c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8467,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nelli Fomina",
+        "original_name": "\u041d\u0435\u043b\u043b\u0438 \u0424\u043e\u043c\u0438\u043d\u0430",
+        "popularity": 0.2623,
+        "profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg",
+        "credit_id": "599a096cc3a3683948005cbd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560802,
+        "known_for_department": "Sound",
+        "name": "Eduard Artemyev",
+        "original_name": "\u042d\u0434\u0443\u0430\u0440\u0434 \u0410\u0440\u0442\u0435\u043c\u044c\u0435\u0432",
+        "popularity": 0.5551,
+        "profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg",
+        "credit_id": "5afdaf4b925141283000040a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2543641,
+        "known_for_department": "Camera",
+        "name": "Anatoliy Nikolayev",
+        "original_name": "\u0410\u043d\u0430\u0442\u043e\u043b\u0438\u0439 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432",
+        "popularity": 0.0261,
+        "profile_path": "/nYGdxFV6v80AFNAEBGZjakr603q.jpg",
+        "credit_id": "5e7cbce2109dec213c01fd7e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2573349,
+        "known_for_department": "Camera",
+        "name": "Igor Shtanko",
+        "original_name": "\u0418\u0433\u043e\u0440\u044c \u0428\u0442\u0430\u043d\u044c\u043a\u043e",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5e75f40fcabfe40013217874",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1398680,
+        "known_for_department": "Art",
+        "name": "Nikolay Dvigubskiy",
+        "original_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0414\u0432\u0438\u0433\u0443\u0431\u0441\u043a\u0438\u0439",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "5e75f02cb1f68d0012e32ed0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1632789,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vera Rudina",
+        "original_name": "\u0412\u0435\u0440\u0430 \u0420\u0443\u0434\u0438\u043d\u0430",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "5e75f504b1f68d0012e3346c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353458,
+        "known_for_department": "Crew",
+        "name": "Arseny Tarkovsky",
+        "original_name": "\u0410\u0440\u0441\u0435\u043d\u0438\u0439 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 0.4064,
+        "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+        "credit_id": "5e7624bccabfe400151fdd2a",
+        "department": "Crew",
+        "job": "Poem"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439",
+        "popularity": 1.7787,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "5ea31d4adb72c0001fbb895f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632786,
+        "known_for_department": "Sound",
+        "name": "Semyon Litvinov",
+        "original_name": "\u0421\u0435\u043c\u0451\u043d \u041b\u0438\u0442\u0432\u0438\u043d\u043e\u0432",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "69e4f07ae887d23fb778116f",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637171,
+        "known_for_department": "Production",
+        "name": "Yuriy Kushneryov",
+        "original_name": "\u042e\u0440\u0438\u0439 \u041a\u0443\u0448\u043d\u0435\u0440\u0451\u0432",
+        "popularity": 0.1614,
+        "profile_path": "/tTcwl7fBejooh4oEGLsL1XmnM4v.jpg",
+        "credit_id": "69e4f08ff6f28ed0b57a0a0f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8471,
+        "known_for_department": "Acting",
+        "name": "Larisa Tarkovskaya",
+        "original_name": "\u041b\u0430\u0440\u0438\u0441\u0430 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+        "popularity": 0.3642,
+        "profile_path": null,
+        "credit_id": "69e4f0d11597470bb1d296e8",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1584743,
+        "known_for_department": "Directing",
+        "name": "Mariya Chugunova",
+        "original_name": "\u041c\u0430\u0440\u0438\u044f \u0427\u0443\u0433\u0443\u043d\u043e\u0432\u0430",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69e4f0fe4237d1c5a37a0c1c",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877105,
+        "known_for_department": "Directing",
+        "name": "Valeriy Kharchenko",
+        "original_name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439 \u0425\u0430\u0440\u0447\u0435\u043d\u043a\u043e",
+        "popularity": 0.1844,
+        "profile_path": null,
+        "credit_id": "69e4f12e9d772c92a1940de3",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3289401,
+        "known_for_department": "Camera",
+        "name": "Vladimir Ivanov",
+        "original_name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0418\u0432\u0430\u043d\u043e\u0432",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "69e4f1a84237d1c5a37a0c37",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4750606,
+        "known_for_department": "Camera",
+        "name": "Vadim Murashko",
+        "original_name": "\u0412\u0430\u0434\u0438\u043c \u041c\u0443\u0440\u0430\u0448\u043a\u043e",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69e4f1f3544cb8b3197a0b2b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5628599,
+        "known_for_department": "Lighting",
+        "name": "V. Gusev",
+        "original_name": "V. Gusev",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69e4f209fb5c2299db780e9d",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2782092,
+        "known_for_department": "Visual Effects",
+        "name": "Yuri Potapov",
+        "original_name": "\u042e\u0440\u0438\u0439 \u041f\u043e\u0442\u0430\u043f\u043e\u0432",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "69e4f2430e0d7f55ca78115d",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2573415,
+        "known_for_department": "Art",
+        "name": "A. Merkulov",
+        "original_name": "A. Merkulov",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69e4f2592fb6e8f9c5d297e5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67826,
+        "known_for_department": "Sound",
+        "name": "Johann Sebastian Bach",
+        "original_name": "Johann Sebastian Bach",
+        "popularity": 0.1944,
+        "profile_path": "/l8QFP8Pt4IQc4iQPvYbgIyNTEXX.jpg",
+        "credit_id": "69e4f2768e76e7f830197945",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572066,
+        "known_for_department": "Sound",
+        "name": "Henry Purcell",
+        "original_name": "Henry Purcell",
+        "popularity": 0.144,
+        "profile_path": "/ckoW7N0r3jAWFfCpGFCGxszv8CM.jpg",
+        "credit_id": "69e4f2a9a150ff09cc940e21",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573989,
+        "known_for_department": "Sound",
+        "name": "Giovanni Battista Pergolesi",
+        "original_name": "Giovanni Battista Pergolesi",
+        "popularity": 0.0281,
+        "profile_path": "/8opjQSMaehxrXDX7HU4zCUGkBgr.jpg",
+        "credit_id": "69e4f2d36ac92848cd7a0b60",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1632782,
+        "known_for_department": "Writing",
+        "name": "Ninel Boyarova",
+        "original_name": "\u041d\u0438\u043d\u0435\u043b\u044c \u0411\u043e\u044f\u0440\u043e\u0432\u0430",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "69e4f2e3dd688f02c6781048",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632783,
+        "known_for_department": "Writing",
+        "name": "L. Lazarev",
+        "original_name": "\u041b. \u041b\u0430\u0437\u0430\u0440\u0435\u0432",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "69e4f2ecc2792adea64b31f8",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55519,
+        "known_for_department": "Production",
+        "name": "Erik Waisberg",
+        "original_name": "\u042d\u0440\u043d\u0441\u0442 \u0412\u0430\u0439\u0441\u0431\u0435\u0440\u0433",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "69e4f307780c9dcfb84b3277",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1566,
+        "name": "dreams"
+      },
+      {
+        "id": 1935,
+        "name": "wind"
+      },
+      {
+        "id": 496,
+        "name": "poetry"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 3170,
+        "name": "cigarette"
+      },
+      {
+        "id": 4511,
+        "name": "field"
+      },
+      {
+        "id": 5509,
+        "name": "spanish civil war (1936-39)"
+      },
+      {
+        "id": 5609,
+        "name": "nostalgia"
+      },
+      {
+        "id": 5774,
+        "name": "forest"
+      },
+      {
+        "id": 6564,
+        "name": "terminal illness"
+      },
+      {
+        "id": 9856,
+        "name": "flashback"
+      },
+      {
+        "id": 9661,
+        "name": "dying man"
+      },
+      {
+        "id": 15216,
+        "name": "avant-garde"
+      },
+      {
+        "id": 40895,
+        "name": "illness"
+      },
+      {
+        "id": 157955,
+        "name": "childhood"
+      },
+      {
+        "id": 160224,
+        "name": "post world war ii"
+      },
+      {
+        "id": 160840,
+        "name": "dream sequence"
+      },
+      {
+        "id": 163895,
+        "name": "newsreel footage"
+      },
+      {
+        "id": 169866,
+        "name": "reflection"
+      },
+      {
+        "id": 171438,
+        "name": "poetry recitation"
+      },
+      {
+        "id": 173643,
+        "name": "russian history"
+      },
+      {
+        "id": 192772,
+        "name": "historical drama"
+      },
+      {
+        "id": 197170,
+        "name": "memoirs"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      },
+      {
+        "id": 208992,
+        "name": "1960s"
+      },
+      {
+        "id": 211384,
+        "name": "non-narrative"
+      },
+      {
+        "id": 211659,
+        "name": "somber"
+      },
+      {
+        "id": 213040,
+        "name": "self reflection"
+      },
+      {
+        "id": 214548,
+        "name": "1930s"
+      },
+      {
+        "id": 227302,
+        "name": "portrait of an artist"
+      },
+      {
+        "id": 232997,
+        "name": "dreamlike"
+      },
+      {
+        "id": 233974,
+        "name": "russia"
+      },
+      {
+        "id": 247508,
+        "name": "soviet union history"
+      },
+      {
+        "id": 248870,
+        "name": "memories"
+      },
+      {
+        "id": 262500,
+        "name": "stream of consciousness"
+      },
+      {
+        "id": 281300,
+        "name": "existentialist"
+      },
+      {
+        "id": 285398,
+        "name": "20th century"
+      },
+      {
+        "id": 293336,
+        "name": "experimental film"
+      },
+      {
+        "id": 313359,
+        "name": "pre war soviet union"
+      },
+      {
+        "id": 318602,
+        "name": "russian poetry"
+      },
+      {
+        "id": 321059,
+        "name": "nonlinear narrative"
+      },
+      {
+        "id": 328271,
+        "name": "voice-over"
+      },
+      {
+        "id": 330755,
+        "name": "nostalgic memory"
+      },
+      {
+        "id": 340972,
+        "name": "biographical drama"
+      },
+      {
+        "id": 341001,
+        "name": "the great patriotic war"
+      },
+      {
+        "id": 345636,
+        "name": "dying poet"
+      }
+    ]
+  }
+}

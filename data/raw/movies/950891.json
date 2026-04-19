@@ -1,0 +1,412 @@
+{
+  "adult": false,
+  "backdrop_path": "/eBSdeXfqDXFRUVDompUsXh23ljx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.oaff.jp/2022/ja/program/c14.html",
+  "id": 950891,
+  "imdb_id": "tt21305876",
+  "origin_country": [
+    "MN"
+  ],
+  "original_language": "mn",
+  "original_title": "\u0425\u0443\u0434\u0430\u043b\u0434\u0430\u0433\u0447 \u041e\u0445\u0438\u043d",
+  "overview": "Saruul, a science student, is asked by an injured classmate Namuunaa to work part-time as a substitute in an adult goods store for a month. Katya, the Russian owner, a former ballet dancer who lives an elegant life on her own, realizes that Saruul, who comes daily to deliver the proceeds, has been suppressing herself against her parents' expectations, and tries to release her secret desires and sexual curiosity. Saruul, who lives with her family with little change in her life except for the evenings when she paints her favorite pictures, is exposed to a new world through her interaction with Katya, who has a wealth of life experience, but one incident leads to a growing distrust...",
+  "popularity": 24.9904,
+  "poster_path": "/nKPPKN4QWXv4DdmCy6LdUl6xZTI.jpg",
+  "production_companies": [
+    {
+      "id": 145143,
+      "logo_path": "/c6u4Vma4uUK8FunzI8H7jnt31mN.png",
+      "name": "Nomadia Pictures",
+      "origin_country": "MN"
+    },
+    {
+      "id": 219104,
+      "logo_path": "/oubqAjHsxHZc5E8XoMqugpmMDh6.png",
+      "name": "Mongolian Film Industry Association",
+      "origin_country": "MN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MN",
+      "name": "Mongolia"
+    }
+  ],
+  "release_date": "2023-11-15",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Sales Girl",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3580924,
+        "known_for_department": "Acting",
+        "name": "Bayartsetseg Bayarjargal",
+        "original_name": "Bayartsetseg Bayarjargal",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Saruul",
+        "credit_id": "62a085b67b7b4d00693aad7c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3580926,
+        "known_for_department": "Acting",
+        "name": "Enkhtuul Oidovjamts",
+        "original_name": "Enkhtuul Oidovjamts",
+        "popularity": 0.1015,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Katya",
+        "credit_id": "62a085df12197e56603fd5f2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497440,
+        "known_for_department": "Acting",
+        "name": "Bayarmaa Khuselbaatar",
+        "original_name": "Bayarmaa Khuselbaatar",
+        "popularity": 0.0764,
+        "profile_path": "/pHjDMAK95UqBwpN1Z9MoDPvsm2C.jpg",
+        "cast_id": 4,
+        "character": "Namuunaa",
+        "credit_id": "65b10dd299c96401511f4bf7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497441,
+        "known_for_department": "Acting",
+        "name": "Sarantuya Daaganbat",
+        "original_name": "Sarantuya Daaganbat",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Saruul\u2019s Mother",
+        "credit_id": "65b10ddbbe6d88019243ee50",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497442,
+        "known_for_department": "Acting",
+        "name": "Bazarragchaa Byambajav",
+        "original_name": "Bazarragchaa Byambajav",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Saruul\u2019s Father",
+        "credit_id": "65b10de2b9a0bd017244f0c3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497443,
+        "known_for_department": "Acting",
+        "name": "Ganbayar Gantogtokh",
+        "original_name": "Ganbayar Gantogtokh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Tovdorj",
+        "credit_id": "65b10decbe6d88019243ee73",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497444,
+        "known_for_department": "Acting",
+        "name": "Tselmuun Odgerel",
+        "original_name": "Tselmuun Odgerel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Anujin",
+        "credit_id": "65b10df63c43440172661f2c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4825107,
+        "known_for_department": "Acting",
+        "name": "Rodney \"Purevbat Dashnyam\" Meeks",
+        "original_name": "Rodney \"Purevbat Dashnyam\" Meeks",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Street Boy",
+        "credit_id": "6690c05f4d3c15df39e10f45",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2884024,
+        "known_for_department": "Directing",
+        "name": "Janchivdorj Jamyansuren",
+        "original_name": "Janchivdorj Jamyansuren",
+        "popularity": 0.0379,
+        "profile_path": "/aMtwxwTBobv8QzXCMaftU1AmSE9.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "6777929938d26a2a6372461a",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988934,
+        "known_for_department": "Directing",
+        "name": "Sengedorj Janchivdorj",
+        "original_name": "Sengedorj Janchivdorj",
+        "popularity": 0.717,
+        "profile_path": "/53734MFuFl6JTxKZZ5MvAdNjmXL.jpg",
+        "credit_id": "62a0e3ac7d5db50869a0ab2b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988934,
+        "known_for_department": "Directing",
+        "name": "Sengedorj Janchivdorj",
+        "original_name": "Sengedorj Janchivdorj",
+        "popularity": 0.717,
+        "profile_path": "/53734MFuFl6JTxKZZ5MvAdNjmXL.jpg",
+        "credit_id": "65b10fb0ea37e00151e43ebf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988934,
+        "known_for_department": "Directing",
+        "name": "Sengedorj Janchivdorj",
+        "original_name": "Sengedorj Janchivdorj",
+        "popularity": 0.717,
+        "profile_path": "/53734MFuFl6JTxKZZ5MvAdNjmXL.jpg",
+        "credit_id": "65b10fba3c4344017266202c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497451,
+        "known_for_department": "Production",
+        "name": "Khuslen Byamba",
+        "original_name": "Khuslen Byamba",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "65b10fc0b76cbb01522b717c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3503150,
+        "known_for_department": "Writing",
+        "name": "Nomuunzul Turmunkh",
+        "original_name": "Nomuunzul Turmunkh",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "65b10fc93c434401516614d0",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497452,
+        "known_for_department": "Camera",
+        "name": "Otgondavaa Jigjidsuren",
+        "original_name": "Otgondavaa Jigjidsuren",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65b10fd23c4344017266203e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497453,
+        "known_for_department": "Lighting",
+        "name": "Selenge Batsukh",
+        "original_name": "Selenge Batsukh",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "65b10fdadd926a01944d3941",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 2543588,
+        "known_for_department": "Acting",
+        "name": "Dulguun Bayasgalan",
+        "original_name": "Dulguun Bayasgalan",
+        "popularity": 0.0,
+        "profile_path": "/vpmVPFOKe7nfSVOXKSvrAbScryr.jpg",
+        "credit_id": "65b10fe12fe2fa01373ca1bf",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497454,
+        "known_for_department": "Art",
+        "name": "Otgonjargal Danaa",
+        "original_name": "Otgonjargal Danaa",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "65b10febdd926a01944d395e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1324400,
+        "known_for_department": "Acting",
+        "name": "Otgontogos Namsrai",
+        "original_name": "Namsrai Otgontogos",
+        "popularity": 0.0214,
+        "profile_path": "/AubKuLxcaAKe9l6kU3UyjlXEMvq.jpg",
+        "credit_id": "65b10ff4a3144001935ad3be",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497456,
+        "known_for_department": "Sound",
+        "name": "Batjargal Gankhuyag",
+        "original_name": "Batjargal Gankhuyag",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65b11004b9a0bd0193451007",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497457,
+        "known_for_department": "Editing",
+        "name": "Munkhbat Shirnen",
+        "original_name": "Munkhbat Shirnen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65b1100aa3144001515a9151",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497458,
+        "known_for_department": "Editing",
+        "name": "Bandia Tuukht",
+        "original_name": "Bandia Tuukht",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65b110112790bf013855fdda",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497459,
+        "known_for_department": "Editing",
+        "name": "Ariunbold Tugsjargal",
+        "original_name": "Ariunbold Tugsjargal",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65b11018b76cbb01732b9494",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497457,
+        "known_for_department": "Editing",
+        "name": "Munkhbat Shirnen",
+        "original_name": "Munkhbat Shirnen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65b110233c43440193662b5b",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497460,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Enkh-Orchlon Mendbayar",
+        "original_name": "Enkh-Orchlon Mendbayar",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65b1102bb9a0bd0193451030",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 366,
+        "name": "sex shop"
+      }
+    ]
+  }
+}

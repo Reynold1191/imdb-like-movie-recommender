@@ -1,0 +1,504 @@
+{
+  "adult": false,
+  "backdrop_path": "/9qI2hBLrhwtynNF4P0DjE2edY9W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1497970,
+  "imdb_id": "tt37185884",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "\u732b\u548c\u8001\u9f20\uff1a\u661f\u76d8\u5947\u7f18",
+  "overview": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
+  "popularity": 19.2633,
+  "poster_path": "/5qttWFjsO62k88civZaDMHiBTvy.jpg",
+  "production_companies": [
+    {
+      "id": 261822,
+      "logo_path": "/iQBZufUDXvIszs3hvgmmujL4gxC.png",
+      "name": "Warner Bros. China",
+      "origin_country": "CN"
+    },
+    {
+      "id": 191908,
+      "logo_path": null,
+      "name": "China Film \u4e2d\u56fd\u7535\u5f71\u80a1\u4efd",
+      "origin_country": "CN"
+    },
+    {
+      "id": 74135,
+      "logo_path": "/n9rwYE5V8gTAEpiABRjm4iEpZyA.png",
+      "name": "Wu Zhou Film Distribution",
+      "origin_country": "CN"
+    },
+    {
+      "id": 71194,
+      "logo_path": "/vKZv8ACsYeJT7boZhENcKHBNCp0.png",
+      "name": "Original Force Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 277630,
+      "logo_path": null,
+      "name": "Origin Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2270,
+      "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-08-02",
+  "revenue": 2519971,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The cat and mouse chase never ends!",
+  "title": "Tom and Jerry: Forbidden Compass",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77301,
+        "known_for_department": "Acting",
+        "name": "Jiang Wen",
+        "original_name": "Jiang Wen",
+        "popularity": 0.9251,
+        "profile_path": "/sHkCsohuCUbVdKSnp11qejNOtZb.jpg",
+        "cast_id": 11,
+        "character": "Heavenly Master (voice)",
+        "credit_id": "68df643bdac702f915129a27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3842273,
+        "known_for_department": "Acting",
+        "name": "Shun Zi",
+        "original_name": "\u987a\u5b50",
+        "popularity": 0.187,
+        "profile_path": "/jiwnQVDm3yW0gLVHltYThgrHrbb.jpg",
+        "cast_id": 29,
+        "character": "Phoenix Master (voice)",
+        "credit_id": "69d3bd778e2ea59ac64d98de",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5758235,
+        "known_for_department": "Acting",
+        "name": "Lan Long",
+        "original_name": "Lan Long",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Sonny (voice)",
+        "credit_id": "68f46eba8adf64960a8e6f12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2837755,
+        "known_for_department": "Acting",
+        "name": "Tu Xiongfei",
+        "original_name": "\u51c3\u96c4\u98de",
+        "popularity": 0.2675,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Mega Rat (voice)",
+        "credit_id": "68df658fac5ce232f69728f4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5087582,
+        "known_for_department": "Acting",
+        "name": "Li Baixin",
+        "original_name": "\u674e\u67cf\u946b",
+        "popularity": 0.1205,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lil Feeney (voice)",
+        "credit_id": "68df662333b81fd947ee4dc4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4248916,
+        "known_for_department": "Acting",
+        "name": "Li Hanlin",
+        "original_name": "\u674e\u7ff0\u6797",
+        "popularity": 0.3731,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Xander / Ten Ten (voice)",
+        "credit_id": "68df6684e017380dae2a452b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5341514,
+        "known_for_department": "Acting",
+        "name": "Zhang Wenjie",
+        "original_name": "\u5f20\u6587\u5a55",
+        "popularity": 0.3767,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Jade (voice)",
+        "credit_id": "68df66f3ca373b70879728a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6123069,
+        "known_for_department": "Acting",
+        "name": "Bai Weiche",
+        "original_name": "Bai Weiche",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Jade's Beijing Opera (voice)",
+        "credit_id": "69d418c55ca4e2e819ca7d56",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5573940,
+        "known_for_department": "Crew",
+        "name": "John Shang",
+        "original_name": "John Shang",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Tom (voice)",
+        "credit_id": "69d30c96328329ea2cca6983",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5341524,
+        "known_for_department": "Acting",
+        "name": "Ruan Yifei",
+        "original_name": "\u9ed1\u5154\u5b50",
+        "popularity": 0.2709,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Jerry (voice)",
+        "credit_id": "69d31a49a24ab1c3384d9328",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "Zhang Gang",
+        "original_name": "\u5f20\u94a2",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Evil Tom (voice)",
+        "credit_id": "68df676c9307c9cc3dee4df9",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "Zhang Gang",
+        "original_name": "\u5f20\u94a2",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "684d4467cf10606e5b1ed127",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "Zhang Gang",
+        "original_name": "\u5f20\u94a2",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "684d446c093f8aedabb0dd1f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13620,
+        "known_for_department": "Directing",
+        "name": "William Hanna",
+        "original_name": "William Hanna",
+        "popularity": 0.9741,
+        "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg",
+        "credit_id": "68518b109b4c74e3b1bbd8df",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13594,
+        "known_for_department": "Production",
+        "name": "Joseph Barbera",
+        "original_name": "Joseph Barbera",
+        "popularity": 0.8242,
+        "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg",
+        "credit_id": "68518b25a215899941bbd7b1",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463885,
+        "known_for_department": "Production",
+        "name": "Fu Ruoqing",
+        "original_name": "Fu Ruoqing",
+        "popularity": 0.5557,
+        "profile_path": "/pD9zTm9bB4gZCYUIjYPoC4NTfAL.jpg",
+        "credit_id": "68df61db088d477d942a44f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463885,
+        "known_for_department": "Production",
+        "name": "Fu Ruoqing",
+        "original_name": "Fu Ruoqing",
+        "popularity": 0.5557,
+        "profile_path": "/pD9zTm9bB4gZCYUIjYPoC4NTfAL.jpg",
+        "credit_id": "68df6205a62fa7060d129a40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463890,
+        "known_for_department": "Production",
+        "name": "Zhang Huixia",
+        "original_name": "\u7ae0\u6167\u971e",
+        "popularity": 0.1309,
+        "profile_path": null,
+        "credit_id": "68df62223d9079276d2a455e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "Zhang Gang",
+        "original_name": "\u5f20\u94a2",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "68df62de926de8e80e4c65fd",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "Zhang Gang",
+        "original_name": "\u5f20\u94a2",
+        "popularity": 0.2822,
+        "profile_path": null,
+        "credit_id": "68df631047e619f936129a56",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4776039,
+        "known_for_department": "Acting",
+        "name": "Ma Siwei",
+        "original_name": "\u9a6c\u601d\u552f",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "credit_id": "68df63946d0fad9d672a458f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2250469,
+        "known_for_department": "Sound",
+        "name": "Hank Lee",
+        "original_name": "\u674e\u8861",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "credit_id": "68f3ce49b4970b1138391682",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61747,
+        "known_for_department": "Writing",
+        "name": "Bruce Morris",
+        "original_name": "Bruce Morris",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "credit_id": "68f46e00e39cc5b3f04e7011",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404216,
+        "known_for_department": "Sound",
+        "name": "Michael A. Reagan",
+        "original_name": "Michael A. Reagan",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "credit_id": "69b10005bdf9b7e583eba110",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2384119,
+        "known_for_department": "Writing",
+        "name": "Lindsay Katai",
+        "original_name": "Lindsay Katai",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "69b10164c641315e6beba103",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2384119,
+        "known_for_department": "Writing",
+        "name": "Lindsay Katai",
+        "original_name": "Lindsay Katai",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "69b10170a1f7caad4b84abb4",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223000,
+        "known_for_department": "Art",
+        "name": "Bob Boyle",
+        "original_name": "Bob Boyle",
+        "popularity": 0.3205,
+        "profile_path": "/jOqx3HrmqUFah5YfKwd2SU8jSiG.jpg",
+        "credit_id": "69b101ad625dbee6b637281c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1176513,
+        "known_for_department": "Sound",
+        "name": "Vivek Maddala",
+        "original_name": "Vivek Maddala",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "credit_id": "69b101e17cee1e976295973c",
+        "department": "Crew",
+        "job": "Additional Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2598,
+        "name": "museum"
+      },
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 15076,
+        "name": "cat and mouse"
+      },
+      {
+        "id": 158628,
+        "name": "foreign language adaptation"
+      },
+      {
+        "id": 269710,
+        "name": "anthropomorphic animal"
+      }
+    ]
+  }
+}

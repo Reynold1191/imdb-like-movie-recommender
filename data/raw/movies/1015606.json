@@ -1,0 +1,526 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8jqJ502BzvkCXy2enrao1PuQEE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/obi-wan-kenobi-a-jedis-return/21AO9P5B09vI",
+  "id": 1015606,
+  "imdb_id": "tt21860836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Obi-Wan Kenobi: A Jedi's Return",
+  "overview": "This special explores the return of Obi-Wan Kenobi and Anakin Skywalker to the screen, as well as Ewan McGregor and Hayden Christensen to their classic roles. Director Deborah Chow leads the cast and crew as they create new heroes and villains that live alongside new incarnations of beloved Star Wars characters, and an epic story that dramatically bridges the saga films.",
+  "popularity": 26.0673,
+  "poster_path": "/vQGgvXjoMZf8x1m3BHsMxVXPyck.jpg",
+  "production_companies": [
+    {
+      "id": 1,
+      "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    },
+    {
+      "id": 126200,
+      "logo_path": "/lvGUhh8CR2qDy16Qe5LBSZU53Iu.png",
+      "name": "Supper Club",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-09-07",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Obi-Wan Kenobi: A Jedi's Return",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 1009,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3061,
+        "known_for_department": "Acting",
+        "name": "Ewan McGregor",
+        "original_name": "Ewan McGregor",
+        "popularity": 2.8631,
+        "profile_path": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
+        "cast_id": 1,
+        "character": "Self - Obi-Wan Kenobi / Executive Producer",
+        "credit_id": "63037367dfe31d008010e2c2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17244,
+        "known_for_department": "Acting",
+        "name": "Hayden Christensen",
+        "original_name": "Hayden Christensen",
+        "popularity": 4.4887,
+        "profile_path": "/hqEgJYEUvZvL9ytmmiYBbbt63qd.jpg",
+        "cast_id": 2,
+        "character": "Self - Anakin Skywalker",
+        "credit_id": "63037380dfe31d007b82f8ff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928830,
+        "known_for_department": "Directing",
+        "name": "Deborah Chow",
+        "original_name": "Deborah Chow",
+        "popularity": 0.5256,
+        "profile_path": "/7XiXU4d7JqPGbhiGCvaRQclISRT.jpg",
+        "cast_id": 3,
+        "character": "Self - Director / Executive Producer",
+        "credit_id": "630373a17d41aa008153eced",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2042908,
+        "known_for_department": "Acting",
+        "name": "Moses Ingram",
+        "original_name": "Moses Ingram",
+        "popularity": 0.6216,
+        "profile_path": "/u7I5f4Bgz7CI8G7fUOJDbFtd0qf.jpg",
+        "cast_id": 4,
+        "character": "Self - Reva Sevander",
+        "credit_id": "630373c221118f009454cf98",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1813472,
+        "known_for_department": "Acting",
+        "name": "Vivien Lyra Blair",
+        "original_name": "Vivien Lyra Blair",
+        "popularity": 0.7621,
+        "profile_path": "/cTIzmWhrxDXsdaQpjSnSQQV8x8A.jpg",
+        "cast_id": 5,
+        "character": "Self - Leia Organa",
+        "credit_id": "6305ab34263462007e14f341",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74569,
+        "known_for_department": "Writing",
+        "name": "Joby Harold",
+        "original_name": "Joby Harold",
+        "popularity": 0.5036,
+        "profile_path": "/kgcPJwDF5xZTfJ1CzU9eYy0LlIv.jpg",
+        "cast_id": 21,
+        "character": "Self - Writer / Executive Producer",
+        "credit_id": "631c08f11ac2920082ffc8ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36669,
+        "known_for_department": "Acting",
+        "name": "Rupert Friend",
+        "original_name": "Rupert Friend",
+        "popularity": 2.7855,
+        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg",
+        "cast_id": 22,
+        "character": "Self - Grand Inquisitor",
+        "credit_id": "631c092367dcc9007afa67e5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33192,
+        "known_for_department": "Acting",
+        "name": "Joel Edgerton",
+        "original_name": "Joel Edgerton",
+        "popularity": 1.4648,
+        "profile_path": "/2YzeeiYUbI94Ywc7MVMo1NcN6jf.jpg",
+        "cast_id": 24,
+        "character": "Self - Owen Lars",
+        "credit_id": "631c0b3567dcc9007afa68a0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131634,
+        "known_for_department": "Acting",
+        "name": "Bonnie Piesse",
+        "original_name": "Bonnie Piesse",
+        "popularity": 0.3426,
+        "profile_path": "/cF0HuGFh9Sk0ik1bAoaiVEedkou.jpg",
+        "cast_id": 25,
+        "character": "Self - Beru Lars",
+        "credit_id": "631c0b9867dcc9007f5ab393",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5367,
+        "known_for_department": "Acting",
+        "name": "Zach Braff",
+        "original_name": "Zach Braff",
+        "popularity": 1.923,
+        "profile_path": "/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg",
+        "cast_id": 34,
+        "character": "Self - Freck",
+        "credit_id": "631c15f651c01f007dcf3a07",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 466505,
+        "known_for_department": "Acting",
+        "name": "Kumail Nanjiani",
+        "original_name": "Kumail Nanjiani",
+        "popularity": 2.0249,
+        "profile_path": "/nUIuTKmB855tdWKTNaHrdiLNuyg.jpg",
+        "cast_id": 28,
+        "character": "Self - Haja Estree",
+        "credit_id": "631c0c9c2d8ef3007a170c64",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30430,
+        "known_for_department": "Acting",
+        "name": "Indira Varma",
+        "original_name": "Indira Varma",
+        "popularity": 3.9326,
+        "profile_path": "/yaFCI907dcK2XkzO0HQgtK25kp2.jpg",
+        "cast_id": 29,
+        "character": "Self - Tala Durith",
+        "credit_id": "631c0ceafa4046007ef95bec",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371398,
+        "known_for_department": "Acting",
+        "name": "O'Shea Jackson Jr.",
+        "original_name": "O'Shea Jackson Jr.",
+        "popularity": 2.8178,
+        "profile_path": "/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg",
+        "cast_id": 30,
+        "character": "Self - Kawlan Roken",
+        "credit_id": "631c0d9c0d2f53007c6b442b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27762,
+        "known_for_department": "Acting",
+        "name": "Ian McDiarmid",
+        "original_name": "Ian McDiarmid",
+        "popularity": 1.351,
+        "profile_path": "/cqEAblt0KJRIGyMXhj5OM5WJ9SN.jpg",
+        "cast_id": 32,
+        "character": "Self - Emperor Palpatine",
+        "credit_id": "631c0e648566d2007a5a6b94",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3896,
+        "known_for_department": "Acting",
+        "name": "Liam Neeson",
+        "original_name": "Liam Neeson",
+        "popularity": 6.8168,
+        "profile_path": "/g0iIEyt9ILiKTG0g8K69US5VtLy.jpg",
+        "cast_id": 33,
+        "character": "Self - Qui-Gon Jinn",
+        "credit_id": "631c0ea6435011007ab4bdda",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55081,
+        "known_for_department": "Crew",
+        "name": "Jonathan Eusebio",
+        "original_name": "Jonathan Eusebio",
+        "popularity": 0.3167,
+        "profile_path": "/wYpBkb8CkkxqF3wA1hQd55Bg8R8.jpg",
+        "cast_id": 35,
+        "character": "Self - Stunt Coordinator",
+        "credit_id": "6379b7e85b2f4700c3cf8ecc",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928915,
+        "known_for_department": "Directing",
+        "name": "David Gelb",
+        "original_name": "David Gelb",
+        "popularity": 0.36,
+        "profile_path": "/dHsVDBUQJPtUcsolCc1fD5zqoAJ.jpg",
+        "credit_id": "6319e097fac5020085cafc64",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788614,
+        "known_for_department": "Production",
+        "name": "Jason Sterman",
+        "original_name": "Jason Sterman",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "631c064719690c007fd7a4c2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928915,
+        "known_for_department": "Directing",
+        "name": "David Gelb",
+        "original_name": "David Gelb",
+        "popularity": 0.36,
+        "profile_path": "/dHsVDBUQJPtUcsolCc1fD5zqoAJ.jpg",
+        "credit_id": "631c06561ac292007f0f0448",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083730,
+        "known_for_department": "Directing",
+        "name": "Brian McGinn",
+        "original_name": "Brian McGinn",
+        "popularity": 0.1484,
+        "profile_path": "/gFL4WEigts8CCxgQcAYo0655DM2.jpg",
+        "credit_id": "631c067065e0a2007f08e15d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1729808,
+        "known_for_department": "Production",
+        "name": "Michelle Rejwan",
+        "original_name": "Michelle Rejwan",
+        "popularity": 0.1898,
+        "profile_path": "/jlr73lBzzxzCTBnIKTnTMDVP40y.jpg",
+        "credit_id": "631c0684435011007ab4bac0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928830,
+        "known_for_department": "Directing",
+        "name": "Deborah Chow",
+        "original_name": "Deborah Chow",
+        "popularity": 0.5256,
+        "profile_path": "/7XiXU4d7JqPGbhiGCvaRQclISRT.jpg",
+        "credit_id": "631c06937646fd007f090948",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2569187,
+        "known_for_department": "Production",
+        "name": "Anna Yeager",
+        "original_name": "Anna Yeager",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "631c06a258361b007ea4976b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42264,
+        "known_for_department": "Visual Effects",
+        "name": "Jacqui Lopez",
+        "original_name": "Jacqui Lopez",
+        "popularity": 0.1746,
+        "profile_path": "/eBNLmEOZ20fw37wNK8isRGkDkEC.jpg",
+        "credit_id": "631c06b3b234b9007d97a68a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2259123,
+        "known_for_department": "Editing",
+        "name": "Jared Martin",
+        "original_name": "Jared Martin",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "631c07352d8ef30091a395c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443851,
+        "known_for_department": "Camera",
+        "name": "Chloe Weaver",
+        "original_name": "Chloe Weaver",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "631c07470d2f53007f5cb5e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1803762,
+        "known_for_department": "Sound",
+        "name": "Michael Dean Parsons",
+        "original_name": "Michael Dean Parsons",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64352e1ecca7de00bd2118f2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2878353,
+        "known_for_department": "Sound",
+        "name": "Scott Michael Smith",
+        "original_name": "Scott Michael Smith",
+        "popularity": 0.1916,
+        "profile_path": null,
+        "credit_id": "64352e24af432401038eac99",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1618836,
+        "known_for_department": "Sound",
+        "name": "Danielle Dupre",
+        "original_name": "Danielle Dupre",
+        "popularity": 0.1642,
+        "profile_path": null,
+        "credit_id": "67b6690964def0053f1473ae",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1618836,
+        "known_for_department": "Sound",
+        "name": "Danielle Dupre",
+        "original_name": "Danielle Dupre",
+        "popularity": 0.1642,
+        "profile_path": null,
+        "credit_id": "67b6691164def0053f1473b7",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1948311,
+        "known_for_department": "Visual Effects",
+        "name": "Janet Lewin",
+        "original_name": "Janet Lewin",
+        "popularity": 0.2051,
+        "profile_path": null,
+        "credit_id": "684f925656011f5acc5c82da",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5593552,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Geoffrey Rodriguez",
+        "original_name": "Geoffrey Rodriguez",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6888a1e022c579e4f0390e4e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1571056,
+        "known_for_department": "Lighting",
+        "name": "Brice Bradley",
+        "original_name": "Brice Bradley",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "6888a364a5746dc8592475ed",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9817,
+        "name": "behind the scenes"
+      },
+      {
+        "id": 33490,
+        "name": "filmmaking"
+      },
+      {
+        "id": 50244,
+        "name": "making of"
+      }
+    ]
+  }
+}

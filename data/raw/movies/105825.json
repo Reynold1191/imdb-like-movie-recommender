@@ -1,0 +1,278 @@
+{
+  "adult": false,
+  "backdrop_path": "/gGBF7gDBsbddvSdps6fvNKQoqDh.jpg",
+  "belongs_to_collection": {
+    "id": 363066,
+    "name": "Erotic Ghost Story Collection",
+    "poster_path": "/siqC7xGPCLP4A7KXg0tKWAjWtoV.jpg",
+    "backdrop_path": "/bamxHNTsbTBAQdtNL3TWxMSwxgO.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 105825,
+  "imdb_id": "tt0104719",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "\u804a\u9f4b\u4e09\u96c6\u4e4b\u71c8\u8349\u548c\u5c1a",
+  "overview": "A wanderer meets a monk with magical powers and becomes entranced by a mural of exquisite dancing women. He enters the painting, unaware of the conspiracy behind it, and must rescue the women who are trapped within.",
+  "popularity": 11.5646,
+  "poster_path": "/2b1Y6NbZenY45DgC5CwncoLkpo.jpg",
+  "production_companies": [
+    {
+      "id": 118762,
+      "logo_path": null,
+      "name": "\u5927\u8def\u96fb\u5f71\u88fd\u4f5c\u6709\u9650\u516c\u53f8",
+      "origin_country": ""
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1992-03-05",
+  "revenue": 1201428,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Erotic Ghost Story III",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1134734,
+        "known_for_department": "Acting",
+        "name": "Pauline Chan Bo-Lin",
+        "original_name": "\u9673\u5bf6\u84ee",
+        "popularity": 1.6232,
+        "profile_path": "/aHL0W7DIHtlajWm2rWpnVYbyhpy.jpg",
+        "cast_id": 2,
+        "character": "Wan Yee-Mung",
+        "credit_id": "58cb21b49251415e2f0048cc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119447,
+        "known_for_department": "Acting",
+        "name": "Shing Fui-On",
+        "original_name": "\u6210\u594e\u5b89",
+        "popularity": 1.9106,
+        "profile_path": "/iLGQZ8OjGdZW3imJlgiUNv9ER8y.jpg",
+        "cast_id": 4,
+        "character": "Reverend Monk",
+        "credit_id": "58cb21cc9251415e6f0047c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70108,
+        "known_for_department": "Acting",
+        "name": "Kenny Wong Tak-Ban",
+        "original_name": "\u9ec3\u5fb7\u658c",
+        "popularity": 1.4751,
+        "profile_path": "/fSSna59ChOc0OA8ju2xRf8jxOvT.jpg",
+        "cast_id": 7,
+        "character": "Chu Chung",
+        "credit_id": "58cb21ed9251415e44004874",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 544465,
+        "known_for_department": "Acting",
+        "name": "Chik King-Man",
+        "original_name": "\u690d\u656c\u96ef",
+        "popularity": 6.8243,
+        "profile_path": "/4mGXxRwfHMykP9GRuAV4xXmMHO0.jpg",
+        "cast_id": 5,
+        "character": "Liu See-See",
+        "credit_id": "58cb21d79251415e6f0047ce",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893581,
+        "known_for_department": "Acting",
+        "name": "\u5f20\u4eac\u82b1",
+        "original_name": "\u5f20\u4eac\u82b1",
+        "popularity": 0.2576,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6949e5143ac49418c4b1d102",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994394,
+        "known_for_department": "Acting",
+        "name": "William Ho",
+        "original_name": "\u4f55\u5bb6\u99d2",
+        "popularity": 1.1367,
+        "profile_path": "/s9xrr8R0WUEpzpIJGWCafpk67Ml.jpg",
+        "cast_id": 12,
+        "character": "Chia Yuen",
+        "credit_id": "63cebc9ec6006d00d942f18f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590813,
+        "known_for_department": "Acting",
+        "name": "Otomo Rena",
+        "original_name": "\u5927\u53cb\u68a8\u5948",
+        "popularity": 2.7836,
+        "profile_path": "/uAZ2SIvlMuRyyWB9Iaefk2qEmnu.jpg",
+        "cast_id": 13,
+        "character": "Vixen",
+        "credit_id": "653ec78de894a600e2ce8df8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893584,
+        "known_for_department": "Acting",
+        "name": "\u4e39\u6ca2\u4e9a\u7eaa",
+        "original_name": "\u4e39\u6ca2\u4e9a\u7eaa",
+        "popularity": 0.3892,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6949e53ae5069b831d7ac55c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552394,
+        "known_for_department": "Acting",
+        "name": "Jack Wong",
+        "original_name": "\u9ec3\u5049\u4eae",
+        "popularity": 0.6845,
+        "profile_path": "/tS4ZyTC4X6NjoGYX3L565wvcgoA.jpg",
+        "cast_id": 14,
+        "character": "Guard",
+        "credit_id": "66e0c802247d7baab01c1d57",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180151,
+        "known_for_department": "Acting",
+        "name": "Lee Sau-Kei",
+        "original_name": "Lee Sau-Kei",
+        "popularity": 0.2362,
+        "profile_path": "/wYG0M8eT48j15bkOFHb3yfCiFYr.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "697f952042e9e9bbc3be55fc",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037789,
+        "known_for_department": "Directing",
+        "name": "Ivan Lai Kai-Ming",
+        "original_name": "Ivan Lai Kai-Ming",
+        "popularity": 0.6712,
+        "profile_path": "/uSv6agqw95ShLfcUOPvt0Cfcm8i.jpg",
+        "credit_id": "52fe4a57c3a36847f81c85d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2320096,
+        "known_for_department": "Crew",
+        "name": "Gaap Yuen-Ya",
+        "original_name": "Gaap Yuen-Ya",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "5e8f555bd35dea001173bf39",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65962,
+        "known_for_department": "Camera",
+        "name": "Bill Wong Chung-Piu",
+        "original_name": "\u9ec3\u4ef2\u6a19",
+        "popularity": 0.4786,
+        "profile_path": "/1Mbv42Rd8cfFWRkDPmIpTZukMos.jpg",
+        "credit_id": "697f95526b45a571f51ebbf2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118352,
+        "known_for_department": "Acting",
+        "name": "Tats Lau Yee-Tat",
+        "original_name": "\u5289\u4ee5\u9054",
+        "popularity": 5.6489,
+        "profile_path": "/mhuULSAWeZO45rjZnFVltvmJfzg.jpg",
+        "credit_id": "697f9561b2fce0cf38be561b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 240530,
+        "name": "erotic horror"
+      }
+    ]
+  }
+}

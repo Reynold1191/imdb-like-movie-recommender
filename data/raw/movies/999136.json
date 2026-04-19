@@ -1,0 +1,510 @@
+{
+  "adult": false,
+  "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 999136,
+  "imdb_id": "tt3515878",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Do Not Enter",
+  "overview": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a legendary hidden treasure.",
+  "popularity": 37.0564,
+  "poster_path": "/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
+  "production_companies": [
+    {
+      "id": 22876,
+      "logo_path": null,
+      "name": "Suretone Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-19",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Getting in is hard, getting out is hell.",
+  "title": "Do Not Enter",
+  "video": false,
+  "vote_average": 5.373,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1688664,
+        "known_for_department": "Acting",
+        "name": "Francesca Reale",
+        "original_name": "Francesca Reale",
+        "popularity": 0.7513,
+        "profile_path": "/9qqCNZUR1rYzwP81NzXOw3ecGeV.jpg",
+        "cast_id": 5,
+        "character": "Cora",
+        "credit_id": "62f012f2cee2f60082954998",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1504947,
+        "known_for_department": "Acting",
+        "name": "Nicholas Hamilton",
+        "original_name": "Nicholas Hamilton",
+        "popularity": 0.9403,
+        "profile_path": "/6XB730yU5XKJfEhV5W2zV8B9Fmh.jpg",
+        "cast_id": 7,
+        "character": "Tod",
+        "credit_id": "62f0132377e1f600824c7b79",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2168270,
+        "known_for_department": "Acting",
+        "name": "Adeline Rudolph",
+        "original_name": "Adeline Rudolph",
+        "popularity": 1.3213,
+        "profile_path": "/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg",
+        "cast_id": 4,
+        "character": "Diane",
+        "credit_id": "62f012e6813cb600923a529a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300650,
+        "known_for_department": "Acting",
+        "name": "Jake Manley",
+        "original_name": "Jake Manley",
+        "popularity": 0.794,
+        "profile_path": "/mu8otJW0iA89jqF7SVe59ccrfAI.jpg",
+        "cast_id": 3,
+        "character": "Rick",
+        "credit_id": "62f012c4cee2f6007a8d7a94",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684130,
+        "known_for_department": "Acting",
+        "name": "Shane Paul McGhie",
+        "original_name": "Shane Paul McGhie",
+        "popularity": 0.777,
+        "profile_path": "/xrW5ioE8lihmmuu1ov1wWBpOWYp.jpg",
+        "cast_id": 18,
+        "character": "Vernon",
+        "credit_id": "6984edf977378b5fa16e78c2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111090,
+        "known_for_department": "Acting",
+        "name": "Javier Botet",
+        "original_name": "Javier Botet",
+        "popularity": 1.1537,
+        "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg",
+        "cast_id": 8,
+        "character": "Pale Creature",
+        "credit_id": "62f01331cee2f600829549ab",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1699967,
+        "known_for_department": "Acting",
+        "name": "Laurence O'Fuarain",
+        "original_name": "Laurence O'Fuarain",
+        "popularity": 0.3469,
+        "profile_path": "/5r4Lp5xvDN0icYD1h85fAmMakG9.jpg",
+        "cast_id": 6,
+        "character": "Balenger",
+        "credit_id": "62f0131485b105007df0a147",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1590221,
+        "known_for_department": "Acting",
+        "name": "Brennan Keel Cook",
+        "original_name": "Brennan Keel Cook",
+        "popularity": 0.3474,
+        "profile_path": "/b0NxheUvSB4zoll1Glj3uMhvB3N.jpg",
+        "cast_id": 15,
+        "character": "Mack",
+        "credit_id": "62f01575f1b57100820d3b80",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79498,
+        "known_for_department": "Acting",
+        "name": "Kai Caster",
+        "original_name": "Kai Caster",
+        "popularity": 0.2804,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "JD",
+        "credit_id": "62f0135ea1074b007e184922",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988918,
+        "known_for_department": "Acting",
+        "name": "Cat Shank",
+        "original_name": "Cat Shank",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Beth",
+        "credit_id": "6984efb4c43a59b9a94f6ad2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6085780,
+        "known_for_department": "Acting",
+        "name": "Svilena Nikolova",
+        "original_name": "Svilena Nikolova",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Amanda",
+        "credit_id": "69be07fbac77a2e80ba3db02",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 16545,
+        "known_for_department": "Writing",
+        "name": "David Morrell",
+        "original_name": "David Morrell",
+        "popularity": 0.0,
+        "profile_path": "/7qROomgiNAvmm0EWzb8y7fJ6fXy.jpg",
+        "credit_id": "62cd7649fd4a960f4da643b5",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45928,
+        "known_for_department": "Directing",
+        "name": "Marc Klasfeld",
+        "original_name": "Marc Klasfeld",
+        "popularity": 0.2606,
+        "profile_path": "/rh5MTdjDgmxhnvVKrYwjmgbT18R.jpg",
+        "credit_id": "62cd765b4c1bb0004df23018",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5914,
+        "known_for_department": "Production",
+        "name": "Mary Vernieu",
+        "original_name": "Mary Vernieu",
+        "popularity": 0.5131,
+        "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+        "credit_id": "62f015357d5504007e4b7dcb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 954932,
+        "known_for_department": "Production",
+        "name": "Jordan Schur",
+        "original_name": "Jordan Schur",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "62f01452813cb6007b33c0e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3343718,
+        "known_for_department": "Production",
+        "name": "Richard Brickell",
+        "original_name": "Richard Brickell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62f014fba1074b007e184962",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084879,
+        "known_for_department": "Camera",
+        "name": "Yon Thomas",
+        "original_name": "Yon Thomas",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "6544fab21ac29200abd81db3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20355,
+        "known_for_department": "Writing",
+        "name": "Stephen Susco",
+        "original_name": "Stephen Susco",
+        "popularity": 0.4617,
+        "profile_path": "/9D7iZlnWKEUMH2bh26pKVCh01rr.jpg",
+        "credit_id": "66a172434ee7f9f0eddd7bbd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4639736,
+        "known_for_department": "Writing",
+        "name": "Spencer Mandel",
+        "original_name": "Spencer Mandel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6984ef619efb497a05999757",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2797206,
+        "known_for_department": "Directing",
+        "name": "Dikega Hadnot",
+        "original_name": "Dikega Hadnot",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6984ef6ba387e4e0a76e7988",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3343719,
+        "known_for_department": "Production",
+        "name": "JoJo Chehebar",
+        "original_name": "JoJo Chehebar",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6984f03bcfadc40d9e1a29ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1350260,
+        "known_for_department": "Production",
+        "name": "Denitza Daverova",
+        "original_name": "Denitza Daverova",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6984f04600f6b0ad109d1bb5",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988920,
+        "known_for_department": "Production",
+        "name": "Viet Do",
+        "original_name": "Viet Do",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6984f06606ce432a831a2882",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65816,
+        "known_for_department": "Production",
+        "name": "David Hillary",
+        "original_name": "David Hillary",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "credit_id": "6984f08a5999bbe9fb9997bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3343730,
+        "known_for_department": "Production",
+        "name": "Vikram Singh Lamba",
+        "original_name": "Vikram Singh Lamba",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6984f0966ee70d59644f6af0",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2139921,
+        "known_for_department": "Production",
+        "name": "Gaurav Misra",
+        "original_name": "Gaurav Misra",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6984f0a302150913b491318e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4482250,
+        "known_for_department": "Sound",
+        "name": "Blitz//Berlin",
+        "original_name": "Blitz//Berlin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6984f0ad73afc2dcd71a2a0a",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084879,
+        "known_for_department": "Camera",
+        "name": "Yon Thomas",
+        "original_name": "Yon Thomas",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "6984f0b815f42c3cc16eed76",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1548888,
+        "known_for_department": "Editing",
+        "name": "Patrick J. Smith",
+        "original_name": "Patrick J. Smith",
+        "popularity": 0.1347,
+        "profile_path": null,
+        "credit_id": "6984f0c24d30157f2736387b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4482250,
+        "known_for_department": "Sound",
+        "name": "Blitz//Berlin",
+        "original_name": "Blitz//Berlin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69be07e3ba6f9c8ce7a5df5b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 612,
+        "name": "hotel"
+      },
+      {
+        "id": 586,
+        "name": "new jersey"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 68646,
+        "name": "supernatural creature"
+      },
+      {
+        "id": 195482,
+        "name": "million in cash"
+      },
+      {
+        "id": 237260,
+        "name": "urban exploration"
+      },
+      {
+        "id": 240377,
+        "name": "abandoned building"
+      },
+      {
+        "id": 249578,
+        "name": "urban explorers"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      },
+      {
+        "id": 332046,
+        "name": "abandoned hotel"
+      }
+    ]
+  }
+}

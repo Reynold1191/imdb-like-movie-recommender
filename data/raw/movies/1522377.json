@@ -1,0 +1,407 @@
+{
+  "adult": false,
+  "backdrop_path": "/2yZmwuXiQw58GiXwJwGNYtsDrEL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FWDXNRPN",
+  "id": 1522377,
+  "imdb_id": "tt36499994",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "\u0130ki D\u00fcnya Bir Dilek",
+  "overview": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems like a miracle soon reveals a hidden secret, as fate-reuniting them after decades-has much more in store.",
+  "popularity": 13.9676,
+  "poster_path": "/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+  "production_companies": [
+    {
+      "id": 37124,
+      "logo_path": "/xds9zZHZZfGD0eyB2CgO7k8gT8D.png",
+      "name": "TAFF Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-11-24",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Worlds One Wish",
+  "video": false,
+  "vote_average": 7.409,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1522703,
+        "known_for_department": "Acting",
+        "name": "Hande Er\u00e7el",
+        "original_name": "Hande Er\u00e7el",
+        "popularity": 7.7461,
+        "profile_path": "/jrUvWNqOpfDm3D0KhbuRwQOy8Nu.jpg",
+        "cast_id": 1,
+        "character": "Bilge Tanil",
+        "credit_id": "6889ecab9009c4f5e401d466",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412798,
+        "known_for_department": "Acting",
+        "name": "Metin Akd\u00fclger",
+        "original_name": "Metin Akd\u00fclger",
+        "popularity": 0.9866,
+        "profile_path": "/70DE1rB7nGSECpFE6sQKxPU3mfQ.jpg",
+        "cast_id": 2,
+        "character": "Can Tarun",
+        "credit_id": "6889ecbc5a24045f98b26af2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988391,
+        "known_for_department": "Acting",
+        "name": "Serkan T\u0131nmaz",
+        "original_name": "Serkan T\u0131nmaz",
+        "popularity": 0.3583,
+        "profile_path": "/jhqPoaSzTsjMAf9xCe6NnoXg3eg.jpg",
+        "cast_id": 5,
+        "character": "Eren",
+        "credit_id": "6889ed54d8bc73a6a058134a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2221300,
+        "known_for_department": "Acting",
+        "name": "Eyl\u00fcl Su Sapan",
+        "original_name": "Eyl\u00fcl Su Sapan",
+        "popularity": 0.3733,
+        "profile_path": "/n2B84Kkv4aSji5qzWKLLqb5AwA5.jpg",
+        "cast_id": 25,
+        "character": "Yasemin",
+        "credit_id": "69159201087f7fce383a40c4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4989385,
+        "known_for_department": "Acting",
+        "name": "Nazl\u0131can Demir",
+        "original_name": "Nazl\u0131can Demir",
+        "popularity": 0.0368,
+        "profile_path": "/9R0Pyz7LfeLcbZGhqS5tLgFJ6CQ.jpg",
+        "cast_id": 17,
+        "character": "Ipek",
+        "credit_id": "6915918ed0450fa3063a40e2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545841,
+        "known_for_department": "Acting",
+        "name": "H\u00fcseyin Avni Danyal",
+        "original_name": "H\u00fcseyin Avni Danyal",
+        "popularity": 0.7793,
+        "profile_path": "/pbi3qvL9wtFphQe3guH8ZL5b39m.jpg",
+        "cast_id": 3,
+        "character": "Harun Tarun",
+        "credit_id": "6889ed2dd8bc73a6a0581346",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042719,
+        "known_for_department": "Acting",
+        "name": "\u0130dil F\u0131rat",
+        "original_name": "\u0130dil F\u0131rat",
+        "popularity": 0.3231,
+        "profile_path": "/xmURud3NK9FlBIkfPukxNRsec6.jpg",
+        "cast_id": 20,
+        "character": "Leyla Tarun",
+        "credit_id": "691591b3591b1bb437a0db4f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1601866,
+        "known_for_department": "Acting",
+        "name": "Didem \u0130nselel",
+        "original_name": "Didem \u0130nselel",
+        "popularity": 0.3905,
+        "profile_path": "/o1Su2JOdi0dXnqXW3mUZpUdWDNN.jpg",
+        "cast_id": 4,
+        "character": "Sezen",
+        "credit_id": "6889ed3700e9d29e7458132a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3458973,
+        "known_for_department": "Acting",
+        "name": "Mert Ege Ak",
+        "original_name": "Mert Ege Ak",
+        "popularity": 0.4137,
+        "profile_path": "/gShfkKRS19YroJedvFoArdigKo.jpg",
+        "cast_id": 15,
+        "character": "Child Can",
+        "credit_id": "691591682c2055c6bf31c6c2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5814286,
+        "known_for_department": "Acting",
+        "name": "Deniz Duygu K\u00f6se",
+        "original_name": "Deniz Duygu K\u00f6se",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Child Bilge",
+        "credit_id": "691591d7a33449c0669c4fc3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1965215,
+        "known_for_department": "Acting",
+        "name": "Erdal Bilingen",
+        "original_name": "Erdal Bilingen",
+        "popularity": 0.0874,
+        "profile_path": "/1APeB5fTp2HB5QoxVwywfh3gjZp.jpg",
+        "cast_id": 16,
+        "character": "Levent",
+        "credit_id": "6915917578d69718849c4fc0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4446959,
+        "known_for_department": "Acting",
+        "name": "R\u0131zacan Durmu\u015f",
+        "original_name": "R\u0131zacan Durmu\u015f",
+        "popularity": 0.3465,
+        "profile_path": "/lLcqRFFqLwSErXvcm2dbIIgVhRY.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6915919cc48e7e4aa7ac22f1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3246736,
+        "known_for_department": "Acting",
+        "name": "\u0130hsan \u0130lhan",
+        "original_name": "\u0130hsan \u0130lhan",
+        "popularity": 0.0873,
+        "profile_path": "/75r6M0DbuPI0eDiW9J7v0qNx8Bg.jpg",
+        "cast_id": 21,
+        "character": "Hakan",
+        "credit_id": "691591bd5ffda4900c4c92a0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3101814,
+        "known_for_department": "Acting",
+        "name": "Rami Narin",
+        "original_name": "Rami Narin",
+        "popularity": 0.5641,
+        "profile_path": "/xOqKyjz8FvrmjaDRqYsZTDXE59R.jpg",
+        "cast_id": 23,
+        "character": "Mete",
+        "credit_id": "691591e2eacffe65b23a3fba",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4990711,
+        "known_for_department": "Acting",
+        "name": "\u0130layda Orkut",
+        "original_name": "\u0130layda Orkut",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Sinem",
+        "credit_id": "691591f2eba221c4a93a405c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1884724,
+        "known_for_department": "Acting",
+        "name": "\u0130pek Erdem",
+        "original_name": "\u0130pek Erdem",
+        "popularity": 0.1383,
+        "profile_path": "/uzrudTXnSXf1DtT8a5kmy2O44YM.jpg",
+        "cast_id": 19,
+        "character": "Therapist",
+        "credit_id": "691591a6c48e7e4aa7ac22f5",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144150,
+        "known_for_department": "Directing",
+        "name": "Ketche",
+        "original_name": "Ketche",
+        "popularity": 0.2798,
+        "profile_path": "/nRB3M6HeO4W18wvxs5EU7pARIUR.jpg",
+        "credit_id": "691588fb25425a821b9c4f59",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1522703,
+        "known_for_department": "Acting",
+        "name": "Hande Er\u00e7el",
+        "original_name": "Hande Er\u00e7el",
+        "popularity": 7.7461,
+        "profile_path": "/jrUvWNqOpfDm3D0KhbuRwQOy8Nu.jpg",
+        "credit_id": "6915892ba22fcf5f0140e0ee",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570693,
+        "known_for_department": "Acting",
+        "name": "El\u00e7in Muslu",
+        "original_name": "El\u00e7in Muslu",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "69158939e24e363ff987617f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2761056,
+        "known_for_department": "Acting",
+        "name": "Tarkan G\u00f6z\u00fcb\u00fcy\u00fck",
+        "original_name": "Tarkan G\u00f6z\u00fcb\u00fcy\u00fck",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6915894d41b0b93d78a0dd94",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3794832,
+        "known_for_department": "Sound",
+        "name": "Ozan T\u00fcgen",
+        "original_name": "Ozan T\u00fcgen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69158959eacffe65b23a3fa5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043357,
+        "known_for_department": "Editing",
+        "name": "Mustafa Presheva",
+        "original_name": "Mustafa Presheva",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "69158965c5c5faff3aa0dc53",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5814246,
+        "known_for_department": "Art",
+        "name": "Yeliz \u00c7inelioglu",
+        "original_name": "Yeliz \u00c7inelioglu",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "691589792e2d652ba63a428c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5814247,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ramazan \u00dcregil",
+        "original_name": "Ramazan \u00dcregil",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6915898db83adf228eac23a5",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3284408,
+        "known_for_department": "Directing",
+        "name": "Serkan Y\u0131ld\u0131r\u0131m",
+        "original_name": "Serkan Y\u0131ld\u0131r\u0131m",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "691589bf241814d3e99c5108",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

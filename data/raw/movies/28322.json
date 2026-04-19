@@ -1,0 +1,274 @@
+{
+  "adult": false,
+  "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 28322,
+  "imdb_id": "tt0080075",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Vacanze per un massacro",
+  "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+  "popularity": 33.5917,
+  "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+  "production_companies": [
+    {
+      "id": 4786,
+      "logo_path": null,
+      "name": "Midia Cinematografica",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1980-03-20",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Madness",
+  "video": false,
+  "vote_average": 4.929,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29915,
+        "known_for_department": "Acting",
+        "name": "Joe Dallesandro",
+        "original_name": "Joe Dallesandro",
+        "popularity": 0.6572,
+        "profile_path": "/dtLU66GGm6Lis5ZMrseT0qei2Ii.jpg",
+        "cast_id": 6,
+        "character": "Joe Brezzi",
+        "credit_id": "52fe458bc3a368484e0617dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100420,
+        "known_for_department": "Acting",
+        "name": "Patrizia Behn",
+        "original_name": "Patrizia Behn",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Liliana",
+        "credit_id": "52fe458bc3a368484e0617e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38762,
+        "known_for_department": "Acting",
+        "name": "Gianni Macchia",
+        "original_name": "Gianni Macchia",
+        "popularity": 0.2019,
+        "profile_path": "/ysecXVh8vo4USlM1ExfkE0XlA7W.jpg",
+        "cast_id": 8,
+        "character": "Sergio",
+        "credit_id": "52fe458bc3a368484e0617e5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101577,
+        "known_for_department": "Acting",
+        "name": "Lorraine De Selle",
+        "original_name": "Lorraine De Selle",
+        "popularity": 0.6326,
+        "profile_path": "/jVmkHcu5DjKuPDhqqWBmZSw4A8g.jpg",
+        "cast_id": 9,
+        "character": "Paola",
+        "credit_id": "52fe458bc3a368484e0617e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119370,
+        "known_for_department": "Acting",
+        "name": "Omero Capanna",
+        "original_name": "Omero Capanna",
+        "popularity": 0.3916,
+        "profile_path": "/kM9AC6ZSU1q2RIdgDJWKFvuAAbd.jpg",
+        "cast_id": 14,
+        "character": "Killed Cardriver",
+        "credit_id": "584f06b59251410700001bc7",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49892,
+        "known_for_department": "Directing",
+        "name": "Fernando Di Leo",
+        "original_name": "Fernando Di Leo",
+        "popularity": 0.6415,
+        "profile_path": "/extKHlTDlc7bHdwZgafCSIu5LmP.jpg",
+        "credit_id": "52fe458bc3a368484e0617c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49892,
+        "known_for_department": "Directing",
+        "name": "Fernando Di Leo",
+        "original_name": "Fernando Di Leo",
+        "popularity": 0.6415,
+        "profile_path": "/extKHlTDlc7bHdwZgafCSIu5LmP.jpg",
+        "credit_id": "52fe458bc3a368484e0617c7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 100416,
+        "known_for_department": "Production",
+        "name": "Armando Novelli",
+        "original_name": "Armando Novelli",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "52fe458bc3a368484e0617cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 100417,
+        "known_for_department": "Camera",
+        "name": "Enrico Lucidi",
+        "original_name": "Enrico Lucidi",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "52fe458bc3a368484e0617d3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66675,
+        "known_for_department": "Sound",
+        "name": "Luis Bacalov",
+        "original_name": "Luis Bacalov",
+        "popularity": 0.0998,
+        "profile_path": "/d9hYl7eX4KxIz4wZ9psdKjxmaSF.jpg",
+        "credit_id": "52fe458bc3a368484e0617d9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 240923,
+        "known_for_department": "Editing",
+        "name": "Amedeo Giomini",
+        "original_name": "Amedeo Giomini",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "584f06619251410702001b0c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1024748,
+        "known_for_department": "Art",
+        "name": "Francesco Cuppini",
+        "original_name": "Francesco Cuppini",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "584f066f9251410700001b91",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721957,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carolina Ferrara",
+        "original_name": "Carolina Ferrara",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "584f067b9251412e36000a1b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721958,
+        "known_for_department": "Directing",
+        "name": "Patrizia Zulini",
+        "original_name": "Patrizia Zulini",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "584f06919251410711001bb8",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 7118,
+        "name": "escaped convict"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 14903,
+        "name": "home invasion"
+      }
+    ]
+  }
+}

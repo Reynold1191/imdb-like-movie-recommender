@@ -1,0 +1,652 @@
+{
+  "adult": false,
+  "backdrop_path": "/1BENoMPde82MiPqMHQmOppU75rD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1153576,
+  "imdb_id": "tt27419420",
+  "origin_country": [
+    "US",
+    "JP"
+  ],
+  "original_language": "en",
+  "original_title": "Street Fighter",
+  "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+  "popularity": 14.4922,
+  "poster_path": "/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+  "production_companies": [
+    {
+      "id": 7220,
+      "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+      "name": "Capcom",
+      "origin_country": "JP"
+    },
+    {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-10-14",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "Ready. Set. Fight.",
+  "title": "Street Fighter",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253353,
+        "known_for_department": "Acting",
+        "name": "Noah Centineo",
+        "original_name": "Noah Centineo",
+        "popularity": 5.5283,
+        "profile_path": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+        "cast_id": 3,
+        "character": "Ken Masters",
+        "credit_id": "6800453c4f59c24c0dacfec1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1658375,
+        "known_for_department": "Acting",
+        "name": "Andrew Koji",
+        "original_name": "Andrew Koji",
+        "popularity": 2.3144,
+        "profile_path": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg",
+        "cast_id": 2,
+        "character": "Ryu",
+        "credit_id": "6800452ed645e41e099988e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3775598,
+        "known_for_department": "Acting",
+        "name": "Callina Liang",
+        "original_name": "Callina Liang",
+        "popularity": 2.8792,
+        "profile_path": "/yiajT9WAsvuxF9uNJrkSuzVv3On.jpg",
+        "cast_id": 9,
+        "character": "Chun-Li",
+        "credit_id": "6859913e256cf7ae65996750",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170011,
+        "known_for_department": "Acting",
+        "name": "Joe Anoa'i",
+        "original_name": "Joe Anoa'i",
+        "popularity": 2.6657,
+        "profile_path": "/fjP5BT3p9qhqP2Ik4qZ7vAoZHi0.jpg",
+        "cast_id": 6,
+        "character": "Akuma",
+        "credit_id": "682dfa0ccc1d65777d8c1606",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83854,
+        "known_for_department": "Acting",
+        "name": "David Dastmalchian",
+        "original_name": "David Dastmalchian",
+        "popularity": 2.6991,
+        "profile_path": "/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg",
+        "cast_id": 12,
+        "character": "M. Bison",
+        "credit_id": "686408bb51f7798de4d12417",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222912,
+        "known_for_department": "Acting",
+        "name": "Cody Rhodes",
+        "original_name": "Cody Rhodes",
+        "popularity": 1.3774,
+        "profile_path": "/x6zmbibkvWVTPD9ggGrRlVFaahg.jpg",
+        "cast_id": 13,
+        "character": "Guile",
+        "credit_id": "68643d22755e39eed94d0d87",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1880755,
+        "known_for_department": "Acting",
+        "name": "Andrew Schulz",
+        "original_name": "Andrew Schulz",
+        "popularity": 0.6661,
+        "profile_path": "/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg",
+        "cast_id": 11,
+        "character": "Dan Hibiki",
+        "credit_id": "685dda42acc26b00d0dd0851",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3135936,
+        "known_for_department": "Acting",
+        "name": "Orville Peck",
+        "original_name": "Orville Peck",
+        "popularity": 0.4306,
+        "profile_path": "/b3CiciqfUCkXyLhAVvMiKMNxRNJ.jpg",
+        "cast_id": 8,
+        "character": "Vega",
+        "credit_id": "684217c99cdba097ad456331",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62644,
+        "known_for_department": "Acting",
+        "name": "50 Cent",
+        "original_name": "50 Cent",
+        "popularity": 1.609,
+        "profile_path": "/7VfwFIwBxy7qBUErosWRDQOovl9.jpg",
+        "cast_id": 10,
+        "character": "Balrog",
+        "credit_id": "685aa11bb2a5b3feac08d8d6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117642,
+        "known_for_department": "Acting",
+        "name": "Jason Momoa",
+        "original_name": "Jason Momoa",
+        "popularity": 6.8548,
+        "profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+        "cast_id": 5,
+        "character": "Blanka",
+        "credit_id": "682dfa05d5e676ea920be4ce",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118194,
+        "known_for_department": "Acting",
+        "name": "Vidyut Jammwal",
+        "original_name": "Vidyut Jammwal",
+        "popularity": 4.4376,
+        "profile_path": "/hJPBlVJ3cVpi87wNaC9VP2rW4L9.jpg",
+        "cast_id": 15,
+        "character": "Dhalsim",
+        "credit_id": "687580937efe1247c87865fc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2074238,
+        "known_for_department": "Acting",
+        "name": "Olivier Richters",
+        "original_name": "Olivier Richters",
+        "popularity": 1.8538,
+        "profile_path": "/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg",
+        "cast_id": 26,
+        "character": "Zangief",
+        "credit_id": "68b9e7f29d4617380e98b0a2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281805,
+        "known_for_department": "Acting",
+        "name": "Hirooki Goto",
+        "original_name": "\u5f8c\u85e4\u6d0b\u592e\u7d00",
+        "popularity": 0.4432,
+        "profile_path": "/ve6ZpmktuTqZe9WZ7pEXQOtw1jt.jpg",
+        "cast_id": 14,
+        "character": "E. Honda",
+        "credit_id": "6870cc0b51958606c9541516",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 934159,
+        "known_for_department": "Acting",
+        "name": "Eric Andr\u00e9",
+        "original_name": "Eric Andr\u00e9",
+        "popularity": 1.6724,
+        "profile_path": "/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg",
+        "cast_id": 25,
+        "character": "Don Sauvage",
+        "credit_id": "68b9e7b8f7675287ff946703",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2637828,
+        "known_for_department": "Acting",
+        "name": "Mel Jarnson",
+        "original_name": "Mel Jarnson",
+        "popularity": 2.1622,
+        "profile_path": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg",
+        "cast_id": 30,
+        "character": "Cammy",
+        "credit_id": "68b9e81eb6a42c807c1f424e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828987,
+        "known_for_department": "Acting",
+        "name": "Rayna Vallandingham",
+        "original_name": "Rayna Vallandingham",
+        "popularity": 1.0205,
+        "profile_path": "/hAIWaRWdJB2CIOIpNuEa7Cesjv4.jpg",
+        "cast_id": 27,
+        "character": "Juli",
+        "credit_id": "68b9e7fb4232fbfcd74e4fd1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1917297,
+        "known_for_department": "Acting",
+        "name": "Alexander Volkanovski",
+        "original_name": "Alexander Volkanovski",
+        "popularity": 0.1131,
+        "profile_path": "/zCEe5Le93whbKXgUikCJ3hFz4Y0.jpg",
+        "cast_id": 28,
+        "character": "Joe",
+        "credit_id": "68b9e80b196c16412398af1d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180698,
+        "known_for_department": "Acting",
+        "name": "Kyle Mooney",
+        "original_name": "Kyle Mooney",
+        "popularity": 0.6891,
+        "profile_path": "/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg",
+        "cast_id": 29,
+        "character": "Marvin",
+        "credit_id": "68b9e81264d278789b1f4031",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485593,
+        "known_for_department": "Acting",
+        "name": "Kristy Best",
+        "original_name": "Kristy Best",
+        "popularity": 0.2888,
+        "profile_path": "/59SfxmgV30kqIlsgNfYG20EimHu.jpg",
+        "cast_id": 38,
+        "character": "JJ",
+        "credit_id": "69a9b67271a6fdb718f1b1b3",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070452,
+        "known_for_department": "Directing",
+        "name": "Michael Philippou",
+        "original_name": "Michael Philippou",
+        "popularity": 0.4706,
+        "profile_path": "/zpkBlS9F4FGbNxaOQY2AuvL18Q8.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "69e1142e82a1dde0a5013333",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070453,
+        "known_for_department": "Directing",
+        "name": "Danny Philippou",
+        "original_name": "Danny Philippou",
+        "popularity": 0.5907,
+        "profile_path": "/zzf84gR6R6D5ZJDLY8jQH5tsfDc.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "69e1143718dcb20a432d9f3a",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 922344,
+        "known_for_department": "Directing",
+        "name": "Kitao Sakurai",
+        "original_name": "Kitao Sakurai",
+        "popularity": 1.7457,
+        "profile_path": "/9uaITTRb3OOdkV9ujcUTd9f9cp7.jpg",
+        "credit_id": "67b6246099998623c11452a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1599958,
+        "known_for_department": "Sound",
+        "name": "Nick Emond",
+        "original_name": "Nick Emond",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68b0f7366e6580be24396cc0",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15328,
+        "known_for_department": "Art",
+        "name": "Kevin Kavanaugh",
+        "original_name": "Kevin Kavanaugh",
+        "popularity": 0.1279,
+        "profile_path": "/ovTzJdjG7arCadMcnNjiqndiq6M.jpg",
+        "credit_id": "68b0f762235744aa41510c5d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132604,
+        "known_for_department": "Art",
+        "name": "Andy McLaren",
+        "original_name": "Andy McLaren",
+        "popularity": 0.0937,
+        "profile_path": null,
+        "credit_id": "68b0f773235744aa41510c61",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6209,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kym Barrett",
+        "original_name": "Kym Barrett",
+        "popularity": 0.2811,
+        "profile_path": "/cZ3jE9PNY6kiI45kFUOIjeyxPlU.jpg",
+        "credit_id": "68b0f7836a673c67091f14f7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683351,
+        "known_for_department": "Directing",
+        "name": "Nick Satriano",
+        "original_name": "Nick Satriano",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "68b0f7996c655492c654d52a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427715,
+        "known_for_department": "Crew",
+        "name": "Jon Valera",
+        "original_name": "Jon Valera",
+        "popularity": 0.2425,
+        "profile_path": "/kvcBOZCEMrHLwfsb7kUBDPl0AMk.jpg",
+        "credit_id": "68b0f7b2196fde9d0f156dee",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427715,
+        "known_for_department": "Crew",
+        "name": "Jon Valera",
+        "original_name": "Jon Valera",
+        "popularity": 0.2425,
+        "profile_path": "/kvcBOZCEMrHLwfsb7kUBDPl0AMk.jpg",
+        "credit_id": "68b0f7b7196fde9d0f156df1",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092717,
+        "known_for_department": "Editing",
+        "name": "Montrice White",
+        "original_name": "Montrice White",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "68b0f7c6b3bafa16411ffa93",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 959274,
+        "known_for_department": "Camera",
+        "name": "Ken Seng",
+        "original_name": "Ken Seng",
+        "popularity": 0.164,
+        "profile_path": "/x4zfGuwfjbuChQGPh22SFk4m9Si.jpg",
+        "credit_id": "68bb594ef4fc744e5198b360",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9346,
+        "known_for_department": "Art",
+        "name": "Lisa Brennan",
+        "original_name": "Lisa Brennan",
+        "popularity": 0.3243,
+        "profile_path": null,
+        "credit_id": "68bb59a8577236088a1bbd5b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3032629,
+        "known_for_department": "Editing",
+        "name": "Luke Lynch",
+        "original_name": "Luke Lynch",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68c2c87246a23182a29c197f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355541,
+        "known_for_department": "Camera",
+        "name": "Jason Ellson",
+        "original_name": "Jason Ellson",
+        "popularity": 0.2427,
+        "profile_path": null,
+        "credit_id": "6934e4a6df94e6d6e1d1fc43",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355541,
+        "known_for_department": "Camera",
+        "name": "Jason Ellson",
+        "original_name": "Jason Ellson",
+        "popularity": 0.2427,
+        "profile_path": null,
+        "credit_id": "6934e4aa9e7ca1de94b711f2",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273992,
+        "known_for_department": "Directing",
+        "name": "Paul Sullivan",
+        "original_name": "Paul Sullivan",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "693c4d25e6f810d7c8e16b63",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3580730,
+        "known_for_department": "Visual Effects",
+        "name": "Sandra Balej",
+        "original_name": "Sandra Balej",
+        "popularity": 0.0594,
+        "profile_path": "/zNJXiUFFDWyfKmLuR1J8drdOR2A.jpg",
+        "credit_id": "6945fae26fae3c26ea8eae88",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437638,
+        "known_for_department": "Writing",
+        "name": "Dalan Musson",
+        "original_name": "Dalan Musson",
+        "popularity": 0.4687,
+        "profile_path": "/pMVjJ3aNFc6tqvLO0tQvVLrU75O.jpg",
+        "credit_id": "69e0f69e2ded6caf59b80100",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338249,
+        "known_for_department": "Writing",
+        "name": "Gary Dauberman",
+        "original_name": "Gary Dauberman",
+        "popularity": 0.946,
+        "profile_path": "/iQvToa3ShnLoEPMomwNt7SNnOjm.jpg",
+        "credit_id": "69e0f6b738dc9cc069f9462d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355889,
+        "known_for_department": "Writing",
+        "name": "T.J. Fixman",
+        "original_name": "T.J. Fixman",
+        "popularity": 0.4002,
+        "profile_path": "/dMHXWV0WjuY9yVCKS7kHmZCr1qK.jpg",
+        "credit_id": "69e0f6dc31c8ad6dbcb7fe43",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 922344,
+        "known_for_department": "Directing",
+        "name": "Kitao Sakurai",
+        "original_name": "Kitao Sakurai",
+        "popularity": 1.7457,
+        "profile_path": "/9uaITTRb3OOdkV9ujcUTd9f9cp7.jpg",
+        "credit_id": "69e0f6f71a29e49842b7fef2",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 41645,
+        "name": "based on video game"
+      },
+      {
+        "id": 156159,
+        "name": "martial arts tournament"
+      },
+      {
+        "id": 210608,
+        "name": "1990s"
+      },
+      {
+        "id": 285633,
+        "name": "battle royale"
+      }
+    ]
+  }
+}

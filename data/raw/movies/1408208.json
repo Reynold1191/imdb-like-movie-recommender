@@ -1,0 +1,824 @@
+{
+  "adult": false,
+  "backdrop_path": "/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/exit-8",
+  "id": 1408208,
+  "imdb_id": "tt35222590",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "\uff18\u756a\u51fa\u53e3",
+  "overview": "A man trapped in an endless sterile subway passageway sets out to find Exit 8. The rules of his quest are simple: do not overlook anything out of the ordinary. If you discover an anomaly, turn back immediately. If you don\u2019t, carry on. Then leave from Exit 8. But even a single oversight will send him back to the beginning. Will he ever reach his goal and escape this infinite corridor?",
+  "popularity": 27.1493,
+  "poster_path": "/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 39804,
+      "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
+      "name": "AOI Pro.",
+      "origin_country": "JP"
+    },
+    {
+      "id": 128616,
+      "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+      "name": "Story",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11849,
+      "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
+      "name": "Lawson",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270390,
+      "logo_path": null,
+      "name": "Suirinsha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 145105,
+      "logo_path": "/oFUDvCLCRmAXlGqjmwO8CN33ygl.png",
+      "name": "Tohan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270391,
+      "logo_path": null,
+      "name": "Office Nino",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270392,
+      "logo_path": null,
+      "name": "Metro Ad Agency",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-08-28",
+  "revenue": 40641246,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Turn back.",
+  "title": "Exit 8",
+  "video": false,
+  "vote_average": 6.585,
+  "vote_count": 284,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33515,
+        "known_for_department": "Acting",
+        "name": "Kazunari Ninomiya",
+        "original_name": "\u4e8c\u5bae\u548c\u4e5f",
+        "popularity": 1.8775,
+        "profile_path": "/4mxogZeEPZiVrnJ4L8ICvOJONfs.jpg",
+        "cast_id": 4,
+        "character": "The Lost Man",
+        "credit_id": "67e6a47c33a74341e310f508",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3576845,
+        "known_for_department": "Acting",
+        "name": "Yamato Kochi",
+        "original_name": "\u6cb3\u5185\u5927\u548c",
+        "popularity": 0.8589,
+        "profile_path": "/8CUS41LVMlBH5Am2uZC3F44yyDw.jpg",
+        "cast_id": 2,
+        "character": "The Walking Man",
+        "credit_id": "6772a5ca4111599e3812828c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1287268,
+        "known_for_department": "Acting",
+        "name": "Nana Komatsu",
+        "original_name": "\u5c0f\u677e\u83dc\u5948",
+        "popularity": 1.8399,
+        "profile_path": "/sBVCeJ9hLDCdOenLzwzmVtFfws6.jpg",
+        "cast_id": 45,
+        "character": "The Woman",
+        "credit_id": "6814216f1106622582907987",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5428351,
+        "known_for_department": "Acting",
+        "name": "Naru Asanuma",
+        "original_name": "\u6d45\u6cbc\u6210",
+        "popularity": 0.3488,
+        "profile_path": "/orV4an2sD7PgLpHCulgCBDgs1bl.jpg",
+        "cast_id": 47,
+        "character": "The Boy",
+        "credit_id": "681e7bfef7481a5a778c7192",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3661042,
+        "known_for_department": "Acting",
+        "name": "Kotone Hanase",
+        "original_name": "\u82b1\u702c\u7434\u97f3",
+        "popularity": 1.1625,
+        "profile_path": "/xSimDM5cdwBtVAa7FJ36gFyMC0p.jpg",
+        "cast_id": 46,
+        "character": "The Schoolgirl",
+        "credit_id": "681b8cfc3375076dfe9f0638",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1393397,
+        "known_for_department": "Acting",
+        "name": "Hirota Otsuka",
+        "original_name": "\u5927\u585a\u30d2\u30ed\u30bf",
+        "popularity": 0.3448,
+        "profile_path": "/fWxZgSLwAl3JAbLHoTyZDcGTI1m.jpg",
+        "cast_id": 48,
+        "character": "Chief Detective",
+        "credit_id": "6988be907dbf83f1178e6e14",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5995070,
+        "known_for_department": "Acting",
+        "name": "Tara Nakashima",
+        "original_name": "\u4e2d\u5cf6\u591a\u7f85",
+        "popularity": 0.1216,
+        "profile_path": "/6GWRQWO1NcHFoRVlp5L3ZmL69Ed.jpg",
+        "cast_id": 49,
+        "character": "High School Student",
+        "credit_id": "6988bf9124f6b0b7e78fcee1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995080,
+        "known_for_department": "Acting",
+        "name": "Reo Soda",
+        "original_name": "\u66fd\u7530\u601c\u592e",
+        "popularity": 0.1383,
+        "profile_path": "/v63pfKMiVrMidWfqhEU213pZQSS.jpg",
+        "cast_id": 50,
+        "character": "Child",
+        "credit_id": "6988c0df92420a7b73f80fdc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5995086,
+        "known_for_department": "Acting",
+        "name": "Mikio Ueda",
+        "original_name": "\u4e0a\u7530\u5b9f\u898f\u6717",
+        "popularity": 0.1823,
+        "profile_path": "/wsAhgcda1yuPfAAlgGNt5L4FlYd.jpg",
+        "cast_id": 51,
+        "character": "Assistant Detective",
+        "credit_id": "6988c17bc96edd317d8e6f4b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1732608,
+        "known_for_department": "Acting",
+        "name": "HIKAKIN",
+        "original_name": "\u30d2\u30ab\u30ad\u30f3",
+        "popularity": 0.1053,
+        "profile_path": "/wuBzUSQJn8YApxQ35MEswALqWyi.jpg",
+        "cast_id": 52,
+        "character": "Passerby",
+        "credit_id": "6988c2497dbf83f1178e6e25",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143193,
+        "known_for_department": "Writing",
+        "name": "Kotake Create",
+        "original_name": "Kotake Create",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "676e6a390c4402b6319295e7",
+        "department": "Writing",
+        "job": "Original Concept"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237364,
+        "known_for_department": "Directing",
+        "name": "Genki Kawamura",
+        "original_name": "\u5ddd\u6751\u5143\u6c17",
+        "popularity": 1.3681,
+        "profile_path": "/lYiWJdjiib6b6uhiPfX9eU0bOGX.jpg",
+        "credit_id": "67b74c24e484fc21541a26b8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2161788,
+        "known_for_department": "Lighting",
+        "name": "Tatsuya Hirayama",
+        "original_name": "\u5e73\u5c71\u9054\u5f25",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "credit_id": "67f9f0f1a04f530b5c993e7b",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1342698,
+        "known_for_department": "Production",
+        "name": "Toshie Tabata",
+        "original_name": "\u7530\u7aef\u5229\u6c5f",
+        "popularity": 0.2703,
+        "profile_path": null,
+        "credit_id": "67f9f1067f70ac1a21d9a592",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2211182,
+        "known_for_department": "Production",
+        "name": "Yoko Yamashita",
+        "original_name": "\u5c71\u4e0b\u8449\u5b50",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "67f9f129d3ab7d7a8badca36",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2094078,
+        "known_for_department": "Camera",
+        "name": "Keisuke Imamura",
+        "original_name": "\u4eca\u6751\u572d\u4f51",
+        "popularity": 0.3437,
+        "profile_path": null,
+        "credit_id": "67f9f14ed3ab7d7a8badca3a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3114080,
+        "known_for_department": "Editing",
+        "name": "Masahiro Ishiyama",
+        "original_name": "\u77f3\u5c71\u5c06\u5f18",
+        "popularity": 0.228,
+        "profile_path": null,
+        "credit_id": "67f9f1ad7b43bdce20aeba00",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5210986,
+        "known_for_department": "Editing",
+        "name": "Sakura Seya",
+        "original_name": "\u702c\u8c37\u3055\u304f\u3089",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "67f9f1bcde5e4dec62ad9e11",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4219994,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katsuhiko Yuhmi",
+        "original_name": "\u52c7\u898b\u52dd\u5f66",
+        "popularity": 0.2001,
+        "profile_path": null,
+        "credit_id": "67f9f1d07f70ac1a21d9a632",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029281,
+        "known_for_department": "Production",
+        "name": "Minami Ichikawa",
+        "original_name": "\u5e02\u5ddd\u5357",
+        "popularity": 0.5279,
+        "profile_path": "/hbLwY27J83U0FFTPqYvfFXpBRco.jpg",
+        "credit_id": "67f9f1e77f70ac1a21d9a653",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537404,
+        "known_for_department": "Production",
+        "name": "Taichi Ueda",
+        "original_name": "\u4e0a\u7530\u592a\u5730",
+        "popularity": 0.3437,
+        "profile_path": null,
+        "credit_id": "67f9f1f6de5e4dec62ad9e18",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1749022,
+        "known_for_department": "Production",
+        "name": "Yoshihiro Furusawa",
+        "original_name": "\u53e4\u6fa4\u4f73\u5bdb",
+        "popularity": 0.3571,
+        "profile_path": "/8cVWxK1hw3YEqzjpE8cxI1gR8W4.jpg",
+        "credit_id": "67f9f203a04f530b5c993ee7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366583,
+        "known_for_department": "Production",
+        "name": "Abe Yuki",
+        "original_name": "\u963f\u90e8\u7950\u6a39",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67f9f241a04f530b5c993f3d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366584,
+        "known_for_department": "Production",
+        "name": "Yusaku Tanaka",
+        "original_name": "\u7530\u4e2d\u512a\u7b56",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67f9f2511bc639566ada7e78",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1780564,
+        "known_for_department": "Production",
+        "name": "Akihito Watanabe",
+        "original_name": "\u6e21\u8fba\u7ae0\u4ec1",
+        "popularity": 0.2048,
+        "profile_path": null,
+        "credit_id": "67f9f2617b43bdce20aeba11",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366586,
+        "known_for_department": "Production",
+        "name": "Ichiro Shinohara",
+        "original_name": "\u7be0\u539f\u4e00\u6717",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67f9f2787f70ac1a21d9a6ea",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366589,
+        "known_for_department": "Production",
+        "name": "Saito Takashi",
+        "original_name": "\u9f4a\u85e4\u8cb4",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67f9f2b3d3ab7d7a8badcb57",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057924,
+        "known_for_department": "Production",
+        "name": "Hisashi Usui",
+        "original_name": "\u81fc\u4e95\u592e",
+        "popularity": 0.2026,
+        "profile_path": null,
+        "credit_id": "67f9f2c77b43bdce20aeba18",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2419817,
+        "known_for_department": "Production",
+        "name": "Wakana Okamura",
+        "original_name": "\u5ca1\u6751\u548c\u4f73\u83dc",
+        "popularity": 0.3846,
+        "profile_path": null,
+        "credit_id": "67f9f2d8d4c444a1cc99fce4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366592,
+        "known_for_department": "Production",
+        "name": "Yuto Sakata",
+        "original_name": "\u5742\u7530\u60a0\u4eba",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67f9f2fbd3ab7d7a8badcb91",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2131363,
+        "known_for_department": "Production",
+        "name": "Kenji Yamada",
+        "original_name": "\u5c71\u7530\u517c\u53f8",
+        "popularity": 0.2246,
+        "profile_path": null,
+        "credit_id": "67f9f31e1bc639566ada7eaf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366593,
+        "known_for_department": "Production",
+        "name": "Tetsuto Yamamoto",
+        "original_name": "\u5c71\u5143\u54f2\u4eba",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67f9f3317f70ac1a21d9a734",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152307,
+        "known_for_department": "Production",
+        "name": "Taichi Ito",
+        "original_name": "\u4f0a\u85e4\u592a\u4e00",
+        "popularity": 0.4345,
+        "profile_path": null,
+        "credit_id": "67f9f34fa04f530b5c993f74",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4839732,
+        "known_for_department": "Production",
+        "name": "Yoshihito Yokoi",
+        "original_name": "\u6a2a\u4e95\u7fa9\u4eba",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "67f9f369de5e4dec62ad9e5d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366594,
+        "known_for_department": "Production",
+        "name": "Kenta Tsutsumi",
+        "original_name": "\u5824\u5065\u592a",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "67f9f3c6d3ab7d7a8badcbbd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2026796,
+        "known_for_department": "Sound",
+        "name": "Masaya Kitada",
+        "original_name": "\u5317\u7530\u96c5\u4e5f",
+        "popularity": 0.2125,
+        "profile_path": null,
+        "credit_id": "67f9f40cd4c444a1cc99fd08",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5366595,
+        "known_for_department": "Visual Effects",
+        "name": "Seiji Masamoto",
+        "original_name": "\u653f\u672c\u661f\u723e",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "67f9f420d4c444a1cc99fd19",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021333,
+        "known_for_department": "Directing",
+        "name": "Kentaro Hirase",
+        "original_name": "\u5e73\u702c\u8b19\u592a\u6717",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "credit_id": "67f9f4907f70ac1a21d9a784",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718751,
+        "known_for_department": "Directing",
+        "name": "Jun Sekine",
+        "original_name": "\u95a2\u6839\u6df3",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "67f9f4bc7b43bdce20aeba84",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237364,
+        "known_for_department": "Directing",
+        "name": "Genki Kawamura",
+        "original_name": "\u5ddd\u6751\u5143\u6c17",
+        "popularity": 1.3681,
+        "profile_path": "/lYiWJdjiib6b6uhiPfX9eU0bOGX.jpg",
+        "credit_id": "67f9f6537f70ac1a21d9a83a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5143193,
+        "known_for_department": "Writing",
+        "name": "Kotake Create",
+        "original_name": "Kotake Create",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "68114fca9a9f8be2730f7a15",
+        "department": "Crew",
+        "job": "Video Game"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237364,
+        "known_for_department": "Directing",
+        "name": "Genki Kawamura",
+        "original_name": "\u5ddd\u6751\u5143\u6c17",
+        "popularity": 1.3681,
+        "profile_path": "/lYiWJdjiib6b6uhiPfX9eU0bOGX.jpg",
+        "credit_id": "68114fd82ce920d0bd80dba2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021333,
+        "known_for_department": "Directing",
+        "name": "Kentaro Hirase",
+        "original_name": "\u5e73\u702c\u8b19\u592a\u6717",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "credit_id": "68114fe32ce920d0bd80dba5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040261,
+        "known_for_department": "Sound",
+        "name": "Shouhei Amimori",
+        "original_name": "\u7db2\u5b88\u5c06\u5e73",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "6988c393ea012e3fc52ceb06",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653834,
+        "known_for_department": "Sound",
+        "name": "Yasutaka Nakata",
+        "original_name": "\u4e2d\u7530\u30e4\u30b9\u30bf\u30ab",
+        "popularity": 0.0727,
+        "profile_path": null,
+        "credit_id": "6988c3a0ed05d1113b3a9fd8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111232,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daisuke Iga",
+        "original_name": "\u4f0a\u8cc0\u5927\u4ecb",
+        "popularity": 0.3344,
+        "profile_path": null,
+        "credit_id": "6993aeb3889bd86477850bfc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111231,
+        "known_for_department": "Art",
+        "name": "Ryo Sugimoto",
+        "original_name": "\u6749\u672c\u4eae",
+        "popularity": 0.304,
+        "profile_path": "/tsxwLAvWGQSPUrhyYkkfBwHJux5.jpg",
+        "credit_id": "69a443d3aac6e74d7de2b814",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776966,
+        "known_for_department": "Art",
+        "name": "Yutaka Mogi",
+        "original_name": "\u8302\u6728\u8c4a",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "69a443da8202541057de8f60",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776946,
+        "known_for_department": "Sound",
+        "name": "Masato Yano",
+        "original_name": "\u77e2\u91ce\u6b63\u4eba",
+        "popularity": 0.1618,
+        "profile_path": null,
+        "credit_id": "69b6efb442d2dfa5b45c9e59",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6502,
+        "name": "exit"
+      },
+      {
+        "id": 41645,
+        "name": "based on video game"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 181165,
+        "name": "station"
+      },
+      {
+        "id": 197062,
+        "name": "anomaly"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 269808,
+        "name": "introspective"
+      },
+      {
+        "id": 272553,
+        "name": "psychological"
+      },
+      {
+        "id": 281917,
+        "name": "liminal"
+      },
+      {
+        "id": 288061,
+        "name": "metro"
+      },
+      {
+        "id": 295907,
+        "name": "psychological horror"
+      },
+      {
+        "id": 306411,
+        "name": "liminal space"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 325839,
+        "name": "ominous"
+      },
+      {
+        "id": 332022,
+        "name": "liminal horror"
+      },
+      {
+        "id": 367082,
+        "name": "endless cycle"
+      },
+      {
+        "id": 370950,
+        "name": "hybrid found footage"
+      }
+    ]
+  }
+}

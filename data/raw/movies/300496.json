@@ -1,0 +1,252 @@
+{
+  "adult": false,
+  "backdrop_path": "/yPbW94JRopYqjz2CLyEiUhEwbB5.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 300496,
+  "imdb_id": "tt0084397",
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_title": "Nefeli",
+  "overview": "A beautiful woman is going to the island of Lesbos to rest, there she will meet two other beautiful young women and it will be great having sex with everyone.",
+  "popularity": 43.8389,
+  "poster_path": "/4EgkcisexFjGfQmGI0IrVxZUBIv.jpg",
+  "production_companies": [
+    {
+      "id": 37126,
+      "logo_path": null,
+      "name": "G.D. Films",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "release_date": "1980-01-01",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nefeli and her two best friends invite you in a world of sensualism.",
+  "title": "Nefeli",
+  "video": false,
+  "vote_average": 2.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1380826,
+        "known_for_department": "Acting",
+        "name": "Rosana Caskan",
+        "original_name": "Rosana Caskan",
+        "popularity": 0.2246,
+        "profile_path": "/uaIHMWpeU9X4n4asZwQhdrpJO1k.jpg",
+        "cast_id": 0,
+        "character": "Nefeli Zalokosta",
+        "credit_id": "5456276bc3a3683e23001c2c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230885,
+        "known_for_department": "Acting",
+        "name": "Alejandra Grepi",
+        "original_name": "Alejandra Grepi",
+        "popularity": 0.1879,
+        "profile_path": "/lnEFpCNBQXgHZTFA5W6cPRx3ba4.jpg",
+        "cast_id": 1,
+        "character": "Annita",
+        "credit_id": "545627850e0a263863004b50",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380827,
+        "known_for_department": "Acting",
+        "name": "Tania Moshito",
+        "original_name": "Tania Moshito",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Anna",
+        "credit_id": "545627a3c3a368147c006ea6",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1380829,
+        "known_for_department": "Acting",
+        "name": "Kleo Zamidis",
+        "original_name": "\u039a\u03bb\u03b5\u03cc\u03b2\u03bf\u03c5\u03bb\u03bf\u03c2 \u0396\u03b1\u03bc\u03af\u03b4\u03b7\u03c2",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "545627b9c3a3683ea0001aec",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340075,
+        "known_for_department": "Acting",
+        "name": "Dimitris Tsaftaridis",
+        "original_name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u03a4\u03c3\u03b1\u03c6\u03c4\u03b1\u03c1\u03af\u03b4\u03b7\u03c2",
+        "popularity": 0.1762,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Faidonas",
+        "credit_id": "545627d30e0a261ad10004c8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1380831,
+        "known_for_department": "Acting",
+        "name": "Lefteris Giftopoulos",
+        "original_name": "\u039b\u03b5\u03c5\u03c4\u03ad\u03c1\u03b7\u03c2 \u0393\u03c5\u03c6\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+        "popularity": 0.4104,
+        "profile_path": "/vJBHsGnLchOyWuJa8C0tH768qhP.jpg",
+        "cast_id": 5,
+        "character": "Teacher",
+        "credit_id": "545627dc0e0a263863004b5e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284991,
+        "known_for_department": "Acting",
+        "name": "Giorgos Mattheou",
+        "original_name": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u039c\u03b1\u03c4\u03b8\u03b1\u03af\u03bf\u03c2",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "578156ba92514118e20020b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340073,
+        "known_for_department": "Acting",
+        "name": "Lakis Xanthis",
+        "original_name": "\u039b\u03ac\u03ba\u03b7\u03c2 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2",
+        "popularity": 0.1756,
+        "profile_path": "/eBsOGMyKbwkdIUwmk1bCnToDq5a.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "578156e0c3a3685925002a6d",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 262198,
+        "known_for_department": "Directing",
+        "name": "Omiros Efstratiadis",
+        "original_name": "\u038c\u03bc\u03b7\u03c1\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03ac\u03b4\u03b7\u03c2",
+        "popularity": 0.3571,
+        "profile_path": "/wEIkBrgfTCjGXlEvvd0ThA09sL5.jpg",
+        "credit_id": "545628740e0a2648cf007192",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1380832,
+        "known_for_department": "Camera",
+        "name": "Petros Karavidoglou",
+        "original_name": "\u03a0\u03ad\u03c4\u03c1\u03bf\u03c2 \u039a\u03b1\u03c1\u03b1\u03b2\u03af\u03b4\u03bf\u03b3\u03bb\u03bf\u03c5",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5456282dc3a3683e23001c53",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 262198,
+        "known_for_department": "Directing",
+        "name": "Omiros Efstratiadis",
+        "original_name": "\u038c\u03bc\u03b7\u03c1\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03ac\u03b4\u03b7\u03c2",
+        "popularity": 0.3571,
+        "profile_path": "/wEIkBrgfTCjGXlEvvd0ThA09sL5.jpg",
+        "credit_id": "545627f30e0a2648cf00718a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380833,
+        "known_for_department": "Sound",
+        "name": "Juan Luis Santigosa",
+        "original_name": "Juan Luis Santigosa",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "545628560e0a263863004b6f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1131816,
+        "known_for_department": "Writing",
+        "name": "Giannis Sklavos",
+        "original_name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a3\u03ba\u03bb\u03ac\u03b2\u03bf\u03c2",
+        "popularity": 0.3233,
+        "profile_path": null,
+        "credit_id": "54562801c3a3683ea0001af7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 33998,
+        "name": "lesbian sex"
+      },
+      {
+        "id": 190370,
+        "name": "erotic movie"
+      },
+      {
+        "id": 193724,
+        "name": "nude beach"
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1466120,
+  "imdb_id": "tt36109428",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\ub370\ub4dc \uc5b4\uac8c\uc778",
+  "overview": "Min-hyeok and Hae-ji, Seon-woong and Mi-mi, who came on a couple's trip to Vietnam, are very excited. Min-hyeok also enjoys a thrilling secret meeting with his wife Hae-ji as well as Mi-mi, who has been in a long-term relationship, and has a satisfying time.  However, Min-hyeok suddenly feels intense pain and stops breathing, and when he opens his eyes thinking he is going to die, it is his first day in Vietnam. Min-hyeok, who is confused about everything, finds out that there is a reason for the vacation that ends in death...",
+  "popularity": 10.8146,
+  "poster_path": "/iqSmb9ugb8xK6avZ3Wglxue39N8.jpg",
+  "production_companies": [
+    {
+      "id": 82012,
+      "logo_path": null,
+      "name": "Road House",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 74,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dead Again",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5606345,
+        "known_for_department": "Acting",
+        "name": "Kim Tae-jin",
+        "original_name": "Kim Tae-jin",
+        "popularity": 0.1795,
+        "profile_path": "/qEPvU9NBq14OqmELTOxNjaDfNdD.jpg",
+        "cast_id": 7,
+        "character": "Kong Min-hyuk",
+        "credit_id": "6890d11b1cf4a8dbbaa46bf6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5567820,
+        "known_for_department": "Acting",
+        "name": "Seo Rina",
+        "original_name": "\uc11c\ub9ac\ub098",
+        "popularity": 2.3719,
+        "profile_path": "/cAF6lQluwB0l6L0YsVtFVpXd5VM.jpg",
+        "cast_id": 5,
+        "character": "Yoon Mi-mi",
+        "credit_id": "68779f8601435652ac43d1f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5381608,
+        "known_for_department": "Acting",
+        "name": "Yoo Mi",
+        "original_name": "\uc720\ubbf8",
+        "popularity": 2.0531,
+        "profile_path": "/plEKdnwZkHjTqwG6GoWF3rZw9jm.jpg",
+        "cast_id": 3,
+        "character": "Kim Hae-ji",
+        "credit_id": "685e754fbaa354cca1dd0a8b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5567819,
+        "known_for_department": "Acting",
+        "name": "Danny Lee",
+        "original_name": "\ub300\ub2c8\ub9ac",
+        "popularity": 0.4722,
+        "profile_path": "/xzqVs4NRM2488p9AXSp3g0wckjV.jpg",
+        "cast_id": 4,
+        "character": "Lee Seon-woong",
+        "credit_id": "68779f64b4d46caf8fcce668",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5567824,
+        "known_for_department": "Acting",
+        "name": "\uc190\ub3d9\uc81c",
+        "original_name": "\uc190\ub3d9\uc81c",
+        "popularity": 0.3007,
+        "profile_path": "/pbVqzLWLxoWi2SS9HQQfYe3hc8D.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "68779fdb1d0bfde78d7799e1",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563782,
+        "known_for_department": "Directing",
+        "name": "Son Hyeon-woo",
+        "original_name": "\uc190\ud604\uc6b0",
+        "popularity": 0.1364,
+        "profile_path": "/gKUIUHbrCWo6PZiyjcK0BcenKL1.jpg",
+        "credit_id": "68011d14de5e4dec62af0d8b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5522323,
+        "known_for_department": "Camera",
+        "name": "Kim Jin-hyeong",
+        "original_name": "Kim Jin-hyeong",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6859363fc54ba576704936ea",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/impZCV9HiZ3bIrKK5bD1TKRsfVM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1297454,
+  "imdb_id": "tt18107136",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Death That Awaits",
+  "overview": "A drifter searching for answers to a mystery from her past takes on a job looking after a sick teen who is undergoing a mysterious transformation her family will do anything to stop.",
+  "popularity": 26.2071,
+  "poster_path": "/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-06",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Death That Awaits",
+  "video": false,
+  "vote_average": 6.029,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1802763,
+        "known_for_department": "Acting",
+        "name": "Katya Mart\u00edn",
+        "original_name": "Katya Mart\u00edn",
+        "popularity": 0.0439,
+        "profile_path": "/4ypLmf1HOpEgKb4Os90nftKYTk0.jpg",
+        "cast_id": 1,
+        "character": "Cassie",
+        "credit_id": "665794693f9018783cb92420",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1519711,
+        "known_for_department": "Acting",
+        "name": "Megan Lawless",
+        "original_name": "Megan Lawless",
+        "popularity": 0.1234,
+        "profile_path": "/5HJ5NvEXxQAQCr8KJb3vaByS4AZ.jpg",
+        "cast_id": 2,
+        "character": "Nina",
+        "credit_id": "66579472a1de0abc9d709ec9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1440057,
+        "known_for_department": "Acting",
+        "name": "Allison Paige",
+        "original_name": "Allison Paige",
+        "popularity": 0.5165,
+        "profile_path": "/vztZBcxWSnpBDqBf2OwlDxRl3c0.jpg",
+        "cast_id": 3,
+        "character": "Dawn",
+        "credit_id": "6657947d86feb447e188a56e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3748858,
+        "known_for_department": "Acting",
+        "name": "Tim Gabriel",
+        "original_name": "Tim Gabriel",
+        "popularity": 0.0695,
+        "profile_path": "/n4PLuFBHJWRMsxHS73K9aHJi7OI.jpg",
+        "cast_id": 4,
+        "character": "Micah",
+        "credit_id": "665794869cd41b287a93bac4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485427,
+        "known_for_department": "Acting",
+        "name": "Sharon Gardner",
+        "original_name": "Sharon Gardner",
+        "popularity": 0.1501,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Angela",
+        "credit_id": "66579490d0adb37bed2d1a55",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4331153,
+        "known_for_department": "Acting",
+        "name": "Cooper Devaney",
+        "original_name": "Cooper Devaney",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Jeremy",
+        "credit_id": "6657949aa08918fc911a16b9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61703,
+        "known_for_department": "Acting",
+        "name": "Ron Yuan",
+        "original_name": "Ron Yuan",
+        "popularity": 0.4177,
+        "profile_path": "/7Co2MdR8T5zlXTrdZ9Z3qjlmKdV.jpg",
+        "cast_id": 7,
+        "character": "Reese",
+        "credit_id": "665794a5c3e776fa532cf8d1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73035,
+        "known_for_department": "Acting",
+        "name": "Paul Johansson",
+        "original_name": "Paul Johansson",
+        "popularity": 1.2702,
+        "profile_path": "/WObwc4GELejtR1lZDCWVN9F9t7.jpg",
+        "cast_id": 8,
+        "character": "Dr. V",
+        "credit_id": "665794b053ebd5d68693baf9",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4743298,
+        "known_for_department": "Directing",
+        "name": "Richard J. Lee",
+        "original_name": "Richard J. Lee",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "665794c286feb447e188a57b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4743298,
+        "known_for_department": "Directing",
+        "name": "Richard J. Lee",
+        "original_name": "Richard J. Lee",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "665794ca48d202dec970bfbb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1529809,
+        "known_for_department": "Writing",
+        "name": "Rachel Kiley",
+        "original_name": "Rachel Kiley",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "665794d9889c943bccbd1712",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3874,
+        "name": "twist"
+      },
+      {
+        "id": 288394,
+        "name": "suspense"
+      },
+      {
+        "id": 316332,
+        "name": "mystery"
+      }
+    ]
+  }
+}

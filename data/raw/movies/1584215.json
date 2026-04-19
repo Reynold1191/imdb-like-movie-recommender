@@ -1,0 +1,503 @@
+{
+  "adult": false,
+  "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1584215,
+  "imdb_id": "tt38238651",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Internship",
+  "overview": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA fights back with deadly force.",
+  "popularity": 18.4485,
+  "poster_path": "/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+  "production_companies": [
+    {
+      "id": 177095,
+      "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
+      "name": "SP Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-13",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Internship",
+  "video": false,
+  "vote_average": 6.208,
+  "vote_count": 65,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1520844,
+        "known_for_department": "Acting",
+        "name": "Lizzy Greene",
+        "original_name": "Lizzy Greene",
+        "popularity": 0.8794,
+        "profile_path": "/iWoWhGJ9gBi206SbVeHY7X2LTiG.jpg",
+        "cast_id": 1,
+        "character": "Renee",
+        "credit_id": "6932f6975a0d819cfcc43c35",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222141,
+        "known_for_department": "Acting",
+        "name": "Megan Boone",
+        "original_name": "Megan Boone",
+        "popularity": 2.2121,
+        "profile_path": "/8SjSPu2IJQVvuM2rP0KPNmze6Dz.jpg",
+        "cast_id": 2,
+        "character": "Candace Dalton",
+        "credit_id": "6932f6a6712d7b030fa189f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1827955,
+        "known_for_department": "Acting",
+        "name": "Sky Katz",
+        "original_name": "Sky Katz",
+        "popularity": 0.5985,
+        "profile_path": "/xhvma0NjQh8rD5sLfkWIeYt8dAl.jpg",
+        "cast_id": 3,
+        "character": "Apothecary",
+        "credit_id": "6932f6afb477777714a18a6d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58428,
+        "known_for_department": "Acting",
+        "name": "Philip Winchester",
+        "original_name": "Philip Winchester",
+        "popularity": 0.7586,
+        "profile_path": "/oc7lc2d98lM393blvmFfAGnXSMf.jpg",
+        "cast_id": 4,
+        "character": "Dick Jones",
+        "credit_id": "6932f6ba5a0d819cfcc43c3a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3042038,
+        "known_for_department": "Acting",
+        "name": "Alix Villaret",
+        "original_name": "Alix Villaret",
+        "popularity": 0.3798,
+        "profile_path": "/yUJZgLhUb3xy8vkWOS3gS9qdsot.jpg",
+        "cast_id": 5,
+        "character": "Dagger",
+        "credit_id": "6932f6c4712d7b030fa189f8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5739086,
+        "known_for_department": "Acting",
+        "name": "Ollie Roddy",
+        "original_name": "Ollie Roddy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Rubicon",
+        "credit_id": "6932f6e72feb8f1eac36e5db",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3962878,
+        "known_for_department": "Acting",
+        "name": "Kaine Buffonge",
+        "original_name": "Kaine Buffonge",
+        "popularity": 0.0569,
+        "profile_path": "/jSYyaNljaZi7ISJX0khsdm6OLXu.jpg",
+        "cast_id": 7,
+        "character": "Caliber",
+        "credit_id": "6932f6f26b055d0cb536e52c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5858810,
+        "known_for_department": "Acting",
+        "name": "Will Pierson",
+        "original_name": "Will Pierson",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Analyst",
+        "credit_id": "6932f70e66923bd698a18a49",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119224,
+        "known_for_department": "Acting",
+        "name": "Jonas Armstrong",
+        "original_name": "Jonas Armstrong",
+        "popularity": 0.9231,
+        "profile_path": "/7Ia8Dfhqa2bH43NeKSZiPZ9wHAF.jpg",
+        "cast_id": 9,
+        "character": "Vlad Kurchenko",
+        "credit_id": "6932f7203f453d21c8a18ae7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38664,
+        "known_for_department": "Acting",
+        "name": "Sullivan Stapleton",
+        "original_name": "Sullivan Stapleton",
+        "popularity": 0.8354,
+        "profile_path": "/vWadhfczxktoYQBC6TaAk6bE6Ci.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6936f2815af5486a2e70b397",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32854,
+        "known_for_department": "Acting",
+        "name": "Errol Trotman-Harewood",
+        "original_name": "Errol Trotman-Harewood",
+        "popularity": 0.1608,
+        "profile_path": "/os3qZAfBcyR076BjX8lTMgBISFs.jpg",
+        "cast_id": 16,
+        "character": "The Director",
+        "credit_id": "6967be095f8e511173487d42",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260729,
+        "known_for_department": "Acting",
+        "name": "Orlin Pavlov",
+        "original_name": "Orlin Pavlov",
+        "popularity": 0.1501,
+        "profile_path": "/ewoI6cp3qIs8FsJR8ajpRzTi7rq.jpg",
+        "cast_id": 17,
+        "character": "Yuri",
+        "credit_id": "6967be2771f310902bb1f5fe",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85511,
+        "known_for_department": "Acting",
+        "name": "Hristo Mitzkov",
+        "original_name": "Hristo Mitzkov",
+        "popularity": 0.1633,
+        "profile_path": "/kiUIdlxS6VoSX2LEiVjlSViLBs8.jpg",
+        "cast_id": 18,
+        "character": "Priest",
+        "credit_id": "6967be42ccec70fd6bec0352",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2718986,
+        "known_for_department": "Acting",
+        "name": "Max Kraus",
+        "original_name": "Max Kraus",
+        "popularity": 0.3702,
+        "profile_path": "/eNDO5cOfyZDmzhadXl4bIUp8OEW.jpg",
+        "cast_id": 19,
+        "character": "Leather Jacket",
+        "credit_id": "6967be61b94aaa151cec0204",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 201871,
+        "known_for_department": "Acting",
+        "name": "Charlotte Weston",
+        "original_name": "Charlotte Weston",
+        "popularity": 0.7675,
+        "profile_path": "/kCOVoyTG3fKRg91DRmH278kqMr6.jpg",
+        "cast_id": 20,
+        "character": "Charlotte",
+        "credit_id": "6967be74ceedc2e746b1f5c7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5616364,
+        "known_for_department": "Acting",
+        "name": "Alexsandria Ralev",
+        "original_name": "Alexsandria Ralev",
+        "popularity": 0.0352,
+        "profile_path": "/rx0ZtTYmB1UkqM0Ht5XoxSJfAvZ.jpg",
+        "cast_id": 21,
+        "character": "Barista",
+        "credit_id": "6967be8370b6b71451866555",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938865,
+        "known_for_department": "Acting",
+        "name": "Mariana Stanisheva",
+        "original_name": "Mariana Stanisheva",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Cleaning Woman",
+        "credit_id": "6967be945460ecce4d68775f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739101,
+        "known_for_department": "Acting",
+        "name": "Nathan Cooper",
+        "original_name": "Nathan Cooper",
+        "popularity": 0.2934,
+        "profile_path": "/rjkq191kx9xQF8D5zdPG95QEkcv.jpg",
+        "cast_id": 23,
+        "character": "Ivan",
+        "credit_id": "6967beaad24ce38984686f1d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069744,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Gibson",
+        "original_name": "Elizabeth Gibson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Intern Woman",
+        "credit_id": "6967bec9b935d65a62703792",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1389927,
+        "known_for_department": "Acting",
+        "name": "Dan Cade",
+        "original_name": "Dan Cade",
+        "popularity": 0.2219,
+        "profile_path": "/b5xIVO8A5HE9UXHPiyB61lVtcP1.jpg",
+        "cast_id": 25,
+        "character": "Agent Rogers",
+        "credit_id": "6967bedcceedc2e746b1f5d3",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5189432,
+        "known_for_department": "Acting",
+        "name": "Anaya Yalamov",
+        "original_name": "Anaya Yalamov",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Young Renee",
+        "credit_id": "6967beee33b4eed7926870af",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938871,
+        "known_for_department": "Acting",
+        "name": "William Smalley",
+        "original_name": "William Smalley",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Little Kid",
+        "credit_id": "6967bf089a3ff15b1b487d77",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2938291,
+        "known_for_department": "Acting",
+        "name": "Todor Todorov",
+        "original_name": "Todor Todorov",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "The Mountain",
+        "credit_id": "6967bf2a1f5090e4c27038f5",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456570,
+        "known_for_department": "Acting",
+        "name": "Anton Poriazov",
+        "original_name": "Anton Poriazov",
+        "popularity": 0.0453,
+        "profile_path": "/wzFAGn5pZOOOLC7KndmGZemYZtF.jpg",
+        "cast_id": 29,
+        "character": "Father",
+        "credit_id": "6967bf3e93be2dfa4f70385f",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938875,
+        "known_for_department": "Acting",
+        "name": "Bozhidar Hristov",
+        "original_name": "Bozhidar Hristov",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Russian Mafia Man (uncredited)",
+        "credit_id": "6967bf66adf3ac1454b1f658",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113194,
+        "known_for_department": "Crew",
+        "name": "James Bamford",
+        "original_name": "James Bamford",
+        "popularity": 0.2352,
+        "profile_path": null,
+        "credit_id": "69335863e2359bf73a2433c7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16838,
+        "known_for_department": "Production",
+        "name": "Steven Paul",
+        "original_name": "Steven Paul",
+        "popularity": 0.3244,
+        "profile_path": "/r3QqlY7B8sefjiCUAJhREuA5NJB.jpg",
+        "credit_id": "6933587ac100ac2f6605ca8d",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108846,
+        "known_for_department": "Writing",
+        "name": "J. D. Zeik",
+        "original_name": "J. D. Zeik",
+        "popularity": 0.2877,
+        "profile_path": null,
+        "credit_id": "69335885a5fa7f163448e3cb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113092,
+        "known_for_department": "Sound",
+        "name": "Rich Walters",
+        "original_name": "Rich Walters",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "credit_id": "6964fb5c59a0f630bd9348d5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542347,
+        "known_for_department": "Camera",
+        "name": "Ivan Vatsov",
+        "original_name": "Ivan Vatsov",
+        "popularity": 0.1251,
+        "profile_path": null,
+        "credit_id": "6964fb6d3af6831885d4f26a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4654,
+        "name": "undercover agent"
+      },
+      {
+        "id": 290489,
+        "name": "special power"
+      },
+      {
+        "id": 332774,
+        "name": "cia agent"
+      },
+      {
+        "id": 370644,
+        "name": "fsb agent"
+      },
+      {
+        "id": 370645,
+        "name": "special education program"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "adult": false,
+  "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1635276,
+  "imdb_id": "tt39465484",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Therapie auf vier Pfoten",
+  "overview": "In this tumultuous comedy, five eccentric dog owners seek help in dealing with their four-legged friends. Their last hope: an intensive course with the charismatic and legendary dog trainer Nodon in the Tyrolean mountains.",
+  "popularity": 11.753,
+  "poster_path": "/kZ0ntedjG2X6hZ7upzupeUe2g5n.jpg",
+  "production_companies": [
+    {
+      "id": 99,
+      "logo_path": "/62PhpTy0SrplwjcVgZsZHv0hJS4.png",
+      "name": "OLGA FILM",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It seems not everyone gets off on the right \ud835\uddbf\u0336\ud835\uddc8\u0336\ud835\uddc8\u0336\ud835\uddcd\u0336 paw ...",
+  "title": "Eat Pray Bark",
+  "video": false,
+  "vote_average": 5.66,
+  "vote_count": 75,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5644,
+        "known_for_department": "Acting",
+        "name": "Alexandra Maria Lara",
+        "original_name": "Alexandra Maria Lara",
+        "popularity": 1.6484,
+        "profile_path": "/68YNY2TfvsE9T3tcCeHDVXbnzyB.jpg",
+        "cast_id": 1,
+        "character": "Urschi / Ursula",
+        "credit_id": "699335735cc81f17f685089f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3637665,
+        "known_for_department": "Acting",
+        "name": "R\u00farik G\u00edslason",
+        "original_name": "R\u00farik G\u00edslason",
+        "popularity": 0.4779,
+        "profile_path": "/ewnb3puzCKiYtrpKDW6A3S33505.jpg",
+        "cast_id": 9,
+        "character": "Nodon / Simon",
+        "credit_id": "69ccc7c147bd3632d8a15451",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6086,
+        "known_for_department": "Acting",
+        "name": "Devid Striesow",
+        "original_name": "Devid Striesow",
+        "popularity": 0.3977,
+        "profile_path": "/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg",
+        "cast_id": 2,
+        "character": "Helmut",
+        "credit_id": "6993357a01316c44ecfa378c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1347172,
+        "known_for_department": "Acting",
+        "name": "Anna Herrmann",
+        "original_name": "Anna Herrmann",
+        "popularity": 0.2536,
+        "profile_path": "/8nzbHoIfc7kboIqySz2fEDRmVcm.jpg",
+        "cast_id": 3,
+        "character": "Babs",
+        "credit_id": "69933582111535bdd9fa3803",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198457,
+        "known_for_department": "Acting",
+        "name": "Do\u011fa G\u00fcrer",
+        "original_name": "Do\u011fa G\u00fcrer",
+        "popularity": 0.2062,
+        "profile_path": "/awakRjJm0cK3ULzmF4EiSbsg0Ux.jpg",
+        "cast_id": 8,
+        "character": "Ziggy",
+        "credit_id": "69ccc7b41970c3181bc9d570",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1964839,
+        "known_for_department": "Acting",
+        "name": "Kerim Waller",
+        "original_name": "Kerim Waller",
+        "popularity": 0.5703,
+        "profile_path": "/kYuJ2F4wfYhyCKyxx5QxD76fkmN.jpg",
+        "cast_id": 10,
+        "character": "Hakan",
+        "credit_id": "69ccc7d637905279496c2c51",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187971,
+        "known_for_department": "Acting",
+        "name": "Bill Kaulitz",
+        "original_name": "Bill Kaulitz",
+        "popularity": 0.4764,
+        "profile_path": "/s1uxDTtvHLJqwRMDQrbKAGRUd40.jpg",
+        "cast_id": 15,
+        "character": "Bill Kaulitz",
+        "credit_id": "69cdcf916880c59d8f0b8720",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48121,
+        "known_for_department": "Acting",
+        "name": "Brigitte Kren",
+        "original_name": "Brigitte Kren",
+        "popularity": 0.2794,
+        "profile_path": "/uRsNgkSO69EDcO1Kf3sriv1Pyv8.jpg",
+        "cast_id": 12,
+        "character": "Birgit",
+        "credit_id": "69cdcf264d9890e73b2f6c2f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273766,
+        "known_for_department": "Acting",
+        "name": "Martin Leutgeb",
+        "original_name": "Martin Leutgeb",
+        "popularity": 0.19,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Gustl",
+        "credit_id": "69cdcf7566360e05ab4d1a4d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324565,
+        "known_for_department": "Acting",
+        "name": "Yvonne Yung Hee",
+        "original_name": "Yvonne Yung Hee",
+        "popularity": 0.136,
+        "profile_path": "/rUeaV4kr2XskbiuRJHyWjKDYj1R.jpg",
+        "cast_id": 13,
+        "character": "Sue",
+        "credit_id": "69cdcf4766360e05ab4d1a49",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1663920,
+        "known_for_department": "Acting",
+        "name": "Catalina Navarro Kirner",
+        "original_name": "Catalina Navarro Kirner",
+        "popularity": 0.1918,
+        "profile_path": "/buL14n7dvKYZVV815ikIsEMOpCs.jpg",
+        "cast_id": 11,
+        "character": "Renate Huber",
+        "credit_id": "69cd262d35ec2f33ac87a746",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1982548,
+        "known_for_department": "Acting",
+        "name": "Jana Pareigis",
+        "original_name": "Jana Pareigis",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Moderatorin Live an Mittwoch",
+        "credit_id": "69cdd0ef06125aca5fd28b83",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2857477,
+        "known_for_department": "Acting",
+        "name": "Ingo Paulick",
+        "original_name": "Ingo Paulick",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Uber-Fahrer",
+        "credit_id": "69cdd106c56f9229340b8626",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1495002,
+        "known_for_department": "Acting",
+        "name": "Jochen Bendel",
+        "original_name": "Jochen Bendel",
+        "popularity": 0.0453,
+        "profile_path": "/fRIcKjp8l1jHJWNEPcCFIIE9zPb.jpg",
+        "cast_id": 19,
+        "character": "Moderator Morgenmagazin",
+        "credit_id": "69cdd12db382a753ae8fe669",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3205400,
+        "known_for_department": "Acting",
+        "name": "Melissa Khalaj",
+        "original_name": "Melissa Khalaj",
+        "popularity": 0.9268,
+        "profile_path": "/6mnUiLJNFz9EIgWndGk9uLe741E.jpg",
+        "cast_id": 20,
+        "character": "Moderatorin Morgenmagazin",
+        "credit_id": "69cdd1454d9890e73b2f6c3b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026022,
+        "known_for_department": "Acting",
+        "name": "Tobias Meister",
+        "original_name": "Tobias Meister",
+        "popularity": 0.082,
+        "profile_path": "/vugxtc2dZvdoINWWsFEQti7sibN.jpg",
+        "cast_id": 21,
+        "character": "Sprecher H\u00f6rbuch",
+        "credit_id": "69cdd1b30064cd282959f833",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57982,
+        "known_for_department": "Directing",
+        "name": "Marco Petry",
+        "original_name": "Marco Petry",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "69ca8df0de9e50ce7d733218",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 52643,
+        "known_for_department": "Writing",
+        "name": "Jane Ainscough",
+        "original_name": "Jane Ainscough",
+        "popularity": 0.1701,
+        "profile_path": null,
+        "credit_id": "69ccc771bfd94f9edace0536",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57982,
+        "known_for_department": "Directing",
+        "name": "Marco Petry",
+        "original_name": "Marco Petry",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "69ccc78a54f2c6b80487a612",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072092,
+        "known_for_department": "Writing",
+        "name": "Hortense Ullrich",
+        "original_name": "Hortense Ullrich",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "69ccc79d4da0e31d2d6c2d0b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1441736,
+        "known_for_department": "Camera",
+        "name": "Marc Achenbach",
+        "original_name": "Marc Achenbach",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "69cdcfc64ecfcba1fa0b860c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 325761,
+        "name": "admiring"
+      }
+    ]
+  }
+}

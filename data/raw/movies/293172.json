@@ -1,0 +1,333 @@
+{
+  "adult": false,
+  "backdrop_path": "/8VXpLIfTQr1ieqzySB9NnCkxuW5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 293172,
+  "imdb_id": "tt0152718",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La svergognata",
+  "overview": "In this movie a writer comes to stay at an island resort and gets involved with a teenage lolita  who is there with her parents and rather malicious best friend. She teases the older man mercilessly--going to a hotel and dancing with him naked and then suddenly getting dressed and running off to a party with a young American guy. But it's not so much because she is malicious, but because she is really an insecure virgin. Finally, he gives up on her after his beautiful wife (Barbara Bouchet) shows up. But the younger woman becomes jealous and is not going to give up so easily. . .",
+  "popularity": 13.0911,
+  "poster_path": "/7SfuAJik0PcLXlBPaAsE7rpKuSz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-08-17",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La svergognata",
+  "video": false,
+  "vote_average": 3.2,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25333,
+        "known_for_department": "Acting",
+        "name": "Philippe Leroy",
+        "original_name": "Philippe Leroy",
+        "popularity": 1.5321,
+        "profile_path": "/woG9lyvZSEEF4j5Kl03rSnHTW5R.jpg",
+        "cast_id": 0,
+        "character": "Fabio Lorenzi",
+        "credit_id": "541878eec3a3680ab800007a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41071,
+        "known_for_department": "Acting",
+        "name": "Leonora Fani",
+        "original_name": "Leonora Fani",
+        "popularity": 0.6326,
+        "profile_path": "/hu7B2pDSKwpRn4HMKBmWuNNX93B.jpg",
+        "cast_id": 1,
+        "character": "Ornella Bernardi",
+        "credit_id": "5418790b0e0a2624ed000061",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16021,
+        "known_for_department": "Acting",
+        "name": "Barbara Bouchet",
+        "original_name": "Barbara Bouchet",
+        "popularity": 1.2727,
+        "profile_path": "/fVrl3R8UQGFrhfuId7MRqWpnOsA.jpg",
+        "cast_id": 2,
+        "character": "Silvia Lorenzi",
+        "credit_id": "54187920c3a3680aaf000082",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041214,
+        "known_for_department": "Acting",
+        "name": "Stefano Amato",
+        "original_name": "Stefano Amato",
+        "popularity": 0.1999,
+        "profile_path": "/nUYhMNokSpWo0aqRhGlIEFnnAHB.jpg",
+        "cast_id": 3,
+        "character": "Andrea",
+        "credit_id": "54187936c3a3680abb00007c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1948073,
+        "known_for_department": "Acting",
+        "name": "Serena Cociani",
+        "original_name": "Serena Cociani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "5a419d699251411f9d045681",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189962,
+        "known_for_department": "Acting",
+        "name": "Filippo De Gara",
+        "original_name": "Filippo De Gara",
+        "popularity": 0.1555,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5a419d760e0a2620e0046be5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101127,
+        "known_for_department": "Acting",
+        "name": "Maria Pia Conte",
+        "original_name": "Maria Pia Conte",
+        "popularity": 0.3271,
+        "profile_path": "/3f9GtCWJGrBptaXX9pITHCjvHCc.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5a419d80c3a368591602f183",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98782,
+        "known_for_department": "Acting",
+        "name": "Dana Ghia",
+        "original_name": "Dana Ghia",
+        "popularity": 0.1881,
+        "profile_path": "/MYAhhRjTn9ovVGhVeMjAANVoqm.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5a419d8d0e0a264f3902e95c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042797,
+        "known_for_department": "Acting",
+        "name": "Pupo De Luca",
+        "original_name": "Pupo De Luca",
+        "popularity": 0.2559,
+        "profile_path": "/8UXYE9SUZC3wSk7tGwpHYUooeAn.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5a419d9fc3a368589002b67b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1008489,
+        "known_for_department": "Acting",
+        "name": "Dante Cleri",
+        "original_name": "Dante Cleri",
+        "popularity": 0.1433,
+        "profile_path": "/cQM8nfs0k4bdqHZmqiji4cp8jUw.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5c181c740e0a2603753e7980",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239666,
+        "known_for_department": "Acting",
+        "name": "Luigi Antonio Guerra",
+        "original_name": "Luigi Antonio Guerra",
+        "popularity": 0.2284,
+        "profile_path": "/2MH1gI5p2Zy0YUfjzeyYlexLj6U.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5c181c7dc3a36866ce389483",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27390,
+        "known_for_department": "Acting",
+        "name": "Carla Mancini",
+        "original_name": "Carla Mancini",
+        "popularity": 0.2571,
+        "profile_path": "/61VB38l1EyKB6owCrzmcxBGQM3N.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5c181c8392514132c90c81dc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197440,
+        "known_for_department": "Acting",
+        "name": "Walter Manfredi",
+        "original_name": "Walter Manfredi",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5c181c890e0a2603853e7bcb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1204162,
+        "known_for_department": "Acting",
+        "name": "Fiorella Masselli",
+        "original_name": "Fiorella Masselli",
+        "popularity": 0.0997,
+        "profile_path": "/uS7mrzVA1oXEOArca4jQVd2lco3.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5c181c980e0a26037f3e8517",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44505,
+        "known_for_department": "Sound",
+        "name": "Berto Pisano",
+        "original_name": "Berto Pisano",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "541879bd0e0a2624fa000086",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84301,
+        "known_for_department": "Writing",
+        "name": "Giorgio Mariuzzo",
+        "original_name": "Giorgio Mariuzzo",
+        "popularity": 0.1588,
+        "profile_path": "/hWsdqEFAmTCpZP9oOXjVxuXM01a.jpg",
+        "credit_id": "541879adc3a3680aac000081",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086922,
+        "known_for_department": "Crew",
+        "name": "Antonio Borghesi",
+        "original_name": "Antonio Borghesi",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "541879d10e0a26250100009f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092989,
+        "known_for_department": "Directing",
+        "name": "Giuliano Biagetti",
+        "original_name": "Giuliano Biagetti",
+        "popularity": 0.2302,
+        "profile_path": null,
+        "credit_id": "5418799c0e0a2624f700009a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092989,
+        "known_for_department": "Directing",
+        "name": "Giuliano Biagetti",
+        "original_name": "Giuliano Biagetti",
+        "popularity": 0.2302,
+        "profile_path": null,
+        "credit_id": "541879740e0a2624fe000076",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3182,
+        "name": "seduction"
+      },
+      {
+        "id": 13028,
+        "name": "writer"
+      },
+      {
+        "id": 207096,
+        "name": "ischia"
+      }
+    ]
+  }
+}

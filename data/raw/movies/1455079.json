@@ -1,0 +1,638 @@
+{
+  "adult": false,
+  "backdrop_path": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.universalpictures.com/movies/you-me-tuscany",
+  "id": 1455079,
+  "imdb_id": "tt36352591",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "You, Me & Tuscany",
+  "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fianc\u00e9e, she discovers an unexpected romance that could transform her life.",
+  "popularity": 15.1415,
+  "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+  "production_companies": [
+    {
+      "id": 49968,
+      "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+      "name": "Will Packer Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-04-09",
+  "revenue": 8796150,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She came for the pasta and got lost in the sauce.",
+  "title": "You, Me & Tuscany",
+  "video": false,
+  "vote_average": 4.833,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1735828,
+        "known_for_department": "Acting",
+        "name": "Halle Bailey",
+        "original_name": "Halle Bailey",
+        "popularity": 1.8508,
+        "profile_path": "/1Gjdlx81P7xTeVwHNIDgjgmzZq5.jpg",
+        "cast_id": 1,
+        "character": "Anna",
+        "credit_id": "67e57c52a6dd9b0808004995",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628687,
+        "known_for_department": "Acting",
+        "name": "Reg\u00e9-Jean Page",
+        "original_name": "Reg\u00e9-Jean Page",
+        "popularity": 2.9642,
+        "profile_path": "/rR5gFJ5kggfYrpFMxybwLtGPcOw.jpg",
+        "cast_id": 2,
+        "character": "Michael",
+        "credit_id": "67e57c63a6dd9b080800499b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1929372,
+        "known_for_department": "Directing",
+        "name": "Marco Calvani",
+        "original_name": "Marco Calvani",
+        "popularity": 0.2515,
+        "profile_path": "/bLwEolcLKayPOJ9t2biUgN1SH9z.jpg",
+        "cast_id": 13,
+        "character": "Lorenzo",
+        "credit_id": "68bddbe3b4b474000c1f5464",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185766,
+        "known_for_department": "Acting",
+        "name": "Lorenzo de Moor",
+        "original_name": "Lorenzo de Moor",
+        "popularity": 0.2803,
+        "profile_path": "/g4iHpi1bRfblpyFRYpTJxtVQghX.jpg",
+        "cast_id": 15,
+        "character": "Matteo",
+        "credit_id": "68bddbf53bf2b908bf8cef46",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2558609,
+        "known_for_department": "Acting",
+        "name": "Aziza Scott",
+        "original_name": "Aziza Scott",
+        "popularity": 0.4531,
+        "profile_path": "/n4RvSPbL3Hul4F2o7uzY3lDK46X.jpg",
+        "cast_id": 14,
+        "character": "Claire",
+        "credit_id": "68bddbee15d46e657098bdfb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54645,
+        "known_for_department": "Acting",
+        "name": "Nia Vardalos",
+        "original_name": "Nia Vardalos",
+        "popularity": 1.0961,
+        "profile_path": "/vEsVp3bbVG72BBPJW3ciIcsUOX5.jpg",
+        "cast_id": 34,
+        "character": "Mrs. Dunn",
+        "credit_id": "691b306ac9411249825dfeac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78681,
+        "known_for_department": "Acting",
+        "name": "Isabella Ferrari",
+        "original_name": "Isabella Ferrari",
+        "popularity": 0.5555,
+        "profile_path": "/eZkxlvM7JGIl0GkQcNS2uE8HyeB.jpg",
+        "cast_id": 33,
+        "character": "Gabriella",
+        "credit_id": "691b302de2f3f3d2565dffb4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3952040,
+        "known_for_department": "Acting",
+        "name": "Emanuele Pacca",
+        "original_name": "Emanuele Pacca",
+        "popularity": 0.172,
+        "profile_path": "/21r24OvoQqfQrJAH0yKtTWs9VAb.jpg",
+        "cast_id": 43,
+        "character": "Giuseppe",
+        "credit_id": "69ce933fdfebbdebfba63cb7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34043,
+        "known_for_department": "Acting",
+        "name": "Stefania Casini",
+        "original_name": "Stefania Casini",
+        "popularity": 0.5244,
+        "profile_path": "/aSg1jmYTV4nUhm6noY6ocP6hGUT.jpg",
+        "cast_id": 58,
+        "character": "Nonna Alessia",
+        "credit_id": "69da5f3b2ff55da17b709d9d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2448395,
+        "known_for_department": "Acting",
+        "name": "Desir\u00e9e Popper",
+        "original_name": "Desir\u00e9e Popper",
+        "popularity": 0.2842,
+        "profile_path": "/oDagbUFnKK0HS7D8w7uoZ5LUj5x.jpg",
+        "cast_id": 59,
+        "character": "Isabella",
+        "credit_id": "69da5f4e2cc5d1fb8d357cf1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1075761,
+        "known_for_department": "Acting",
+        "name": "Stella Pecollo",
+        "original_name": "Stella Pecollo",
+        "popularity": 0.075,
+        "profile_path": "/l6PplGuKHDTgVT6mwumSKXVyXEg.jpg",
+        "cast_id": 60,
+        "character": "Francesca",
+        "credit_id": "69da5f60ef7501e5271d9232",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227242,
+        "known_for_department": "Acting",
+        "name": "Paolo Sassanelli",
+        "original_name": "Paolo Sassanelli",
+        "popularity": 0.287,
+        "profile_path": "/iQNrMG857WG4rpjZrYsXK2RPXr8.jpg",
+        "cast_id": 61,
+        "character": "Vincenzo",
+        "credit_id": "69da5f73c573626d581d9227",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3511639,
+        "known_for_department": "Acting",
+        "name": "Tommaso Cassissa",
+        "original_name": "Tommaso Cassissa",
+        "popularity": 0.7574,
+        "profile_path": "/o5aat5l2vXeczhL5O4IAO0oVPe7.jpg",
+        "cast_id": 62,
+        "character": "Enzo",
+        "credit_id": "69da5f860b35bdec2a026cea",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4847283,
+        "known_for_department": "Acting",
+        "name": "Layla Belle",
+        "original_name": "Layla Belle",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Young Anna",
+        "credit_id": "69da5f9a3d027d5ea8d92b1b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6113279,
+        "known_for_department": "Acting",
+        "name": "Luca Setaccioli",
+        "original_name": "Luca Setaccioli",
+        "popularity": 0.083,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Leo",
+        "credit_id": "69da5fab1328427595372894",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6016810,
+        "known_for_department": "Acting",
+        "name": "Giulia Agosta",
+        "original_name": "Giulia Agosta",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Marcella",
+        "credit_id": "69da5fbdef7501e5271d923c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52847,
+        "known_for_department": "Acting",
+        "name": "Joy Bryant",
+        "original_name": "Joy Bryant",
+        "popularity": 0.8317,
+        "profile_path": "/baTPZOyEztjp9MdcfpiiKg48QpM.jpg",
+        "cast_id": 66,
+        "character": "Anna's Mom",
+        "credit_id": "69dada5928d08216370270ce",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59218,
+        "known_for_department": "Directing",
+        "name": "Kat Coiro",
+        "original_name": "Kat Coiro",
+        "popularity": 0.6156,
+        "profile_path": "/qDDOjHtPFvYMJuBlke5z8BSvFDo.jpg",
+        "credit_id": "67e57c8b2580eef1e8005b98",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1325800,
+        "known_for_department": "Writing",
+        "name": "Ryan Engle",
+        "original_name": "Ryan Engle",
+        "popularity": 0.2386,
+        "profile_path": "/t5tPmrn4qhYSzJIRFPwbp31coXj.jpg",
+        "credit_id": "67e57c9c421eb8c331ba5a28",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31121,
+        "known_for_department": "Production",
+        "name": "Will Packer",
+        "original_name": "Will Packer",
+        "popularity": 0.3277,
+        "profile_path": "/8dzepdXQMwpwBKtgTsyo9nbwbVE.jpg",
+        "credit_id": "688cd4df4cc73901b761e69e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2396819,
+        "known_for_department": "Production",
+        "name": "Johanna Byer",
+        "original_name": "Johanna Byer",
+        "popularity": 0.0518,
+        "profile_path": "/aLkfYG3MxbQKOWNxBRH5lJGVolx.jpg",
+        "credit_id": "688cd4e761ecb3e4d6a45b2c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1326651,
+        "known_for_department": "Art",
+        "name": "Elena Albanese",
+        "original_name": "Elena Albanese",
+        "popularity": 0.0818,
+        "profile_path": null,
+        "credit_id": "688cd50972165d6b0ef3d978",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61628,
+        "known_for_department": "Camera",
+        "name": "Danny Ruhlmann",
+        "original_name": "Danny Ruhlmann",
+        "popularity": 0.2184,
+        "profile_path": null,
+        "credit_id": "68b25a4b140789fd593cc707",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135161,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Massimo Cantini Parrini",
+        "original_name": "Massimo Cantini Parrini",
+        "popularity": 0.3919,
+        "profile_path": null,
+        "credit_id": "68b25a7dca5b10c3cd9e13e8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76467,
+        "known_for_department": "Production",
+        "name": "Scott Putman",
+        "original_name": "Scott Putman",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "68bddc4724af1eee5498bf93",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76467,
+        "known_for_department": "Production",
+        "name": "Scott Putman",
+        "original_name": "Scott Putman",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "6915dc905a5c69041b40e27b",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4500,
+        "known_for_department": "Sound",
+        "name": "John Debney",
+        "original_name": "John Debney",
+        "popularity": 0.5235,
+        "profile_path": "/iUwBpunUEdknzkRpgAyodwIEh4n.jpg",
+        "credit_id": "69470831c2b88060a27abaca",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1986907,
+        "known_for_department": "Production",
+        "name": "Annamaria Sambucco",
+        "original_name": "Annamaria Sambucco",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "69ce9fefc56f9229340b89bb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2161390,
+        "known_for_department": "Production",
+        "name": "Massimo Appolloni",
+        "original_name": "Massimo Appolloni",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "69ce9ff74ef4b22b7ea63e21",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25142,
+        "known_for_department": "Editing",
+        "name": "Troy Takaki",
+        "original_name": "Troy Takaki",
+        "popularity": 0.2462,
+        "profile_path": "/z2Qho95NLlKNSV5jtJk8T84IHy0.jpg",
+        "credit_id": "69cea016772ea38dfc9a115b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225628,
+        "known_for_department": "Editing",
+        "name": "Zene Baker",
+        "original_name": "Zene Baker",
+        "popularity": 0.3434,
+        "profile_path": "/70YBJhrAOG5Si6wUc29Am0Olyie.jpg",
+        "credit_id": "69cea01e01c75acaaf0b8a7f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462399,
+        "known_for_department": "Art",
+        "name": "Chiara Balducci",
+        "original_name": "Chiara Balducci",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "69cea03101c75acaaf0b8a85",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1993093,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katia Sisto",
+        "original_name": "Katia Sisto",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "69cea03f669eba65faa63fa8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821052,
+        "known_for_department": "Crew",
+        "name": "Emiliano Novelli",
+        "original_name": "Emiliano Novelli",
+        "popularity": 0.0883,
+        "profile_path": "/zk9LxkIe3GLr9AqLJ5KlCjMweW1.jpg",
+        "credit_id": "69cea052b60d91f08859fd82",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821052,
+        "known_for_department": "Crew",
+        "name": "Emiliano Novelli",
+        "original_name": "Emiliano Novelli",
+        "popularity": 0.0883,
+        "profile_path": "/zk9LxkIe3GLr9AqLJ5KlCjMweW1.jpg",
+        "credit_id": "69cea05667b376748d4d1d5d",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1573582,
+        "known_for_department": "Sound",
+        "name": "Gilberto Martinelli",
+        "original_name": "Gilberto Martinelli",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "69cea071794ca384460b8a52",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865478,
+        "known_for_department": "Lighting",
+        "name": "Daniele Cafolla",
+        "original_name": "Daniele Cafolla",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "69cea096b665c9ebd6a63cc2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349971,
+        "known_for_department": "Camera",
+        "name": "Sergio De Luca",
+        "original_name": "Sergio De Luca",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "69cea0b1432743ff954b52a5",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349971,
+        "known_for_department": "Camera",
+        "name": "Sergio De Luca",
+        "original_name": "Sergio De Luca",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "69cea0b6da8f10fff52f7116",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 885,
+        "name": "villa"
+      },
+      {
+        "id": 131,
+        "name": "italy"
+      },
+      {
+        "id": 5334,
+        "name": "vineyard"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 5782,
+        "name": "squatter"
+      },
+      {
+        "id": 161192,
+        "name": "tuscany, italy"
+      },
+      {
+        "id": 254244,
+        "name": "cousins"
+      },
+      {
+        "id": 295190,
+        "name": "female chef"
+      }
+    ]
+  }
+}

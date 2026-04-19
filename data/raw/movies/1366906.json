@@ -1,0 +1,758 @@
+{
+  "adult": false,
+  "backdrop_path": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1366906,
+  "imdb_id": "tt33303521",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Gates",
+  "overview": "Three friends' road trip turns terrifying when they witness a murder in a gated community. Trapped inside, hunted by residents who blame them, their bond fractures as a charismatic yet sinister patriarch closes in.",
+  "popularity": 11.9595,
+  "poster_path": "/u6hKIlDIpRkWOqTaesDzS0EOmx6.jpg",
+  "production_companies": [
+    {
+      "id": 41945,
+      "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
+      "name": "Indy Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 214050,
+      "logo_path": "/tH3zOqGk3MzCU9ZB7STpquI2Pd7.png",
+      "name": "Rebellium Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 265836,
+      "logo_path": null,
+      "name": "Core 4 Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-13",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One wrong turn. One long night.",
+  "title": "The Gates",
+  "video": false,
+  "vote_average": 6.556,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2174509,
+        "known_for_department": "Acting",
+        "name": "Mason Gooding",
+        "original_name": "Mason Gooding",
+        "popularity": 1.8542,
+        "profile_path": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg",
+        "cast_id": 1,
+        "character": "Derek",
+        "credit_id": "670204cfe4801491468580d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377458,
+        "known_for_department": "Acting",
+        "name": "Algee Smith",
+        "original_name": "Algee Smith",
+        "popularity": 0.8987,
+        "profile_path": "/8lSjFECJflwHJJGt5e7CqyItXW2.jpg",
+        "cast_id": 2,
+        "character": "Kevin",
+        "credit_id": "670204d9c3c5b3a1a8f79bc2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442955,
+        "known_for_department": "Acting",
+        "name": "Keith Powers",
+        "original_name": "Keith Powers",
+        "popularity": 0.545,
+        "profile_path": "/bfoMj1r97HnPWRchVuyJlqko6aW.jpg",
+        "cast_id": 13,
+        "character": "Tyon",
+        "credit_id": "6842fec0c8c8c5e6a1bf19b7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19210,
+        "known_for_department": "Acting",
+        "name": "James Van Der Beek",
+        "original_name": "James Van Der Beek",
+        "popularity": 1.5012,
+        "profile_path": "/romoF6aNi4v9UcUqRSElfeDvBuJ.jpg",
+        "cast_id": 14,
+        "character": "Jacob",
+        "credit_id": "6995da5c1b5537253ec84f5b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60677,
+        "known_for_department": "Acting",
+        "name": "Brad Leland",
+        "original_name": "Brad Leland",
+        "popularity": 0.6927,
+        "profile_path": "/3jWExZ1SpkMvZtZiKnfiH3HCfSp.jpg",
+        "cast_id": 3,
+        "character": "Christopher",
+        "credit_id": "670204e0925fdf925b7d2d31",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264041,
+        "known_for_department": "Acting",
+        "name": "Kylr Coffman",
+        "original_name": "Kylr Coffman",
+        "popularity": 0.2008,
+        "profile_path": "/yJByP7Umju2FjCY16ePt9wRRPTZ.jpg",
+        "cast_id": 16,
+        "character": "Officer Bobby",
+        "credit_id": "69b558bcd1cf92ccee3b8be8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1517627,
+        "known_for_department": "Acting",
+        "name": "Elle Evans",
+        "original_name": "Elle Evans",
+        "popularity": 0.2862,
+        "profile_path": "/cj3SIzn5z73IXq9GSqRgUkwaeN7.jpg",
+        "cast_id": 4,
+        "character": "Elizabeth",
+        "credit_id": "670204e9f3495d72c4f79c49",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1600083,
+        "known_for_department": "Acting",
+        "name": "Sofia Hublitz",
+        "original_name": "Sofia Hublitz",
+        "popularity": 0.8486,
+        "profile_path": "/A1nSqZXtKJwuQXDGrhmYa0CP0cZ.jpg",
+        "cast_id": 17,
+        "character": "Roxy",
+        "credit_id": "69b558d05ba6af02745a674a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983208,
+        "known_for_department": "Acting",
+        "name": "Aliyah Celeste",
+        "original_name": "Aliyah Celeste",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Julissa",
+        "credit_id": "670204ffb146282f7b8578ba",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1691870,
+        "known_for_department": "Acting",
+        "name": "Rob Gallavan",
+        "original_name": "Rob Gallavan",
+        "popularity": 0.0662,
+        "profile_path": "/qpt7h8cVL0N6636RzScuptJW2lN.jpg",
+        "cast_id": 7,
+        "character": "Officer Horton",
+        "credit_id": "6702050c7830c1301e7d20f5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3352240,
+        "known_for_department": "Acting",
+        "name": "Jaxon Noble Pickens",
+        "original_name": "Jaxon Noble Pickens",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Caleb",
+        "credit_id": "670204f4925fdf925b7d2d3c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3764471,
+        "known_for_department": "Acting",
+        "name": "Natasha Ellie",
+        "original_name": "Natasha Ellie",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kendra",
+        "credit_id": "69b5593d8e81e5b2d508e2d1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84841,
+        "known_for_department": "Acting",
+        "name": "Randy Wayne",
+        "original_name": "Randy Wayne",
+        "popularity": 0.7627,
+        "profile_path": "/p0SENcEiSxd3uy31ekcFF4xXvJP.jpg",
+        "cast_id": 19,
+        "character": "Gary",
+        "credit_id": "69b55969642d082de35c93c6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1925440,
+        "known_for_department": "Acting",
+        "name": "Shelby Simmons",
+        "original_name": "Shelby Simmons",
+        "popularity": 0.3242,
+        "profile_path": "/kyqbM3toDhGtTqp9ezYKvYV4XPM.jpg",
+        "cast_id": 20,
+        "character": "Tiffany",
+        "credit_id": "69b559904aed7296315c93a2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2562253,
+        "known_for_department": "Acting",
+        "name": "Rachel Thundat",
+        "original_name": "Rachel Thundat",
+        "popularity": 0.1068,
+        "profile_path": "/1bXtPNbDJejKMO38NCFNu4FpmhZ.jpg",
+        "cast_id": 21,
+        "character": "Shane",
+        "credit_id": "69b559a4c381c96b905c9409",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6071046,
+        "known_for_department": "Acting",
+        "name": "Isabella Betwee",
+        "original_name": "Isabella Betwee",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Nicole",
+        "credit_id": "69b559ddcc8795d48508e27f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5221420,
+        "known_for_department": "Acting",
+        "name": "Tate Talley",
+        "original_name": "Tate Talley",
+        "popularity": 0.0071,
+        "profile_path": "/8EtQEfZ7vQDEd6kNoYMHOcu4voL.jpg",
+        "cast_id": 23,
+        "character": "Preston",
+        "credit_id": "69b559f0cc8795d48508e283",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583088,
+        "known_for_department": "Acting",
+        "name": "Jack Snyder",
+        "original_name": "Jack Snyder",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Thad",
+        "credit_id": "69b55a2722f703623d70fefd",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6071050,
+        "known_for_department": "Acting",
+        "name": "Josh Sallee",
+        "original_name": "Josh Sallee",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Xavier",
+        "credit_id": "69b55a4a90b933c1645a6750",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3104421,
+        "known_for_department": "Acting",
+        "name": "Jacob Dever",
+        "original_name": "Jacob Dever",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "JD",
+        "credit_id": "69b55a6c434190378070ffae",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3835723,
+        "known_for_department": "Acting",
+        "name": "Marta Reiman",
+        "original_name": "Marta Reiman",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Sandy",
+        "credit_id": "69b55a956fbede673f731c30",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6071057,
+        "known_for_department": "Acting",
+        "name": "KImberly Jones",
+        "original_name": "KImberly Jones",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Housewife",
+        "credit_id": "69b55ab50e280e613070fe3b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1517460,
+        "known_for_department": "Acting",
+        "name": "Kerry McCormick",
+        "original_name": "Kerry McCormick",
+        "popularity": 0.0707,
+        "profile_path": "/anwYV4vHnMF0tkAL3YlI1HY4ShL.jpg",
+        "cast_id": 29,
+        "character": "Sherry",
+        "credit_id": "69b55acac381c96b905c9429",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6071059,
+        "known_for_department": "Acting",
+        "name": "Jacob Howard Sewell",
+        "original_name": "Jacob Howard Sewell",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Host",
+        "credit_id": "69b55af3074fc8b34695ecba",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867671,
+        "known_for_department": "Writing",
+        "name": "John Burr",
+        "original_name": "John Burr",
+        "popularity": 0.1546,
+        "profile_path": null,
+        "credit_id": "6702052a7830c1301e7d2128",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867671,
+        "known_for_department": "Writing",
+        "name": "John Burr",
+        "original_name": "John Burr",
+        "popularity": 0.1546,
+        "profile_path": null,
+        "credit_id": "670205317830c1301e7d2137",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84699,
+        "known_for_department": "Production",
+        "name": "Ross Kohn",
+        "original_name": "Ross Kohn",
+        "popularity": 0.2533,
+        "profile_path": "/yFaCJWQD6A2UuZQ6pDTNzCOVzYA.jpg",
+        "credit_id": "6702053d7830c1301e7d2150",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84841,
+        "known_for_department": "Acting",
+        "name": "Randy Wayne",
+        "original_name": "Randy Wayne",
+        "popularity": 0.7627,
+        "profile_path": "/p0SENcEiSxd3uy31ekcFF4xXvJP.jpg",
+        "credit_id": "6702054bf878adfed085859c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1389040,
+        "known_for_department": "Production",
+        "name": "Nancy Leopardi",
+        "original_name": "Nancy Leopardi",
+        "popularity": 0.259,
+        "profile_path": "/sFFa44fS7gMzQFHtF6lpvb3ZPwU.jpg",
+        "credit_id": "670205591592ef1ba98572aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1663700,
+        "known_for_department": "Sound",
+        "name": "Jongnic Bontemps",
+        "original_name": "Jongnic Bontemps",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "6995fced75ecea1d7f85181d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2605094,
+        "known_for_department": "Camera",
+        "name": "Ray Huang",
+        "original_name": "Ray Huang",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69b55b216db172e4c608e37f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2699538,
+        "known_for_department": "Editing",
+        "name": "Daysha Broadway",
+        "original_name": "Daysha Broadway",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "69de486b8e0c2d69289b9576",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5479354,
+        "known_for_department": "Production",
+        "name": "Michael Leon Cassutt",
+        "original_name": "Michael Leon Cassutt",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "69de487b1328427595373d85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1776162,
+        "known_for_department": "Production",
+        "name": "David Gendron",
+        "original_name": "David Gendron",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "69de488a2a025c1cbfd93f42",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1099985,
+        "known_for_department": "Production",
+        "name": "J. Todd Harris",
+        "original_name": "J. Todd Harris",
+        "popularity": 0.143,
+        "profile_path": null,
+        "credit_id": "69de489790394c04df374192",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6141732,
+        "known_for_department": "Production",
+        "name": "John Harris",
+        "original_name": "John Harris",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "69de48e68e0c2d69289b9581",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292995,
+        "known_for_department": "Production",
+        "name": "Ali Jazayeri",
+        "original_name": "Ali Jazayeri",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "69de48f5a22b8256fa37440e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367053,
+        "known_for_department": "Production",
+        "name": "Viviana Zarragoitia",
+        "original_name": "Viviana Zarragoitia",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "69de4904a22b8256fa374411",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2601027,
+        "known_for_department": "Production",
+        "name": "Talia Bella",
+        "original_name": "Talia Bella",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "69de49170bfdd4e9f2b662ba",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1967103,
+        "known_for_department": "Production",
+        "name": "Gary Glushon",
+        "original_name": "Gary Glushon",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "69de49320bfdd4e9f2b662be",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332294,
+        "known_for_department": "Production",
+        "name": "Arlie Day",
+        "original_name": "Arlie Day",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "69de49404ad9d86d7635923d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1744134,
+        "known_for_department": "Production",
+        "name": "Mike Page",
+        "original_name": "Mike Page",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "69de494f8a12ffe9f9359955",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3922141,
+        "known_for_department": "Art",
+        "name": "O'Shay Brooks",
+        "original_name": "O'Shay Brooks",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69de495cdf404bbd11c7473c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6141737,
+        "known_for_department": "Art",
+        "name": "Kristina Patterson",
+        "original_name": "Kristina Patterson",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "69de497f25c8892b8c9b901b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2037237,
+        "known_for_department": "Art",
+        "name": "Jennifer Herbel",
+        "original_name": "Jennifer Herbel",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "69de498c962001ba82c745a1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1898156,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alyssa Blair Cawthon",
+        "original_name": "Alyssa Blair Cawthon",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "69de499cdf404bbd11c74745",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5610794,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kasey Cooper",
+        "original_name": "Kasey Cooper",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69de49ae3239aae1e83595f5",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 7312,
+        "name": "road trip"
+      },
+      {
+        "id": 15155,
+        "name": "witness to murder"
+      },
+      {
+        "id": 155939,
+        "name": "group of friends"
+      },
+      {
+        "id": 181644,
+        "name": "hunted"
+      },
+      {
+        "id": 196672,
+        "name": "gated community"
+      },
+      {
+        "id": 222268,
+        "name": "escape attempt"
+      },
+      {
+        "id": 367887,
+        "name": "violent confrontation"
+      },
+      {
+        "id": 372434,
+        "name": "deadly pursuit"
+      },
+      {
+        "id": 372435,
+        "name": "hidden danger"
+      },
+      {
+        "id": 372436,
+        "name": "innocent witnesses"
+      },
+      {
+        "id": 372437,
+        "name": "wrong place wrong time"
+      },
+      {
+        "id": 372438,
+        "name": "secrets behind the gates"
+      }
+    ]
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "adult": false,
+  "backdrop_path": "/8FWC4tDWB1p006vwiubhai4a8iS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1020969,
+  "imdb_id": "tt21054736",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Teddybj\u00f8rnens Jul",
+  "overview": "While visiting a Christmas market in her Norwegian town, eight year old Mariann spots a talking teddy bear at a carnival game booth. However, when someone else wins it, she embarks on a quest to find the adorable bear that captured her heart.",
+  "popularity": 16.5551,
+  "poster_path": "/jEf96axaZhZQEu9ORVtEujBTG9p.jpg",
+  "production_companies": [
+    {
+      "id": 3079,
+      "logo_path": "/12cb7xhHlYnW4uksoVR8hp48psC.png",
+      "name": "Fantefilm",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2022-11-05",
+  "revenue": 6200000,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Teddy's Christmas",
+  "video": false,
+  "vote_average": 6.969,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3689716,
+        "known_for_department": "Acting",
+        "name": "Marte Klerck-Nilssen",
+        "original_name": "Marte Klerck-Nilssen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Mariann",
+        "credit_id": "63164549c8f3c4008257ea82",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1146077,
+        "known_for_department": "Acting",
+        "name": "John Brungot",
+        "original_name": "John Brungot",
+        "popularity": 0.2089,
+        "profile_path": "/etJW3FIzFKHIjXkTdFhXrICIYDB.jpg",
+        "cast_id": 31,
+        "character": "Teddy / Snurrebassen (voice)",
+        "credit_id": "65880e49072166677fa5b675",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2856423,
+        "known_for_department": "Acting",
+        "name": "Vegard Strand Eide",
+        "original_name": "Vegard Strand Eide",
+        "popularity": 0.0516,
+        "profile_path": "/qQ0AVbgyjgAvmEXNZbu1CG3MTji.jpg",
+        "cast_id": 35,
+        "character": "Lillebror",
+        "credit_id": "6764208be14e3bcfa74a4ddf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1471816,
+        "known_for_department": "Acting",
+        "name": "Mariann Hole",
+        "original_name": "Mariann Hole",
+        "popularity": 0.2056,
+        "profile_path": "/wadgZzLkVWNCJys0cKciLhYS7Pp.jpg",
+        "cast_id": 9,
+        "character": "Hilma",
+        "credit_id": "63164614c8f3c4008257eaa7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107543,
+        "known_for_department": "Acting",
+        "name": "Jan Gunnar R\u00f8ise",
+        "original_name": "Jan Gunnar R\u00f8ise",
+        "popularity": 0.3343,
+        "profile_path": "/2nSo5qjTPEuGNNLgdL1DaEMr6co.jpg",
+        "cast_id": 10,
+        "character": "Roger",
+        "credit_id": "6316461c326c190079d410d2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443392,
+        "known_for_department": "Acting",
+        "name": "Lene Kongsvik Johansen",
+        "original_name": "Lene Kongsvik Johansen",
+        "popularity": 0.1486,
+        "profile_path": "/5yBNqgEFxkYyN3HyZo6knLDFHI9.jpg",
+        "cast_id": 27,
+        "character": "Bolla (voice)",
+        "credit_id": "63902c2710561100b5a7ae11",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1719168,
+        "known_for_department": "Acting",
+        "name": "Nader Khademi",
+        "original_name": "Nader Khademi",
+        "popularity": 0.3622,
+        "profile_path": "/rINqPJQ7oplwfNhTd3sXtTFtZ6E.jpg",
+        "cast_id": 8,
+        "character": "Paula's Father",
+        "credit_id": "6316460dfab3fa0084c24996",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458850,
+        "known_for_department": "Acting",
+        "name": "Marianne Krogness",
+        "original_name": "Marianne Krogness",
+        "popularity": 0.125,
+        "profile_path": "/oYu6ytemywwZOjj98oolhhflrGm.jpg",
+        "cast_id": 11,
+        "character": "Grandmother",
+        "credit_id": "631646249408ec0080c6486d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145777,
+        "known_for_department": "Acting",
+        "name": "Kai Remlov",
+        "original_name": "Kai Remlov",
+        "popularity": 0.1871,
+        "profile_path": "/rTNt3qjs0IzWmLywUvOCSZwNQPf.jpg",
+        "cast_id": 12,
+        "character": "Grandfather",
+        "credit_id": "6316462c9408ec007bed8992",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107742,
+        "known_for_department": "Acting",
+        "name": "Morten Rud\u00e5",
+        "original_name": "Morten Rud\u00e5",
+        "popularity": 0.112,
+        "profile_path": "/bRd78TfwHz6ty2mY05okBaaWDQh.jpg",
+        "cast_id": 29,
+        "character": "Bodeieren",
+        "credit_id": "63902cb9f10a1a009b77019d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1937167,
+        "known_for_department": "Acting",
+        "name": "Scott Maurstad",
+        "original_name": "Scott Maurstad",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Villsvinet (voice)",
+        "credit_id": "63902c8410561100b5a7ae4d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1635796,
+        "known_for_department": "Production",
+        "name": "Ingrid Lykkeslet Str\u00f8mskag",
+        "original_name": "Ingrid Lykkeslet Str\u00f8mskag",
+        "popularity": 0.0071,
+        "profile_path": "/3kmTkB8Kw2ZlLAxTWOblkeCQ5MF.jpg",
+        "cast_id": 32,
+        "character": "Trollet (voice)",
+        "credit_id": "67620fc1581a3c0507aaec24",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575128,
+        "known_for_department": "Sound",
+        "name": "Gunn Tove Gr\u00f8nsberg",
+        "original_name": "Gunn Tove Gr\u00f8nsberg",
+        "popularity": 0.0737,
+        "profile_path": "/4FPx3mL8BaLuRGg3pUbuxfQaxJO.jpg",
+        "cast_id": 33,
+        "character": "Apen (voice)",
+        "credit_id": "67620ffde14e3bcfa74a1732",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3819269,
+        "known_for_department": "Acting",
+        "name": "Medina Iqbal",
+        "original_name": "Medina Iqbal",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Paula",
+        "credit_id": "63902c13ce6c4c007f4141be",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1241228,
+        "known_for_department": "Writing",
+        "name": "Alf Pr\u00f8ysen",
+        "original_name": "Alf Pr\u00f8ysen",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "652542550cb33516f5c69297",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311556,
+        "known_for_department": "Production",
+        "name": "Andrea Eckerbom",
+        "original_name": "Andrea Eckerbom",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "631645025f2b8d007b0ba618",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77966,
+        "known_for_department": "Writing",
+        "name": "Lars Gudmestad",
+        "original_name": "Lars Gudmestad",
+        "popularity": 0.2827,
+        "profile_path": "/5FLqK2Dmy8YC1RxU9PJYDSRDq3x.jpg",
+        "credit_id": "6390286e10561100cbc13d79",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79323,
+        "known_for_department": "Writing",
+        "name": "Harald Rosenl\u00f8w-Eeg",
+        "original_name": "Harald Rosenl\u00f8w-Eeg",
+        "popularity": 0.3621,
+        "profile_path": "/wDyi6HjV1kjoZDYF7f7rpTtkiP4.jpg",
+        "credit_id": "6390287f105611007f3473a7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497493,
+        "known_for_department": "Production",
+        "name": "Thea Benedikte Kevin Karlsen",
+        "original_name": "Thea Benedikte Kevin Karlsen",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "639028c2fd140b00999c7cb8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 934171,
+        "known_for_department": "Production",
+        "name": "Martin Sundland",
+        "original_name": "Martin Sundland",
+        "popularity": 0.1752,
+        "profile_path": "/wofG0SUSOkKnqn3CdpHi8CIk308.jpg",
+        "credit_id": "639028dbfd140b00b31909a3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578343,
+        "known_for_department": "Acting",
+        "name": "Stein Johan Grieg Halvorsen",
+        "original_name": "Stein Johan Grieg Halvorsen",
+        "popularity": 0.1253,
+        "profile_path": "/iy1IYpyQIOnf9BlBpnACgnoCerC.jpg",
+        "credit_id": "639028f3f10a1a009b76ff56",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1533290,
+        "known_for_department": "Sound",
+        "name": "Eyvind Andreas Skeie",
+        "original_name": "Eyvind Andreas Skeie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63902905ce6c4c009b9eb34e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67000,
+        "known_for_department": "Camera",
+        "name": "Kjell Vassdal",
+        "original_name": "Kjell Vassdal",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6390291a10561100cbc13dcb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708818,
+        "known_for_department": "Editing",
+        "name": "Elise Solberg",
+        "original_name": "Elise Solberg",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "6390295abc8abc00e0d488eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1411046,
+        "known_for_department": "Editing",
+        "name": "Cem Ozkilicci",
+        "original_name": "Cem Ozkilicci",
+        "popularity": 0.0777,
+        "profile_path": "/cx6zvp9INvGH3PSIf3BG0ZQhBNf.jpg",
+        "credit_id": "639029718566d2009db18663",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156998,
+        "known_for_department": "Art",
+        "name": "Merete Bostr\u00f6m",
+        "original_name": "Merete Bostr\u00f6m",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63902988ce6c4c008cf5d9ed",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117524,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sofie Rage Larsen",
+        "original_name": "Sofie Rage Larsen",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "credit_id": "639029a4bbe1dd00c192dd2b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575128,
+        "known_for_department": "Sound",
+        "name": "Gunn Tove Gr\u00f8nsberg",
+        "original_name": "Gunn Tove Gr\u00f8nsberg",
+        "popularity": 0.0737,
+        "profile_path": "/4FPx3mL8BaLuRGg3pUbuxfQaxJO.jpg",
+        "credit_id": "639029bff36a32009654e66b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2568603,
+        "known_for_department": "Sound",
+        "name": "\u00d8yvind Planting",
+        "original_name": "\u00d8yvind Planting",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "639029d6fd140b007d0fa28f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 158162,
+        "name": "teddy bear"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      }
+    ]
+  }
+}

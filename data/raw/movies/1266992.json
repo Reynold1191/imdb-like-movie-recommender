@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": "/s4su6J8opkWW9ibqfBdG6oae5iw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1266992,
+  "imdb_id": "tt32227204",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Balinsasayaw",
+  "overview": "A rich woman marries a charming womanizer who conspires with his wife\u2019s best friend. When all the revelations are exposed, the tables suddenly turn.",
+  "popularity": 32.6294,
+  "poster_path": "/5gotyf6pPf9ZbDSW0yBLXMpDmmP.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-05-17",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Balinsasayaw",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4012042,
+        "known_for_department": "Acting",
+        "name": "Apple Dy",
+        "original_name": "Apple Dy",
+        "popularity": 4.7389,
+        "profile_path": "/oKbUdpCiH4IIExuq3U3UbkjtLSb.jpg",
+        "cast_id": 1,
+        "character": "Ivy",
+        "credit_id": "6608525f8a0e9b017c4f7852",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3913173,
+        "known_for_department": "Acting",
+        "name": "Aiko Garcia",
+        "original_name": "Aiko Garcia",
+        "popularity": 2.3447,
+        "profile_path": "/jZkiB3Db7kipQzmukIEAudlGFNN.jpg",
+        "cast_id": 2,
+        "character": "Rowena",
+        "credit_id": "6608526ad4fe04017c297a6b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1496209,
+        "known_for_department": "Acting",
+        "name": "Benz Sangalang",
+        "original_name": "Benz Sangalang",
+        "popularity": 0.6152,
+        "profile_path": "/9sEDlH32QXpvTmMXNszLlWFgEGu.jpg",
+        "cast_id": 4,
+        "character": "Carlo",
+        "credit_id": "662dc648d96c3c012298860e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4376297,
+        "known_for_department": "Acting",
+        "name": "Jonica Lazo",
+        "original_name": "Jonica Lazo",
+        "popularity": 0.2626,
+        "profile_path": "/mxOqs2l9J0g2ZMZgKWZnOGlaKwT.jpg",
+        "cast_id": 5,
+        "character": "Sandra",
+        "credit_id": "664287b663f92667287c9f3e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4012043,
+        "known_for_department": "Acting",
+        "name": "Aria Bench",
+        "original_name": "Aria Bench",
+        "popularity": 0.3954,
+        "profile_path": "/1M3C8WG2DtHqvNyV2AdVUzFqsnW.jpg",
+        "cast_id": 6,
+        "character": "Mona",
+        "credit_id": "664287dcf9f82502c17ca05c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4680507,
+        "known_for_department": "Acting",
+        "name": "Izza Watanabe",
+        "original_name": "Izza Watanabe",
+        "popularity": 0.3202,
+        "profile_path": "/yXvQvG6lVdBDm8mu3QzbN41Ongl.jpg",
+        "cast_id": 7,
+        "character": "Let Let",
+        "credit_id": "664288013765cfeab8d20ef2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4781275,
+        "known_for_department": "Acting",
+        "name": "Marc Capilador",
+        "original_name": "Marc Capilador",
+        "popularity": 0.0803,
+        "profile_path": "/edUtB7SgfNZckZuYRJGlyKbuXeP.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "66710489240640d65583c678",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4207773,
+        "known_for_department": "Directing",
+        "name": "Rodante Pajemna Jr.",
+        "original_name": "Rodante Pajemna Jr.",
+        "popularity": 0.8133,
+        "profile_path": "/db1ocKoW8iXE6BrjnMnW6zr7eLS.jpg",
+        "credit_id": "67f3fa4531c9f27299ad2653",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5385484,
+        "known_for_department": "Crew",
+        "name": "Rommel Jacinto",
+        "original_name": "Rommel Jacinto",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "680600f3b659822812ee45a6",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155262,
+        "name": "threesome"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 264386,
+        "name": "lesbian"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      },
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

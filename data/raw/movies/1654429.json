@@ -1,0 +1,422 @@
+{
+  "adult": false,
+  "backdrop_path": "/6yNo2KERx4BaKfvnoVe8WEXjW1W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1654429,
+  "imdb_id": "tt39389881",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "\u626b\u6076",
+  "overview": "A detective and a vengeful survivor hunt a fugitive serial killer who resurfaces to commit one last desperate crime.",
+  "popularity": 11.7193,
+  "poster_path": "/o4Bq8KtU9hNdxPQOQFlgOC82HRp.jpg",
+  "production_companies": [
+    {
+      "id": 74307,
+      "logo_path": null,
+      "name": "iQiyi Motion Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2026-03-20",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crush The Wicked",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2086256,
+        "known_for_department": "Acting",
+        "name": "Pan Binlong",
+        "original_name": "\u6f58\u658c\u9f99",
+        "popularity": 0.9704,
+        "profile_path": "/tZqn7yTFQMiMa2VFRojb3NOf311.jpg",
+        "cast_id": 1,
+        "character": "Wu Xiaoguang",
+        "credit_id": "69bbce6bf57c9844d4aafc11",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303558,
+        "known_for_department": "Acting",
+        "name": "Bao Bei'er",
+        "original_name": "\u5305\u8d1d\u5c14",
+        "popularity": 2.0903,
+        "profile_path": "/2wlt5nOKPT7W00NYioLCbjMzzUK.jpg",
+        "cast_id": 2,
+        "character": "Zhang Bin",
+        "credit_id": "69bbce81a15bacc1cc3b9c03",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2440952,
+        "known_for_department": "Acting",
+        "name": "Zhao Runnan",
+        "original_name": "\u8d75\u6da6\u5357",
+        "popularity": 0.7183,
+        "profile_path": "/bifZzJ7bySkF3rTjoRx6vLazgp1.jpg",
+        "cast_id": 3,
+        "character": "Guan Chao",
+        "credit_id": "69bbce89abb6daaa8e57d9be",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1149923,
+        "known_for_department": "Acting",
+        "name": "Clara Lee",
+        "original_name": "\ud074\ub77c\ub77c",
+        "popularity": 2.9012,
+        "profile_path": "/rCu6AzXrPpuAC5THKlO4EQFRGOb.jpg",
+        "cast_id": 4,
+        "character": "Wu Qianqian",
+        "credit_id": "69bbcebf26e81775a62c9a2a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1745409,
+        "known_for_department": "Acting",
+        "name": "Zhou Dayong",
+        "original_name": "Zhou Dayong",
+        "popularity": 0.2646,
+        "profile_path": "/dQdpnDxi1IVTEhVxDG0BTUFxq3q.jpg",
+        "cast_id": 5,
+        "character": "Liu Xiaoming",
+        "credit_id": "69bbcedee99f85df7223d871",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3613013,
+        "known_for_department": "Acting",
+        "name": "Yu Bolin",
+        "original_name": "\u4e8e\u67cf\u6797",
+        "popularity": 0.467,
+        "profile_path": "/hHGBPgc5K134wuxgp9R0Zt2v0qb.jpg",
+        "cast_id": 6,
+        "character": "Da Yu",
+        "credit_id": "69bbcee7d952b02293e133db",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3216987,
+        "known_for_department": "Acting",
+        "name": "Guo Ziheng",
+        "original_name": "\u90ed\u5b50\u6052",
+        "popularity": 0.3621,
+        "profile_path": "/l65gtWBL0doHiDRSQdTN9YyjqCJ.jpg",
+        "cast_id": 7,
+        "character": "Yao Baiming (Yao Ji)",
+        "credit_id": "69bbceef209460736923d7df",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2719864,
+        "known_for_department": "Acting",
+        "name": "Hou Haoran",
+        "original_name": "Hou Haoran",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Liang Xiaochun",
+        "credit_id": "69bbcef759fd3bdf98a9860a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1054335,
+        "known_for_department": "Acting",
+        "name": "Ashton Chen",
+        "original_name": "\u91ca\u5c0f\u9f99",
+        "popularity": 2.3573,
+        "profile_path": "/v4WAFHLVHkEO3Rvcq6lMxI5Bfhl.jpg",
+        "cast_id": 9,
+        "character": "Guan Lin",
+        "credit_id": "69bbcf02a15bacc1cc3b9c5a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254216,
+        "known_for_department": "Acting",
+        "name": "Kent Tong Chun-Yip",
+        "original_name": "\u6e6f\u93ae\u696d",
+        "popularity": 1.494,
+        "profile_path": "/r6p6QSyynm0b1WZ5H9PCh5jR9sy.jpg",
+        "cast_id": 10,
+        "character": "Shen Ye",
+        "credit_id": "69bbcf0b7d78dcf5362c99ef",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128027,
+        "known_for_department": "Acting",
+        "name": "Jiu Kong",
+        "original_name": "\u4e5d\u5b54",
+        "popularity": 1.056,
+        "profile_path": "/eGk2ixDt6db9vIdUc0P8TB3tvbJ.jpg",
+        "cast_id": 11,
+        "character": "Jiu Ge",
+        "credit_id": "69bbcf15f5db1a83e4e13374",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1929381,
+        "known_for_department": "Acting",
+        "name": "Chang Cheng",
+        "original_name": "\u5e38\u92ee",
+        "popularity": 0.706,
+        "profile_path": "/k3dRibJfoO04lfIBv0RVDibZFP7.jpg",
+        "cast_id": 12,
+        "character": "Chief of Police",
+        "credit_id": "69bbcf231f2e6c3b3ee13327",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156587,
+        "known_for_department": "Acting",
+        "name": "Jeana Ho Pui-Yu",
+        "original_name": "\u4f55\u4f69\u745c",
+        "popularity": 1.9144,
+        "profile_path": "/mgS0BYLjFzpXfsyMbQbWrchQZpA.jpg",
+        "cast_id": 13,
+        "character": "Madam",
+        "credit_id": "69bbcf2acd3aeb5ee023d7fa",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3857245,
+        "known_for_department": "Acting",
+        "name": "Yang Dachuan",
+        "original_name": "Yang Dachuan",
+        "popularity": 0.1075,
+        "profile_path": "/pbD7nws0evraNmmWuOFtNrosyZl.jpg",
+        "cast_id": 23,
+        "character": "Wang Tieqiang",
+        "credit_id": "69bd5b6293be18a6d65fb62e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2397163,
+        "known_for_department": "Acting",
+        "name": "Wei Ziqian",
+        "original_name": "\u9b4f\u5b50\u5343",
+        "popularity": 0.3464,
+        "profile_path": "/dUNKdevA08lHElrFq3KDyqsFFlN.jpg",
+        "cast_id": 24,
+        "character": "Lao Sun",
+        "credit_id": "69bd5b781cdd62dae0ee3305",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2581745,
+        "known_for_department": "Acting",
+        "name": "Sun Zhengyu",
+        "original_name": "\u5b59\u5f81\u5b87",
+        "popularity": 0.4048,
+        "profile_path": "/pc0j6VEICUcwB3ibWGj1gYRaMjh.jpg",
+        "cast_id": 25,
+        "character": "Small Shop Owner",
+        "credit_id": "69bd5b91f2c5a8d0ac6e579c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3913982,
+        "known_for_department": "Acting",
+        "name": "Chen Xianmin",
+        "original_name": "\u9648\u5148\u6c11",
+        "popularity": 0.4338,
+        "profile_path": "/da7oobGdPUJOazHP1kn3jE7HZWS.jpg",
+        "cast_id": 26,
+        "character": "Wang Dajun",
+        "credit_id": "69bd5ba6f8e166a4d97c2103",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5966338,
+        "known_for_department": "Acting",
+        "name": "Li Xianghongyu",
+        "original_name": "\u674e\u5411\u9e3f\u5b87",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Teenager Guan Chao",
+        "credit_id": "69bd5bd9560b701fa16e58f4",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3534623,
+        "known_for_department": "Directing",
+        "name": "Cheng Siyi",
+        "original_name": "\u6210\u601d\u6bc5",
+        "popularity": 1.0805,
+        "profile_path": null,
+        "credit_id": "69bbcf3782dccd430c00f300",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3111282,
+        "known_for_department": "Production",
+        "name": "Gong Yu",
+        "original_name": "\u9f9a\u5b87",
+        "popularity": 0.9937,
+        "profile_path": "/nEGJzzpTynsJpbxETWpSU1pHZaX.jpg",
+        "credit_id": "69bd34a07ad9aa12fd45f433",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3302935,
+        "known_for_department": "Production",
+        "name": "Wang Xiaohui",
+        "original_name": "\u738b\u6653\u6656",
+        "popularity": 0.3274,
+        "profile_path": "/ahRvsQbsrPnZvJHwltIqRlg3h7M.jpg",
+        "credit_id": "69bd34ca7ad9aa12fd45f436",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1355345,
+        "known_for_department": "Production",
+        "name": "Jerry Ye",
+        "original_name": "\u8449\u752f",
+        "popularity": 0.1121,
+        "profile_path": "/8zLzNg4TO9dEScegzzS0ibWrHPz.jpg",
+        "credit_id": "69bd34e736b99693fc7c2106",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5491477,
+        "known_for_department": "Production",
+        "name": "Qinshu Zuo",
+        "original_name": "Qinshu Zuo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69bd35f5e7c605b32d8c2051",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1760690,
+        "known_for_department": "Writing",
+        "name": "Yifan Shi",
+        "original_name": "Yifan Shi",
+        "popularity": 0.1098,
+        "profile_path": "/ndy7M6ooLDlpvAsNumq57861c21.jpg",
+        "credit_id": "69bd367d775b82798eea3a5b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5250925,
+        "known_for_department": "Camera",
+        "name": "Ma Erkang",
+        "original_name": "\u9a6c\u5c14\u5eb7",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "69bd3696c7cc9b4e7b06e6a5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372189,
+        "known_for_department": "Directing",
+        "name": "Guo Yulong",
+        "original_name": "\u90ed\u7389\u9f99",
+        "popularity": 0.3856,
+        "profile_path": null,
+        "credit_id": "69bd36f274f12ac96606e74b",
+        "department": "Directing",
+        "job": "Action Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

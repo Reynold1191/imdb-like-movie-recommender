@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/gSVk4r8Q4R8aeGY0hhEG3bE0QzL.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1252428,
+  "imdb_id": "tt11668530",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "\u72c2\u87d2\u4e4b\u707e",
+  "overview": "A struggling circus crew gets deceived by its former partner, as it embarks on a tour in Thailand. During the journey through a Southeast Asian rainforest, they encounter attacks by a giant python. They meet a mysterious man named Jeff who offers to help, but they soon realize he's a poacher. As they search for Jeff's boat, they face life-and-death struggles with the python and Jeff himself.",
+  "popularity": 10.4371,
+  "poster_path": "/pPfsEXzfk2URkQ1OxhUShAXdxMr.jpg",
+  "production_companies": [
+    {
+      "id": 150781,
+      "logo_path": null,
+      "name": "Xiang Brothers Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2024-03-01",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anaconda",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 136,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2143638,
+        "known_for_department": "Acting",
+        "name": "Nita Hsia Jo-Yen",
+        "original_name": "\u590f\u82e5\u598d",
+        "popularity": 1.6698,
+        "profile_path": "/lwrHEhClNqpCX5TBWecbDkspqDf.jpg",
+        "cast_id": 4,
+        "character": "Gong Lan Lan",
+        "credit_id": "65e1732ddaf57c01629bfe7f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74196,
+        "known_for_department": "Acting",
+        "name": "Terence Yin Chi-Wai",
+        "original_name": "\u5c39\u5b50\u7dad",
+        "popularity": 1.6084,
+        "profile_path": "/oMM2WF0hqqel4OJJMyUHZW9feT6.jpg",
+        "cast_id": 3,
+        "character": "Jeff",
+        "credit_id": "65e172ebdaf57c01859da463",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3349217,
+        "known_for_department": "Acting",
+        "name": "Wang Xingchen",
+        "original_name": "\u738b\u661f\u8fb0",
+        "popularity": 3.2278,
+        "profile_path": "/cyraTe5jvCHnko5MNMg9vEn9mhO.jpg",
+        "cast_id": 5,
+        "character": "Ali",
+        "credit_id": "65e1733cdaf57c01629bfe8d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1395297,
+        "known_for_department": "Acting",
+        "name": "Ken Lok Tat-Wah",
+        "original_name": "\u99f1\u9054\u83ef",
+        "popularity": 1.2756,
+        "profile_path": "/j1omPKdvfWNnDEoRc8Or7e8Zw1J.jpg",
+        "cast_id": 6,
+        "character": "Zhang Tianshi",
+        "credit_id": "65e1734b6c449c0186fa233e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564834,
+        "known_for_department": "Acting",
+        "name": "Paul Che Biu-Law",
+        "original_name": "\u8eca\u4fdd\u7f85",
+        "popularity": 1.1956,
+        "profile_path": "/qDiFHuBJtIyq2bWkctvu87L4pWc.jpg",
+        "cast_id": 7,
+        "character": "Captain Sarai",
+        "credit_id": "660ad8eda0be28016371d235",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2984592,
+        "known_for_department": "Acting",
+        "name": "Wang Zirun",
+        "original_name": "Wang Zirun",
+        "popularity": 0.3034,
+        "profile_path": "/1XHuFKPtm81oZHzzDudGvFYa8tC.jpg",
+        "cast_id": 8,
+        "character": "Jia Peng",
+        "credit_id": "661f59d321621b017df1bf21",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2696467,
+        "known_for_department": "Acting",
+        "name": "Xu Shaohang",
+        "original_name": "\u5f90\u7ecd\u822a",
+        "popularity": 0.5609,
+        "profile_path": "/rWNPw4WOyGRbKeudmxWj3182K85.jpg",
+        "cast_id": 9,
+        "character": "Gold Liang",
+        "credit_id": "661f59eca6fdaa014a6a4638",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128027,
+        "known_for_department": "Acting",
+        "name": "Jiu Kong",
+        "original_name": "\u4e5d\u5b54",
+        "popularity": 1.056,
+        "profile_path": "/eGk2ixDt6db9vIdUc0P8TB3tvbJ.jpg",
+        "cast_id": 10,
+        "character": "Circus Boss",
+        "credit_id": "662a66b750f7ca00b6c89248",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5204324,
+        "known_for_department": "Acting",
+        "name": "Wang Gang",
+        "original_name": "Wang Gang",
+        "popularity": 0.2117,
+        "profile_path": "/99M0PCRpjFn4wQMtmBzsuvubEpU.jpg",
+        "cast_id": 12,
+        "character": "Da Jiao",
+        "credit_id": "6796277625d2980fb023e409",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235550,
+        "known_for_department": "Directing",
+        "name": "Xiang Qiuliang",
+        "original_name": "Xiang Qiuliang",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "credit_id": "65e170fca806730184aac23f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235551,
+        "known_for_department": "Directing",
+        "name": "Xiang Hesheng",
+        "original_name": "Xiang Hesheng",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "credit_id": "65e1713041a5610186836f7b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4674361,
+        "known_for_department": "Writing",
+        "name": "FOXFOXBEE",
+        "original_name": "FOXFOXBEE",
+        "popularity": 0.1596,
+        "profile_path": null,
+        "credit_id": "662a678050f7ca00b5c893d6",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5160,
+        "name": "animal attack"
+      },
+      {
+        "id": 3891,
+        "name": "giant snake"
+      },
+      {
+        "id": 3434,
+        "name": "thailand"
+      },
+      {
+        "id": 9714,
+        "name": "remake"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 166478,
+        "name": "python"
+      },
+      {
+        "id": 180550,
+        "name": "rainforest"
+      }
+    ]
+  }
+}

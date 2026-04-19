@@ -1,0 +1,598 @@
+{
+  "adult": false,
+  "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+  "belongs_to_collection": {
+    "id": 1449595,
+    "name": "Ne Zha Collection",
+    "poster_path": "/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
+    "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+  },
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://a24films.com/films/ne-zha-2",
+  "id": 980477,
+  "imdb_id": "tt34956443",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u95f9\u6d77",
+  "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+  "popularity": 20.8024,
+  "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+  "production_companies": [
+    {
+      "id": 167789,
+      "logo_path": null,
+      "name": "Chengdu Coco Cartoon",
+      "origin_country": "CN"
+    },
+    {
+      "id": 17818,
+      "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 161769,
+      "logo_path": null,
+      "name": "Beijing Enlight Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 273292,
+      "logo_path": null,
+      "name": "Chengdu Zizai Jingjie Culture Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 273293,
+      "logo_path": null,
+      "name": "Beijing Coloroom Technology",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-01-29",
+  "revenue": 2259822417,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Witness a hero reborn.",
+  "title": "Ne Zha 2",
+  "video": false,
+  "vote_average": 8.12,
+  "vote_count": 648,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2367355,
+        "known_for_department": "Acting",
+        "name": "Lu Yanting",
+        "original_name": "\u5415\u8273\u5a77",
+        "popularity": 1.0489,
+        "profile_path": "/vKpOzPutTaPf03rWXiLuK8R2K3B.jpg",
+        "cast_id": 38,
+        "character": "Young Nezha (voice)",
+        "credit_id": "687f9999274b091f76529490",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367356,
+        "known_for_department": "Acting",
+        "name": "Joseph",
+        "original_name": "\u56e7\u68ee\u745f\u592b",
+        "popularity": 0.7563,
+        "profile_path": "/1TgCL0mlekWivRNo1voCwUZ8I5s.jpg",
+        "cast_id": 4,
+        "character": "Youth Nezha / Jie Jie Shou Left (voice)",
+        "credit_id": "6789fbfaa64feb16c91d7752",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368846,
+        "known_for_department": "Acting",
+        "name": "Han Mo",
+        "original_name": "\u701a\u58a8",
+        "popularity": 0.8006,
+        "profile_path": "/6Ueom0Y4pjIG9B6zjQlfIbgcGhH.jpg",
+        "cast_id": 5,
+        "character": "Ao Bing (voice)",
+        "credit_id": "6789fc0729071c36ac9769b0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368848,
+        "known_for_department": "Acting",
+        "name": "Chen Hao",
+        "original_name": "\u9648\u6d69",
+        "popularity": 1.0388,
+        "profile_path": "/eBZJW1NCBFDh3U3xImf0vCCnDpy.jpg",
+        "cast_id": 6,
+        "character": "Li Jing (voice)",
+        "credit_id": "6789fc1529071c36ac9769b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2368849,
+        "known_for_department": "Acting",
+        "name": "Lu Qi",
+        "original_name": "\u7eff\u7eee",
+        "popularity": 0.824,
+        "profile_path": "/eGoSeaM1c6KCLiRIqM8LJq5S5L5.jpg",
+        "cast_id": 7,
+        "character": "Mrs. Yin (voice)",
+        "credit_id": "6789fc3eb9d1d10ef197a8cb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368857,
+        "known_for_department": "Acting",
+        "name": "Zhang Jiaming",
+        "original_name": "\u5f20\u73c8\u94ed",
+        "popularity": 0.7415,
+        "profile_path": "/nFPxvqQLuDUpYgFiKRFkH0sX20P.jpg",
+        "cast_id": 8,
+        "character": "Taiyi Zhenren (voice)",
+        "credit_id": "67a2285ba45287b7fde2e4b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574893,
+        "known_for_department": "Acting",
+        "name": "Yang Wei",
+        "original_name": "Yang Wei",
+        "popularity": 0.4153,
+        "profile_path": "/rTi0M7yePiL3NqEGg5pTL7x56De.jpg",
+        "cast_id": 9,
+        "character": "Shen Gongbao (voice)",
+        "credit_id": "67a228710abccc3b39262173",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129530,
+        "known_for_department": "Acting",
+        "name": "Wang Deshun",
+        "original_name": "\u738b\u5fb7\u987a",
+        "popularity": 1.2925,
+        "profile_path": "/yTmSmUH3CdEhU1zYd3maDg3ipBZ.jpg",
+        "cast_id": 10,
+        "character": "Wu Liang Xian Weng (voice)",
+        "credit_id": "67a22885eea89adf0902ff54",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4927413,
+        "known_for_department": "Acting",
+        "name": "Yu Chen",
+        "original_name": "\u96e8\u8fb0",
+        "popularity": 0.5028,
+        "profile_path": "/zZ15ZOUpH7yNZ5Rz71l7YUhveMN.jpg",
+        "cast_id": 39,
+        "character": "Longwang of the East Sea Ao Guang / Seller (voice)",
+        "credit_id": "68f5c6055fa26d4115101c99",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4926013,
+        "known_for_department": "Acting",
+        "name": "Li Nan",
+        "original_name": "\u674e\u5357",
+        "popularity": 0.2034,
+        "profile_path": "/oHz2xKSBwNddOuOr8oylMlo6LL5.jpg",
+        "cast_id": 40,
+        "character": "Longwang of the East Sea (voice)",
+        "credit_id": "68f5c61273140968cb69146f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5224789,
+        "known_for_department": "Acting",
+        "name": "Zhou Yongxi",
+        "original_name": "Zhou Yongxi",
+        "popularity": 0.0744,
+        "profile_path": "/8wjA8e2JOk4C11cGwqCo7uRLPem.jpg",
+        "cast_id": 41,
+        "character": "Xi Hai Long Wang Ao Run (voice)",
+        "credit_id": "68f5c61fa883fbefa297f6e6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4360810,
+        "known_for_department": "Acting",
+        "name": "Yuze Han",
+        "original_name": "\u97e9\u96e8\u6cfd",
+        "popularity": 0.2224,
+        "profile_path": "/aqiJdoNXynr72i9548Hrb1QdBRb.jpg",
+        "cast_id": 42,
+        "character": "Ao Shun, Beihai Longwang / Marmot  / Muzha (voice)",
+        "credit_id": "68f5c62c79e07a8921101d40",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224795,
+        "known_for_department": "Acting",
+        "name": "Nan Yu",
+        "original_name": "Nan Yu",
+        "popularity": 0.0214,
+        "profile_path": "/eXmIbypDrXnLDmSvafPrADghAR2.jpg",
+        "cast_id": 43,
+        "character": "Nan Hai Long Wang Ao Qin (voice)",
+        "credit_id": "68f5c63bbeb84b26b369144e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5224799,
+        "known_for_department": "Acting",
+        "name": "Zhang Yunqi",
+        "original_name": "Zhang Yunqi",
+        "popularity": 0.0759,
+        "profile_path": "/12BKdubMrQrrHlDPCc2DnPpkwRs.jpg",
+        "cast_id": 44,
+        "character": "Deer Child (voice)",
+        "credit_id": "68f5c648c8a4bb8115cd0d0e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3254572,
+        "known_for_department": "Acting",
+        "name": "Xingliner",
+        "original_name": "Xingliner",
+        "popularity": 0.1344,
+        "profile_path": "/kAwo90XvibPmibd0XyWgR48tJBA.jpg",
+        "cast_id": 45,
+        "character": "Crane Child (voice)",
+        "credit_id": "68f5c6551375ce5bfe3a34b9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224801,
+        "known_for_department": "Acting",
+        "name": "Wang Zhixing",
+        "original_name": "Wang Zhixing",
+        "popularity": 0.0362,
+        "profile_path": "/lx712Gy38uJHkkkdYuKKizagYDg.jpg",
+        "cast_id": 46,
+        "character": "Shen Xiaobao (voice)",
+        "credit_id": "68f5c66414a78f95ae97f768",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224803,
+        "known_for_department": "Acting",
+        "name": "Zhang Ji",
+        "original_name": "Zhang Ji",
+        "popularity": 0.0,
+        "profile_path": "/9Fqf1PxiG3R30sOK78ZLJSmnwQN.jpg",
+        "cast_id": 47,
+        "character": "Shen Zhengdao (voice)",
+        "credit_id": "68f5c67a8f281e122e97f707",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224804,
+        "known_for_department": "Acting",
+        "name": "Liang Sheng",
+        "original_name": "Liang Sheng",
+        "popularity": 0.1741,
+        "profile_path": "/otx91zWoMSRExzDrPhLesXvwpON.jpg",
+        "cast_id": 48,
+        "character": "Mouse / Dao Xing Xian Zun (voice)",
+        "credit_id": "68f5c69014a78f95ae97f76c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3791131,
+        "known_for_department": "Acting",
+        "name": "Huan Ting",
+        "original_name": "\u5e7b\u542c",
+        "popularity": 0.0409,
+        "profile_path": "/iIZokkC5evrUievNheuvjD2qx8K.jpg",
+        "cast_id": 49,
+        "character": "Mirror / Ci Hang Dao Ren (voice)",
+        "credit_id": "68f5c6a049b44a7ba669147d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791123,
+        "known_for_department": "Acting",
+        "name": "Ling Qi",
+        "original_name": "\u96f6\u67d2",
+        "popularity": 0.2301,
+        "profile_path": "/3G6kVzgzio83HXpgwoEoynsCYIo.jpg",
+        "cast_id": 50,
+        "character": "Jie Jie Shou Right / Huanglong Zhenren (voice)",
+        "credit_id": "68f5c6aec7e31f1409cd0d02",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191795,
+        "known_for_department": "Acting",
+        "name": "Gong Geer",
+        "original_name": "\u9f9a\u683c\u5c14",
+        "popularity": 0.6795,
+        "profile_path": "/iefh3KyxdBx4RWYaolg7z2ZD3iK.jpg",
+        "cast_id": 51,
+        "character": "Fish Monster / Uncle Picking Lotus Roots / Aunt Picking Lotus Roots (voice)",
+        "credit_id": "68f5c6cec8a4bb8115cd0d11",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5224806,
+        "known_for_department": "Acting",
+        "name": "Chen Houlin",
+        "original_name": "Chen Houlin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Shark Monster / Qingxu Daode Zhenjun (voice)",
+        "credit_id": "68f5c6dd3c672d758bf5c1de",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5760328,
+        "known_for_department": "Acting",
+        "name": "Xiao Wei",
+        "original_name": "\u5c0f\u8587",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Shiji Niangniang (voice)",
+        "credit_id": "68f5c6f6495a4c93d9101cad",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "\u997a\u5b50",
+        "popularity": 0.9695,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "cast_id": 54,
+        "character": "Rat Boss (voice)",
+        "credit_id": "68f5c713ddaa20cc3e32117d",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "\u997a\u5b50",
+        "popularity": 0.9695,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "6290105ba6fdaa0065fdc145",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "\u997a\u5b50",
+        "popularity": 0.9695,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "629010549a643500aa037480",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3380497,
+        "known_for_department": "Production",
+        "name": "Liu Wenzhang",
+        "original_name": "Liu Wenzhang",
+        "popularity": 0.0839,
+        "profile_path": "/7BLmmFhYDN7MyKVui5qJ590qgi9.jpg",
+        "credit_id": "67a22bd9716bfd74ece2d38e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4244140,
+        "known_for_department": "Acting",
+        "name": "Chen Zhe",
+        "original_name": "\u9673\u5586",
+        "popularity": 0.2451,
+        "profile_path": "/dXhqfDYNGThM4qPdjb1W2gbL77H.jpg",
+        "credit_id": "67a22bf4a74d8ee23b26c0ef",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323173,
+        "known_for_department": "Sound",
+        "name": "Roc Chen",
+        "original_name": "\u963f\u9cb2",
+        "popularity": 0.3608,
+        "profile_path": "/zaAmLbksc4bxTr21dhveZ6I7WRr.jpg",
+        "credit_id": "67ac8c3a9d346d3ef49bd1bb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2623147,
+        "known_for_department": "Sound",
+        "name": "Wan Pin-Chu",
+        "original_name": "\u6731\u85dd\u7de8",
+        "popularity": 0.1159,
+        "profile_path": "/r8Fixl6Mbv9SsjM7z4lLGTyTOgg.jpg",
+        "credit_id": "67ac8c41dd9b7d2eaab0cc23",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5210591,
+        "known_for_department": "Sound",
+        "name": "Rui Yang",
+        "original_name": "\u6768\u82ae",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "67ac8c6bdd9b7d2eaab0cc34",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367353,
+        "known_for_department": "Directing",
+        "name": "Jiao Zi",
+        "original_name": "\u997a\u5b50",
+        "popularity": 0.9695,
+        "profile_path": "/9GVX1PAomTgqlAQplBfYCtblPE6.jpg",
+        "credit_id": "67b1e359be1135c1d86dbbb3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5831271,
+        "known_for_department": "Production",
+        "name": "Wang Jing",
+        "original_name": "Wang Jing",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6920d0a3d5863c198105926e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2500007,
+        "known_for_department": "Visual Effects",
+        "name": "Jung Sung-jin",
+        "original_name": "\uc815\uc131\uc9c4",
+        "popularity": 0.2284,
+        "profile_path": "/iOlzedKr4E870tLNIvl4mxw80Nw.jpg",
+        "credit_id": "6947ed26c0569d5cb3fb1029",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1721,
+        "name": "fight"
+      },
+      {
+        "id": 2343,
+        "name": "magic"
+      },
+      {
+        "id": 177895,
+        "name": "dark fantasy"
+      },
+      {
+        "id": 185343,
+        "name": "based on myths, legends or folklore"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 290656,
+        "name": "nezha"
+      },
+      {
+        "id": 297031,
+        "name": "chinese mythology"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "adult": false,
+  "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 329505,
+  "imdb_id": "tt0089790",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il peccato di Lola",
+  "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
+  "popularity": 36.5881,
+  "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
+  "production_companies": [
+    {
+      "id": 131024,
+      "logo_path": null,
+      "name": "Geo Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1984-05-04",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lola's Secret",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 69,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70962,
+        "known_for_department": "Acting",
+        "name": "Donatella Damiani",
+        "original_name": "Donatella Damiani",
+        "popularity": 11.0696,
+        "profile_path": "/c38UcLtlwAfedHgPiWJGjseIcnn.jpg",
+        "cast_id": 5,
+        "character": "Lola",
+        "credit_id": "54fc62d0925141238c002007",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9306,
+        "known_for_department": "Acting",
+        "name": "Scott Coffey",
+        "original_name": "Scott Coffey",
+        "popularity": 0.4842,
+        "profile_path": "/86ShscBwPqnG5BuZxMkT6kc6ELv.jpg",
+        "cast_id": 6,
+        "character": "Albert",
+        "credit_id": "54fc62e6c3a36847110020cb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31991,
+        "known_for_department": "Acting",
+        "name": "Gabriele Tinti",
+        "original_name": "Gabriele Tinti",
+        "popularity": 0.795,
+        "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
+        "cast_id": 7,
+        "character": "Angus",
+        "credit_id": "54fc62fdc3a36869fb00460a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548339,
+        "known_for_department": "Acting",
+        "name": "Peter Boom",
+        "original_name": "Peter Boom",
+        "popularity": 0.1978,
+        "profile_path": "/fUXNd4P8BuvQt37Zhpe8dzZz13P.jpg",
+        "cast_id": 10,
+        "character": "Simmons",
+        "credit_id": "54fc63389251413aa0004836",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93126,
+        "known_for_department": "Acting",
+        "name": "Jacques Stany",
+        "original_name": "Jacques Stany",
+        "popularity": 0.209,
+        "profile_path": "/lNPmGxFsR2Jtvovbr2AV6fAGjbl.jpg",
+        "cast_id": 11,
+        "character": "Tim",
+        "credit_id": "54fc636392514122be001f48",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39166,
+        "known_for_department": "Acting",
+        "name": "Maurice Poli",
+        "original_name": "Maurice Poli",
+        "popularity": 0.2333,
+        "profile_path": "/zJ3Jezv8fbCXhUPbeY4PZ7El3rv.jpg",
+        "cast_id": 12,
+        "character": "Compratore della collana",
+        "credit_id": "54fc6389c3a36847110020d8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1436748,
+        "known_for_department": "Acting",
+        "name": "Sandra Mantegna",
+        "original_name": "Sandra Mantegna",
+        "popularity": 0.1905,
+        "profile_path": "/9RKVKt7fbGmc7XoZvcuBbUu1rYM.jpg",
+        "cast_id": 13,
+        "character": "Madre di Alberto",
+        "credit_id": "54fc639cc3a3686998004509",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1176841,
+        "known_for_department": "Sound",
+        "name": "Pino Pintucci",
+        "original_name": "Pino Pintucci",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "54fc62a8c3a368479c001d65",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49894,
+        "known_for_department": "Writing",
+        "name": "Piero Regnoli",
+        "original_name": "Piero Regnoli",
+        "popularity": 0.4005,
+        "profile_path": "/z5P2Lp6qesiVys2J7J1I9gsfMdf.jpg",
+        "credit_id": "54fc62859251413aa000482c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202529,
+        "known_for_department": "Production",
+        "name": "Pino Buricchi",
+        "original_name": "Pino Buricchi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "54fc6299c3a36847110020c4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1202528,
+        "known_for_department": "Camera",
+        "name": "Pasquale Fanetti",
+        "original_name": "Pasquale Fanetti",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "54fc62b9c3a36869fb004607",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 226550,
+        "known_for_department": "Directing",
+        "name": "Bruno Gaburro",
+        "original_name": "Bruno Gaburro",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "54fc6275c3a3681638001419",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10053,
+        "name": "sexploitation"
+      },
+      {
+        "id": 13097,
+        "name": "maid"
+      },
+      {
+        "id": 156688,
+        "name": "seductress"
+      },
+      {
+        "id": 180340,
+        "name": "voyeur"
+      },
+      {
+        "id": 186107,
+        "name": "sexual exploration"
+      },
+      {
+        "id": 190370,
+        "name": "erotic movie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/sS2UzdPLKw2TylH66kjHBESjStr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1233728,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "7\uc77c\uac04\uc758 \uc2a4\uc640\ud551",
+  "overview": "Cheon-seok and Mi-seon remarried. Mi-seon goes on a trip with her friends and asks her daughter-in-law to take care of her father-in-law for a week. Her father-in-law and her daughter-in-law came to live together for 7 days. Her daughter-in-law, who tasted her father-in-law's crispy pork belly, falls in love with her father-in-law...",
+  "popularity": 13.0295,
+  "poster_path": "/9DNis2hoyLImQnGIZoianI7iohe.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-05-23",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Seven-day Swapping",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1622390,
+        "known_for_department": "Acting",
+        "name": "Lee Chae-dam",
+        "original_name": "Lee Chae-dam",
+        "popularity": 5.1266,
+        "profile_path": "/27qVJm4vpUKBXC9zyW2CbEiyfgG.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "65abd831d5191f009f30ee85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2663160,
+        "known_for_department": "Acting",
+        "name": "Yeon Joo",
+        "original_name": "Yeon Joo",
+        "popularity": 1.8024,
+        "profile_path": "/kGbNRwniAva93R1gJfvGVJAi1Uy.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "65abd84998f1f10123df2e63",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2294764,
+        "known_for_department": "Acting",
+        "name": "Han Seok-bong",
+        "original_name": "Han Seok-bong",
+        "popularity": 0.8382,
+        "profile_path": "/5ABOVmENCwpAC1uXrK16luzW5g9.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "65abd85a1f3e6000a1feb1de",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1907998,
+        "known_for_department": "Acting",
+        "name": "Kang Min-woo",
+        "original_name": "Kang Min-woo",
+        "popularity": 2.7241,
+        "profile_path": "/pIrr35CLdzsL5Gt7nGgP8lumv9a.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "65abd86c85090f00a47def10",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4490764,
+        "known_for_department": "Directing",
+        "name": "Kim Man-seok-I",
+        "original_name": "Kim Man-seok-I",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "65abd8af976a2300bc77db60",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      }
+    ]
+  }
+}

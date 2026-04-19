@@ -1,0 +1,746 @@
+{
+  "adult": false,
+  "backdrop_path": "/37y53Jt8K6MvN6s4zJVFa61luO2.jpg",
+  "belongs_to_collection": null,
+  "budget": 119,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 851644,
+  "imdb_id": "tt15340724",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "20\uc138\uae30 \uc18c\ub140",
+  "overview": "In 1999, a teen girl keeps close tabs on a boy in school on behalf of her deeply smitten best friend \u2013 then she gets swept up in a love story of her own.",
+  "popularity": 10.422,
+  "poster_path": "/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
+  "production_companies": [
+    {
+      "id": 49096,
+      "logo_path": "/dj9VQ8Tqw4OTP8h5JkSOQGpEeMR.png",
+      "name": "Yong Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 199265,
+      "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
+      "name": "CJ ENM Studios",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2022-10-06",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A first love pov story.",
+  "title": "20th Century Girl",
+  "video": false,
+  "vote_average": 8.144,
+  "vote_count": 801,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140335,
+        "known_for_department": "Acting",
+        "name": "Kim Yoo-jung",
+        "original_name": "\uae40\uc720\uc815",
+        "popularity": 3.5262,
+        "profile_path": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg",
+        "cast_id": 1,
+        "character": "Na Bo-ra",
+        "credit_id": "60f35d35f1759c005f2dabb0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2117890,
+        "known_for_department": "Acting",
+        "name": "Byeon Woo-seok",
+        "original_name": "\ubcc0\uc6b0\uc11d",
+        "popularity": 3.8867,
+        "profile_path": "/iACGQCFJZUMsy4ywEzNiPokXFB9.jpg",
+        "cast_id": 20,
+        "character": "Poong Woon-ho",
+        "credit_id": "635291a65f4b7300835c2ea8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2377671,
+        "known_for_department": "Acting",
+        "name": "Park Jung-woo",
+        "original_name": "\ubc15\uc815\uc6b0",
+        "popularity": 0.6285,
+        "profile_path": "/7euKnxnUz6HqjkAHsSLy2dsPvRg.jpg",
+        "cast_id": 4,
+        "character": "Baek Hyun-jin",
+        "credit_id": "612ec899fbe36f0065c09fde",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3218480,
+        "known_for_department": "Acting",
+        "name": "Roh Yoon-seo",
+        "original_name": "\ub178\uc724\uc11c",
+        "popularity": 1.6389,
+        "profile_path": "/A67wGhTozfav5saZ1Umi5f98Ezb.jpg",
+        "cast_id": 5,
+        "character": "Kim Yeon-du",
+        "credit_id": "612ec8f7d207f3002db3eaf6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1806235,
+        "known_for_department": "Acting",
+        "name": "Kim Sung-kyung",
+        "original_name": "\uae40\uc131\uacbd",
+        "popularity": 0.7094,
+        "profile_path": "/xsH2yoY7K2pWjQ5vIMetMrXenV2.jpg",
+        "cast_id": 9,
+        "character": "Bo-ra's Mother",
+        "credit_id": "633e382085b1050082eea570",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17127,
+        "known_for_department": "Acting",
+        "name": "Jeong Seok-yong",
+        "original_name": "\uc815\uc11d\uc6a9",
+        "popularity": 1.123,
+        "profile_path": "/tyTSdGaVKotPmJXGNtz6fXoj8Tc.jpg",
+        "cast_id": 10,
+        "character": "Bo-ra's Father",
+        "credit_id": "633e38291b7c59007f88b642",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3728650,
+        "known_for_department": "Acting",
+        "name": "Yoon Yi-reh",
+        "original_name": "\uc724\uc774\ub808",
+        "popularity": 0.4217,
+        "profile_path": "/uKrJzryFpP2UCUoaV93OgXLohRx.jpg",
+        "cast_id": 11,
+        "character": "Madam",
+        "credit_id": "633e38564f9a99007c26d335",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1998163,
+        "known_for_department": "Acting",
+        "name": "Jeon Hye-won",
+        "original_name": "\uc804\ud61c\uc6d0",
+        "popularity": 0.6593,
+        "profile_path": "/iiLAT4wZ1DtPUPA0l8YH9MeXgQS.jpg",
+        "cast_id": 21,
+        "character": "Darn It",
+        "credit_id": "6354ca4ad8e225007a1abeb1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3281025,
+        "known_for_department": "Acting",
+        "name": "Kim Nu-rim",
+        "original_name": "\uae40\ub204\ub9bc",
+        "popularity": 0.6311,
+        "profile_path": "/qGJjHHCeW0DcwpFvfDoERxmBulj.jpg",
+        "cast_id": 23,
+        "character": "Dong-wook",
+        "credit_id": "6354cb6c9463180082cdc40b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 240145,
+        "known_for_department": "Acting",
+        "name": "Han Hyo-joo",
+        "original_name": "\ud55c\ud6a8\uc8fc",
+        "popularity": 2.595,
+        "profile_path": "/4E7NuJsR7AnMYAefFSHkj4cftdf.jpg",
+        "cast_id": 8,
+        "character": "Adult Na Bo-ra",
+        "credit_id": "620758d3cb802800ca666bc8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86330,
+        "known_for_department": "Acting",
+        "name": "Lee Beom-soo",
+        "original_name": "\uc774\ubc94\uc218",
+        "popularity": 1.3151,
+        "profile_path": "/9CSDpnR1gjbulTQdusJMiGc59Ff.jpg",
+        "cast_id": 18,
+        "character": "School Teacher",
+        "credit_id": "63521d7956b9f7007b12f943",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227638,
+        "known_for_department": "Acting",
+        "name": "Ryu Seung-ryong",
+        "original_name": "\ub958\uc2b9\ub8e1",
+        "popularity": 1.743,
+        "profile_path": "/p0LjCRqVqgTyvlZScMmsVFCnTIt.jpg",
+        "cast_id": 22,
+        "character": "Poong Woon-ho's Father",
+        "credit_id": "6354ca6e255dba008ab7849f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292971,
+        "known_for_department": "Acting",
+        "name": "Park Hae-joon",
+        "original_name": "\ubc15\ud574\uc900",
+        "popularity": 1.6587,
+        "profile_path": "/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg",
+        "cast_id": 19,
+        "character": "Doctor at School Infirmary",
+        "credit_id": "63521d7ea0f1a2007cdd98f0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333031,
+        "known_for_department": "Acting",
+        "name": "Gong Myoung",
+        "original_name": "\uacf5\uba85",
+        "popularity": 1.9325,
+        "profile_path": "/4c4eiMCgzw6gr4TDzOiODmmTRmG.jpg",
+        "cast_id": 6,
+        "character": "Jung Woon-ho",
+        "credit_id": "61aa74f085b105004314223e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988291,
+        "known_for_department": "Acting",
+        "name": "Ong Seong-wu",
+        "original_name": "\uc639\uc131\uc6b0",
+        "popularity": 1.1609,
+        "profile_path": "/wkEE49MqC6oCeTC3YqMfmM0FOmt.jpg",
+        "cast_id": 7,
+        "character": "Joseph / Poong Joon-ho",
+        "credit_id": "61ef76b4e4886001115eec08",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3445783,
+        "known_for_department": "Acting",
+        "name": "Kang Chae-young",
+        "original_name": "\uac15\ucc44\uc601",
+        "popularity": 0.4318,
+        "profile_path": "/h5A1YuYUSKYFEE0Mij24sJLwcvd.jpg",
+        "cast_id": 24,
+        "character": "Bok-soon",
+        "credit_id": "6354cb79d8e2250082243d7d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2378215,
+        "known_for_department": "Directing",
+        "name": "Bang Woo-ri",
+        "original_name": "Bang Woo-ri",
+        "popularity": 0.1787,
+        "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+        "cast_id": 25,
+        "character": "Yeon-du's Mother",
+        "credit_id": "6354cb85f3b49a007a84dc42",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3728652,
+        "known_for_department": "Acting",
+        "name": "Lee Cheon-mu",
+        "original_name": "\uc774\ucc9c\ubb34",
+        "popularity": 0.3172,
+        "profile_path": "/bxA6gJJZaGTMknKYjBA80HCf6cq.jpg",
+        "cast_id": 12,
+        "character": "Bo-ra's Brother",
+        "credit_id": "633e38c84f9a99009087c9e4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3979575,
+        "known_for_department": "Acting",
+        "name": "Jo Ji-hyeon",
+        "original_name": "\uc870\uc9c0\ud604",
+        "popularity": 0.2321,
+        "profile_path": "/dFEu4Mj0bN3lnEkg133X9c83XJY.jpg",
+        "cast_id": 27,
+        "character": "Teacher",
+        "credit_id": "6438b77687f3f200d44a82e9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2692450,
+        "known_for_department": "Acting",
+        "name": "Lee Woo-sung",
+        "original_name": "\uc774\uc6b0\uc131",
+        "popularity": 0.1736,
+        "profile_path": "/dTB21fPaTRFBz6Mi8hCrL0a0BYi.jpg",
+        "cast_id": 28,
+        "character": "Min Hong-gi",
+        "credit_id": "6438b7b887f3f20096087747",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2500944,
+        "known_for_department": "Acting",
+        "name": "Choi Kyo-sik",
+        "original_name": "\ucd5c\uad50\uc2dd",
+        "popularity": 0.3078,
+        "profile_path": "/4UUu0A9XzfajUG8s68296XgPcJ1.jpg",
+        "cast_id": 29,
+        "character": "Mailman",
+        "credit_id": "6438b7fc81a7fc009ba588e8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4009673,
+        "known_for_department": "Acting",
+        "name": "Jeong Min-jun",
+        "original_name": "\uc815\ubbfc\uc900",
+        "popularity": 0.287,
+        "profile_path": "/qI3zOCqExbHLz1ISrGHXwyGKUaV.jpg",
+        "cast_id": 30,
+        "character": "Young Joseph",
+        "credit_id": "6438b9f0c2679601268fb0ea",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2878461,
+        "known_for_department": "Acting",
+        "name": "Shin Dong-ryeok",
+        "original_name": "\uc2e0\ub3d9\ub825",
+        "popularity": 0.2482,
+        "profile_path": "/2c5OEO0pSCf3msk0dMwPJ7nQpgA.jpg",
+        "cast_id": 36,
+        "character": "Mulberry Extract Vendor",
+        "credit_id": "6438bb7337b3a900949db193",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2378215,
+        "known_for_department": "Directing",
+        "name": "Bang Woo-ri",
+        "original_name": "Bang Woo-ri",
+        "popularity": 0.1787,
+        "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+        "credit_id": "60f35d9bf2883800777baa5e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4348086,
+        "known_for_department": "Visual Effects",
+        "name": "Jung Seok-jae",
+        "original_name": "Jung Seok-jae",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "653fad58c8a5ac00c6d7d455",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1162598,
+        "known_for_department": "Camera",
+        "name": "Cho Young-jik",
+        "original_name": "Cho Young-jik",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "633e3a13fe5c91007caa7a75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2309922,
+        "known_for_department": "Art",
+        "name": "Lee Na-gyeom",
+        "original_name": "\uc774\ub098\uacb8",
+        "popularity": 0.2032,
+        "profile_path": null,
+        "credit_id": "633e3a28a6e2d2007a2f5043",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2378215,
+        "known_for_department": "Directing",
+        "name": "Bang Woo-ri",
+        "original_name": "Bang Woo-ri",
+        "popularity": 0.1787,
+        "profile_path": "/ofaTg8VN5NniUjEyLnB9q5BWHcR.jpg",
+        "credit_id": "633e39f0c15f890084cb80c6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4569657,
+        "known_for_department": "Production",
+        "name": "Jang Eun-young",
+        "original_name": "Jang Eun-young",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "65e3ce2b9451e7016459a4a4",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3987918,
+        "known_for_department": "Editing",
+        "name": "No Byeong-uk",
+        "original_name": "No Byeong-uk",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "642706129cc67b05796af026",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038044,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Gwang-wook",
+        "original_name": "Kim Gwang-wook",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "644f832f2fccee02e4ce40dd",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3041086,
+        "known_for_department": "Crew",
+        "name": "Yun Seok-jin",
+        "original_name": "Yun Seok-jin",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "644f82d82fccee0302cdfe08",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674268,
+        "known_for_department": "Editing",
+        "name": "Yang Jin-mo",
+        "original_name": "\uc591\uc9c4\ubaa8",
+        "popularity": 0.4316,
+        "profile_path": "/zEkYOluedauPisYt2SasnJAX6rl.jpg",
+        "credit_id": "644f826c23a31402e57bf8c7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038042,
+        "known_for_department": "Production",
+        "name": "Kim Yong-eun",
+        "original_name": "\uae40\uc6a9\uc5b8",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "644f82f5c0a3080301700514",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038055,
+        "known_for_department": "Camera",
+        "name": "Seo Ji-hyeong",
+        "original_name": "Seo Ji-hyeong",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "644f83a035039802e7d52b04",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294551,
+        "known_for_department": "Costume & Make-Up",
+        "name": "An Ji-hyeon",
+        "original_name": "An Ji-hyeon",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "credit_id": "644f827e124c8d02dd7e92f7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197563,
+        "known_for_department": "Visual Effects",
+        "name": "Hong Jang-pyo",
+        "original_name": "\ud64d\uc7a5\ud45c",
+        "popularity": 0.4439,
+        "profile_path": null,
+        "credit_id": "644f82c6124c8d02e77e7622",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2872346,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Park Yea-ri",
+        "original_name": "\ubc15\uc608\ub9ac",
+        "popularity": 0.3333,
+        "profile_path": null,
+        "credit_id": "644f82a2c0a30802e5708039",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3035593,
+        "known_for_department": "Crew",
+        "name": "Shin Young-hoon",
+        "original_name": "Shin Young-hoon",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "644f82d2bdd568111dcbe617",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422959,
+        "known_for_department": "Sound",
+        "name": "Son Yong-ik",
+        "original_name": "\uc190\uc6a9\uc775",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "644f82b0124c8d02f57e449d",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2500104,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shin Soo-bin",
+        "original_name": "Shin Soo-bin",
+        "popularity": 0.1494,
+        "profile_path": null,
+        "credit_id": "644f7dea23a31402dd7c0655",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2500106,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoon Na-yeon",
+        "original_name": "Yoon Na-yeon",
+        "popularity": 0.2545,
+        "profile_path": null,
+        "credit_id": "644f7ec22fccee0302cdf9a8",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10105,
+        "known_for_department": "Production",
+        "name": "Syd Lim",
+        "original_name": "\uc784\uc2b9\uc6a9",
+        "popularity": 0.3247,
+        "profile_path": "/vOOJLMDOQSeRrY4eaF1YTXobjb3.jpg",
+        "credit_id": "644f824fbdd568111dcbe55b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2239714,
+        "known_for_department": "Sound",
+        "name": "Lee Sung-june",
+        "original_name": "Lee Sung-june",
+        "popularity": 0.1416,
+        "profile_path": null,
+        "credit_id": "644f82bb23a31402e57bf929",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294393,
+        "known_for_department": "Lighting",
+        "name": "Jung Hae-ji",
+        "original_name": "Jung Hae-ji",
+        "popularity": 0.1336,
+        "profile_path": null,
+        "credit_id": "644f8264c0a30802e5707fe7",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69085,
+        "known_for_department": "Sound",
+        "name": "Dalpalan",
+        "original_name": "\ub2ec\ud30c\ub780",
+        "popularity": 0.5329,
+        "profile_path": "/tGH9zerISvma1JfyL1bCSthNcWD.jpg",
+        "credit_id": "66e3ce359013fe872223dfcc",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 128,
+        "name": "love triangle"
+      },
+      {
+        "id": 4232,
+        "name": "melancholy"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 10048,
+        "name": "unrequited love"
+      },
+      {
+        "id": 10809,
+        "name": "teenage girl"
+      },
+      {
+        "id": 156924,
+        "name": "tearjerker"
+      },
+      {
+        "id": 157303,
+        "name": "first love"
+      },
+      {
+        "id": 206671,
+        "name": "city life"
+      },
+      {
+        "id": 210608,
+        "name": "1990s"
+      },
+      {
+        "id": 305168,
+        "name": "depressed"
+      },
+      {
+        "id": 321464,
+        "name": "intense"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      }
+    ]
+  }
+}

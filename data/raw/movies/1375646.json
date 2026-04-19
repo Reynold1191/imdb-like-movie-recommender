@@ -1,0 +1,268 @@
+{
+  "adult": false,
+  "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/colony",
+  "id": 1375646,
+  "imdb_id": "tt34385135",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\uad70\uccb4",
+  "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+  "popularity": 11.5955,
+  "poster_path": "/3pKJMW5xehwaxpQdF7oIZnyhIfo.jpg",
+  "production_companies": [
+    {
+      "id": 218768,
+      "logo_path": "/elTqEtADDWEXpvwvpK6n0d3GiXo.png",
+      "name": "Wow Point",
+      "origin_country": "KR"
+    },
+    {
+      "id": 246330,
+      "logo_path": "/qpCXngTuN5OQmYV4JaWLmJA6sfA.png",
+      "name": "Smilegate Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 243139,
+      "logo_path": null,
+      "name": "Midnight Studio",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2026-05-21",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "Colony",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63436,
+        "known_for_department": "Acting",
+        "name": "Gianna Jun",
+        "original_name": "\uc804\uc9c0\ud604",
+        "popularity": 4.54,
+        "profile_path": "/qejOQBdIzN18e69yRcsiD0JQi4c.jpg",
+        "cast_id": 2,
+        "character": "Kwon Se-jeong",
+        "credit_id": "6720e91c4542e371fe0b377a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096458,
+        "known_for_department": "Acting",
+        "name": "Koo Kyo-hwan",
+        "original_name": "\uad6c\uad50\ud658",
+        "popularity": 1.8184,
+        "profile_path": "/aFwCpSKPGFqoiTStY6ljXnD5CwH.jpg",
+        "cast_id": 3,
+        "character": "Seo Young-cheol",
+        "credit_id": "6721a9ce18827a9329f16855",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253391,
+        "known_for_department": "Acting",
+        "name": "Ji Chang-wook",
+        "original_name": "\uc9c0\ucc3d\uc6b1",
+        "popularity": 11.7882,
+        "profile_path": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg",
+        "cast_id": 6,
+        "character": "Choi Hyun-seok",
+        "credit_id": "6721a9ff18827a9329f16862",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254975,
+        "known_for_department": "Acting",
+        "name": "Shin Hyun-been",
+        "original_name": "\uc2e0\ud604\ube48",
+        "popularity": 1.3254,
+        "profile_path": "/lU0yMFh5KgOEWZRThLYbB6ZI1hE.jpg",
+        "cast_id": 5,
+        "character": "Kong Seol-hee",
+        "credit_id": "6721a9d51601419f7361c71b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3038410,
+        "known_for_department": "Acting",
+        "name": "Kim Shin-rock",
+        "original_name": "\uae40\uc2e0\ub85d",
+        "popularity": 1.4253,
+        "profile_path": "/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg",
+        "cast_id": 4,
+        "character": "Choi Hyun-hee",
+        "credit_id": "6721a9d11601419f7361c718",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85173,
+        "known_for_department": "Acting",
+        "name": "Go Soo",
+        "original_name": "\uace0\uc218",
+        "popularity": 1.3176,
+        "profile_path": "/77209yRtUHOEk3ILJY1rG3X3VUj.jpg",
+        "cast_id": 7,
+        "character": "Han Kyu-seong",
+        "credit_id": "67ca6c5d1f9ef3532dafc4ad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2992834,
+        "known_for_department": "Acting",
+        "name": "Kim Hyeong-mook",
+        "original_name": "\uae40\ud615\ubb35",
+        "popularity": 0.6673,
+        "profile_path": "/iFDFDCActOFrsdUbdv1xlLEh2yr.jpg",
+        "cast_id": 8,
+        "character": "Chief of Staff",
+        "credit_id": "6846554dc6186e3281de7187",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2133923,
+        "known_for_department": "Acting",
+        "name": "Lee Jung-ok",
+        "original_name": "\uc774\uc911\uc625",
+        "popularity": 0.7855,
+        "profile_path": "/fMkBpHRElwNatevfGinSv248bYg.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "69df682ef6dafa2d54211b18",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939147,
+        "known_for_department": "Directing",
+        "name": "Yeon Sang-ho",
+        "original_name": "\uc5f0\uc0c1\ud638",
+        "popularity": 1.4315,
+        "profile_path": "/dLP1p4AkU1zwJkDboct58Uub9S7.jpg",
+        "credit_id": "671894ec769107d77b474e53",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194843,
+        "known_for_department": "Production",
+        "name": "Kim Yeon-ho",
+        "original_name": "\uae40\uc5f0\ud638",
+        "popularity": 0.2135,
+        "profile_path": null,
+        "credit_id": "68dfee562466d422e32a1d37",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939147,
+        "known_for_department": "Directing",
+        "name": "Yeon Sang-ho",
+        "original_name": "\uc5f0\uc0c1\ud638",
+        "popularity": 1.4315,
+        "profile_path": "/dLP1p4AkU1zwJkDboct58Uub9S7.jpg",
+        "credit_id": "698af9a9aecc726cbdb70c80",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725917,
+        "known_for_department": "Writing",
+        "name": "Choi Gyu-seok",
+        "original_name": "\ucd5c\uaddc\uc11d",
+        "popularity": 0.5492,
+        "profile_path": "/885rrVtRBjgkh7tGuWY3W9tY6So.jpg",
+        "credit_id": "698af9afa6258367a9c730ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4489196,
+        "known_for_department": "Production",
+        "name": "Yoomin Hailey Yang",
+        "original_name": "\uc591\uc720\ubbfc",
+        "popularity": 0.1359,
+        "profile_path": null,
+        "credit_id": "698af9c8a6258367a9c730f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 12377,
+        "name": "zombie"
+      }
+    ]
+  }
+}

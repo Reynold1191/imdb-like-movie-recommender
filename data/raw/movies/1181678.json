@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": "/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+  "belongs_to_collection": {
+    "id": 1607155,
+    "name": "\u00bfQuieres ser mi... ? - Colecci\u00f3n",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://vix.com/detail/video-4442371",
+  "id": 1181678,
+  "imdb_id": "tt27391124",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "\u00bfQuieres ser mi hijo?",
+  "overview": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+  "popularity": 9.9565,
+  "poster_path": "/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg",
+  "production_companies": [
+    {
+      "id": 6679,
+      "logo_path": "/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png",
+      "name": "MarVista Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-21",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "\u00bfQuieres ser mi hijo?",
+  "video": false,
+  "vote_average": 8.519,
+  "vote_count": 313,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 947296,
+        "known_for_department": "Acting",
+        "name": "Ludwika Paleta",
+        "original_name": "Ludwika Paleta",
+        "popularity": 2.5357,
+        "profile_path": "/dcozq8kwFH1XEu547PZ6OpJcznz.jpg",
+        "cast_id": 1,
+        "character": "Luc\u00eda",
+        "credit_id": "650dc5fc4da3d400adc9f190",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2723354,
+        "known_for_department": "Acting",
+        "name": "Juanpa Zurita",
+        "original_name": "Juanpa Zurita",
+        "popularity": 0.4555,
+        "profile_path": "/kVWholhVRM5CwVO1WZ8DRIr8CQV.jpg",
+        "cast_id": 2,
+        "character": "Javier",
+        "credit_id": "650dc6043d745401387acf69",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096780,
+        "known_for_department": "Acting",
+        "name": "Hern\u00e1n Mendoza",
+        "original_name": "Hern\u00e1n Mendoza",
+        "popularity": 0.6027,
+        "profile_path": "/yU4nRJhLXr4eZdujCX1ZsPNFIpC.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "650dc60ef9253200ea91f832",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1592680,
+        "known_for_department": "Acting",
+        "name": "Harold Azuara",
+        "original_name": "Harold Azuara",
+        "popularity": 0.9542,
+        "profile_path": "/jBZiH0YqASbQZ24PIxu1KGEHUED.jpg",
+        "cast_id": 4,
+        "character": "La Avispa",
+        "credit_id": "650dc61ff92532014d2bd89e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1243415,
+        "known_for_department": "Acting",
+        "name": "Agust\u00edn Arana",
+        "original_name": "Agust\u00edn Arana",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "650dc63d2c6b7b00fe46bd15",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1328903,
+        "known_for_department": "Acting",
+        "name": "Yuriria del Valle",
+        "original_name": "Yuriria del Valle",
+        "popularity": 0.1641,
+        "profile_path": "/qf0YEZkYATzdIQtIxTJrLMM61ES.jpg",
+        "cast_id": 6,
+        "character": "Maguis",
+        "credit_id": "650dc64b2c6b7b00e1234176",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2510650,
+        "known_for_department": "Acting",
+        "name": "Karla Rico",
+        "original_name": "Karla Rico",
+        "popularity": 0.155,
+        "profile_path": "/vqcCm2e1LJJHYrhn7517LI0bKpb.jpg",
+        "cast_id": 9,
+        "character": "Mar\u00eda",
+        "credit_id": "651dd4113d3557011cffbcac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2448572,
+        "known_for_department": "Acting",
+        "name": "Jorge Gidi",
+        "original_name": "Jorge Gidi",
+        "popularity": 0.1151,
+        "profile_path": "/mi7CGVAkoeZ0UGk7lnIlQofzb6Q.jpg",
+        "cast_id": 10,
+        "character": "Jorge",
+        "credit_id": "651dd460f04d01011c455d2c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1017827,
+        "known_for_department": "Acting",
+        "name": "Isabel Gonzalez",
+        "original_name": "Isabel Gonzalez",
+        "popularity": 2.2709,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Luc\u00eda (15 a\u00f1os)",
+        "credit_id": "651dd4f8f04d01011c455d62",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1319017,
+        "known_for_department": "Acting",
+        "name": "Macarena Oz",
+        "original_name": "Macarena Oz",
+        "popularity": 0.1977,
+        "profile_path": "/5Ewx5jEU8bd4eP144fEO1GRfafI.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "66daa2b9919d4ad26525634a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3376905,
+        "known_for_department": "Acting",
+        "name": "Natalia Payan",
+        "original_name": "Natalia Payan",
+        "popularity": 0.0545,
+        "profile_path": "/nrZJ6Z3M55k4IuLtvs7ywIYXh2b.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "66daa71b041de88cb99d2dba",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3009489,
+        "known_for_department": "Writing",
+        "name": "Ihtzi Hurtado",
+        "original_name": "Ihtzi Hurtado",
+        "popularity": 0.1413,
+        "profile_path": "/iZ4I41zQfLr6zP2hLWQkawHUhbM.jpg",
+        "credit_id": "651dd23d07216600acb68646",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3009489,
+        "known_for_department": "Writing",
+        "name": "Ihtzi Hurtado",
+        "original_name": "Ihtzi Hurtado",
+        "popularity": 0.1413,
+        "profile_path": "/iZ4I41zQfLr6zP2hLWQkawHUhbM.jpg",
+        "credit_id": "651dd271a097dc011d033987",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

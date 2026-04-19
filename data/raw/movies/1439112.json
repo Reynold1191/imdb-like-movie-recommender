@@ -1,0 +1,679 @@
+{
+  "adult": false,
+  "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+  "belongs_to_collection": {
+    "id": 1570181,
+    "name": "Muzzle Collection",
+    "poster_path": "/iU124bwXVhS5MmN1rTt0qgLIACM.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://muzzle.movie",
+  "id": 1439112,
+  "imdb_id": "tt32395062",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Muzzle: City of Wolves",
+  "overview": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos when a gang targets them in a brutal attack. Alongside his new K-9 partner Argos, Jake launches into a relentless pursuit of justice, determined to protect his loved ones.",
+  "popularity": 15.6318,
+  "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+  "production_companies": [
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 187281,
+      "logo_path": null,
+      "name": "Slow Burn",
+      "origin_country": "US"
+    },
+    {
+      "id": 174474,
+      "logo_path": null,
+      "name": "Broken Open Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 148930,
+      "logo_path": "/5vQU9dfSiYNQyTuciY8T3tUfI4a.png",
+      "name": "Bonfire Legend",
+      "origin_country": "US"
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 19330,
+      "logo_path": null,
+      "name": "Mannequin Films",
+      "origin_country": ""
+    },
+    {
+      "id": 233099,
+      "logo_path": null,
+      "name": "Peachtree Media Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 274685,
+      "logo_path": null,
+      "name": "Vacancy Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-13",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Revenge has a new breed.",
+  "title": "Muzzle: City of Wolves",
+  "video": false,
+  "vote_average": 6.681,
+  "vote_count": 127,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6383,
+        "known_for_department": "Acting",
+        "name": "Aaron Eckhart",
+        "original_name": "Aaron Eckhart",
+        "popularity": 1.8768,
+        "profile_path": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg",
+        "cast_id": 23,
+        "character": "Jake Rosser",
+        "credit_id": "67bc291ae5fd18f7b6464497",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1139816,
+        "known_for_department": "Acting",
+        "name": "Tanya van Graan",
+        "original_name": "Tanya van Graan",
+        "popularity": 0.6123,
+        "profile_path": "/xeTvZH86esj3tuErPv0relTqPOY.jpg",
+        "cast_id": 24,
+        "character": "Mia Rosser",
+        "credit_id": "67bc292c8505082993be9c01",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209193,
+        "known_for_department": "Acting",
+        "name": "Karl Thaning",
+        "original_name": "Karl Thaning",
+        "popularity": 0.2273,
+        "profile_path": "/oOrTV9OvC5H1BlRosJcdxWlYWW5.jpg",
+        "cast_id": 25,
+        "character": "Officer Beekman",
+        "credit_id": "67bc293784e930a0210ab8e6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1658759,
+        "known_for_department": "Acting",
+        "name": "Nicole Fortuin",
+        "original_name": "Nicole Fortuin",
+        "popularity": 0.1932,
+        "profile_path": "/6YxW3hZANTmhrESXIdFtqvfIjtq.jpg",
+        "cast_id": 26,
+        "character": "Detective Idalia Cutler",
+        "credit_id": "67bc296c515c9e42af0a6975",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85780,
+        "known_for_department": "Acting",
+        "name": "Adrian Collins",
+        "original_name": "Adrian Collins",
+        "popularity": 0.349,
+        "profile_path": "/3ROguAf0SqpnrA5gJ3MkdL6Yxab.jpg",
+        "cast_id": 35,
+        "character": "Officer Cobb",
+        "credit_id": "69188a3164907fabe331d3f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603,
+        "known_for_department": "Acting",
+        "name": "Hakeem Kae-Kazim",
+        "original_name": "Hakeem Kae-Kazim",
+        "popularity": 0.7855,
+        "profile_path": "/sVNHRm51c9toG73FUQ5k1St0vju.jpg",
+        "cast_id": 41,
+        "character": "Detective Thorne",
+        "credit_id": "693e61303ecd860338f78618",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187374,
+        "known_for_department": "Acting",
+        "name": "Bongo Mbutuma",
+        "original_name": "Bongo Mbutuma",
+        "popularity": 0.1311,
+        "profile_path": "/jByYhcxIlAdEqpGnHiLzGXsTJ2b.jpg",
+        "cast_id": 42,
+        "character": "Officer Brown",
+        "credit_id": "693e61f33580b58373999554",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2669277,
+        "known_for_department": "Acting",
+        "name": "Grant Ross",
+        "original_name": "Grant Ross",
+        "popularity": 0.2082,
+        "profile_path": "/6iC4C3zWwgxJ0jih2ximj12VbZn.jpg",
+        "cast_id": 34,
+        "character": "Detective Spitzer",
+        "credit_id": "691889ec70048d82ec9ae1bb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4771756,
+        "known_for_department": "Acting",
+        "name": "Jessica Stanley",
+        "original_name": "Jessica Stanley",
+        "popularity": 0.1108,
+        "profile_path": "/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg",
+        "cast_id": 36,
+        "character": "Nurse Liz",
+        "credit_id": "69188aa1e4f3f505af40efc7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5818558,
+        "known_for_department": "Acting",
+        "name": "Lindy Abromowitz",
+        "original_name": "Lindy Abromowitz",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Tamara Beekman",
+        "credit_id": "69188aebe24e363ff9876d83",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4911159,
+        "known_for_department": "Acting",
+        "name": "Josh Thirion",
+        "original_name": "Josh Thirion",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Doug",
+        "credit_id": "69188ac4119eef2e209ae448",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2387553,
+        "known_for_department": "Acting",
+        "name": "Motsi Tekateka",
+        "original_name": "Motsi Tekateka",
+        "popularity": 0.0996,
+        "profile_path": "/fanqbrIALyLUF1W0WujmtqRmS9R.jpg",
+        "cast_id": 37,
+        "character": "EMT Eric",
+        "credit_id": "69188ab4119eef2e209ae444",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3277192,
+        "known_for_department": "Acting",
+        "name": "Dean Goldblum",
+        "original_name": "Dean Goldblum",
+        "popularity": 0.1263,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "EMT Jeff",
+        "credit_id": "67bc379b741152b0420abc9e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5818559,
+        "known_for_department": "Acting",
+        "name": "Ema Negoescu",
+        "original_name": "Ema Negoescu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Depressed TV Actor",
+        "credit_id": "69188b0d2859dd97554ca0ed",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2387567,
+        "known_for_department": "Acting",
+        "name": "Dominique Maher",
+        "original_name": "Dominique Maher",
+        "popularity": 0.1915,
+        "profile_path": "/h7Fw4pqBH93fi2seW3XU407bE6.jpg",
+        "cast_id": 33,
+        "character": "Marriage Counsellor",
+        "credit_id": "691889c8bf95473d1aa0e82e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98537,
+        "known_for_department": "Directing",
+        "name": "John Stalberg Jr.",
+        "original_name": "John Stalberg Jr.",
+        "popularity": 0.3917,
+        "profile_path": "/38pN9X05uAWBol1RcnVF1y5LMOj.jpg",
+        "credit_id": "67bc267f06b5536bdc0ac480",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4037902,
+        "known_for_department": "Directing",
+        "name": "Jacob Michael King",
+        "original_name": "Jacob Michael King",
+        "popularity": 0.1117,
+        "profile_path": null,
+        "credit_id": "67bc26b02492f40370465c19",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98537,
+        "known_for_department": "Directing",
+        "name": "John Stalberg Jr.",
+        "original_name": "John Stalberg Jr.",
+        "popularity": 0.3917,
+        "profile_path": "/38pN9X05uAWBol1RcnVF1y5LMOj.jpg",
+        "credit_id": "67bc26f041060a8d8fbea7e7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98537,
+        "known_for_department": "Directing",
+        "name": "John Stalberg Jr.",
+        "original_name": "John Stalberg Jr.",
+        "popularity": 0.3917,
+        "profile_path": "/38pN9X05uAWBol1RcnVF1y5LMOj.jpg",
+        "credit_id": "67bc27162492f40370465c51",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023296,
+        "known_for_department": "Writing",
+        "name": "David Frigerio",
+        "original_name": "David Frigerio",
+        "popularity": 0.2669,
+        "profile_path": null,
+        "credit_id": "67bc272a41060a8d8fbea7ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2618312,
+        "known_for_department": "Production",
+        "name": "Nathan Klingher",
+        "original_name": "Nathan Klingher",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "67bc273d8505082993be9b9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3560353,
+        "known_for_department": "Production",
+        "name": "Ford Corbett",
+        "original_name": "Ford Corbett",
+        "popularity": 0.1254,
+        "profile_path": null,
+        "credit_id": "67bc274c55dd812fad469469",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59522,
+        "known_for_department": "Production",
+        "name": "Stuart Ford",
+        "original_name": "Stuart Ford",
+        "popularity": 0.2361,
+        "profile_path": "/5yUDf25eAUn9b0CVWrcNu0Ve9um.jpg",
+        "credit_id": "67bc275d06b5536bdc0ac4e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4534590,
+        "known_for_department": "Production",
+        "name": "Joshua Harris",
+        "original_name": "Joshua Harris",
+        "popularity": 0.0071,
+        "profile_path": "/rCyJK2Pp8UUaxIYRIRxZ0P3Ri1s.jpg",
+        "credit_id": "67bc27ac84e930a0210ab898",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1250543,
+        "known_for_department": "Production",
+        "name": "Delon Bakker",
+        "original_name": "Delon Bakker",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "67bc27febf521f190f0a8dde",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1250542,
+        "known_for_department": "Production",
+        "name": "Kyle Ambrose",
+        "original_name": "Kyle Ambrose",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "67bc280b84e930a0210ab8a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1604748,
+        "known_for_department": "Production",
+        "name": "Tim O'Hair",
+        "original_name": "Tim O'Hair",
+        "popularity": 0.11,
+        "profile_path": null,
+        "credit_id": "67bc281da23929ac28beff2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277093,
+        "known_for_department": "Writing",
+        "name": "Carlyle Eubank",
+        "original_name": "Carlyle Eubank",
+        "popularity": 0.2952,
+        "profile_path": "/8lAkGiZLq3lrwmGkIdiFDaHZzYn.jpg",
+        "credit_id": "67bc284ca23929ac28beff37",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1833600,
+        "known_for_department": "Production",
+        "name": "David Guglielmo",
+        "original_name": "David Guglielmo",
+        "popularity": 0.1472,
+        "profile_path": null,
+        "credit_id": "67bc285aa23929ac28beff3a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939456,
+        "known_for_department": "Production",
+        "name": "Dallas Sonnier",
+        "original_name": "Dallas Sonnier",
+        "popularity": 0.3046,
+        "profile_path": "/lkPw23rSkKujUKYXyKmIT3xDaus.jpg",
+        "credit_id": "67bc28698505082993be9bdc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4420945,
+        "known_for_department": "Production",
+        "name": "Jatin Desai",
+        "original_name": "Jatin Desai",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67bc288284e930a0210ab8b8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4112197,
+        "known_for_department": "Production",
+        "name": "Greg Friedman",
+        "original_name": "Greg Friedman",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "67bc2892a23929ac28beff4c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5266093,
+        "known_for_department": "Production",
+        "name": "Kyle Smithson",
+        "original_name": "Kyle Smithson",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "67bc28bca23929ac28beff68",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485550,
+        "known_for_department": "Production",
+        "name": "Mark Fasano",
+        "original_name": "Mark Fasano",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "67bc28cea23929ac28beff6d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134451,
+        "known_for_department": "Production",
+        "name": "Arianne Fraser",
+        "original_name": "Arianne Fraser",
+        "popularity": 0.1982,
+        "profile_path": "/eJPvHgWatmQgho5KBNPVAE1uKH1.jpg",
+        "credit_id": "67bc28dd84e930a0210ab8d4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2054139,
+        "known_for_department": "Production",
+        "name": "Delphine Perrier",
+        "original_name": "Delphine Perrier",
+        "popularity": 0.1185,
+        "profile_path": "/thZwyKYn0WBMyg6WwO1eOXKjzCN.jpg",
+        "credit_id": "67bc28ec84e930a0210ab8dc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1480009,
+        "known_for_department": "Camera",
+        "name": "Pieter Vermeer",
+        "original_name": "Pieter Vermeer",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "67bc29c0515c9e42af0a697f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1686873,
+        "known_for_department": "Editing",
+        "name": "Bella Erikson",
+        "original_name": "Bella Erikson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "67bc29cfe5fd18f7b64644e7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277093,
+        "known_for_department": "Writing",
+        "name": "Carlyle Eubank",
+        "original_name": "Carlyle Eubank",
+        "popularity": 0.2952,
+        "profile_path": "/8lAkGiZLq3lrwmGkIdiFDaHZzYn.jpg",
+        "credit_id": "68fac234dd65fc017401c626",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4037902,
+        "known_for_department": "Directing",
+        "name": "Jacob Michael King",
+        "original_name": "Jacob Michael King",
+        "popularity": 0.1117,
+        "profile_path": null,
+        "credit_id": "68fac2acd3e4cb9660128357",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1580425,
+        "known_for_department": "Sound",
+        "name": "Paul Gallister",
+        "original_name": "Paul Gallister",
+        "popularity": 0.0261,
+        "profile_path": "/xghldAV5holQ6M7Dpyw0nhLlXx2.jpg",
+        "credit_id": "6918898b4d06e33f414ca0c4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155715,
+        "name": "police dog"
+      },
+      {
+        "id": 167377,
+        "name": "lapd"
+      }
+    ]
+  }
+}

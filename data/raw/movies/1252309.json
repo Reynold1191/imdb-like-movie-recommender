@@ -1,0 +1,324 @@
+{
+  "adult": false,
+  "backdrop_path": "/kHJlXiwxcMAf9R934f0ncEBAMXg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1252309,
+  "imdb_id": "tt31723358",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "P\u00eddeme lo que quieras",
+  "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+  "popularity": 15.3185,
+  "poster_path": "/yZXYCiZQPB7Ui6D5206W1zDKv8P.jpg",
+  "production_companies": [
+    {
+      "id": 11564,
+      "logo_path": null,
+      "name": "Versus Entertainment",
+      "origin_country": "ES"
+    },
+    {
+      "id": 209187,
+      "logo_path": "/xurSUt93rw76Cp3ByybemL6nWl6.png",
+      "name": "LyO Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 11652,
+      "logo_path": "/9iTs9iHSgQUAVGnC8Iai59qugho.png",
+      "name": "Warner Bros. Entertainment Espa\u00f1a",
+      "origin_country": "ES"
+    },
+    {
+      "id": 37209,
+      "logo_path": "/25ChFV1TrcLZivSQgM2hKc9Sr2a.png",
+      "name": "4 Cats Pictures",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-11-29",
+  "revenue": 2265661,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tell Me What You Want",
+  "video": false,
+  "vote_average": 6.148,
+  "vote_count": 281,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3513082,
+        "known_for_department": "Acting",
+        "name": "Gabriela Andrada",
+        "original_name": "Gabriela Andrada",
+        "popularity": 2.4311,
+        "profile_path": "/h8cAdDqbDK2ayGIuxQQdNCzyCsb.jpg",
+        "cast_id": 1,
+        "character": "Judith Flores",
+        "credit_id": "65e0e85fa806730184a9b12b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2504043,
+        "known_for_department": "Acting",
+        "name": "Mario Ermito",
+        "original_name": "Mario Ermito",
+        "popularity": 0.5707,
+        "profile_path": "/9HlLY9yECyYwCIaMxdaJQ5RH4FL.jpg",
+        "cast_id": 2,
+        "character": "Eric Zimmerman",
+        "credit_id": "65e0e87ba284eb0187d477b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1062026,
+        "known_for_department": "Acting",
+        "name": "Celia Freijeiro",
+        "original_name": "Celia Freijeiro",
+        "popularity": 0.4116,
+        "profile_path": "/l32Ys5nQptZLJFRtlVJXKbK704U.jpg",
+        "cast_id": 8,
+        "character": "M\u00f3nica",
+        "credit_id": "66ee90d1c237258e4c25ddbd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144322,
+        "known_for_department": "Acting",
+        "name": "David Solans",
+        "original_name": "David Solans",
+        "popularity": 0.3231,
+        "profile_path": "/j0aKkDMqevgdXGZB8ciu9KMqE0K.jpg",
+        "cast_id": 7,
+        "character": "Miguel",
+        "credit_id": "66ee90ca92d39685383afc4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042729,
+        "known_for_department": "Acting",
+        "name": "Alba Ribas",
+        "original_name": "Alba Ribas",
+        "popularity": 0.574,
+        "profile_path": "/zfASs4kqXPL7CmRWmqjJovwjfsu.jpg",
+        "cast_id": 9,
+        "character": "Frida",
+        "credit_id": "66ee90da92d39685383afc71",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300672,
+        "known_for_department": "Acting",
+        "name": "Joel Bosqued",
+        "original_name": "Joel Bosqued",
+        "popularity": 0.3302,
+        "profile_path": "/pTCPqrbf9dtHUf4be3TANv6hRSL.jpg",
+        "cast_id": 10,
+        "character": "Andr\u00e9s",
+        "credit_id": "66ee90de6fd7cc7d423af807",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3903994,
+        "known_for_department": "Acting",
+        "name": "Alicia Bercan",
+        "original_name": "Alicia Bercan",
+        "popularity": 0.1341,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Rebeca / Betta",
+        "credit_id": "674bb61241f00c04d6b4405c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5092104,
+        "known_for_department": "Acting",
+        "name": "Anna Karinvinge",
+        "original_name": "Anna Karinvinge",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Amanda",
+        "credit_id": "674bb64425fe505400706a49",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2646383,
+        "known_for_department": "Acting",
+        "name": "Fernando Oyag\u00fcez",
+        "original_name": "Fernando Oyag\u00fcez",
+        "popularity": 0.1205,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Fernando",
+        "credit_id": "66408cd7c7c9a89567a1b2af",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027740,
+        "known_for_department": "Acting",
+        "name": "Paco Tous",
+        "original_name": "Paco Tous",
+        "popularity": 0.6059,
+        "profile_path": "/uDGKTKKv9v2JRutCZJjKwpJVKOs.jpg",
+        "cast_id": 6,
+        "character": "Manuel",
+        "credit_id": "66ee90c1c237258e4c25ddaa",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3374212,
+        "known_for_department": "Acting",
+        "name": "Adriana Forn\u00e9s",
+        "original_name": "Adriana Forn\u00e9s",
+        "popularity": 0.0722,
+        "profile_path": "/iEUBWRnKLTMPQyjA3ou2jym2cMd.jpg",
+        "cast_id": 16,
+        "character": "Raquel",
+        "credit_id": "674bb66f6a60a0b5232b6f97",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4462804,
+        "known_for_department": "Writing",
+        "name": "Megan Maxwell",
+        "original_name": "Megan Maxwell",
+        "popularity": 0.3074,
+        "profile_path": null,
+        "credit_id": "65e0e8ab6c449c0186f949de",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2388428,
+        "known_for_department": "Directing",
+        "name": "Luc\u00eda Alemany",
+        "original_name": "Luc\u00eda Alemany",
+        "popularity": 0.3996,
+        "profile_path": "/dmdNcSxaKjDVwoiZem6U6XE06HL.jpg",
+        "credit_id": "65e0eaca41a5610163825504",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5086132,
+        "known_for_department": "Writing",
+        "name": "Ivy Hesh",
+        "original_name": "Ivy Hesh",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "credit_id": "6747699229ca0eea30508373",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5086133,
+        "known_for_department": "Writing",
+        "name": "Vivien Dakota",
+        "original_name": "Vivien Dakota",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "674769a066b9a4f93c84e072",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4378714,
+        "known_for_department": "Writing",
+        "name": "Marina Mart\u00edn Laguna",
+        "original_name": "Marina Mart\u00edn Laguna",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "674769b1d73a486cbd334c90",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 514,
+        "name": "spain"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 298666,
+        "name": "erotic romance"
+      },
+      {
+        "id": 351655,
+        "name": "cine espa\u00f1ol"
+      }
+    ]
+  }
+}

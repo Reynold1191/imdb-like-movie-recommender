@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1302007,
+  "imdb_id": "tt32408435",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Kaulayaw",
+  "overview": "Two college schoolmates venture into the world of cybersex to support their needs. They fulfill their fans' sexual fantasy only to realized that they too, are falling for each other.",
+  "popularity": 11.5077,
+  "poster_path": "/qifjfp5a2gHQ0WsGhTvlamPshnH.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-07-18",
+  "revenue": 0,
+  "runtime": 48,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaulayaw",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3582449,
+        "known_for_department": "Acting",
+        "name": "Micaella Raz",
+        "original_name": "Micaella Raz",
+        "popularity": 3.5548,
+        "profile_path": "/xJqsMSJT9D7ggk1LT9oVu2qcdcg.jpg",
+        "cast_id": 2,
+        "character": "Ella",
+        "credit_id": "6664e4c57b483942768264cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972818,
+        "known_for_department": "Acting",
+        "name": "Matthew Francisco",
+        "original_name": "Matthew Francisco",
+        "popularity": 0.7225,
+        "profile_path": "/535hNSYytvErtSeKlhQJn52M5f4.jpg",
+        "cast_id": 6,
+        "character": "Migo",
+        "credit_id": "668028ae71bbfc11fdac1803",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3371806,
+        "known_for_department": "Acting",
+        "name": "Robb Guinto",
+        "original_name": "Robb Guinto",
+        "popularity": 2.1409,
+        "profile_path": "/raZt6SwyqxdpuMvBwnnrvvNaazq.jpg",
+        "cast_id": 1,
+        "character": "Cara",
+        "credit_id": "6664e4b9f95cd4ae391369b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4935805,
+        "known_for_department": "Acting",
+        "name": "Adelaide Sojo",
+        "original_name": "Adelaide Sojo",
+        "popularity": 0.1602,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Melody",
+        "credit_id": "67326849efcf344133b52072",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5053579,
+        "known_for_department": "Acting",
+        "name": "Dante Navat",
+        "original_name": "Dante Navat",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "School Admin 1",
+        "credit_id": "67326877f3eafc5201fd58a0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5053580,
+        "known_for_department": "Acting",
+        "name": "Jolly Jamero",
+        "original_name": "Jolly Jamero",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "School Admin 2",
+        "credit_id": "673268894cee4fc8d5d19c03",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1864003,
+        "known_for_department": "Writing",
+        "name": "Iar Arondaing",
+        "original_name": "Iar Arondaing",
+        "popularity": 0.0634,
+        "profile_path": "/sMVDuS3pV3NFmN3caG0jD4KZNYU.jpg",
+        "credit_id": "6664e50df713fe815c6de5d3",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9833,
+        "name": "lesbian relationship"
+      },
+      {
+        "id": 264386,
+        "name": "lesbian"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      },
+      {
+        "id": 289476,
+        "name": "lesbian kiss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "adult": false,
+  "backdrop_path": "/vhbXuEonV3wc8k48qhucWrx49Fv.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 269509,
+  "imdb_id": "tt2403439",
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Canterville Ghost",
+  "overview": "An American family moves in to the Canterville Chase, a London mansion that has been haunted by ghost Sir Simon De Canterville for 300 years.",
+  "popularity": 10.8126,
+  "poster_path": "/dFu8oHN805ZRzpQZNOjkiLzMbep.jpg",
+  "production_companies": [
+    {
+      "id": 10280,
+      "logo_path": null,
+      "name": "Arc Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 74708,
+      "logo_path": null,
+      "name": "Melmoth Films",
+      "origin_country": ""
+    },
+    {
+      "id": 33616,
+      "logo_path": "/XAMIOcQdxX4C0P5wdDrYsgz349.png",
+      "name": "Sprout Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 74709,
+      "logo_path": null,
+      "name": "D\u2019Arblay Films",
+      "origin_country": ""
+    },
+    {
+      "id": 74710,
+      "logo_path": null,
+      "name": "Dorado Media and Capital",
+      "origin_country": ""
+    },
+    {
+      "id": 144803,
+      "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align",
+      "origin_country": "US"
+    },
+    {
+      "id": 164414,
+      "logo_path": null,
+      "name": "Space Age Films",
+      "origin_country": ""
+    },
+    {
+      "id": 158615,
+      "logo_path": null,
+      "name": "Toonz Media Group",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-09-22",
+  "revenue": 2000000,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's his house, not yours.",
+  "title": "The Canterville Ghost",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11275,
+        "known_for_department": "Acting",
+        "name": "Stephen Fry",
+        "original_name": "Stephen Fry",
+        "popularity": 1.7376,
+        "profile_path": "/lv2nwyciDv1P5FPsjD6DmFzV7Nt.jpg",
+        "cast_id": 4,
+        "character": "Sir Simon de Canterville (voice)",
+        "credit_id": "5370f14bc3a36870050000ce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41419,
+        "known_for_department": "Acting",
+        "name": "Hugh Laurie",
+        "original_name": "Hugh Laurie",
+        "popularity": 2.5301,
+        "profile_path": "/akArncggHnusP5jxzMBKmJDRrMo.jpg",
+        "cast_id": 3,
+        "character": "Grim Reaper / Gardener / Swordsman / Monster / Old Duke (voice)",
+        "credit_id": "5370f143c3a368702a0000e4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281,
+        "known_for_department": "Acting",
+        "name": "Freddie Highmore",
+        "original_name": "Freddie Highmore",
+        "popularity": 4.0422,
+        "profile_path": "/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg",
+        "cast_id": 8,
+        "character": "Henry Duke of Cheshire (voice)",
+        "credit_id": "5370f167c3a36870050000d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1590758,
+        "known_for_department": "Acting",
+        "name": "Emily Carey",
+        "original_name": "Emily Carey",
+        "popularity": 0.8889,
+        "profile_path": "/tWUHikgtPCAPgYVrReXAPjMYNAW.jpg",
+        "cast_id": 13,
+        "character": "Virginia Otis (voice)",
+        "credit_id": "64d554c4db4ed600e2b5c202",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11356,
+        "known_for_department": "Acting",
+        "name": "Imelda Staunton",
+        "original_name": "Imelda Staunton",
+        "popularity": 1.6031,
+        "profile_path": "/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg",
+        "cast_id": 5,
+        "character": "Mrs Umney (voice)",
+        "credit_id": "5370f152c3a36870120000f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6975,
+        "known_for_department": "Acting",
+        "name": "Meera Syal",
+        "original_name": "Meera Syal",
+        "popularity": 0.9072,
+        "profile_path": "/oymXzUh9tuPXsNKuPIFIrsL2MU6.jpg",
+        "cast_id": 15,
+        "character": "Lucretia Otis (voice)",
+        "credit_id": "64d554f2021cee00ff105769",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16752,
+        "known_for_department": "Acting",
+        "name": "David Harewood",
+        "original_name": "David Harewood",
+        "popularity": 1.3351,
+        "profile_path": "/kjWRYwRGQco0C4p2iIh2RV86fi7.jpg",
+        "cast_id": 14,
+        "character": "Hiram Otis (voice)",
+        "credit_id": "64d554ddbf31f201cb68f059",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 62965,
+        "known_for_department": "Acting",
+        "name": "Miranda Hart",
+        "original_name": "Miranda Hart",
+        "popularity": 0.8788,
+        "profile_path": "/lLqIihBICaGVkzB8yqCvydZ9qc3.jpg",
+        "cast_id": 6,
+        "character": "Algernean Van Finchley (voice)",
+        "credit_id": "5370f15ac3a368702a0000e6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13014,
+        "known_for_department": "Acting",
+        "name": "Toby Jones",
+        "original_name": "Toby Jones",
+        "popularity": 2.0325,
+        "profile_path": "/y6kLmjLgZ1sceaE4Zi1fwF0YsvZ.jpg",
+        "cast_id": 7,
+        "character": "The Reverend Chasuble (voice)",
+        "credit_id": "5370f160c3a36870120000f6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4288822,
+        "known_for_department": "Acting",
+        "name": "Jakey Schiff",
+        "original_name": "Jakey Schiff",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Louis Otis (voice)",
+        "credit_id": "6510783a6f53e10aa5d35481",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4288823,
+        "known_for_department": "Acting",
+        "name": "Bennett Miller",
+        "original_name": "Bennett Miller",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Kent Otis (voice)",
+        "credit_id": "6510785b6f53e10aa5d35495",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178794,
+        "known_for_department": "Acting",
+        "name": "Bill Lobley",
+        "original_name": "Bill Lobley",
+        "popularity": 0.2007,
+        "profile_path": "/msmF5gIzSMBZLifofoun58zUgpF.jpg",
+        "cast_id": 18,
+        "character": "Lord Monroe (voice)",
+        "credit_id": "6510789be1faed013a0b2292",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1748906,
+        "known_for_department": "Directing",
+        "name": "Elizabeth Sankey",
+        "original_name": "Elizabeth Sankey",
+        "popularity": 0.0973,
+        "profile_path": "/3KL3VfVUyB49WOm8Y2LGRkTK0HD.jpg",
+        "cast_id": 19,
+        "character": "Lady Eleanor de Canterville / Lady Erlynne / Guests (voice)",
+        "credit_id": "651078e1a3e4ba01381930ba",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219241,
+        "known_for_department": "Acting",
+        "name": "Keiron Self",
+        "original_name": "Keiron Self",
+        "popularity": 0.2705,
+        "profile_path": "/fCLytYxV7itLyPkNG4vuHsfguYF.jpg",
+        "cast_id": 20,
+        "character": "Professor Borsakov / Guests (voice)",
+        "credit_id": "6510792be1faed00c616b37d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713,
+        "known_for_department": "Acting",
+        "name": "Giles New",
+        "original_name": "Giles New",
+        "popularity": 0.2957,
+        "profile_path": "/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg",
+        "cast_id": 21,
+        "character": "The Colonel / Guests (voice)",
+        "credit_id": "65107966344a8e01392c2017",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2023530,
+        "known_for_department": "Acting",
+        "name": "Lynne Seymour",
+        "original_name": "Lynne Seymour",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mrs Borsakov / Guests (voice)",
+        "credit_id": "651079996f53e10aa4c9f6a6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2854691,
+        "known_for_department": "Acting",
+        "name": "Georgia Small",
+        "original_name": "Georgia Small",
+        "popularity": 0.1267,
+        "profile_path": "/8QCMqTREmIlJkFBBbDhjLEDyynz.jpg",
+        "cast_id": 23,
+        "character": "Marjorie Fairfax / Guests (voice)",
+        "credit_id": "651079b9e8d0b400adbcb765",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1318897,
+        "known_for_department": "Directing",
+        "name": "Kim Burdon",
+        "original_name": "Kim Burdon",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "5370f0bb0e0a26615f000184",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219241,
+        "known_for_department": "Acting",
+        "name": "Keiron Self",
+        "original_name": "Keiron Self",
+        "popularity": 0.2705,
+        "profile_path": "/fCLytYxV7itLyPkNG4vuHsfguYF.jpg",
+        "credit_id": "5370f136c3a368701e0000d1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713,
+        "known_for_department": "Acting",
+        "name": "Giles New",
+        "original_name": "Giles New",
+        "popularity": 0.2957,
+        "profile_path": "/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg",
+        "credit_id": "5370f0ca0e0a266162000184",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2362227,
+        "known_for_department": "Sound",
+        "name": "E\u00edmear Noone",
+        "original_name": "E\u00edmear Noone",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "652d8e4fea84c7012d7107a8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1596694,
+        "known_for_department": "Production",
+        "name": "Robert Chandler",
+        "original_name": "Robert Chandler",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "652d8e81024ec8011e34f24a",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1108625,
+        "known_for_department": "Sound",
+        "name": "Craig Stuart Garfinkle",
+        "original_name": "Craig Stuart Garfinkle",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "652d8e5dcaef2d00ff53174c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57917,
+        "known_for_department": "Directing",
+        "name": "Toby Genkel",
+        "original_name": "Toby Genkel",
+        "popularity": 0.247,
+        "profile_path": "/AfUC2tx0ZATPCyRMGgDnVkXgTQY.jpg",
+        "credit_id": "652d8ea1a8023600c3152d6e",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11275,
+        "known_for_department": "Acting",
+        "name": "Stephen Fry",
+        "original_name": "Stephen Fry",
+        "popularity": 1.7376,
+        "profile_path": "/lv2nwyciDv1P5FPsjD6DmFzV7Nt.jpg",
+        "credit_id": "653ed524308131011d8d8895",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3757901,
+        "known_for_department": "Production",
+        "name": "Bob Benton",
+        "original_name": "Bob Benton",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "653ed507c8a5ac00c6d75636",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1227623,
+        "known_for_department": "Production",
+        "name": "Paul Cummins",
+        "original_name": "Paul Cummins",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "653ed51630813100ae619fa4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1860052,
+        "known_for_department": "Directing",
+        "name": "Jerry Hibbert",
+        "original_name": "Jerry Hibbert",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "653ed53b308131011d8d88a1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3396540,
+        "known_for_department": "Production",
+        "name": "Nessa McGill",
+        "original_name": "Nessa McGill",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "653ed56ae894a600ff1771ec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1827114,
+        "known_for_department": "Production",
+        "name": "Hilary Strong",
+        "original_name": "Hilary Strong",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "653ed5b85907de00e1a2b7ae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037910,
+        "known_for_department": "Production",
+        "name": "Edward Noeltner",
+        "original_name": "Edward Noeltner",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "653ed5a3519bbb011b458433",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54204,
+        "known_for_department": "Production",
+        "name": "Adrian Politowski",
+        "original_name": "Adrian Politowski",
+        "popularity": 0.3611,
+        "profile_path": "/hqE3d8hi08RnY3JaYwCuHZoG7zi.jpg",
+        "credit_id": "653ed5aee894a6013a9cd757",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305931,
+        "known_for_department": "Production",
+        "name": "Paul Grindey",
+        "original_name": "Paul Grindey",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "653ed52ec8a5ac0100faa69f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542343,
+        "known_for_department": "Production",
+        "name": "Martin Metz",
+        "original_name": "Martin Metz",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "653ed57bcc9683014eb9cbce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1594980,
+        "known_for_department": "Writing",
+        "name": "Charles Moore",
+        "original_name": "Charles Moore",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "653ed591bc2cb3012c3202f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1596694,
+        "known_for_department": "Production",
+        "name": "Robert Chandler",
+        "original_name": "Robert Chandler",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "653ed5edcc9683014eb9cc07",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2224057,
+        "known_for_department": "Sound",
+        "name": "Niklas Matthaei",
+        "original_name": "Niklas Matthaei",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "653ed634cc9683014eb9cc13",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54205,
+        "known_for_department": "Production",
+        "name": "Nadia Khamlichi",
+        "original_name": "Nadia Khamlichi",
+        "popularity": 0.2203,
+        "profile_path": "/ngeXDXYulln8G5VQzhm1RvEiGi7.jpg",
+        "credit_id": "653ed55f5907de00ac020560",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341570,
+        "known_for_department": "Production",
+        "name": "P. Jayakumar",
+        "original_name": "P. Jayakumar",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "653ed552bc2cb3012c3202df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4203023,
+        "known_for_department": "Editing",
+        "name": "Ronnie Quinlan",
+        "original_name": "Ronnie Quinlan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "653ed5d5e894a600e2ce913a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4580,
+        "known_for_department": "Production",
+        "name": "Gina Carter",
+        "original_name": "Gina Carter",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "653ed5e1109cd000eae42026",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2124151,
+        "known_for_department": "Sound",
+        "name": "Trevor Swanscott",
+        "original_name": "Trevor Swanscott",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "653ed6575907de00e1a2b7d8",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347997,
+        "known_for_department": "Sound",
+        "name": "Gary Coppola",
+        "original_name": "Gary Coppola",
+        "popularity": 0.0723,
+        "profile_path": null,
+        "credit_id": "653ed61c5907de011bc56c42",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117242,
+        "known_for_department": "Sound",
+        "name": "Ruth Sullivan",
+        "original_name": "Ruth Sullivan",
+        "popularity": 0.1754,
+        "profile_path": null,
+        "credit_id": "653ed6455907de00ac0205b4",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2988944,
+        "known_for_department": "Sound",
+        "name": "Ellis Burman III",
+        "original_name": "Ellis Burman III",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "653ed60fc8a5ac013a877573",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56712,
+        "known_for_department": "Writing",
+        "name": "Oscar Wilde",
+        "original_name": "Oscar Wilde",
+        "popularity": 0.6838,
+        "profile_path": "/6LKvhREWJt0iGwjQS8iVsi5BZlp.jpg",
+        "credit_id": "56f6e30292514176210007e9",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1596694,
+        "known_for_department": "Production",
+        "name": "Robert Chandler",
+        "original_name": "Robert Chandler",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "56f6e2c99251411a61002102",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4580,
+        "known_for_department": "Production",
+        "name": "Gina Carter",
+        "original_name": "Gina Carter",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "56f6e29892514176210007cf",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 3335,
+        "name": "halloween"
+      },
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 182794,
+        "name": "halloween costume"
+      },
+      {
+        "id": 193549,
+        "name": "eccentric family"
+      },
+      {
+        "id": 230191,
+        "name": "haunted"
+      },
+      {
+        "id": 297442,
+        "name": "animation"
+      }
+    ]
+  }
+}

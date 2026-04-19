@@ -1,0 +1,1092 @@
+{
+  "adult": false,
+  "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+  "belongs_to_collection": null,
+  "budget": 170000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://michael.movie",
+  "id": 936075,
+  "imdb_id": "tt11378946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Michael",
+  "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "popularity": 50.0502,
+  "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 3281,
+      "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
+      "name": "GK Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 211545,
+      "logo_path": "/frWPX9XM8bbVgsllK5Rq6BeJv4s.png",
+      "name": "The Michael Jackson Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-22",
+  "revenue": 0,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Discover the making of a king.",
+  "title": "Michael",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3898497,
+        "known_for_department": "Acting",
+        "name": "Jaafar Jackson",
+        "original_name": "Jaafar Jackson",
+        "popularity": 2.4045,
+        "profile_path": "/1C5M3HHFohOnp1PwRDTustVJcVc.jpg",
+        "cast_id": 6,
+        "character": "Michael Jackson",
+        "credit_id": "63d7f86812b10e007fdc00af",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91671,
+        "known_for_department": "Acting",
+        "name": "Colman Domingo",
+        "original_name": "Colman Domingo",
+        "popularity": 2.6968,
+        "profile_path": "/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg",
+        "cast_id": 11,
+        "character": "Joe Jackson",
+        "credit_id": "65b2a61b2866fa0162e3dbb1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9781,
+        "known_for_department": "Acting",
+        "name": "Nia Long",
+        "original_name": "Nia Long",
+        "popularity": 3.054,
+        "profile_path": "/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg",
+        "cast_id": 12,
+        "character": "Katherine Jackson",
+        "credit_id": "65b9721746e75f0183bbf44a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446825,
+        "known_for_department": "Acting",
+        "name": "Kendrick Sampson",
+        "original_name": "Kendrick Sampson",
+        "popularity": 0.7573,
+        "profile_path": "/AoZGTujNZEfabaXR5kUwmDUmxfe.jpg",
+        "cast_id": 37,
+        "character": "Quincy Jones",
+        "credit_id": "6601a59a770700017c0f8440",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 996701,
+        "known_for_department": "Acting",
+        "name": "Miles Teller",
+        "original_name": "Miles Teller",
+        "popularity": 4.3595,
+        "profile_path": "/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg",
+        "cast_id": 15,
+        "character": "John Branca",
+        "credit_id": "65c26af3af85de0188380dcf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4487890,
+        "known_for_department": "Acting",
+        "name": "Juliano Krue Valdi",
+        "original_name": "Juliano Krue Valdi",
+        "popularity": 0.2733,
+        "profile_path": "/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg",
+        "cast_id": 9,
+        "character": "Young Michael Jackson",
+        "credit_id": "65a97b45357c0000c2d66dea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581190,
+        "known_for_department": "Acting",
+        "name": "Joseph David-Jones",
+        "original_name": "Joseph David-Jones",
+        "popularity": 0.6653,
+        "profile_path": "/qwX7ciIV8jwssmIqHv1eyzzqEvh.jpg",
+        "cast_id": 16,
+        "character": "Jackie Jackson",
+        "credit_id": "65e356aa498ef90164ece4da",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4805996,
+        "known_for_department": "Acting",
+        "name": "Jamal Henderson",
+        "original_name": "Jamal Henderson",
+        "popularity": 0.1432,
+        "profile_path": "/8yI9c3utD4EcEteNwHlFkdR8Rhv.jpg",
+        "cast_id": 39,
+        "character": "Jermaine Jackson",
+        "credit_id": "6683c1a021ceb87ee97015b8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2754193,
+        "known_for_department": "Acting",
+        "name": "Rhyan Hill",
+        "original_name": "Rhyan Hill",
+        "popularity": 0.1637,
+        "profile_path": "/iPNBMJL9kKtUYmqJzbarQfQcPp4.jpg",
+        "cast_id": 18,
+        "character": "Tito Jackson",
+        "credit_id": "65e356d3e942be0164ea17af",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2979365,
+        "known_for_department": "Acting",
+        "name": "Trey Horton",
+        "original_name": "Trey Horton",
+        "popularity": 0.0818,
+        "profile_path": "/bS5tAhkEYanomvhQURQTMnOjg79.jpg",
+        "cast_id": 22,
+        "character": "Marlon Jackson",
+        "credit_id": "65e35720db72c00163f54fc5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1221085,
+        "known_for_department": "Acting",
+        "name": "Jessica Sula",
+        "original_name": "Jessica Sula",
+        "popularity": 0.7264,
+        "profile_path": "/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg",
+        "cast_id": 33,
+        "character": "LaToya Jackson",
+        "credit_id": "6601a53760620a017c2e1981",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1990676,
+        "known_for_department": "Acting",
+        "name": "KeiLyn Durrel Jones",
+        "original_name": "KeiLyn Durrel Jones",
+        "popularity": 0.4742,
+        "profile_path": "/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg",
+        "cast_id": 36,
+        "character": "Bill Bray",
+        "credit_id": "6601a58d3520e8017ed9e035",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 159962,
+        "known_for_department": "Acting",
+        "name": "Kat Graham",
+        "original_name": "Kat Graham",
+        "popularity": 1.4762,
+        "profile_path": "/gZb5Xz2eKZqDy4hXgTEtvyTvRq4.jpg",
+        "cast_id": 32,
+        "character": "Diana Ross",
+        "credit_id": "6601a50e770700017c0f83bd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18291,
+        "known_for_department": "Acting",
+        "name": "Larenz Tate",
+        "original_name": "Larenz Tate",
+        "popularity": 1.007,
+        "profile_path": "/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg",
+        "cast_id": 31,
+        "character": "Berry Gordy",
+        "credit_id": "6601a50462f335017d53c185",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1606394,
+        "known_for_department": "Acting",
+        "name": "Laura Harrier",
+        "original_name": "Laura Harrier",
+        "popularity": 0.9297,
+        "profile_path": "/dcQiRB0EoGqP7LKFVeyY1g6uJmP.jpg",
+        "cast_id": 30,
+        "character": "Suzanne de Passe",
+        "credit_id": "65e93a0a7f4f21017bda98c7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367652,
+        "known_for_department": "Acting",
+        "name": "Nathaniel Logan McIntyre",
+        "original_name": "Nathaniel Logan McIntyre",
+        "popularity": 0.2832,
+        "profile_path": "/ijhDtOElLvBX1KRGKZKnv6cettW.jpg",
+        "cast_id": 17,
+        "character": "Young Jackie Jackson",
+        "credit_id": "65e356c09ee0ef01496e8dd5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4504138,
+        "known_for_department": "Acting",
+        "name": "Judah Edwards",
+        "original_name": "Judah Edwards",
+        "popularity": 0.0512,
+        "profile_path": "/jnAlGbdduksL3eLOat2v0TxcB78.jpg",
+        "cast_id": 19,
+        "character": "Young Tito Jackson",
+        "credit_id": "65e356e2498ef90187ed917f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4568650,
+        "known_for_department": "Acting",
+        "name": "Jayden Harville",
+        "original_name": "Jayden Harville",
+        "popularity": 0.0362,
+        "profile_path": "/7FKp7a9jL5reRJCwn6InsbgMOKz.jpg",
+        "cast_id": 21,
+        "character": "Young Jermaine Jackson",
+        "credit_id": "65e35707a672540185a94f26",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4568652,
+        "known_for_department": "Acting",
+        "name": "Jaylen Hunter",
+        "original_name": "Jaylen Hunter",
+        "popularity": 0.0261,
+        "profile_path": "/1OtOhjLCqwItHh2pnknqw2wsFCZ.jpg",
+        "cast_id": 23,
+        "character": "Young Marlon Jackson",
+        "credit_id": "65e35733fe077a01850f0f33",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12073,
+        "known_for_department": "Acting",
+        "name": "Mike Myers",
+        "original_name": "Mike Myers",
+        "popularity": 2.1187,
+        "profile_path": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg",
+        "cast_id": 109,
+        "character": "Walter Yetnikoff",
+        "credit_id": "69d4239893ceb693c0cbfce8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4614254,
+        "known_for_department": "Acting",
+        "name": "Liv Symone",
+        "original_name": "Liv Symone",
+        "popularity": 0.0517,
+        "profile_path": "/se7SG9FipyCogPeqA4ZChzAJCJW.jpg",
+        "cast_id": 34,
+        "character": "Gladys Knight",
+        "credit_id": "6601a57460620a01632a06af",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219677,
+        "known_for_department": "Acting",
+        "name": "Kevin Shinick",
+        "original_name": "Kevin Shinick",
+        "popularity": 0.3557,
+        "profile_path": "/xHoANxU56jFSmkcSTsqPBWSn5tG.jpg",
+        "cast_id": 35,
+        "character": "Dick Clark",
+        "credit_id": "6601a57e04733f0164eaff5f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2641443,
+        "known_for_department": "Acting",
+        "name": "Effie Spence",
+        "original_name": "Effie Spence",
+        "popularity": 0.0338,
+        "profile_path": "/8lYiJGkNe08mTKgX8nQ0jzhrnqd.jpg",
+        "cast_id": 88,
+        "character": "Liza Minnelli",
+        "credit_id": "687a80e009a8f9ddc038cd97",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6133361,
+        "known_for_department": "Acting",
+        "name": "Daniel Korenfeld",
+        "original_name": "Daniel Korenfeld",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "cast_id": 113,
+        "character": "Kevin Clark",
+        "credit_id": "69d99e0de8e17853d1357aab",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967937,
+        "known_for_department": "Production",
+        "name": "John Branca",
+        "original_name": "John Branca",
+        "popularity": 0.067,
+        "profile_path": "/wkp2yxOYFg6rn7aJZysnGuztfFF.jpg",
+        "credit_id": "6548416f1ac2927b2ebcad35",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2801928,
+        "known_for_department": "Production",
+        "name": "John McClain",
+        "original_name": "John McClain",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62018b091e92250068ecf5bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932,
+        "known_for_department": "Writing",
+        "name": "John Logan",
+        "original_name": "John Logan",
+        "popularity": 0.9701,
+        "profile_path": "/vmbTV6vbI5wyDlZL7bneC6QhDCb.jpg",
+        "credit_id": "62018ab99d592c01187f48c9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16729,
+        "known_for_department": "Production",
+        "name": "Graham King",
+        "original_name": "Graham King",
+        "popularity": 0.4458,
+        "profile_path": "/pscp8CgdCEWwIWwj8iil0B45LD7.jpg",
+        "credit_id": "62018aa511386c01075171f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 647,
+        "known_for_department": "Camera",
+        "name": "Dion Beebe",
+        "original_name": "Dion Beebe",
+        "popularity": 0.2067,
+        "profile_path": "/q24Jkyu8VclqhdYhPpti7fXoSkS.jpg",
+        "credit_id": "65b120eda3144001385a8390",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5585,
+        "known_for_department": "Art",
+        "name": "Barbara Ling",
+        "original_name": "Barbara Ling",
+        "popularity": 0.1093,
+        "profile_path": null,
+        "credit_id": "65bb8136d7cd060148531e1f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20907,
+        "known_for_department": "Directing",
+        "name": "Antoine Fuqua",
+        "original_name": "Antoine Fuqua",
+        "popularity": 1.7227,
+        "profile_path": "/h58HRBCQOtWIR8zMqOIVgkHjssU.jpg",
+        "credit_id": "63c83dc7142ef1007d870944",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61107,
+        "known_for_department": "Production",
+        "name": "David B. Householter",
+        "original_name": "David B. Householter",
+        "popularity": 0.2629,
+        "profile_path": "/42vuhQG58hZqZRArKjXJ1GUQnhC.jpg",
+        "credit_id": "65e3575e9979d20163af9d57",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532757,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carla Farmer",
+        "original_name": "Carla Farmer",
+        "popularity": 0.0766,
+        "profile_path": "/nC6KdCYZXhVZR8tOXvbBICLUTmZ.jpg",
+        "credit_id": "65e357c5e942be0187eac4b4",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15017,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bill Corso",
+        "original_name": "Bill Corso",
+        "popularity": 0.4895,
+        "profile_path": "/9TMCAH1HQ0dUfCr3Dj7zSYpIrre.jpg",
+        "credit_id": "65e357b6278d8a0185bec4d3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177364,
+        "known_for_department": "Camera",
+        "name": "Roberto De Angelis",
+        "original_name": "Roberto De Angelis",
+        "popularity": 0.193,
+        "profile_path": "/yh27bzESMrQsci8YgjiB3Yz4l1p.jpg",
+        "credit_id": "6705ae39f4b919f83977960f",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1537509,
+        "known_for_department": "Camera",
+        "name": "E.J. Misisco",
+        "original_name": "E.J. Misisco",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6705ae54f4b919f83977961a",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4727013,
+        "known_for_department": "Camera",
+        "name": "Matthew Love",
+        "original_name": "Matthew Love",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "6705ae8c0000000000586043",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2542831,
+        "known_for_department": "Camera",
+        "name": "Maninder K. Saini",
+        "original_name": "Maninder K. Saini",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "6705aea1000000000058604e",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2718700,
+        "known_for_department": "Camera",
+        "name": "Rob Reaves",
+        "original_name": "Rob Reaves",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6705af750000000000586051",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2073571,
+        "known_for_department": "Camera",
+        "name": "Dwight Campbell",
+        "original_name": "Dwight Campbell",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6705afbaabf8ed8565778f20",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1355532,
+        "known_for_department": "Directing",
+        "name": "Kerry Lyn McKissick",
+        "original_name": "Kerry Lyn McKissick",
+        "popularity": 0.3435,
+        "profile_path": "/5IAKLVCEBwqWBmMG0JEYgjfDaO0.jpg",
+        "credit_id": "67253dbac1c7433ebbc43a1b",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91122,
+        "known_for_department": "Camera",
+        "name": "Dylan Goss",
+        "original_name": "Dylan Goss",
+        "popularity": 0.2073,
+        "profile_path": "/lTqjDVe5mHGrBxWn7mOhO1kkL98.jpg",
+        "credit_id": "673faff6015d2e0f702df02d",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54606,
+        "known_for_department": "Production",
+        "name": "Kimberly Hardin",
+        "original_name": "Kimberly Hardin",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "credit_id": "6779c8dceca85bd5087261a4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 547,
+        "known_for_department": "Production",
+        "name": "Victoria Thomas",
+        "original_name": "Victoria Thomas",
+        "popularity": 0.4485,
+        "profile_path": "/rlZzeWW7LDeN4cRaQFP6aso7mfw.jpg",
+        "credit_id": "6779c8ef8fd6f5109d728d47",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107372,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Howard Berger",
+        "original_name": "Howard Berger",
+        "popularity": 0.3033,
+        "profile_path": "/fz0Z8ia0Iaq4SS6NfVAcFIAeU2F.jpg",
+        "credit_id": "6779c9845ac1bd826166cd35",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1053717,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mark Garbarino",
+        "original_name": "Mark Garbarino",
+        "popularity": 0.0928,
+        "profile_path": "/5H1QEoNgQxiYctLTiP8tYoefnoC.jpg",
+        "credit_id": "6779c9ccf6bc9716e8726119",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 406204,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ve Neill",
+        "original_name": "Ve Neill",
+        "popularity": 0.8441,
+        "profile_path": "/gNYwxuK5Z7Nr3tWtSWv0qAueUIs.jpg",
+        "credit_id": "6779ca37eca85bd508726264",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6446,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christopher Allen Nelson",
+        "original_name": "Christopher Allen Nelson",
+        "popularity": 0.445,
+        "profile_path": "/chp4JPOJRMjJAfA5AjfHyhxdUsp.jpg",
+        "credit_id": "6779ca512b097b15a274cbe9",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1565126,
+        "known_for_department": "Production",
+        "name": "Selena Carrillo",
+        "original_name": "Selena Carrillo",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "6779cae32b097b15a274cbfd",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2947694,
+        "known_for_department": "Directing",
+        "name": "Jesse Carmona",
+        "original_name": "Jesse Carmona",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "6779cb028fd6f5109d728d72",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764257,
+        "known_for_department": "Directing",
+        "name": "Christina Fong",
+        "original_name": "Christina Fong",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "credit_id": "6779cb142b097b15a274cc0a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 86599,
+        "known_for_department": "Directing",
+        "name": "Jon Mallard",
+        "original_name": "Jon Mallard",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "6779cb2a816b2810d166cbc0",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1550832,
+        "known_for_department": "Sound",
+        "name": "Ed Novick",
+        "original_name": "Ed Novick",
+        "popularity": 0.2604,
+        "profile_path": "/gKcL0kGtTbvnnbd9XH0pZu7Zeey.jpg",
+        "credit_id": "6779cb779cb089e05166c9b0",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387252,
+        "known_for_department": "Crew",
+        "name": "Chris O'Hara",
+        "original_name": "Chris O'Hara",
+        "popularity": 0.6406,
+        "profile_path": "/fld3KCrYr9IOTrAiKYPXgybgk1d.jpg",
+        "credit_id": "6779cbd86d7ca00e78729c95",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437304,
+        "known_for_department": "Lighting",
+        "name": "Michael Ambrose",
+        "original_name": "Michael Ambrose",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "6779cc0c6d7ca00e78729ca3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2131807,
+        "known_for_department": "Production",
+        "name": "Leigh Jonte",
+        "original_name": "Leigh Jonte",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "credit_id": "6779cc328fd6f5109d728dca",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 988882,
+        "known_for_department": "Art",
+        "name": "Eric Sundahl",
+        "original_name": "Eric Sundahl",
+        "popularity": 0.1359,
+        "profile_path": null,
+        "credit_id": "68096d71e79045c1eeee0a84",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2035388,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marci Rodgers",
+        "original_name": "Marci Rodgers",
+        "popularity": 0.0331,
+        "profile_path": "/gMaqtz5dXEhdMarL7VfDxGUHLbk.jpg",
+        "credit_id": "68096ddce79045c1eeee0a8e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2068880,
+        "known_for_department": "Directing",
+        "name": "Douglas Plasse",
+        "original_name": "Douglas Plasse",
+        "popularity": 0.1677,
+        "profile_path": null,
+        "credit_id": "68c31d1790bc7308b7fbe88e",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337411,
+        "known_for_department": "Sound",
+        "name": "John Warhurst",
+        "original_name": "John Warhurst",
+        "popularity": 0.219,
+        "profile_path": "/ngMGdR8KVxf6WS1pZ2rz88Sbf9v.jpg",
+        "credit_id": "68c31d4140e34a8a11bca956",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1402029,
+        "known_for_department": "Visual Effects",
+        "name": "Louis Morin",
+        "original_name": "Louis Morin",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "690e3834c00d8cc228ce7cd8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399633,
+        "known_for_department": "Visual Effects",
+        "name": "Greg Baxter",
+        "original_name": "Greg Baxter",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "690e383f104a5c0a2ddd12bc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5832174,
+        "known_for_department": "Acting",
+        "name": "Matthew Jackson",
+        "original_name": "Matthew Jackson",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "6921788c289e1ba7621869ef",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9039,
+        "known_for_department": "Sound",
+        "name": "John Ottman",
+        "original_name": "John Ottman",
+        "popularity": 0.2662,
+        "profile_path": "/ylFrZUOMYpFnKqFT93U4PDeDqUH.jpg",
+        "credit_id": "693b1e6b7cced433620c1401",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1383143,
+        "known_for_department": "Editing",
+        "name": "Harry Yoon",
+        "original_name": "Harry Yoon",
+        "popularity": 0.3016,
+        "profile_path": "/jtJEPNDcKHfNGti58ox6IYlWI0I.jpg",
+        "credit_id": "693b1e735ec2d0d9530c13e4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6023250,
+        "known_for_department": "Camera",
+        "name": "Jeff Wright",
+        "original_name": "Jeff Wright",
+        "popularity": 0.0261,
+        "profile_path": "/kTg4HbPpHRixTM377eRxTe6Blhq.jpg",
+        "credit_id": "699a4a95f07796e497b28c5b",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2984422,
+        "known_for_department": "Acting",
+        "name": "Playboi Carti",
+        "original_name": "Playboi Carti",
+        "popularity": 0.6323,
+        "profile_path": "/rVBqNAibmXJlCmfdvdbesAXP8J7.jpg",
+        "credit_id": "69d6fa6bbd609077506561c8",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128634,
+        "known_for_department": "Crew",
+        "name": "Jay Goodwin",
+        "original_name": "Jay Goodwin",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "69d6faacaffa1786f66cf424",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1190592,
+        "known_for_department": "Sound",
+        "name": "Lior Rosner",
+        "original_name": "Lior Rosner",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "69d7e3c270d11648b8bfec4c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 1228,
+        "name": "1970s"
+      },
+      {
+        "id": 2299,
+        "name": "abusive father"
+      },
+      {
+        "id": 3734,
+        "name": "ambition"
+      },
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 10229,
+        "name": "singer"
+      },
+      {
+        "id": 15060,
+        "name": "period drama"
+      },
+      {
+        "id": 156137,
+        "name": "music history"
+      },
+      {
+        "id": 156306,
+        "name": "price of fame"
+      },
+      {
+        "id": 163133,
+        "name": "singer-songwriter"
+      },
+      {
+        "id": 191458,
+        "name": "rise to fame"
+      },
+      {
+        "id": 208289,
+        "name": "1980s"
+      },
+      {
+        "id": 208992,
+        "name": "1960s"
+      },
+      {
+        "id": 210608,
+        "name": "1990s"
+      },
+      {
+        "id": 283297,
+        "name": "music"
+      },
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 325783,
+        "name": "clich\u00e9"
+      },
+      {
+        "id": 325784,
+        "name": "comforting"
+      },
+      {
+        "id": 325832,
+        "name": "joyful"
+      },
+      {
+        "id": 340972,
+        "name": "biographical drama"
+      },
+      {
+        "id": 345509,
+        "name": "music drama"
+      },
+      {
+        "id": 360939,
+        "name": "biopic"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "adult": false,
+  "backdrop_path": "/rrUsh0jODStzpJcDbDvLB1Tl901.jpg",
+  "belongs_to_collection": {
+    "id": 1444577,
+    "name": "The Legend of Hei Collection",
+    "poster_path": "/3R3AvYITzvcBTOhAbNNDSTwiQ5i.jpg",
+    "backdrop_path": "/pzdtFcMqLw5wd9Rs7lHk2gflFFl.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://gkids.com/films/the-legend-of-hei-2",
+  "id": 1144107,
+  "imdb_id": "tt37284198",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "\u7f57\u5c0f\u9ed1\u6218\u8bb0 2",
+  "overview": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms - and the bond they've sworn to protect.",
+  "popularity": 10.233,
+  "poster_path": "/ewZaW4gXqqllOelUpS98T49z6Gl.jpg",
+  "production_companies": [
+    {
+      "id": 152035,
+      "logo_path": "/uh2Q6PLOOy9HZPIM5Hn92IPn2XY.png",
+      "name": "HMCH",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-07-18",
+  "revenue": 67216848,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Legend of Hei 2",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1907244,
+        "known_for_department": "Acting",
+        "name": "Shan Xin",
+        "original_name": "\u738b\u5ba5\u9701",
+        "popularity": 1.0345,
+        "profile_path": "/fm3Hpzr4Fb8g43Oo8TvDfv7O3O1.jpg",
+        "cast_id": 4,
+        "character": "Luo Xiaohei / Nezha (voice)",
+        "credit_id": "67c7c5f70c65ee9abae6ed07",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2156556,
+        "known_for_department": "Acting",
+        "name": "Liu Mingyue",
+        "original_name": "\u5289\u6719\u6708",
+        "popularity": 0.6066,
+        "profile_path": "/kqh1vBsQ35b617dvd9jtvQ2ii7l.jpg",
+        "cast_id": 5,
+        "character": "Wuxian (voice)",
+        "credit_id": "6861f7bc3856c386844d1fb0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5420225,
+        "known_for_department": "Acting",
+        "name": "Zhu Jing",
+        "original_name": "\u6731\u5a67",
+        "popularity": 0.2645,
+        "profile_path": "/iabuS4GIc1kazBv9uAoVfWy5gP6.jpg",
+        "cast_id": 7,
+        "character": "Luye (voice)",
+        "credit_id": "68637a69ecf93b9a5cd122d2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242276,
+        "known_for_department": "Acting",
+        "name": "Luan Lisheng",
+        "original_name": "\u683e\u7acb\u80dc",
+        "popularity": 0.221,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Lingyao (voice)",
+        "credit_id": "68637b4faf6e83e1afe6493b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4809940,
+        "known_for_department": "Acting",
+        "name": "Fu Chen Yang",
+        "original_name": "\u5085\u6668\u9633",
+        "popularity": 0.395,
+        "profile_path": "/zOofprWXZVL7baezLtYMhAivrlO.jpg",
+        "cast_id": 9,
+        "character": "Chi Nian (voice)",
+        "credit_id": "68637b5b87bd609a9a1f7f67",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4515739,
+        "known_for_department": "Acting",
+        "name": "Yan Ling",
+        "original_name": "\u8a00\u7075",
+        "popularity": 0.4241,
+        "profile_path": "/bLbsOUI1xAzQKyBwwLl7fwhsCEe.jpg",
+        "cast_id": 10,
+        "character": "A (voice)",
+        "credit_id": "68637b6d4eea82b38a1f7ee7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4446448,
+        "known_for_department": "Acting",
+        "name": "Chen Qigang",
+        "original_name": "\u9648\u555f\u521a",
+        "popularity": 0.3962,
+        "profile_path": "/5rANZap1ttETUqYGnjmDEL5tdXA.jpg",
+        "cast_id": 11,
+        "character": "B (voice)",
+        "credit_id": "68638111f0d5b88488520c7a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3857466,
+        "known_for_department": "Acting",
+        "name": "Li Lu",
+        "original_name": "\u674e\u7490",
+        "popularity": 1.0297,
+        "profile_path": "/1QKNEnBQV3kdwkQ8DBgbS6TY52H.jpg",
+        "cast_id": 13,
+        "character": "Pan Jing (voice)",
+        "credit_id": "6863813797dd2d20e8e648e0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3824793,
+        "known_for_department": "Acting",
+        "name": "Chen Siyu",
+        "original_name": "\u9648\u601d\u5b87",
+        "popularity": 0.6494,
+        "profile_path": "/mCUJU1qQb79BeI5Ke76PbOj34HV.jpg",
+        "cast_id": 14,
+        "character": "Dofu Lao (voice)",
+        "credit_id": "6863814597dd2d20e8e648e4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4652043,
+        "known_for_department": "Acting",
+        "name": "Jingxing Ren",
+        "original_name": "\u4efb\u666f\u884c",
+        "popularity": 0.3854,
+        "profile_path": "/nCdqlWkOR6V98x5j2hgqWE2v1iu.jpg",
+        "cast_id": 15,
+        "character": "Zheng Xinyi (voice)",
+        "credit_id": "68638153ecf93b9a5cd122d5",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2732749,
+        "known_for_department": "Writing",
+        "name": "Kexin Peng",
+        "original_name": "Kexin Peng",
+        "popularity": 0.1234,
+        "profile_path": "/7X1rFB7RQ9zKuKAU5me4BkqCxAx.jpg",
+        "credit_id": "64975930955c6501059d272d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2377386,
+        "known_for_department": "Directing",
+        "name": "MTJJ",
+        "original_name": "MTJJ",
+        "popularity": 0.5864,
+        "profile_path": "/efpX3wZCpQ24uzUpKrWHxQXhc2m.jpg",
+        "credit_id": "6861f801c07d2e5cf0304676",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2720951,
+        "known_for_department": "Production",
+        "name": "Gu Jie",
+        "original_name": "\u987e\u6770",
+        "popularity": 0.2138,
+        "profile_path": "/9woofMtSqm5iJVTxmJGtZr2qdjG.jpg",
+        "credit_id": "68638171374e88720af83dee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2720951,
+        "known_for_department": "Production",
+        "name": "Gu Jie",
+        "original_name": "\u987e\u6770",
+        "popularity": 0.2138,
+        "profile_path": "/9woofMtSqm5iJVTxmJGtZr2qdjG.jpg",
+        "credit_id": "6863818bcd266211a32be08c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5537565,
+        "known_for_department": "Writing",
+        "name": "Fengxishenlei",
+        "original_name": "\u98ce\u606f",
+        "popularity": 0.324,
+        "profile_path": null,
+        "credit_id": "68638198404d9ed169ccd9b4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2377386,
+        "known_for_department": "Directing",
+        "name": "MTJJ",
+        "original_name": "MTJJ",
+        "popularity": 0.5864,
+        "profile_path": "/efpX3wZCpQ24uzUpKrWHxQXhc2m.jpg",
+        "credit_id": "68a4eb97c94cc5f3a925ece3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3586406,
+        "known_for_department": "Visual Effects",
+        "name": "Zhishuang Feng",
+        "original_name": "Zhishuang Feng",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6918bff3fe08b67726a0eb62",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2720951,
+        "known_for_department": "Production",
+        "name": "Gu Jie",
+        "original_name": "\u987e\u6770",
+        "popularity": 0.2138,
+        "profile_path": "/9woofMtSqm5iJVTxmJGtZr2qdjG.jpg",
+        "credit_id": "6918c0119d938a061f9ae23a",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2343,
+        "name": "magic"
+      },
+      {
+        "id": 977,
+        "name": "cat"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 239187,
+        "name": "lyrical"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  }
+}

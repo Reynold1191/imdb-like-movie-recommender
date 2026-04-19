@@ -1,0 +1,462 @@
+{
+  "adult": false,
+  "backdrop_path": "/hII4gDYkG9DJZ6iysUO4cNjkD2p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 53064,
+  "imdb_id": "tt0930902",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "\u5730\u4e0b\u5e7b\u71c8\u5287\u753b \u5c11\u5973\u693f",
+  "overview": "After losing her parents, young flower selling Midori is put up by a fairground group. She is abused and forced to slavery, until the arrival of an enigmatic magician of short stature, who gives her hope for a better future.",
+  "popularity": 10.3794,
+  "poster_path": "/iv3TU7RAuWnMwhsYd7eaAIJ3NuO.jpg",
+  "production_companies": [
+    {
+      "id": 77004,
+      "logo_path": null,
+      "name": "Kiry\u00fbkan",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1992-05-02",
+  "revenue": 0,
+  "runtime": 55,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The camelia girl.",
+  "title": "Midori",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 162,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107767,
+        "known_for_department": "Acting",
+        "name": "Minako Naka",
+        "original_name": "Minako Naka",
+        "popularity": 0.3614,
+        "profile_path": "/vZvTURVJ8FoSpogDqqIS3CTUuHf.jpg",
+        "cast_id": 5,
+        "character": "Midori (voice)",
+        "credit_id": "52fe4851c3a36847f81613ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107768,
+        "known_for_department": "Acting",
+        "name": "Norihiko Morishita",
+        "original_name": "Norihiko Morishita",
+        "popularity": 0.1872,
+        "profile_path": "/ye2Wusz0AyLZBvJvGeXqSZVTJzh.jpg",
+        "cast_id": 6,
+        "character": "Wand\u00e2 Masamitsu (voice)",
+        "credit_id": "52fe4851c3a36847f81613af",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107769,
+        "known_for_department": "Acting",
+        "name": "Keinosuke Okamoto",
+        "original_name": "Keinosuke Okamoto",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Koijir\u00f4 Arashi (voice)",
+        "credit_id": "52fe4851c3a36847f81613b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107770,
+        "known_for_department": "Acting",
+        "name": "Kazuyoshi Hayashi",
+        "original_name": "\u6797\u548c\u7fa9",
+        "popularity": 0.6209,
+        "profile_path": "/59ntsdRx3WqpBpaxKo8AVChcOVM.jpg",
+        "cast_id": 8,
+        "character": "Akaza (voice)",
+        "credit_id": "52fe4851c3a36847f81613b7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037805,
+        "known_for_department": "Directing",
+        "name": "Yoshihiko Matsui",
+        "original_name": "\u677e\u4e95\u826f\u5f66",
+        "popularity": 0.273,
+        "profile_path": "/1Yzd01ruTy2PYdodagvYwxQDa3f.jpg",
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "69a6e9edec8eff785c8dd249",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107771,
+        "known_for_department": "Acting",
+        "name": "Yoshifumi Nomura",
+        "original_name": "Yoshifumi Nomura",
+        "popularity": 0.1073,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Muchisute (voice)",
+        "credit_id": "52fe4851c3a36847f81613bb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107772,
+        "known_for_department": "Acting",
+        "name": "Sanae Kat\u00f4",
+        "original_name": "Sanae Kat\u00f4",
+        "popularity": 0.2187,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Benietsu (voice)",
+        "credit_id": "52fe4851c3a36847f81613bf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107773,
+        "known_for_department": "Acting",
+        "name": "Yumiko Takagi",
+        "original_name": "Yumiko Takagi",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Kanabun (voice)",
+        "credit_id": "52fe4851c3a36847f81613c3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107774,
+        "known_for_department": "Writing",
+        "name": "Akiko Tanaka",
+        "original_name": "Akiko Tanaka",
+        "popularity": 0.102,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Midori's Mother (voice)",
+        "credit_id": "52fe4851c3a36847f81613c7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107775,
+        "known_for_department": "Acting",
+        "name": "K\u00f4ji Imoto",
+        "original_name": "K\u00f4ji Imoto",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Hiroshi Inagaki (voice)",
+        "credit_id": "52fe4851c3a36847f81613cb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805535,
+        "known_for_department": "Acting",
+        "name": "Yoshihiko Matsui",
+        "original_name": "Yoshihiko Matsui",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "(voice)",
+        "credit_id": "638432d35b4fed0086b38807",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805536,
+        "known_for_department": "Acting",
+        "name": "Kinu Yoshimi",
+        "original_name": "Kinu Yoshimi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "(voice)",
+        "credit_id": "638432ddb3316b0084a80db3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805537,
+        "known_for_department": "Acting",
+        "name": "Karuki Tamazukuri",
+        "original_name": "Karuki Tamazukuri",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "(voice)",
+        "credit_id": "638432e95e14e500b806c150",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Harada",
+        "original_name": "\u539f\u7530\u6d69",
+        "popularity": 1.2195,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "52fe4851c3a36847f81613dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107766,
+        "known_for_department": "Writing",
+        "name": "Suehiro Maruo",
+        "original_name": "\u4e38\u5c3e\u672b\u5e83",
+        "popularity": 0.2576,
+        "profile_path": "/7tv0ncDzyKpGWskftVQ9dlvLx4s.jpg",
+        "credit_id": "6384322e1b157d007a4302f5",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170115,
+        "known_for_department": "Sound",
+        "name": "J.A. Seazer",
+        "original_name": "J\u30fbA\u30fb\u30b7\u30fc\u30b6\u30fc",
+        "popularity": 0.3094,
+        "profile_path": "/xkNsmZTia04ZEH8pt65I4eFZrai.jpg",
+        "credit_id": "6384326b8fdda9009fdea9e8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107777,
+        "known_for_department": "Camera",
+        "name": "Nobuyuki Sugaya",
+        "original_name": "\u83c5\u8c37\u4fe1\u884c",
+        "popularity": 0.1422,
+        "profile_path": null,
+        "credit_id": "6384327dbf09d100afd17d60",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Harada",
+        "original_name": "\u539f\u7530\u6d69",
+        "popularity": 1.2195,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "6392b8189e458600b9015883",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352120,
+        "known_for_department": "Art",
+        "name": "Katsufumi Haryu",
+        "original_name": "\u91dd\u751f\u52dd\u6587",
+        "popularity": 0.2466,
+        "profile_path": null,
+        "credit_id": "6392b82bd7fbda0095ed0680",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65443,
+        "known_for_department": "Editing",
+        "name": "Harutoshi Ogata",
+        "original_name": "\u5c3e\u5f62\u6cbb\u654f",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "6641a95b08cd508acfc17744",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Harada",
+        "original_name": "\u539f\u7530\u6d69",
+        "popularity": 1.2195,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "66f34517505132830e21669e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Harada",
+        "original_name": "\u539f\u7530\u6d69",
+        "popularity": 1.2195,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "68bb3ab665e6732d2f9bbac8",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2337,
+        "name": "pedophilia"
+      },
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 4662,
+        "name": "illusion"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 11322,
+        "name": "female protagonist"
+      },
+      {
+        "id": 12663,
+        "name": "little girl"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 14576,
+        "name": "pedophile"
+      },
+      {
+        "id": 157164,
+        "name": "animal death"
+      },
+      {
+        "id": 162735,
+        "name": "disability"
+      },
+      {
+        "id": 200234,
+        "name": "shocking"
+      },
+      {
+        "id": 206750,
+        "name": "transgression"
+      },
+      {
+        "id": 207545,
+        "name": "freak show"
+      },
+      {
+        "id": 207876,
+        "name": "1920s"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 210730,
+        "name": "illusionist"
+      },
+      {
+        "id": 215492,
+        "name": "amputee"
+      },
+      {
+        "id": 222792,
+        "name": "grooming"
+      },
+      {
+        "id": 234125,
+        "name": "child protagonist"
+      },
+      {
+        "id": 239393,
+        "name": "hermaphrodite"
+      },
+      {
+        "id": 267122,
+        "name": "sex"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/yzIjyPtwvyjHelxqIRXGpiaucPG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1572073,
+  "imdb_id": "tt37455571",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Deadly Little Mermaid",
+  "overview": "Some secrets are better left at the bottom of the ocean. Once she's in your house, there is no escape. When a struggling artist pulls a beautiful, unconscious woman from the freezing coastal waters, he thinks he\u2019s performed a miracle. But as she recovers within the walls of his secluded home, a series of unsettling events leads him to a terrifying realization: her presence is no coincidence. She is inextricably linked to the same watery grave that claimed his family years ago.",
+  "popularity": 42.2577,
+  "poster_path": "/uye25uG7k8r3NNPLyPiKOiRnFRF.jpg",
+  "production_companies": [
+    {
+      "id": 111974,
+      "logo_path": "/972APERrz9kelCZtUJdfSJd1u4n.png",
+      "name": "ChampDog Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 69347,
+      "logo_path": "/s5ctDrB6DlRDhIBsrTi4zdt445k.png",
+      "name": "ITN Distribution",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-03-06",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Deadly Little Mermaid",
+  "video": false,
+  "vote_average": 4.717,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3806541,
+        "known_for_department": "Acting",
+        "name": "Elliott Eason",
+        "original_name": "Elliott Eason",
+        "popularity": 0.1651,
+        "profile_path": "/yFUC42dpTUZ1PqiHwADHKA09rUX.jpg",
+        "cast_id": 16,
+        "character": "Tyler",
+        "credit_id": "69abdfcd54de444504ae7621",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786236,
+        "known_for_department": "Acting",
+        "name": "Sophia Carroll",
+        "original_name": "Sophia Carroll",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mira",
+        "credit_id": "690483d08f57499d285975e6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786237,
+        "known_for_department": "Acting",
+        "name": "Eleanor Mackenzie",
+        "original_name": "Eleanor Mackenzie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Laura",
+        "credit_id": "690483d8e3c847e5e44c79dd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5816824,
+        "known_for_department": "Acting",
+        "name": "Anastasia Nikolaeva",
+        "original_name": "Anastasia Nikolaeva",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Bri",
+        "credit_id": "69abe013ada8c7a7e443f08b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786234,
+        "known_for_department": "Acting",
+        "name": "Maddy Baskerville",
+        "original_name": "Maddy Baskerville",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Rose",
+        "credit_id": "690483c6d466743a1ce1208c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786238,
+        "known_for_department": "Acting",
+        "name": "Sasha Van Reenen",
+        "original_name": "Sasha Van Reenen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Casey",
+        "credit_id": "690483eab15b07b06ee1207b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282811,
+        "known_for_department": "Directing",
+        "name": "Cameron Uzoka",
+        "original_name": "Cameron Uzoka",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Will",
+        "credit_id": "690483e15efa64784646316e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5246407,
+        "known_for_department": "Acting",
+        "name": "Christian Ndonda",
+        "original_name": "Christian Ndonda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Jordan",
+        "credit_id": "69abe03541980620a3ca967e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263290,
+        "known_for_department": "Acting",
+        "name": "Tristan Reynolds",
+        "original_name": "Tristan Reynolds",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Officer Cowley",
+        "credit_id": "69abe04c78274e11f18fb047",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3496773,
+        "known_for_department": "Acting",
+        "name": "Ray Redmond",
+        "original_name": "Ray Redmond",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "News Reporter",
+        "credit_id": "69abe05bf03c89524c8fb01e",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282811,
+        "known_for_department": "Directing",
+        "name": "Cameron Uzoka",
+        "original_name": "Cameron Uzoka",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "690483f68bed197c31471e2a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5541395,
+        "known_for_department": "Writing",
+        "name": "C.M. Wright",
+        "original_name": "C.M. Wright",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "690483fdb257dca5f908091d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480608,
+        "known_for_department": "Production",
+        "name": "Stuart Alson",
+        "original_name": "Stuart Alson",
+        "popularity": 0.1166,
+        "profile_path": "/oqeOAcZkqiVl1BWWiDhdJ4Tx5hH.jpg",
+        "credit_id": "6904840bd2914ed67bdd7879",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480607,
+        "known_for_department": "Production",
+        "name": "Nicole Holland",
+        "original_name": "Nicole Holland",
+        "popularity": 0.1713,
+        "profile_path": "/xXqEm0OiSGMJGnCs78YeYeAyTkR.jpg",
+        "credit_id": "690484177bd1bb6e0e597572",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1673449,
+        "known_for_department": "Production",
+        "name": "Louisa Warren",
+        "original_name": "Louisa Warren",
+        "popularity": 0.334,
+        "profile_path": "/pZJVNjkW7nGTwxQXxelaFezxo97.jpg",
+        "credit_id": "6904841f42d3d7b733dd7908",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5288915,
+        "known_for_department": "Editing",
+        "name": "Arpith Kandlakunta",
+        "original_name": "Arpith Kandlakunta",
+        "popularity": 0.0168,
+        "profile_path": "/e4pe3BhekEQiRFvh3T8gKCjLa1t.jpg",
+        "credit_id": "690484267bd1bb6e0e597575",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3564432,
+        "known_for_department": "Acting",
+        "name": "Lauren Staerck",
+        "original_name": "Lauren Staerck",
+        "popularity": 0.1826,
+        "profile_path": "/nLQCRFarkWMd7ZUE4iF6SBrNCvD.jpg",
+        "credit_id": "6904842d59571f4881f9225b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5477447,
+        "known_for_department": "Directing",
+        "name": "Daniel Sawyer",
+        "original_name": "Daniel Sawyer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "690484391329dee76a597588",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959151,
+        "known_for_department": "Camera",
+        "name": "Nikhil Ranade",
+        "original_name": "Nikhil Ranade",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69abe09bfe7dbb1bffaa85bc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5857121,
+        "known_for_department": "Camera",
+        "name": "Vishwa Pathare",
+        "original_name": "Vishwa Pathare",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69abe0b02d28b3bd1aaa85aa",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888091,
+        "known_for_department": "Directing",
+        "name": "Moss Casman",
+        "original_name": "Moss Casman",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69abe0cefc758a917f8fb0a4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5912759,
+        "known_for_department": "Visual Effects",
+        "name": "Matthew Hammet",
+        "original_name": "Matthew Hammet",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69abe0f1f6a53066efae7626",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5912759,
+        "known_for_department": "Visual Effects",
+        "name": "Matthew Hammet",
+        "original_name": "Matthew Hammet",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69abe1123a6225480979f4c1",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

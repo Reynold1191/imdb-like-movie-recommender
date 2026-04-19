@@ -1,0 +1,1208 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+  "belongs_to_collection": {
+    "id": 1434561,
+    "name": "The Super Mario Collection",
+    "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+    "backdrop_path": "/oZSRam2yEhScla7Z37UsODgIOwB.jpg"
+  },
+  "budget": 110000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.thesupermariogalaxymovie.com",
+  "id": 1226863,
+  "imdb_id": "tt28650488",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Super Mario Galaxy Movie",
+  "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+  "popularity": 780.1539,
+  "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12288,
+      "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+      "name": "Nintendo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 747400000,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The galaxy awaits.",
+  "title": "The Super Mario Galaxy Movie",
+  "video": false,
+  "vote_average": 6.794,
+  "vote_count": 509,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73457,
+        "known_for_department": "Acting",
+        "name": "Chris Pratt",
+        "original_name": "Chris Pratt",
+        "popularity": 5.2172,
+        "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+        "cast_id": 8,
+        "character": "Mario (voice)",
+        "credit_id": "682535e3a031e88cc15a3816",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95101,
+        "known_for_department": "Acting",
+        "name": "Charlie Day",
+        "original_name": "Charlie Day",
+        "popularity": 2.7375,
+        "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+        "cast_id": 10,
+        "character": "Luigi (voice)",
+        "credit_id": "68c41e9292b33a4dd02a07be",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397778,
+        "known_for_department": "Acting",
+        "name": "Anya Taylor-Joy",
+        "original_name": "Anya Taylor-Joy",
+        "popularity": 14.3179,
+        "profile_path": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+        "cast_id": 9,
+        "character": "Princess Peach (voice)",
+        "credit_id": "68c41e888ade3c8fc52a08b0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70851,
+        "known_for_department": "Acting",
+        "name": "Jack Black",
+        "original_name": "Jack Black",
+        "popularity": 7.3804,
+        "profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+        "cast_id": 11,
+        "character": "Bowser (voice)",
+        "credit_id": "68c41ea1811c1ca0113be22e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 298410,
+        "known_for_department": "Acting",
+        "name": "Keegan-Michael Key",
+        "original_name": "Keegan-Michael Key",
+        "popularity": 4.7796,
+        "profile_path": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg",
+        "cast_id": 12,
+        "character": "Toad (voice)",
+        "credit_id": "68c41eb016e75dd3a03be147",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227564,
+        "known_for_department": "Directing",
+        "name": "Benny Safdie",
+        "original_name": "Benny Safdie",
+        "popularity": 0.9245,
+        "profile_path": "/u10A5DpUYRB1zMF7YoGYcyvhois.jpg",
+        "cast_id": 33,
+        "character": "Bowser Jr. (voice)",
+        "credit_id": "6914947ca770ff38c5c06f0d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119589,
+        "known_for_department": "Acting",
+        "name": "Donald Glover",
+        "original_name": "Donald Glover",
+        "popularity": 1.9637,
+        "profile_path": "/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg",
+        "cast_id": 38,
+        "character": "Yoshi (voice)",
+        "credit_id": "69af36bc07557a0753450995",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40481,
+        "known_for_department": "Acting",
+        "name": "Luis Guzm\u00e1n",
+        "original_name": "Luis Guzm\u00e1n",
+        "popularity": 2.6085,
+        "profile_path": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg",
+        "cast_id": 39,
+        "character": "Wart (voice)",
+        "credit_id": "69af37c82ef5c1ff95fcc64b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1455336,
+        "known_for_department": "Acting",
+        "name": "Issa Rae",
+        "original_name": "Issa Rae",
+        "popularity": 1.1622,
+        "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg",
+        "cast_id": 40,
+        "character": "Honey Queen (voice)",
+        "credit_id": "69af37e53aa1002a2c80f071",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24362,
+        "known_for_department": "Acting",
+        "name": "Kevin Michael Richardson",
+        "original_name": "Kevin Michael Richardson",
+        "popularity": 2.2976,
+        "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+        "cast_id": 13,
+        "character": "Kamek (voice)",
+        "credit_id": "68c41ebf927ae7d07f3be1f9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60073,
+        "known_for_department": "Acting",
+        "name": "Brie Larson",
+        "original_name": "Brie Larson",
+        "popularity": 3.6962,
+        "profile_path": "/rlbQbpu3tkMAikPWM53VElMUnzR.jpg",
+        "cast_id": 32,
+        "character": "Rosalina (voice)",
+        "credit_id": "6914944157e51d6fe73a3c02",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83271,
+        "known_for_department": "Acting",
+        "name": "Glen Powell",
+        "original_name": "Glen Powell",
+        "popularity": 3.9518,
+        "profile_path": "/fUnIaJkdgvQTztyR1nLeUceSzly.jpg",
+        "cast_id": 43,
+        "character": "Fox McCloud (voice)",
+        "credit_id": "69c683552bfa08bf7908abad",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3976319,
+        "known_for_department": "Acting",
+        "name": "Juliet Jelenic",
+        "original_name": "Juliet Jelenic",
+        "popularity": 0.157,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Lumalee (voice)",
+        "credit_id": "69af3a5f14eb7d910780f10e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208179,
+        "known_for_department": "Directing",
+        "name": "Ed Skudder",
+        "original_name": "Ed Skudder",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "R.O.B. (voice)",
+        "credit_id": "69b0ce9a1bbafb0a15eba005",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98292,
+        "known_for_department": "Acting",
+        "name": "Roxana Ortega",
+        "original_name": "Roxana Ortega",
+        "popularity": 0.2803,
+        "profile_path": "/tAkMeufq6ruljugyHhjvtIe72H4.jpg",
+        "cast_id": 49,
+        "character": "Ukiki (voice)",
+        "credit_id": "69cbe70c75a3de1653ac4def",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6114304,
+        "known_for_department": "Acting",
+        "name": "Virginia Dare Jelenic",
+        "original_name": "Virginia Dare Jelenic",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Yellow Luma (voice)",
+        "credit_id": "69cf0bc5f1a01032ff4d20b2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "Eric Bauza",
+        "original_name": "Eric Bauza",
+        "popularity": 0.9652,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 52,
+        "character": "Toad General / Pajama Toad (voice)",
+        "credit_id": "69cf0c11c1e58fe26c9a153a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 1.2448,
+        "profile_path": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg",
+        "cast_id": 64,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd61b461341a5a83736da",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64450,
+        "known_for_department": "Acting",
+        "name": "Hope Levy",
+        "original_name": "Hope Levy",
+        "popularity": 0.2214,
+        "profile_path": "/8Rq59XJY2YaAozw3d7qoQ5Lo8IR.jpg",
+        "cast_id": 65,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd62bba5eb92b049b8767",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3298731,
+        "known_for_department": "Acting",
+        "name": "Monia Ayachi",
+        "original_name": "Monia Ayachi",
+        "popularity": 0.0498,
+        "profile_path": "/jTVrlGaOqXzdckRugirOmhJHCAN.jpg",
+        "cast_id": 66,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd638a22b8256fa373b8e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2581798,
+        "known_for_department": "Acting",
+        "name": "Ashley London",
+        "original_name": "Ashley London",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "cast_id": 67,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd64dec11e7ccbfd9392a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1507852,
+        "known_for_department": "Acting",
+        "name": "Ryan Bartley",
+        "original_name": "Ryan Bartley",
+        "popularity": 0.1589,
+        "profile_path": "/ymyvpVzUtBhtT6E6SNcmMmUE2Ze.jpg",
+        "cast_id": 68,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd65ddf13ac78c5358e9d",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184082,
+        "known_for_department": "Acting",
+        "name": "Eric Lopez",
+        "original_name": "Eric Lopez",
+        "popularity": 0.1655,
+        "profile_path": "/4J97E27McuNTWQBWuUvnJwbJEqH.jpg",
+        "cast_id": 69,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd66991ca01b29a027b46",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1573215,
+        "known_for_department": "Acting",
+        "name": "Rachel Butera",
+        "original_name": "Rachel Butera",
+        "popularity": 0.1686,
+        "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+        "cast_id": 70,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6902cc5d1fb8d358c2d",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113916,
+        "known_for_department": "Acting",
+        "name": "Scott Menville",
+        "original_name": "Scott Menville",
+        "popularity": 1.0635,
+        "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg",
+        "cast_id": 71,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6b23affd40e73b6592e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94820,
+        "known_for_department": "Acting",
+        "name": "Jessica DiCicco",
+        "original_name": "Jessica DiCicco",
+        "popularity": 0.709,
+        "profile_path": "/1Cp0PFtup0mlsecGyfImzd4LDiL.jpg",
+        "cast_id": 72,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6c03affd40e73b65932",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35159,
+        "known_for_department": "Acting",
+        "name": "Laraine Newman",
+        "original_name": "Laraine Newman",
+        "popularity": 0.9309,
+        "profile_path": "/wlc9dpH0GdWiXBRDzGMuUQcoPKe.jpg",
+        "cast_id": 73,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6ca1fa710bd79358ba4",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684502,
+        "known_for_department": "Production",
+        "name": "Johnny Gidcomb",
+        "original_name": "Johnny Gidcomb",
+        "popularity": 0.1609,
+        "profile_path": "/ojyjYRyRop9IKk4eXR3wwAJsgpd.jpg",
+        "cast_id": 74,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6d848a4c08af870aef2",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 159720,
+        "known_for_department": "Acting",
+        "name": "Matt Nolan",
+        "original_name": "Matt Nolan",
+        "popularity": 0.3869,
+        "profile_path": "/cph12yf1h82tucawsqo8wIIlivb.jpg",
+        "cast_id": 75,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6f00f9b641c3b1d9d41",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1002409,
+        "known_for_department": "Acting",
+        "name": "Danielle Hartnett",
+        "original_name": "Danielle Hartnett",
+        "popularity": 0.0695,
+        "profile_path": "/osA6G3iUBnAgq77KlMlsCAP457z.jpg",
+        "cast_id": 76,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd6fe8e0c2d69289b8cbb",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536923,
+        "known_for_department": "Editing",
+        "name": "Eric E. Osmond",
+        "original_name": "Eric E. Osmond",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd72267af8fd45bb65722",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6138835,
+        "known_for_department": "Acting",
+        "name": "Elijah Hoffman",
+        "original_name": "Elijah Hoffman",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd7381e06ef73739b86e8",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865803,
+        "known_for_department": "Acting",
+        "name": "Isaac Robinson-Smith",
+        "original_name": "Isaac Robinson-Smith",
+        "popularity": 0.2012,
+        "profile_path": "/ceNxqevAX7c9uAzl8IthjG3slqy.jpg",
+        "cast_id": 79,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd74a42c5e0c0fc1d9d05",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6138839,
+        "known_for_department": "Acting",
+        "name": "Skai Hoffman",
+        "original_name": "Skai Hoffman",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 80,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd76642c5e0c0fc1d9d0f",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3557263,
+        "known_for_department": "Acting",
+        "name": "Sean Rohani",
+        "original_name": "Sean Rohani",
+        "popularity": 0.2984,
+        "profile_path": "/t309IwBtZd8OwC8451nBjULOjFE.jpg",
+        "cast_id": 81,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd7776401b6f8a9b65824",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 0.993,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "cast_id": 82,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd79168950d9974c73ffa",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110799,
+        "known_for_department": "Acting",
+        "name": "Rino Romano",
+        "original_name": "Rino Romano",
+        "popularity": 0.5032,
+        "profile_path": "/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg",
+        "cast_id": 83,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd79f012587154ec73ea1",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6138843,
+        "known_for_department": "Acting",
+        "name": "Pepper Jelenic",
+        "original_name": "Pepper Jelenic",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 84,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd7ab90035d13241d9e0d",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "Fred Tatasciore",
+        "original_name": "Fred Tatasciore",
+        "popularity": 1.66,
+        "profile_path": "/7pxLvE4l5mQkGzHLIEwYrc9AMFe.jpg",
+        "cast_id": 85,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd7b74ecda9ae53027c7a",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541380,
+        "known_for_department": "Acting",
+        "name": "JP Karliak",
+        "original_name": "JP Karliak",
+        "popularity": 0.5467,
+        "profile_path": "/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg",
+        "cast_id": 86,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd7c03f95805152d93735",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141368,
+        "known_for_department": "Acting",
+        "name": "Kiff VandenHeuvel",
+        "original_name": "Kiff VandenHeuvel",
+        "popularity": 0.4573,
+        "profile_path": "/5vf1cIWjqH3xgbHWPhyIIEKDgdN.jpg",
+        "cast_id": 87,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd808d5706de8a770ae84",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 149525,
+        "known_for_department": "Acting",
+        "name": "Susan Leslie",
+        "original_name": "Susan Leslie",
+        "popularity": 0.2141,
+        "profile_path": "/3PIfTKcUBmyDWspJMZ9A6cGuOpB.jpg",
+        "cast_id": 88,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd81490394c04df373853",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71520,
+        "known_for_department": "Acting",
+        "name": "Scott Whyte",
+        "original_name": "Scott Whyte",
+        "popularity": 0.6445,
+        "profile_path": "/cTsWZRSgWtkitBMwpikTr11kdYC.jpg",
+        "cast_id": 89,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd81ed66e9d9eb0c74241",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94022,
+        "known_for_department": "Acting",
+        "name": "Matthew Wolf",
+        "original_name": "Matthew Wolf",
+        "popularity": 0.2059,
+        "profile_path": "/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg",
+        "cast_id": 90,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd82b99a8271f57c73d65",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1844892,
+        "known_for_department": "Acting",
+        "name": "Forrest Forte",
+        "original_name": "Forrest Forte",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 91,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69dcd83ef2ef3bf2833589c5",
+        "order": 44
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5720,
+        "known_for_department": "Production",
+        "name": "Chris Meledandri",
+        "original_name": "Chris Meledandri",
+        "popularity": 0.3746,
+        "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+        "credit_id": "65edb3cd91f0ea01638b38db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275812,
+        "known_for_department": "Production",
+        "name": "Shigeru Miyamoto",
+        "original_name": "\u5bae\u672c\u8302",
+        "popularity": 0.6673,
+        "profile_path": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg",
+        "credit_id": "65edb39d1ac29201866aa204",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113901,
+        "known_for_department": "Writing",
+        "name": "Michael Jelenic",
+        "original_name": "Michael Jelenic",
+        "popularity": 0.993,
+        "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+        "credit_id": "65edb325447f9c018760f55e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1719706,
+        "known_for_department": "Writing",
+        "name": "Aaron Horvath",
+        "original_name": "Aaron Horvath",
+        "popularity": 0.8106,
+        "profile_path": "/6AOmWzdJas3xh0xJOk1mHPstNs2.jpg",
+        "credit_id": "65edb330edeb430149c19e7c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777724,
+        "known_for_department": "Writing",
+        "name": "Matthew Fogel",
+        "original_name": "Matthew Fogel",
+        "popularity": 0.6136,
+        "profile_path": "/r4uSyCQhPLlUA4pZyPt5ryoupqz.jpg",
+        "credit_id": "68c4337ab5508d6e99bacbbf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6041,
+        "known_for_department": "Sound",
+        "name": "Brian Tyler",
+        "original_name": "Brian Tyler",
+        "popularity": 0.7296,
+        "profile_path": "/wLPLAOcEgA9vfNuXSX1QI1ajguU.jpg",
+        "credit_id": "68c44b854569b95349cd502e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1447310,
+        "known_for_department": "Crew",
+        "name": "Jeannine Berger",
+        "original_name": "Jeannine Berger",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "credit_id": "6909722aa1cf33c3e3112793",
+        "department": "Production",
+        "job": "Post Production Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208179,
+        "known_for_department": "Directing",
+        "name": "Ed Skudder",
+        "original_name": "Ed Skudder",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "credit_id": "690972cd343eacc149db8bfc",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16344,
+        "known_for_department": "Sound",
+        "name": "Daniel Laurie",
+        "original_name": "Daniel Laurie",
+        "popularity": 0.2191,
+        "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg",
+        "credit_id": "690972f197a95cdc86f5fcab",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066299,
+        "known_for_department": "Production",
+        "name": "Xavier Bec",
+        "original_name": "Xavier Bec",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6909731a175798ec82c964fe",
+        "department": "Production",
+        "job": "Head of Research"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394418,
+        "known_for_department": "Sound",
+        "name": "Jeremy Bowker",
+        "original_name": "Jeremy Bowker",
+        "popularity": 0.2166,
+        "profile_path": "/en5kd72MYfcJNXsRT0hzZZjz3wr.jpg",
+        "credit_id": "698a4fa09a5051740f126b4b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394418,
+        "known_for_department": "Sound",
+        "name": "Jeremy Bowker",
+        "original_name": "Jeremy Bowker",
+        "popularity": 0.2166,
+        "profile_path": "/en5kd72MYfcJNXsRT0hzZZjz3wr.jpg",
+        "credit_id": "698a4fa6301f23d62baee391",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378828,
+        "known_for_department": "Sound",
+        "name": "Michael Semanick",
+        "original_name": "Michael Semanick",
+        "popularity": 0.522,
+        "profile_path": "/poGaVc3vdZmkZCvSLNIkkIsxffj.jpg",
+        "credit_id": "698a4fb38e9d3d184cbb830a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1415463,
+        "known_for_department": "Sound",
+        "name": "Scott R. Lewis",
+        "original_name": "Scott R. Lewis",
+        "popularity": 0.2527,
+        "profile_path": null,
+        "credit_id": "698a4fbf2912b685efbb831b",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4036058,
+        "known_for_department": "Production",
+        "name": "Yusuke Beppu",
+        "original_name": "Yusuke Beppu",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "69c6ec4dfb714da2fb537826",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2550027,
+        "known_for_department": "Production",
+        "name": "Brice Colinet",
+        "original_name": "Brice Colinet",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69c6ec5ef1b702efc77a46d7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237759,
+        "known_for_department": "Writing",
+        "name": "Brett Hoffman",
+        "original_name": "Brett Hoffman",
+        "popularity": 0.2463,
+        "profile_path": null,
+        "credit_id": "69c6ec73e9138b91c0f6a6fd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2016629,
+        "known_for_department": "Production",
+        "name": "Kelly Lake",
+        "original_name": "Kelly Lake",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "69c6ec82ec964b4d5591ba54",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4036057,
+        "known_for_department": "Production",
+        "name": "Bill Ryan",
+        "original_name": "Bill Ryan",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "69c6ec919fda6b0929576859",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1536923,
+        "known_for_department": "Editing",
+        "name": "Eric E. Osmond",
+        "original_name": "Eric E. Osmond",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "credit_id": "69cda18c601ec5b5558fe585",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453020,
+        "known_for_department": "Visual Effects",
+        "name": "Guy Bar'ely",
+        "original_name": "Guy Bar'ely",
+        "popularity": 0.3002,
+        "profile_path": null,
+        "credit_id": "69d01c2ae0d6238ac2d299b3",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479529,
+        "known_for_department": "Visual Effects",
+        "name": "Pierre Leduc",
+        "original_name": "Pierre Leduc",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "69d07bf1432743ff954b5e03",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493356,
+        "known_for_department": "Directing",
+        "name": "Fabien Polack",
+        "original_name": "Fabien Polack",
+        "popularity": 0.1073,
+        "profile_path": null,
+        "credit_id": "69d07c03bb11914ebcd29af0",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3490041,
+        "known_for_department": "Directing",
+        "name": "David Pell\u00e9",
+        "original_name": "David Pell\u00e9",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69d07c51432743ff954b5e0d",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12071,
+        "known_for_department": "Acting",
+        "name": "Guillaume Aretos",
+        "original_name": "Guillaume Aretos",
+        "popularity": 0.1398,
+        "profile_path": "/jpbghMhQuCuSmLPBtN4SjVrmmF9.jpg",
+        "credit_id": "69d07c94830f11f4e39a1d1f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2550020,
+        "known_for_department": "Art",
+        "name": "Matthieu Gosselin",
+        "original_name": "Matthieu Gosselin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69d07cb901c75acaaf0ba13a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001562,
+        "known_for_department": "Visual Effects",
+        "name": "Christophe Delisle",
+        "original_name": "Christophe Delisle",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "69d07cd63087e3fcd8a637f9",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001585,
+        "known_for_department": "Visual Effects",
+        "name": "Ludovic Roz",
+        "original_name": "Ludovic Roz",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "69d07ce96fe81d74b8a64852",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2363198,
+        "known_for_department": "Directing",
+        "name": "Jeff Mednikow",
+        "original_name": "Jeff Mednikow",
+        "popularity": 0.152,
+        "profile_path": null,
+        "credit_id": "69d07d7146af586a52d293d4",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2989586,
+        "known_for_department": "Visual Effects",
+        "name": "Fran\u00e7ois Boudaille",
+        "original_name": "Fran\u00e7ois Boudaille",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69d77d512fda80e8ba106350",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4270,
+        "name": "galaxy"
+      },
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 3801,
+        "name": "space travel"
+      },
+      {
+        "id": 6362,
+        "name": "turtle"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 9253,
+        "name": "slapstick comedy"
+      },
+      {
+        "id": 9696,
+        "name": "magic mushroom"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      },
+      {
+        "id": 41645,
+        "name": "based on video game"
+      },
+      {
+        "id": 167541,
+        "name": "buddy comedy"
+      },
+      {
+        "id": 179430,
+        "name": "aftercreditsstinger"
+      },
+      {
+        "id": 179431,
+        "name": "duringcreditsstinger"
+      },
+      {
+        "id": 194034,
+        "name": "globetrotting"
+      },
+      {
+        "id": 195114,
+        "name": "space adventure"
+      },
+      {
+        "id": 210246,
+        "name": "children's adventure"
+      },
+      {
+        "id": 240119,
+        "name": "father son relationship"
+      },
+      {
+        "id": 243230,
+        "name": "parallel universe"
+      },
+      {
+        "id": 243959,
+        "name": "brother brother relationship"
+      },
+      {
+        "id": 267848,
+        "name": "talking animal"
+      },
+      {
+        "id": 272909,
+        "name": "magic land"
+      },
+      {
+        "id": 365615,
+        "name": "fictional country"
+      }
+    ]
+  }
+}

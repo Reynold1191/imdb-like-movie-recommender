@@ -1,0 +1,194 @@
+{
+  "adult": false,
+  "backdrop_path": "/lZ3vcm5HtPX8BeHs4axZABJrYJa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1426297,
+  "imdb_id": "tt34793095",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Play Dead",
+  "overview": "A woman wakes up injured in a basement surrounded by corpses. To survive, she pretends to be dead while a grotesque ritual unfolds in the house above.",
+  "popularity": 21.1694,
+  "poster_path": "/ixWeYfvXT9AbfM0QPb9kwbVLbLV.jpg",
+  "production_companies": [
+    {
+      "id": 130106,
+      "logo_path": null,
+      "name": "Dystopia Films",
+      "origin_country": ""
+    },
+    {
+      "id": 97315,
+      "logo_path": null,
+      "name": "Black Mandala",
+      "origin_country": "NZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "release_date": "2025-03-29",
+  "revenue": 0,
+  "runtime": 72,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When your best chance to live is to die.",
+  "title": "Play Dead",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 40,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 567742,
+        "known_for_department": "Acting",
+        "name": "Paula Brasca",
+        "original_name": "Paula Brasca",
+        "popularity": 0.2415,
+        "profile_path": "/e6YRVXpqeMvpT2yFUnEOlWj4srv.jpg",
+        "cast_id": 4,
+        "character": "Alison",
+        "credit_id": "679b819dd04b03bd9f34669c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3065840,
+        "known_for_department": "Acting",
+        "name": "Dami\u00e1n Del Castillo",
+        "original_name": "Dami\u00e1n Del Castillo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "679b81abc35721885a345eec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4321298,
+        "known_for_department": "Acting",
+        "name": "Marta Quarleri",
+        "original_name": "Marta Quarleri",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lorraine",
+        "credit_id": "679b81b4b23629e7f8fbd9a4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5167953,
+        "known_for_department": "Acting",
+        "name": "Milagros Ribet",
+        "original_name": "Milagros Ribet",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "67f91dded81748ccff99a2dc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3381701,
+        "known_for_department": "Acting",
+        "name": "Catalina Motto",
+        "original_name": "Catalina Motto",
+        "popularity": 0.0416,
+        "profile_path": "/5ivMeMNqqjVYxGU2VXauJ0JDUnk.jpg",
+        "cast_id": 8,
+        "character": "Emily",
+        "credit_id": "69737f176283559eb437b826",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1923093,
+        "known_for_department": "Writing",
+        "name": "Carlos Goitia",
+        "original_name": "Carlos Goitia",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "679b816fc35721885a345edd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2812110,
+        "known_for_department": "Directing",
+        "name": "Gonzalo Mellid",
+        "original_name": "Gonzalo Mellid",
+        "popularity": 0.0574,
+        "profile_path": "/R3M5qrja0MeXzML4QhaHnOqft6.jpg",
+        "credit_id": "679b817e0902b69ec7fbd346",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3741980,
+        "known_for_department": "Writing",
+        "name": "Camilo Zaffora",
+        "original_name": "Camilo Zaffora",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "679b818bc35721885a345ee4",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1930,
+        "name": "kidnapping"
+      },
+      {
+        "id": 10714,
+        "name": "serial killer"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      }
+    ]
+  }
+}

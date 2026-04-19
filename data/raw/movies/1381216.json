@@ -1,0 +1,264 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Vq8otoGevbhcZAKY2devVbPs6L.jpg",
+  "belongs_to_collection": null,
+  "budget": 1250000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://lakejesup.com/",
+  "id": 1381216,
+  "imdb_id": "tt30782197",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lake Jesup: Bonecrusher's Revenge",
+  "overview": "In 2003, Lake Jesup became the stage for a real-life horror story, as a monstrous alligator escaped from captivity and began a reign of terror. As the body count rose, a desperate hunt ensued to stop the creature.",
+  "popularity": 29.2114,
+  "poster_path": "/1Z1TgGXS1MD4DDfIkBNloM43vvj.jpg",
+  "production_companies": [
+    {
+      "id": 40367,
+      "logo_path": null,
+      "name": "Valencia Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 243556,
+      "logo_path": null,
+      "name": "Crown Creative Content",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's a big sumbitch.",
+  "title": "Lake Jesup: Bonecrusher's Revenge",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628383,
+        "known_for_department": "Acting",
+        "name": "Derek Russo",
+        "original_name": "Derek Russo",
+        "popularity": 0.4671,
+        "profile_path": "/5x5b61WVyydJV9qHPVIBzefCsMf.jpg",
+        "cast_id": 3,
+        "character": "Bubba Coggins",
+        "credit_id": "672536693985f3f41ad1dab4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3560347,
+        "known_for_department": "Acting",
+        "name": "Jeff Benninghofen",
+        "original_name": "Jeff Benninghofen",
+        "popularity": 0.1584,
+        "profile_path": "/70ZGMsdkhSXy9J9rmEg0kZhPZ4M.jpg",
+        "cast_id": 11,
+        "character": "Angus Sullivan",
+        "credit_id": "68543d646d190b422d79b162",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2252730,
+        "known_for_department": "Acting",
+        "name": "Michael Houston King",
+        "original_name": "Michael Houston King",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Mayor Sam Neuhauser",
+        "credit_id": "68543d84ebbe08b5c077d04b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2187456,
+        "known_for_department": "Acting",
+        "name": "Essex O'Brien",
+        "original_name": "Essex O'Brien",
+        "popularity": 0.0871,
+        "profile_path": "/e2SzlrBCi3p9JsVsjBqOOeoE1BJ.jpg",
+        "cast_id": 13,
+        "character": "Jim Fisher",
+        "credit_id": "68543da4f3bab1ec7a29e268",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3383606,
+        "known_for_department": "Acting",
+        "name": "Sarah Voigt",
+        "original_name": "Sarah Voigt",
+        "popularity": 0.6676,
+        "profile_path": "/7OR1UUn0DrDykNcxakYkpxW5I1Z.jpg",
+        "cast_id": 1,
+        "character": "Lainy",
+        "credit_id": "67253658771f5cb149558fe4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8540,
+        "known_for_department": "Acting",
+        "name": "Danny Nucci",
+        "original_name": "Danny Nucci",
+        "popularity": 1.2983,
+        "profile_path": "/w8nMQvgBFY5vuDoN5B698ostLWN.jpg",
+        "cast_id": 2,
+        "character": "Luiz Acosta",
+        "credit_id": "6725365f90004810fecb40ba",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2252730,
+        "known_for_department": "Acting",
+        "name": "Michael Houston King",
+        "original_name": "Michael Houston King",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "6725368690004810fecb40cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2252730,
+        "known_for_department": "Acting",
+        "name": "Michael Houston King",
+        "original_name": "Michael Houston King",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "6725368d771f5cb149558ff7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5035489,
+        "known_for_department": "Production",
+        "name": "Eric Fleming",
+        "original_name": "Eric Fleming",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "672536a83985f3f41ad1dae7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 587087,
+        "known_for_department": "Acting",
+        "name": "Mario Xavier",
+        "original_name": "Mario Xavier",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "672536c90174b9909cdf2f9b",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1575851,
+        "known_for_department": "Camera",
+        "name": "Kraig Swisher",
+        "original_name": "Kraig Swisher",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "672536da0df4e66d4d925cb2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2010049,
+        "known_for_department": "Editing",
+        "name": "Evan Carnevali",
+        "original_name": "Evan Carnevali",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "672536f70df4e66d4d925cb6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1408786,
+        "known_for_department": "Acting",
+        "name": "Lauren O'Quinn",
+        "original_name": "Lauren O'Quinn",
+        "popularity": 0.114,
+        "profile_path": "/to7mUgK6KGIGPch8zftjiujG8NW.jpg",
+        "credit_id": "6725370b0df4e66d4d925cc3",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3184,
+        "name": "alligator"
+      },
+      {
+        "id": 7050,
+        "name": "alligator hunter"
+      },
+      {
+        "id": 214881,
+        "name": "lake monster"
+      }
+    ]
+  }
+}

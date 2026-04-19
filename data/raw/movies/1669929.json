@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1669929,
+  "imdb_id": "tt41285415",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "La huella del oro",
+  "overview": "",
+  "popularity": 11.6994,
+  "poster_path": "/ldroECj55Ay4Qh4gUlbKEttly4i.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-04-13",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La huella del oro",
+  "video": false,
+  "vote_average": 6.75,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072620,
+        "known_for_department": "Acting",
+        "name": "Mario Casta\u00f1eda",
+        "original_name": "Mario Casta\u00f1eda",
+        "popularity": 0.1115,
+        "profile_path": "/rXonFHXqbE4cFzAM4NhHsl7ptvM.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69de44f9c219c3811d9b8f25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52586,
+        "known_for_department": "Acting",
+        "name": "Milhem Cortaz",
+        "original_name": "Milhem Cortaz",
+        "popularity": 0.6787,
+        "profile_path": "/vA9hgFemy6JHxgjdbQW78xZyAnq.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "69de454b714f9e16bd70b960",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3537671,
+        "known_for_department": "Production",
+        "name": "Jakora Xochitl",
+        "original_name": "Jakora Xochitl",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69de456bcb476f824c1da6bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1450567,
+        "known_for_department": "Acting",
+        "name": "Wendel Bezerra",
+        "original_name": "Wendel Bezerra",
+        "popularity": 0.0311,
+        "profile_path": "/lrK0G2bSqRZc72REZRQafGwd2Rg.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "69de457e5827514474b65fff",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083844,
+        "known_for_department": "Creator",
+        "name": "Daniel Duche",
+        "original_name": "Daniel Duche",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "69de459b99a8271f57c74573",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568580,
+        "known_for_department": "Crew",
+        "name": "Ayelen Bustos Su\u00e1rez",
+        "original_name": "Ayelen Bustos Su\u00e1rez",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69de45b85827514474b6600a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}

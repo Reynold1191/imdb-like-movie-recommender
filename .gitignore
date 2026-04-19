@@ -1,0 +1,49 @@
+# -----------------------------
+# ENV / SECRETS
+# -----------------------------
+.env
+.env.*
+*.env
+
+# -----------------------------
+# PYTHON
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# -----------------------------
+# DATABASE / DOCKER
+# -----------------------------
+postgres_data/
+*.db
+
+# Docker override files
+docker-compose.override.yml
+
+# -----------------------------
+# STREAMLIT
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# IDE / EDITOR
+# -----------------------------
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# LOGS
+# -----------------------------
+*.log

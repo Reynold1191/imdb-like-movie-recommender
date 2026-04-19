@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/yARPQVuQTZv5vHUbBVNPt6B0AqF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1669050,
+  "imdb_id": "tt40541183",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Tayuan 2",
+  "overview": "A charming bus conductor drawn to both men and women who feels an unexpected spark with a shy commuter. On crowded bus rides where bodies brush, desire grows and love becomes messy.",
+  "popularity": 9.8405,
+  "poster_path": "/gkHNa8q3RNhgj2EMuoYWJUHsMa6.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-04-17",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tayuan 2",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5420126,
+        "known_for_department": "Acting",
+        "name": "Ashley Lopez",
+        "original_name": "Ashley Lopez",
+        "popularity": 7.8141,
+        "profile_path": "/pRIF389pP8fCmkp7wlOusY9AlMQ.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "69dbf496c89c7a1d4f37347f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5630057,
+        "known_for_department": "Acting",
+        "name": "Marco Mora",
+        "original_name": "Marco Mora",
+        "popularity": 1.0027,
+        "profile_path": "/9taPM0O5fMHleKYI21kMnW5VC4N.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69dbf4b0c89c7a1d4f37348f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5932495,
+        "known_for_department": "Acting",
+        "name": "Dara Lima",
+        "original_name": "Dara Lima",
+        "popularity": 0.4287,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "69dbf4c06401b6f8a9b65315",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4127373,
+        "known_for_department": "Acting",
+        "name": "Chester Grecia",
+        "original_name": "Chester Grecia",
+        "popularity": 2.135,
+        "profile_path": "/4wICQfl1RbrL6C0HhTtW9Yic8kE.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69dbf4d025c8892b8c9b8244",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 227100,
+        "known_for_department": "Directing",
+        "name": "Topel Lee",
+        "original_name": "Topel Lee",
+        "popularity": 0.4676,
+        "profile_path": "/rdSuihhgNggOA584YLWWSUDQI4G.jpg",
+        "credit_id": "69dbf4e2c20f2be21670abc0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  }
+}

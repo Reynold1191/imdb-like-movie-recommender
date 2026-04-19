@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 1018135,
+    "name": "Son's Girlfriend, Daddy's Girlfriend Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 963261,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "\uc544\ub4e4\uc758 \uc5ec\uce5c \uc544\ube60\uc758 \uc5ec\uce5c 2",
+  "overview": "Jeong-goo is in a relationship with his son's girlfriend, Mi-hee. Mi-hee feels guilty and breaks up with Yeong-jin, and Yeong-jin who is struggling because of it, got in a relationship with Joo-eun. Yeong-jin's ex-wife, Yeon-ri meets Jeong-goo by chance and finds out about the whole thing, and Yeon-ri who was curious about Jeong-goo, sleeps with him...",
+  "popularity": 10.8396,
+  "poster_path": "/6xu9crDySkzj16gfH89Elc2Yyqc.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2022-04-01",
+  "revenue": 0,
+  "runtime": 70,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Son's Girlfriend, Daddy's Girlfriend 2",
+  "video": false,
+  "vote_average": 4.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2349944,
+        "known_for_department": "Acting",
+        "name": "Yoo Jung",
+        "original_name": "\uc720\uc815",
+        "popularity": 0.1512,
+        "profile_path": "/gJy2W6dGndkaqrffN4LdmyHJmvv.jpg",
+        "cast_id": 2,
+        "character": "Min Su-ryeol",
+        "credit_id": "630511f9a698cf008ee32d38",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4857772,
+        "known_for_department": "Acting",
+        "name": "Kim Soo-ji",
+        "original_name": "Kim Soo-ji",
+        "popularity": 6.0437,
+        "profile_path": "/51Nbexh5jSbUi6QX5Hw26te31Xm.jpg",
+        "cast_id": 7,
+        "character": "Ha Joo-eun",
+        "credit_id": "66a967eedd9d9856e65c516c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1622390,
+        "known_for_department": "Acting",
+        "name": "Lee Chae-dam",
+        "original_name": "Lee Chae-dam",
+        "popularity": 5.1266,
+        "profile_path": "/27qVJm4vpUKBXC9zyW2CbEiyfgG.jpg",
+        "cast_id": 3,
+        "character": "Kang Mi-hui",
+        "credit_id": "630511fe8566d2007cdcb8d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869844,
+        "known_for_department": "Acting",
+        "name": "Cha Myung-Hoon",
+        "original_name": "Cha Myung-Hoon",
+        "popularity": 1.1983,
+        "profile_path": "/rxs2zSSLkDMC5suX9viZ9YYFVqR.jpg",
+        "cast_id": 5,
+        "character": "Kim Jeong-gu",
+        "credit_id": "6305120ba698cf008ee32d42",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 2557506,
+        "known_for_department": "Acting",
+        "name": "Park Do-jin",
+        "original_name": "Park Do-jin",
+        "popularity": 0.0,
+        "profile_path": "/rZbs4lJMVVYLnQ5JfQavFCyDEjN.jpg",
+        "cast_id": 6,
+        "character": "Lee Yeong-jin",
+        "credit_id": "6305120fb234b9007b3d4466",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3674307,
+        "known_for_department": "Directing",
+        "name": "Ri Yoon",
+        "original_name": "Ri Yoon",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "630511db651fcf007d873055",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      }
+    ]
+  }
+}

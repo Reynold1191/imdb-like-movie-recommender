@@ -1,0 +1,638 @@
+{
+  "adult": false,
+  "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+  "belongs_to_collection": null,
+  "budget": 60900000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.thedavidmovie.com/",
+  "id": 1167307,
+  "imdb_id": "tt15678738",
+  "origin_country": [
+    "US",
+    "GB",
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_title": "David",
+  "overview": "From the songs of his mother\u2019s heart to the whispers of a faithful God, David\u2019s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage\u2014culminating in a battle not just for a crown, but for the soul of a kingdom.",
+  "popularity": 29.1333,
+  "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+  "production_companies": [
+    {
+      "id": 30216,
+      "logo_path": "/AwgLu0qw2UifWdDYExBNlZXWwx.png",
+      "name": "Sunrise Productions",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 206626,
+      "logo_path": null,
+      "name": "Slingshot USA",
+      "origin_country": ""
+    },
+    {
+      "id": 165435,
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 223271,
+      "logo_path": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+      "name": "2521 Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2025-12-14",
+  "revenue": 85865995,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A giant musical event.",
+  "title": "David",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 128,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2507851,
+        "known_for_department": "Acting",
+        "name": "Brandon Engman",
+        "original_name": "Brandon Engman",
+        "popularity": 0.25,
+        "profile_path": "/9PhXVdDPb5NTEvD5dbFfTJnssQw.jpg",
+        "cast_id": 7,
+        "character": "Young David (voice)",
+        "credit_id": "659cfd1d55c1f400ee4f7332",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1822256,
+        "known_for_department": "Acting",
+        "name": "Brian Stivale",
+        "original_name": "Brian Stivale",
+        "popularity": 0.0571,
+        "profile_path": "/ggNQronrHaUZnFZeolK0SGfW38V.jpg",
+        "cast_id": 16,
+        "character": "Samuel (voice)",
+        "credit_id": "68ee17fe4696ca4a02282921",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2805492,
+        "known_for_department": "Acting",
+        "name": "Shahar Taboch",
+        "original_name": "Shahar Taboch",
+        "popularity": 0.157,
+        "profile_path": "/hpuiheYJrOU4HYczWgCJNeBPWlZ.jpg",
+        "cast_id": 17,
+        "character": "Ozem (voice)",
+        "credit_id": "68ee18166319a4d76cf121a8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1677363,
+        "known_for_department": "Acting",
+        "name": "Aaron Tavaler",
+        "original_name": "Aaron Tavaler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Nethanel (voice)",
+        "credit_id": "69811999abf39b2e2281beb8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5981973,
+        "known_for_department": "Acting",
+        "name": "Hector",
+        "original_name": "Hector",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Jesse (voice)",
+        "credit_id": "698119fc3c8349e841e061e1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1259893,
+        "known_for_department": "Acting",
+        "name": "Miri Mesika",
+        "original_name": "Miri Mesika",
+        "popularity": 0.1404,
+        "profile_path": "/v9tqyqIfG6V9Ezix0Bienpco9B5.jpg",
+        "cast_id": 18,
+        "character": "Nitzevet (voice)",
+        "credit_id": "68ee182634cc5c70dd785526",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4271307,
+        "known_for_department": "Acting",
+        "name": "Jack Wagman",
+        "original_name": "Jack Wagman",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Abinadab (voice)",
+        "credit_id": "69811a38a199978754e9180c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5981987,
+        "known_for_department": "Acting",
+        "name": "Jonathan Shaboo",
+        "original_name": "Jonathan Shaboo",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Eliab (voice)",
+        "credit_id": "69811b12ef2df91598313fc1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5705674,
+        "known_for_department": "Acting",
+        "name": "Sloan Lucas Muldown",
+        "original_name": "Sloan Lucas Muldown",
+        "popularity": 0.0431,
+        "profile_path": "/4eQoD8TdgDB1UbCRwiyLw2nyYYg.jpg",
+        "cast_id": 13,
+        "character": "Young Zeruiah (voice)",
+        "credit_id": "68ee17c49c850800172829a2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3732705,
+        "known_for_department": "Acting",
+        "name": "Mike Ciporkin",
+        "original_name": "Mike Ciporkin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Scout (voice)",
+        "credit_id": "68ee1848458355352b0d8253",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4770237,
+        "known_for_department": "Acting",
+        "name": "Katie Bernstein",
+        "original_name": "Katie Bernstein",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Ahinoam (voice)",
+        "credit_id": "69811ca7261e749eca6ccdf1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2384065,
+        "known_for_department": "Acting",
+        "name": "Lauren Daigle",
+        "original_name": "Lauren Daigle",
+        "popularity": 0.1051,
+        "profile_path": "/56btNdIze3EGyV9tKOF0I13I1Yo.jpg",
+        "cast_id": 15,
+        "character": "Rebecca (voice)",
+        "credit_id": "68ee17ee51e604d7772829a2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4364574,
+        "known_for_department": "Acting",
+        "name": "Mark Jacobson",
+        "original_name": "Mark Jacobson",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Jonathan (voice)",
+        "credit_id": "69811d2893ad53870e313fbd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4249465,
+        "known_for_department": "Acting",
+        "name": "Nitzan Sitzer",
+        "original_name": "Nitzan Sitzer",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Short Scribe",
+        "credit_id": "69811d5dad110a105d382c8e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 104477,
+        "known_for_department": "Acting",
+        "name": "Adam Meir",
+        "original_name": "Adam Meir",
+        "popularity": 0.0453,
+        "profile_path": "/jfZLKCKC341VNcp9GvKhrw7qOat.jpg",
+        "cast_id": 30,
+        "character": "Tall Scribe",
+        "credit_id": "69811d80a5a32d3df381be38",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1963275,
+        "known_for_department": "Acting",
+        "name": "Adam Michael Gold",
+        "original_name": "Adam Michael Gold",
+        "popularity": 0.1855,
+        "profile_path": "/8MNqU2IeoSojqrgVHPqLPf6LSxS.jpg",
+        "cast_id": 36,
+        "character": "Saul (voice)",
+        "credit_id": "69a308c4090cfc1edecccd5a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502438,
+        "known_for_department": "Acting",
+        "name": "Asim Chaudhry",
+        "original_name": "Asim Chaudhry",
+        "popularity": 0.9223,
+        "profile_path": "/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg",
+        "cast_id": 8,
+        "character": "King Achish (voice)",
+        "credit_id": "68ee172b07406d29705eed06",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3336156,
+        "known_for_department": "Acting",
+        "name": "Kamran Nikhad",
+        "original_name": "Kamran Nikhad",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Goliath (voice)",
+        "credit_id": "69811bbfabc84e52e481be0a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3328683,
+        "known_for_department": "Acting",
+        "name": "Phil Wickham",
+        "original_name": "Phil Wickham",
+        "popularity": 0.0256,
+        "profile_path": "/6IHWUHlkejPlTIvTec5Y7kcbnbK.jpg",
+        "cast_id": 11,
+        "character": "Adult David (voice)",
+        "credit_id": "68ee178cff818a3bbf2829ae",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3192875,
+        "known_for_department": "Production",
+        "name": "David Rosenberg",
+        "original_name": "David Rosenberg",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Doeg (voice)",
+        "credit_id": "69811ed64a40174b2881be5e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86655,
+        "known_for_department": "Acting",
+        "name": "Ashley Boettcher",
+        "original_name": "Ashley Boettcher",
+        "popularity": 0.5382,
+        "profile_path": "/h4bdCoXgQH4s6KR1ejNuOFEyr4h.jpg",
+        "cast_id": 12,
+        "character": "Teen Zeruiah (voice)",
+        "credit_id": "68ee17b10af7ab01f9282a20",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971877,
+        "known_for_department": "Acting",
+        "name": "Mick Wingert",
+        "original_name": "Mick Wingert",
+        "popularity": 0.4293,
+        "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+        "cast_id": 9,
+        "character": "Zaydel (voice)",
+        "credit_id": "68ee175f422811bc9c7854d9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657897,
+        "known_for_department": "Acting",
+        "name": "Mark Whitten",
+        "original_name": "Mark Whitten",
+        "popularity": 0.2045,
+        "profile_path": "/zcD76XCZ6zQ41C9j1lsttLbxbLE.jpg",
+        "cast_id": 10,
+        "character": "Abishal (voice)",
+        "credit_id": "68ee177b422811bc9c7854dd",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525197,
+        "known_for_department": "Acting",
+        "name": "Doron Rechlis",
+        "original_name": "Doron Rechlis",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Elhanan (voice)",
+        "credit_id": "69811f03f042705958e0611c",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4077894,
+        "known_for_department": "Acting",
+        "name": "Will De Renzy-Martin",
+        "original_name": "Will De Renzy-Martin",
+        "popularity": 0.0639,
+        "profile_path": "/74AfkMoDTvZZ2TX8FX7mjNjlhFA.jpg",
+        "cast_id": 14,
+        "character": "Viazatha (voice)",
+        "credit_id": "68ee17dbfe6d394d16a21add",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838796,
+        "known_for_department": "Production",
+        "name": "Phil Cunningham",
+        "original_name": "Phil Cunningham",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "64e1b3b34a52f800c7a35297",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508883,
+        "known_for_department": "Directing",
+        "name": "Brent Dawes",
+        "original_name": "Brent Dawes",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "64e1b3beaaec7103f9986075",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838798,
+        "known_for_department": "Production",
+        "name": "Jacqui Cunningham",
+        "original_name": "Jacqui Cunningham",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64e1b3e95ab81a011c2f745a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838796,
+        "known_for_department": "Production",
+        "name": "Phil Cunningham",
+        "original_name": "Phil Cunningham",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "64e1b3f7a3b5e601da49166a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79065,
+        "known_for_department": "Acting",
+        "name": "Tim Tebow",
+        "original_name": "Tim Tebow",
+        "popularity": 0.2323,
+        "profile_path": "/dVtk9rgfmPmSa7jKQybbde3mmVT.jpg",
+        "credit_id": "64e1b4085ab81a00ad2172ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098740,
+        "known_for_department": "Sound",
+        "name": "Joseph Trapanese",
+        "original_name": "Joseph Trapanese",
+        "popularity": 0.2601,
+        "profile_path": "/3jh3094X5Usrsvd0QGMLP7EqwfI.jpg",
+        "credit_id": "68fc1b25f57d1caf913bf198",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5889556,
+        "known_for_department": "Editing",
+        "name": "Tom Scott",
+        "original_name": "Tom Scott",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "694706aaee183a60c88cde7b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508883,
+        "known_for_department": "Directing",
+        "name": "Brent Dawes",
+        "original_name": "Brent Dawes",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "6983ae310012c6ccec912945",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2012835,
+        "known_for_department": "Visual Effects",
+        "name": "Scott Farrell",
+        "original_name": "Scott Farrell",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "69cb5f75cd322274b542a384",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2879,
+        "name": "aggression"
+      },
+      {
+        "id": 3036,
+        "name": "bible"
+      },
+      {
+        "id": 11001,
+        "name": "religion"
+      },
+      {
+        "id": 11222,
+        "name": "prophet"
+      },
+      {
+        "id": 161678,
+        "name": "giant man"
+      },
+      {
+        "id": 178107,
+        "name": "david vs. goliath"
+      },
+      {
+        "id": 186756,
+        "name": "old testament"
+      },
+      {
+        "id": 247589,
+        "name": "ancient regime"
+      },
+      {
+        "id": 255868,
+        "name": "primitive civilization"
+      },
+      {
+        "id": 276977,
+        "name": "shepherd boy"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 302678,
+        "name": "philistine"
+      },
+      {
+        "id": 309288,
+        "name": "bible prophecy"
+      },
+      {
+        "id": 321416,
+        "name": "battles"
+      },
+      {
+        "id": 348322,
+        "name": "biblical epic"
+      },
+      {
+        "id": 365430,
+        "name": "songs"
+      },
+      {
+        "id": 371404,
+        "name": "faith in god"
+      },
+      {
+        "id": 371405,
+        "name": "winners vs. losers"
+      }
+    ]
+  }
+}

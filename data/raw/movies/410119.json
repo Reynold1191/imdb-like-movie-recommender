@@ -1,0 +1,298 @@
+{
+  "adult": false,
+  "backdrop_path": "/lhHxiwtHq1GG5MhPyWaETvKjoGg.jpg",
+  "belongs_to_collection": {
+    "id": 685985,
+    "name": "Yu Pui Tsuen Collection",
+    "poster_path": "/nmbHyxeNqk3Khb63oOFIMtneaIn.jpg",
+    "backdrop_path": "/6BHAQdPuRFDKkY3E6ZhS0fQD5oS.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 410119,
+  "imdb_id": "tt0345219",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "\u8db3\u672c\u7389\u84b2\u5718",
+  "overview": "Before Michael Mak\u2019s Sex And Zen became a cult favourite in the \u201990s, there was Ho Fan\u2019s Yu Pui Tsuen (The Carnal Prayer Mat, 1987). But without sex bomb Amy Yip, coarse humour or lesbian love affairs, Yu Pui Tsuen had to rely on the nudity and sex from his cast of relative unknowns to save the day.  When a young man dreams that he drowns after a night of carnal passion, he asks a buddhist monk to translate the experience for him. The monk replies that the dream is a warning not to indulge the pleasures of the flesh to excess, but the man ignores his advice, marrying a virgin and making love to her constantly. However, after several torrid affairs, the man begins to realise the sagacity of the monk's warning.",
+  "popularity": 9.8134,
+  "poster_path": "/3NwBn6zPY6yXCqfxEHmEgGh8Jgc.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1987-10-15",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yu Pui Tsuen II",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893559,
+        "known_for_department": "Acting",
+        "name": "\u9093\u8000\u8f89",
+        "original_name": "\u9093\u8000\u8f89",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6949e23f3ddda5b6fd2fc4e6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1365932,
+        "known_for_department": "Acting",
+        "name": "Cheng Yuen-Man",
+        "original_name": "Cheng Yuen-Man",
+        "popularity": 0.6111,
+        "profile_path": "/p196Kb1v1BnQRt9ZAKZVuSQvh8j.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "57a478059251411610000093",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3395322,
+        "known_for_department": "Acting",
+        "name": "Chou Ying-Ti",
+        "original_name": "Chou Ying-Ti",
+        "popularity": 0.1764,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6949e27557916fb0c42fc804",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240151,
+        "known_for_department": "Acting",
+        "name": "Sun Chien",
+        "original_name": "Sun Chien",
+        "popularity": 1.2138,
+        "profile_path": "/eg0D1GZ4KytDV4NwXjOeAfaI2FN.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6949e288ea775d1468b1cfa0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1078836,
+        "known_for_department": "Acting",
+        "name": "Eliza Yue Chi-Wai",
+        "original_name": "\u4e8e\u82b7\u851a",
+        "popularity": 1.6341,
+        "profile_path": "/yjRoc8cx5haibJGKmvQqdPTlItH.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "6949e2a9ea4043936f2fc61d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591060,
+        "known_for_department": "Acting",
+        "name": "Joh Chung-Sing",
+        "original_name": "\u5de6\u980c\u6607",
+        "popularity": 0.6971,
+        "profile_path": "/6tvypNRr4lC4yYd1FWVLLSAZhMo.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "57a47817c3a3684917002c54",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661886,
+        "known_for_department": "Acting",
+        "name": "Chin Fei Lam",
+        "original_name": "Chin Fei Lam",
+        "popularity": 0.1421,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "57a4789492514132fa00225d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418551,
+        "known_for_department": "Acting",
+        "name": "Kong Man-Sing",
+        "original_name": "\u6c5f\u6587\u8072",
+        "popularity": 0.3887,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "6949e31b7561f486e2812979",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191933,
+        "known_for_department": "Acting",
+        "name": "Jacky Yeung Tak-Ngai",
+        "original_name": "Jacky Yeung Tak-Ngai",
+        "popularity": 0.1373,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "6949e32cee183a60c88ce9d5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893569,
+        "known_for_department": "Acting",
+        "name": "\u5f20\u7199",
+        "original_name": "\u5f20\u7199",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6949e33ae5964a61ccb1d134",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893572,
+        "known_for_department": "Acting",
+        "name": "\u7f57\u5251\u8679",
+        "original_name": "\u7f57\u5251\u8679",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6949e34b128330a241b1cf97",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134505,
+        "known_for_department": "Acting",
+        "name": "Wong Ching-Ho",
+        "original_name": "\u738b\u6e05\u6cb3",
+        "popularity": 0.9997,
+        "profile_path": "/sVkRZLdHiaGZeGE7cA3jPGy1XQU.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6949e35194041a0192812df3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893575,
+        "known_for_department": "Acting",
+        "name": "\u674e\u4e3d\u660e",
+        "original_name": "\u674e\u4e3d\u660e",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6949e3a2ea4043936f2fc627",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1319971,
+        "known_for_department": "Acting",
+        "name": "Hui Ying-Ying",
+        "original_name": "\u8a31\u7469\u82f1",
+        "popularity": 0.4865,
+        "profile_path": "/znC2sKQVlPNOJbIAGxfXEp3haDX.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "6949e3b153a825795c155a2e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065282,
+        "known_for_department": "Acting",
+        "name": "Ho Pak-Kwong",
+        "original_name": "\u4f55\u67cf\u5149",
+        "popularity": 1.1207,
+        "profile_path": "/pvF9H5ayY4NRnimR8VRGfybuAjh.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "6949e3c4b426a6bc67155abd",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21902,
+        "known_for_department": "Writing",
+        "name": "Manfred Wong Man-Chun",
+        "original_name": "\u6587\u96cb",
+        "popularity": 1.3691,
+        "profile_path": "/ZW0X62PWUkVG4UTrMDqmdt1NmA.jpg",
+        "credit_id": "57a477ddc3a368615a002506",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930602,
+        "known_for_department": "Directing",
+        "name": "Ho Fan",
+        "original_name": "\u4f55\u85e9",
+        "popularity": 0.8249,
+        "profile_path": "/ye4ziX4grVbDVXPOU76CXVG0w6m.jpg",
+        "credit_id": "59f57e42c3a3682dd400ac28",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  }
+}
