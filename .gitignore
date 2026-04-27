@@ -47,3 +47,13 @@ Thumbs.db
 # LOGS
 # -----------------------------
 *.log
+
+# -----------------------------
+# DATA — raw JSON (large); keep only processed CSVs
+# -----------------------------
+data/raw/
+
+# -----------------------------
+# PGADMIN — password file contains credentials
+# -----------------------------
+db/pgadmin/pgpass

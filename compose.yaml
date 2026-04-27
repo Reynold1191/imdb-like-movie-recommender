@@ -1,15 +1,59 @@
 services:
+
+  # ─── PostgreSQL (Dockerised) ───────────────────────────────────────────────
   db:
     image: postgres:16
     container_name: movie-postgres
     restart: unless-stopped
-    env_file:
-      - .env
+    env_file: .env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
-      - "${POSTGRES_PORT}:5432"
+      # Exposed as 5433 on the host so it doesn't clash with your local Postgres on 5432
+      - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
-      - ./init:/docker-entrypoint-initdb.d
+      - ./db/init:/docker-entrypoint-initdb.d   # runs *.sql on first boot
+    networks:
+      - movie_net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─── pgAdmin 4 (web GUI) ──────────────────────────────────────────────────
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: movie-pgadmin
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
+      PGADMIN_CONFIG_SERVER_MODE: "False"          # desktop-style: no login wall
+      PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: "False"
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+      - ./db/pgadmin/servers.json:/pgadmin4/servers.json:ro   # pre-load servers
+      - ./db/pgadmin/pgpass:/pgpass:ro                         # saved passwords
+    networks:
+      - movie_net
+    depends_on:
+      db:
+        condition: service_healthy
+    extra_hosts:
+      # Lets pgAdmin reach your LOCAL Postgres (localhost:5432) from inside Docker
+      - "host.docker.internal:host-gateway"
 
 volumes:
   postgres_data:
+  pgadmin_data:
+
+networks:
+  movie_net:
+    driver: bridge

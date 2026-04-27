@@ -1,0 +1,26 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Movie Recommender DB (Docker)",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "movie_recommender",
+      "Username": "postgres",
+      "PassFile": "/pgpass",
+      "SSLMode": "prefer",
+      "Comment": "Docker Postgres container — same network as pgAdmin"
+    },
+    "2": {
+      "Name": "Local PostgreSQL (Host :5432)",
+      "Group": "Servers",
+      "Host": "host.docker.internal",
+      "Port": 5432,
+      "MaintenanceDB": "postgres",
+      "Username": "postgres",
+      "PassFile": "/pgpass",
+      "SSLMode": "prefer",
+      "Comment": "Your local Postgres installation on the host machine"
+    }
+  }
+}
