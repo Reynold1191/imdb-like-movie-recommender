@@ -1,60 +1,61 @@
 country_code,country_name
-CA,Canada
 US,United States of America
-DK,Denmark
-IN,India
-FR,France
-IT,Italy
 GB,United Kingdom
-SE,Sweden
-TW,Taiwan
-DE,Germany
-SU,Soviet Union
-CH,Switzerland
-AT,Austria
-XC,Czechoslovakia
 HK,Hong Kong
-CN,China
-IE,Ireland
-LU,Luxembourg
-JP,Japan
-ES,Spain
-MX,Mexico
-AU,Australia
-BE,Belgium
-PL,Poland
-YU,Yugoslavia
-NL,Netherlands
-BR,Brazil
-TH,Thailand
-ZA,South Africa
+BY,Belarus
 RU,Russia
-XG,East Germany
-KR,South Korea
-EG,Egypt
-IS,Iceland
-NO,Norway
-AR,Argentina
-NZ,New Zealand
-CZ,Czech Republic
-LY,Libyan Arab Jamahiriya
-HU,Hungary
-TR,Turkey
-AE,United Arab Emirates
-LT,Lithuania
-PH,Philippines
-NI,Nicaragua
-BG,Bulgaria
-FI,Finland
-EE,Estonia
-VE,Venezuela
-IL,Israel
-SG,Singapore
-GP,Guadaloupe
-MN,Mongolia
-MY,Malaysia
-GR,Greece
+SE,Sweden
+IT,Italy
+FR,France
 IR,Iran
-DO,Dominican Republic
-BS,Bahamas
-ID,Indonesia
+CA,Canada
+TR,Turkey
+NZ,New Zealand
+JP,Japan
+IE,Ireland
+ES,Spain
+IN,India
+MY,Malaysia
+DE,Germany
+PT,Portugal
+KR,South Korea
+IS,Iceland
+AU,Australia
+CH,Switzerland
+MX,Mexico
+NL,Netherlands
+MC,Monaco
+BE,Belgium
+TW,Taiwan
+YU,Yugoslavia
+IL,Israel
+AR,Argentina
+PL,Poland
+PR,Puerto Rico
+ZA,South Africa
+LU,Luxembourg
+EG,Egypt
+CZ,Czech Republic
+SU,Soviet Union
+BR,Brazil
+CN,China
+XG,East Germany
+RS,Serbia
+AT,Austria
+MA,Morocco
+UA,Ukraine
+FI,Finland
+TH,Thailand
+PH,Philippines
+DK,Denmark
+BG,Bulgaria
+NO,Norway
+ML,Mali
+MR,Mauritania
+XC,Czechoslovakia
+RO,Romania
+CO,Colombia
+CL,Chile
+EE,Estonia
+HU,Hungary
+GR,Greece

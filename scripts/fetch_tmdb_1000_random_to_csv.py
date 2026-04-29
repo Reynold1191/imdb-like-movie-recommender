@@ -115,6 +115,36 @@ def clean_text(value):
         return ""
     return str(value)
 
+ADULT_KEYWORDS = {
+    "pornography",
+    "softcore",
+    "hardcore",
+    "erotic",
+    "erotica",
+    "sexploitation",
+    "adult film",
+    "nudity",
+    "sexual content",
+}
+
+
+def has_blocked_adult_keyword(details):
+    keyword_container = details.get("keywords") or {}
+    keyword_list = keyword_container.get("keywords", [])
+
+    movie_keywords = [
+        clean_text(keyword.get("name")).strip().lower()
+        for keyword in keyword_list
+        if keyword.get("name")
+    ]
+
+    return any(
+        blocked in keyword_name
+        for keyword_name in movie_keywords
+        for blocked in ADULT_KEYWORDS
+    )
+
+
 
 def build_rows_from_movie(details, reviews):
     movie_id = details["id"]
@@ -275,6 +305,13 @@ def crawl_one_movie(movie_id):
 
     if status != 200 or not details:
         return {"movie_id": movie_id, "status": status, "valid": False, "rows": None}
+    
+    # Skip adult movies
+    if details.get("adult") is True:
+        return {"movie_id": movie_id, "status": 200, "valid": False, "rows": None, "reason": "adult"}
+    
+    if has_blocked_adult_keyword(details):
+        return {"movie_id": movie_id, "status": 200, "valid": False, "rows": None, "reason": "adult_keyword"}
 
     reviews = fetch_movie_reviews(movie_id)
     rows = build_rows_from_movie(details, reviews)
