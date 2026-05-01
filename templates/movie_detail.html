@@ -1,0 +1,385 @@
+{% extends "base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}{{ movie.title }} — TMDB{% endblock %}
+
+{% block content %}
+
+<!-- ── Backdrop Header ── -->
+<div class="movie-backdrop" {% if movie.backdrop_path %}style="background-image: url('{{ tmdb_backdrop }}{{ movie.backdrop_path }}')"{% endif %}>
+  <div class="backdrop-overlay"></div>
+  <div class="backdrop-content page-container">
+    <div class="movie-hero">
+      <!-- Poster -->
+      <div class="movie-hero-poster">
+        {% if movie.poster_path %}
+        <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="detail-poster" />
+        {% else %}
+        <div class="detail-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+        {% endif %}
+      </div>
+
+      <!-- Info -->
+      <div class="movie-hero-info">
+        <div class="movie-hero-tags">
+          {% if movie.genres %}
+          {% for genre in movie.genres.split(', ') %}
+          <a href="{{ url_for('browse') }}?genre={{ genre }}" class="genre-tag">{{ genre }}</a>
+          {% endfor %}
+          {% endif %}
+        </div>
+        <h1 class="movie-hero-title">{{ movie.title }}</h1>
+        {% if movie.tagline %}
+        <p class="movie-hero-tagline">{{ movie.tagline }}</p>
+        {% endif %}
+
+        <div class="movie-meta-row">
+          {% if movie.release_date %}
+          <span class="meta-item">{{ movie.release_date.strftime('%B %d, %Y') }}</span>
+          {% endif %}
+          {% if movie.runtime %}
+          <span class="meta-sep">&#183;</span>
+          <span class="meta-item">{{ movie.runtime // 60 }}h {{ movie.runtime % 60 }}m</span>
+          {% endif %}
+        </div>
+
+        <div class="score-row">
+          <div class="score-circle score-circle-{{ movie.vote_average | score_class }}">
+            <span class="score-num">{{ movie.vote_average | fmt_score }}</span>
+            <span class="score-lbl">/ 10</span>
+          </div>
+          <div class="score-meta">
+            <p class="score-count">{{ "{:,}".format(movie.vote_count or 0) }} votes</p>
+          </div>
+        </div>
+
+        {% if movie.overview %}
+        <div class="overview-section">
+          <h3 class="detail-subhead">Overview</h3>
+          <p class="overview-text">{{ movie.overview }}</p>
+        </div>
+        {% endif %}
+
+        <!-- Rate this movie -->
+        {% if session.user and not session.user.is_admin %}
+        <div class="rate-section">
+          <h3 class="detail-subhead">Your Rating</h3>
+          <form method="POST" action="{{ url_for('rate_movie', movie_id=movie.movie_id) }}" class="rate-form">
+            <div class="rating-stars" id="ratingStars">
+              {% for i in range(1, 11) %}
+              <button type="button" class="star-btn {% if user_rating and i <= user_rating %}active{% endif %}" data-value="{{ i }}">&#9733;</button>
+              {% endfor %}
+            </div>
+            <input type="hidden" name="rating" id="ratingInput" value="{{ user_rating or 0 }}" />
+            <button type="submit" class="btn-teal-sm" style="margin-top:8px;">
+              {% if user_rating %}Update Rating{% else %}Rate Movie{% endif %}
+            </button>
+            {% if user_rating %}
+            <span class="current-rating">Your rating: {{ user_rating }}/10</span>
+            {% endif %}
+          </form>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page-container detail-body">
+
+  <!-- Function 5 SQL: Movie Detail -->
+  {{ sql_box(5, "Movie Detail Page",
+"SELECT
+    m.movie_id, m.title, m.overview, m.release_date, m.runtime,
+    m.vote_average, m.vote_count, m.popularity,
+    m.poster_path, m.backdrop_path, m.tagline, m.budget, m.revenue,
+    STRING_AGG(DISTINCT g.genre_name, ', ' ORDER BY g.genre_name) AS genres,
+    STRING_AGG(DISTINCT c.company_name, ', ' ORDER BY c.company_name) AS companies,
+    STRING_AGG(DISTINCT k.keyword_name, ', ' ORDER BY k.keyword_name) AS keywords
+FROM movie m
+LEFT JOIN movie_genre mg    ON m.movie_id = mg.movie_id
+LEFT JOIN genre g           ON mg.genre_id = g.genre_id
+LEFT JOIN movie_company mc  ON m.movie_id = mc.movie_id
+LEFT JOIN company c         ON mc.company_id = c.company_id
+LEFT JOIN movie_keyword mk  ON m.movie_id = mk.movie_id
+LEFT JOIN keyword k         ON mk.keyword_id = k.keyword_id
+WHERE m.movie_id = :movie_id
+GROUP BY m.movie_id;",
+  [movie], none,
+  "-- Executed with movie_id = " ~ movie.movie_id ~ " (\"" ~ movie.title ~ "\")
+SELECT
+    m.movie_id, m.title, m.overview, m.release_date, m.runtime,
+    m.vote_average, m.vote_count, m.popularity,
+    m.poster_path, m.backdrop_path, m.tagline, m.budget, m.revenue,
+    STRING_AGG(DISTINCT g.genre_name, ', ' ORDER BY g.genre_name) AS genres,
+    STRING_AGG(DISTINCT c.company_name, ', ' ORDER BY c.company_name) AS companies,
+    STRING_AGG(DISTINCT k.keyword_name, ', ' ORDER BY k.keyword_name) AS keywords
+FROM movie m
+LEFT JOIN movie_genre mg    ON m.movie_id = mg.movie_id
+LEFT JOIN genre g           ON mg.genre_id = g.genre_id
+LEFT JOIN movie_company mc  ON m.movie_id = mc.movie_id
+LEFT JOIN company c         ON mc.company_id = c.company_id
+LEFT JOIN movie_keyword mk  ON m.movie_id = mk.movie_id
+LEFT JOIN keyword k         ON mk.keyword_id = k.keyword_id
+WHERE m.movie_id = " ~ movie.movie_id ~ "
+GROUP BY m.movie_id;") }}
+
+  <div class="detail-layout">
+
+    <!-- ── Main Column ── -->
+    <div class="detail-main">
+
+      <!-- Cast — Function 6 -->
+      {% if cast %}
+      <section class="detail-section">
+        <h2 class="detail-section-title">Top Cast</h2>
+
+        {{ sql_box(6, "Cast and Crew for a Movie",
+"-- Cast query
+SELECT
+    p.person_id, p.name,
+    mc.character_name, mc.cast_order
+FROM movie_cast mc
+JOIN person p ON mc.person_id = p.person_id
+WHERE mc.movie_id = :movie_id
+ORDER BY mc.cast_order ASC
+LIMIT 15;
+
+-- Crew query
+SELECT
+    p.person_id, p.name,
+    mcr.department, mcr.job_title
+FROM movie_crew mcr
+JOIN person p ON mcr.person_id = p.person_id
+WHERE mcr.movie_id = :movie_id
+ORDER BY mcr.department, mcr.job_title
+LIMIT 20;",
+  cast, crew,
+  "-- Executed with movie_id = " ~ movie.movie_id ~ " (\"" ~ movie.title ~ "\")
+-- Cast query
+SELECT p.person_id, p.name, mc.character_name, mc.cast_order
+FROM movie_cast mc
+JOIN person p ON mc.person_id = p.person_id
+WHERE mc.movie_id = " ~ movie.movie_id ~ "
+ORDER BY mc.cast_order ASC
+LIMIT 15;
+
+-- Crew query
+SELECT p.person_id, p.name, mcr.department, mcr.job_title
+FROM movie_crew mcr
+JOIN person p ON mcr.person_id = p.person_id
+WHERE mcr.movie_id = " ~ movie.movie_id ~ "
+ORDER BY mcr.department, mcr.job_title
+LIMIT 20;") }}
+
+        <div class="cast-grid">
+          {% for member in cast %}
+          <div class="cast-card">
+            <div class="cast-avatar">{{ member.name[0] }}</div>
+            <div class="cast-info">
+              <p class="cast-name">{{ member.name }}</p>
+              <p class="cast-role">{{ member.character_name or '—' }}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      <!-- Crew table -->
+      {% if crew %}
+      <section class="detail-section">
+        <h2 class="detail-section-title">Crew</h2>
+        <div class="crew-table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr><th>Name</th><th>Department</th><th>Job</th></tr>
+            </thead>
+            <tbody>
+              {% for member in crew %}
+              <tr>
+                <td>{{ member.name }}</td>
+                <td>{{ member.department or '—' }}</td>
+                <td>{{ member.job_title }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </section>
+      {% endif %}
+
+      <!-- Reviews — Function 7 -->
+      {% if reviews %}
+      <section class="detail-section">
+        <h2 class="detail-section-title">Reviews</h2>
+
+        {{ sql_box(7, "Movie Reviews",
+"SELECT
+    review_id, author_name, author_username,
+    author_rating, content, created_at, updated_at, review_url
+FROM review
+WHERE movie_id = :movie_id
+ORDER BY created_at DESC;",
+  reviews, none,
+  "-- Executed with movie_id = " ~ movie.movie_id ~ " (\"" ~ movie.title ~ "\")
+SELECT
+    review_id, author_name, author_username,
+    author_rating, content, created_at, updated_at, review_url
+FROM review
+WHERE movie_id = " ~ movie.movie_id ~ "
+ORDER BY created_at DESC;") }}
+
+        <div class="reviews-list">
+          {% for review in reviews %}
+          <div class="review-card">
+            <div class="review-header">
+              <div class="review-author-avatar">{{ (review.author_name or review.author_username or '?')[0] | upper }}</div>
+              <div class="review-author-info">
+                <p class="review-author-name">{{ review.author_name or review.author_username or 'Anonymous' }}</p>
+                {% if review.author_username %}
+                <p class="review-author-user">@{{ review.author_username }}</p>
+                {% endif %}
+              </div>
+              {% if review.author_rating %}
+              <div class="review-rating score-badge score-{{ review.author_rating | score_class }}" style="position:relative;top:0;left:0;margin-left:auto;">
+                {{ review.author_rating | fmt_score }}
+              </div>
+              {% endif %}
+            </div>
+            <p class="review-content">{{ review.content[:400] }}{% if review.content | length > 400 %}…{% endif %}</p>
+            {% if review.created_at %}
+            <p class="review-date">{{ review.created_at.strftime('%B %d, %Y') }}</p>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+    </div>
+
+    <!-- ── Side Column ── -->
+    <aside class="detail-side">
+
+      <!-- Movie Facts -->
+      <div class="side-card">
+        <h3 class="side-card-title">Movie Facts</h3>
+        {% if movie.companies %}
+        <div class="fact-row">
+          <span class="fact-label">Production</span>
+          <span class="fact-value">{{ movie.companies }}</span>
+        </div>
+        {% endif %}
+        {% if movie.budget and movie.budget > 0 %}
+        <div class="fact-row">
+          <span class="fact-label">Budget</span>
+          <span class="fact-value">${{ "{:,}".format(movie.budget) }}</span>
+        </div>
+        {% endif %}
+        {% if movie.revenue and movie.revenue > 0 %}
+        <div class="fact-row">
+          <span class="fact-label">Revenue</span>
+          <span class="fact-value">${{ "{:,}".format(movie.revenue) }}</span>
+        </div>
+        {% endif %}
+        <div class="fact-row">
+          <span class="fact-label">Popularity</span>
+          <span class="fact-value">{{ movie.popularity | fmt_score }}</span>
+        </div>
+      </div>
+
+      <!-- Keywords -->
+      {% if movie.keywords %}
+      <div class="side-card">
+        <h3 class="side-card-title">Keywords</h3>
+        <div class="keywords-wrap">
+          {% for kw in movie.keywords.split(', ')[:15] %}
+          <a href="{{ url_for('browse') }}?q={{ kw }}" class="keyword-tag">{{ kw }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- Similar Movies — Function 11 -->
+      {% if similar %}
+      <div class="side-card">
+        <h3 class="side-card-title">Similar Movies</h3>
+
+        {{ sql_box(11, "Similar Movies by Shared Keywords",
+"SELECT
+    m2.movie_id, m2.title,
+    m2.vote_average,
+    COUNT(*) AS shared_keyword_count
+FROM movie_keyword mk1
+JOIN movie_keyword mk2
+    ON mk1.keyword_id = mk2.keyword_id
+JOIN movie m2
+    ON mk2.movie_id = m2.movie_id
+WHERE mk1.movie_id = :movie_id
+  AND mk2.movie_id <> :movie_id
+GROUP BY m2.movie_id
+ORDER BY shared_keyword_count DESC, m2.vote_average DESC
+LIMIT 8;",
+  similar, none,
+  "-- Executed with movie_id = " ~ movie.movie_id ~ " (\"" ~ movie.title ~ "\")
+SELECT
+    m2.movie_id, m2.title,
+    m2.vote_average,
+    COUNT(*) AS shared_keyword_count
+FROM movie_keyword mk1
+JOIN movie_keyword mk2
+    ON mk1.keyword_id = mk2.keyword_id
+JOIN movie m2
+    ON mk2.movie_id = m2.movie_id
+WHERE mk1.movie_id = " ~ movie.movie_id ~ "
+  AND mk2.movie_id <> " ~ movie.movie_id ~ "
+GROUP BY m2.movie_id
+ORDER BY shared_keyword_count DESC, m2.vote_average DESC
+LIMIT 8;") }}
+
+        <div class="similar-list">
+          {% for sim in similar %}
+          <a href="{{ url_for('movie_detail', movie_id=sim.movie_id) }}" class="similar-item">
+            {% if sim.poster_path %}
+            <img src="{{ tmdb_img }}{{ sim.poster_path }}" alt="{{ sim.title }}" class="similar-poster" />
+            {% else %}
+            <div class="similar-poster-placeholder">{{ sim.title[0] }}</div>
+            {% endif %}
+            <div class="similar-info">
+              <p class="similar-title">{{ sim.title }}</p>
+              <p class="similar-score">{{ sim.vote_average | fmt_score }} &#9733;</p>
+            </div>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+    </aside>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const stars = document.querySelectorAll('.star-btn');
+  const ratingInput = document.getElementById('ratingInput');
+
+  stars.forEach(star => {
+    star.addEventListener('click', () => {
+      const val = parseInt(star.dataset.value);
+      ratingInput.value = val;
+      stars.forEach((s, i) => s.classList.toggle('active', i < val));
+    });
+    star.addEventListener('mouseenter', () => {
+      const val = parseInt(star.dataset.value);
+      stars.forEach((s, i) => s.classList.toggle('hover', i < val));
+    });
+    star.addEventListener('mouseleave', () => {
+      stars.forEach(s => s.classList.remove('hover'));
+    });
+  });
+</script>
+{% endblock %}
+

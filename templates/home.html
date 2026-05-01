@@ -1,0 +1,198 @@
+{% extends "base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Home — TMDB{% endblock %}
+
+{% block content %}
+
+<!-- ── Hero Banner ── -->
+<section class="hero-banner">
+  <div class="hero-content">
+    <p class="hero-eyebrow">Not The Movie Database, but <strong>Toan &amp; Mahin Database</strong></p>
+    <h1 class="hero-title">Welcome{% if session.user and not session.user.is_admin %}, {{ session.user.display_name }}{% endif %}.</h1>
+    <p class="hero-sub">Millions of movies to discover. Explore now.</p>
+    <form action="{{ url_for('browse') }}" method="get" class="hero-search">
+      <input type="text" name="q" placeholder="Search for a movie, genre, or keyword..." class="hero-search-input" />
+      <button type="submit" class="hero-search-btn">Search</button>
+    </form>
+  </div>
+</section>
+
+<div class="page-container">
+
+  <!-- ── Top 10 Movies — Function 2 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Top Rated Movies</h2>
+      <a href="{{ url_for('browse') }}" class="section-link">View All</a>
+    </div>
+
+    {{ sql_box(2, "Top 10 Movies Overall",
+"SELECT
+    movie_id, title, release_date,
+    vote_average, vote_count, popularity, poster_path
+FROM movie
+WHERE vote_count >= 100
+ORDER BY vote_average DESC, popularity DESC
+LIMIT 10;", top_movies) }}
+
+    <div class="movie-grid">
+      {% for movie in top_movies %}
+      <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card">
+        <div class="movie-poster-wrap">
+          {% if movie.poster_path %}
+          <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
+          {% else %}
+          <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+          {% endif %}
+          <div class="score-badge score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </div>
+        </div>
+        <div class="movie-info">
+          <p class="movie-title">{{ movie.title }}</p>
+          <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- ── Personalized Recommendations — Function 10 ── -->
+  {% if recommendations %}
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Recommended for You</h2>
+      <span class="section-badge">Based on your ratings</span>
+    </div>
+
+    {{ sql_box(10, "Personalized Recommendations from High-Rated Genres",
+"WITH favorite_genres AS (
+    SELECT mg.genre_id,
+           AVG(ur.rating_value) AS avg_user_rating
+    FROM user_rating ur
+    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
+    WHERE ur.account_id = :account_id
+    GROUP BY mg.genre_id
+    HAVING AVG(ur.rating_value) >= 7.5
+)
+SELECT DISTINCT
+    m.movie_id, m.title, m.release_date,
+    m.vote_average, m.popularity
+FROM movie m
+JOIN movie_genre mg ON m.movie_id = mg.movie_id
+JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
+WHERE m.movie_id NOT IN (
+    SELECT movie_id FROM user_rating WHERE account_id = :account_id
+)
+ORDER BY m.vote_average DESC, m.popularity DESC
+LIMIT 20;",
+  recommendations, none,
+  "-- Executed with account_id = " ~ session.user.account_id ~ " (user: " ~ session.user.username ~ ")
+WITH favorite_genres AS (
+    SELECT mg.genre_id,
+           AVG(ur.rating_value) AS avg_user_rating
+    FROM user_rating ur
+    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
+    WHERE ur.account_id = " ~ session.user.account_id ~ "
+    GROUP BY mg.genre_id
+    HAVING AVG(ur.rating_value) >= 7.5
+)
+SELECT DISTINCT
+    m.movie_id, m.title, m.release_date,
+    m.vote_average, m.popularity
+FROM movie m
+JOIN movie_genre mg ON m.movie_id = mg.movie_id
+JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
+WHERE m.movie_id NOT IN (
+    SELECT movie_id FROM user_rating WHERE account_id = " ~ session.user.account_id ~ "
+)
+ORDER BY m.vote_average DESC, m.popularity DESC
+LIMIT 20;") }}
+
+    <div class="movie-grid">
+      {% for movie in recommendations %}
+      <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card">
+        <div class="movie-poster-wrap">
+          {% if movie.poster_path %}
+          <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
+          {% else %}
+          <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+          {% endif %}
+          <div class="score-badge score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </div>
+        </div>
+        <div class="movie-info">
+          <p class="movie-title">{{ movie.title }}</p>
+          <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- ── Top Movies by Genre — Function 3 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Top Movies by Genre</h2>
+    </div>
+
+    {{ sql_box(3, "Top 10 Movies in Each Genre",
+"WITH ranked_movies AS (
+    SELECT
+        g.genre_name,
+        m.movie_id,
+        m.title,
+        m.release_date,
+        m.vote_average,
+        m.vote_count,
+        m.popularity,
+        ROW_NUMBER() OVER (
+            PARTITION BY g.genre_id
+            ORDER BY m.vote_average DESC, m.popularity DESC
+        ) AS genre_rank
+    FROM movie m
+    JOIN movie_genre mg ON m.movie_id = mg.movie_id
+    JOIN genre g ON mg.genre_id = g.genre_id
+    WHERE m.vote_count >= 100
+)
+SELECT *
+FROM ranked_movies
+WHERE genre_rank <= 8
+ORDER BY genre_name, genre_rank;", genre_rows) }}
+
+  </section>
+
+  {% for genre_name, movies in genre_movies.items() %}
+  <section class="section" style="padding-top:20px;padding-bottom:20px;">
+    <div class="section-header">
+      <h2 class="section-title" style="font-size:18px;">{{ genre_name }}</h2>
+      <a href="{{ url_for('browse') }}?genre={{ genre_name }}" class="section-link">More</a>
+    </div>
+    <div class="movie-row">
+      {% for movie in movies %}
+      <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card movie-card-sm">
+        <div class="movie-poster-wrap">
+          {% if movie.poster_path %}
+          <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
+          {% else %}
+          <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+          {% endif %}
+          <div class="score-badge score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </div>
+        </div>
+        <div class="movie-info">
+          <p class="movie-title">{{ movie.title }}</p>
+          <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+
+</div>
+{% endblock %}
+

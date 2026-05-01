@@ -1,0 +1,174 @@
+{% extends "admin/base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Dashboard — Admin{% endblock %}
+
+{% block content %}
+<div class="admin-page-header">
+  <h1 class="admin-page-title">Dashboard</h1>
+  <p class="admin-page-sub">System-wide overview</p>
+</div>
+
+<!-- Function 13 SQL -->
+{{ sql_box(13, "Admin Dashboard Summary",
+"SELECT
+    (SELECT COUNT(*) FROM movie)        AS total_movies,
+    (SELECT COUNT(*) FROM tmdb_account) AS total_accounts,
+    (SELECT COUNT(*) FROM review)       AS total_reviews,
+    (SELECT COUNT(*) FROM user_rating)  AS total_user_ratings,
+    (SELECT COUNT(*) FROM person)       AS total_people,
+    (SELECT COUNT(*) FROM keyword)      AS total_keywords,
+    (SELECT COUNT(*) FROM company)      AS total_companies;", [stats] if stats else []) }}
+
+<!-- Stats Grid -->
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-blue">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="2"/><line x1="7" y1="2" x2="7" y2="22"/><line x1="17" y1="2" x2="17" y2="22"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_movies or 0) }}</span>
+      <span class="stat-card-lbl">Movies</span>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-green">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_accounts or 0) }}</span>
+      <span class="stat-card-lbl">User Accounts</span>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-yellow">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_user_ratings or 0) }}</span>
+      <span class="stat-card-lbl">User Ratings</span>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-purple">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_reviews or 0) }}</span>
+      <span class="stat-card-lbl">Reviews</span>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-teal">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_people or 0) }}</span>
+      <span class="stat-card-lbl">Cast &amp; Crew</span>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-card-icon stat-icon-orange">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+    </div>
+    <div class="stat-card-body">
+      <span class="stat-card-num">{{ "{:,}".format(stats.total_keywords or 0) }}</span>
+      <span class="stat-card-lbl">Keywords</span>
+    </div>
+  </div>
+</div>
+
+<!-- Function 23: Movie Release Trend by Year -->
+<div class="admin-section">
+  <h2 class="admin-section-title">Movie Release Trends by Year</h2>
+  <p class="admin-section-sub">Volume, average rating, and highly-rated count per release year (since 1990)</p>
+
+  {{ sql_box(23, "Movie Release Trend Analysis",
+"SELECT
+    EXTRACT(YEAR FROM release_date)::INT        AS release_year,
+    COUNT(*)                                     AS movie_count,
+    ROUND(AVG(vote_average), 2)                  AS avg_rating,
+    ROUND(AVG(popularity), 2)                    AS avg_popularity,
+    SUM(CASE WHEN vote_average >= 7 THEN 1 ELSE 0 END) AS highly_rated_count
+FROM movie
+WHERE release_date IS NOT NULL
+  AND EXTRACT(YEAR FROM release_date) >= 1990
+GROUP BY release_year
+ORDER BY release_year DESC
+LIMIT 20;", release_trends) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Year</th>
+        <th>Movies</th>
+        <th>Avg Rating</th>
+        <th>Avg Popularity</th>
+        <th>Highly Rated (≥7)</th>
+        <th>Quality %</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in release_trends %}
+      {% set qpct = ((row.highly_rated_count / row.movie_count) * 100) | int if row.movie_count else 0 %}
+      <tr>
+        <td class="rank-cell">{{ loop.index }}</td>
+        <td><strong>{{ row.release_year }}</strong></td>
+        <td><span class="badge-count">{{ row.movie_count }}</span></td>
+        <td><span class="score-pill score-{{ row.avg_rating | score_class }}">{{ row.avg_rating | fmt_score }}</span></td>
+        <td>{{ row.avg_popularity | fmt_score }}</td>
+        <td>{{ row.highly_rated_count }}</td>
+        <td>
+          <div class="bar-wrap">
+            <div class="bar-fill" style="width:{{ [qpct, 100] | min }}%"></div>
+            <span class="bar-label">{{ qpct }}%</span>
+          </div>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<!-- Top 10 Movies — Function 2 -->
+<div class="admin-section">
+  <h2 class="admin-section-title">Top 10 Rated Movies</h2>
+
+  {{ sql_box(2, "Top 10 Movies Overall",
+"SELECT movie_id, title, vote_average, vote_count, popularity
+FROM movie
+WHERE vote_count >= 100
+ORDER BY vote_average DESC, popularity DESC
+LIMIT 10;", top_movies) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>TMDB Rating</th>
+        <th>Vote Count</th>
+        <th>Popularity</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for movie in top_movies %}
+      <tr>
+        <td class="rank-cell">{{ loop.index }}</td>
+        <td><strong>{{ movie.title }}</strong></td>
+        <td>
+          <span class="score-pill score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </span>
+        </td>
+        <td>{{ "{:,}".format(movie.vote_count or 0) }}</td>
+        <td>{{ movie.popularity | fmt_score }}</td>
+        <td><a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="table-link" target="_blank">View</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}

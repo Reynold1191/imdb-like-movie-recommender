@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}My Ratings — TMDB{% endblock %}
+
+{% block content %}
+<div class="page-container">
+
+  <div class="page-header">
+    <h1 class="page-title">My Ratings</h1>
+    <span class="page-subtitle">{{ ratings | length }} movie{% if ratings | length != 1 %}s{% endif %} rated</span>
+  </div>
+
+  {{ sql_box(9, "My Ratings",
+"SELECT
+    m.movie_id,
+    m.title,
+    m.release_date,
+    m.vote_average    AS tmdb_average,
+    ur.rating_value   AS my_rating,
+    ur.created_at
+FROM user_rating ur
+JOIN movie m ON ur.movie_id = m.movie_id
+WHERE ur.account_id = :account_id
+ORDER BY ur.created_at DESC;",
+  ratings, none,
+  "-- Executed with account_id = " ~ session.user.account_id ~ " (user: " ~ session.user.username ~ ")
+SELECT
+    m.movie_id,
+    m.title,
+    m.release_date,
+    m.vote_average    AS tmdb_average,
+    ur.rating_value   AS my_rating,
+    ur.created_at
+FROM user_rating ur
+JOIN movie m ON ur.movie_id = m.movie_id
+WHERE ur.account_id = " ~ session.user.account_id ~ "
+ORDER BY ur.created_at DESC;") }}
+
+  {% if ratings %}
+  <div class="ratings-list">
+    {% for r in ratings %}
+    <div class="rating-list-item">
+      <a href="{{ url_for('movie_detail', movie_id=r.movie_id) }}" class="rating-poster-link">
+        {% if r.poster_path %}
+        <img src="{{ tmdb_img }}{{ r.poster_path }}" alt="{{ r.title }}" class="rating-poster" loading="lazy" />
+        {% else %}
+        <div class="rating-poster-placeholder">{{ r.title[0] }}</div>
+        {% endif %}
+      </a>
+      <div class="rating-item-info">
+        <a href="{{ url_for('movie_detail', movie_id=r.movie_id) }}" class="rating-item-title">{{ r.title }}</a>
+        <p class="rating-item-year">{% if r.release_date %}{{ r.release_date.year }}{% endif %}</p>
+        <div class="rating-compare">
+          <div class="rating-compare-item">
+            <span class="rating-compare-label">Your rating</span>
+            <div class="score-pill score-high">{{ r.my_rating }} / 10</div>
+          </div>
+          <div class="rating-compare-sep">vs</div>
+          <div class="rating-compare-item">
+            <span class="rating-compare-label">TMDB average</span>
+            <div class="score-pill score-{{ r.tmdb_average | score_class }}">{{ r.tmdb_average | fmt_score }} / 10</div>
+          </div>
+        </div>
+      </div>
+      <div class="rating-item-date">
+        <p class="rating-date-label">Rated on</p>
+        <p class="rating-date-val">{% if r.created_at %}{{ r.created_at.strftime('%b %d, %Y') }}{% else %}—{% endif %}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% else %}
+  <div class="empty-state" style="margin-top:80px;">
+    <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+    <h3>No ratings yet</h3>
+    <p>Browse movies and rate ones you've watched.</p>
+    <a href="{{ url_for('browse') }}" class="btn-teal-sm" style="margin-top:12px;">Browse Movies</a>
+  </div>
+  {% endif %}
+
+</div>
+{% endblock %}
+

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign In — TMDB</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body class="auth-body">
+
+  <div class="auth-layout">
+    <!-- Left panel: hero -->
+    <div class="auth-hero">
+      <div class="auth-hero-content">
+        <div class="auth-logo">
+          <span class="brand-icon-lg">&#9654;</span>
+          <span class="brand-text-lg">TMDB</span>
+        </div>
+        <p class="auth-hero-tagline-sm">Not The Movie Database, but<br/><strong>Toan &amp; Mahin Database</strong></p>
+        <h1 class="auth-hero-title">Millions of movies to discover.</h1>
+        <p class="auth-hero-sub">Track what you've seen, rate what you love, and find your next favorite film.</p>
+        <div class="auth-features">
+          <div class="auth-feature"><span class="feature-dot"></span> Personal watchlists &amp; ratings</div>
+          <div class="auth-feature"><span class="feature-dot"></span> Personalized recommendations</div>
+          <div class="auth-feature"><span class="feature-dot"></span> Browse by genre, keyword &amp; more</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right panel: form -->
+    <div class="auth-form-panel">
+      <div class="auth-form-container">
+        <div class="auth-mobile-logo">
+          <span class="brand-icon">&#9654;</span>
+          <span class="brand-text">TMDB</span>
+        </div>
+
+        <!-- Group info -->
+        <div class="group-badge-box">
+          <div class="group-badge-title">Group 10</div>
+          <div class="group-members">
+            <div class="group-member">
+              <span class="member-name">Thai Toan Tran</span>
+              <span class="member-id">117739781</span>
+            </div>
+            <div class="group-member">
+              <span class="member-name">Mahin Roddur</span>
+              <span class="member-id">116778987</span>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="auth-form-title">Sign in to your account</h2>
+        <p class="auth-form-sub">Don't have an account? <a href="{{ url_for('register') }}" class="auth-link">Create one</a></p>
+
+        <!-- Flash messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          {% for cat, msg in messages %}
+          <div class="flash flash-{{ cat }}" style="margin-bottom: 16px;">
+            <span>{{ msg | safe }}</span>
+            <button class="flash-close" onclick="this.parentElement.remove()">&#x2715;</button>
+          </div>
+          {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('login') }}" class="auth-form">
+          <div class="form-group">
+            <label class="form-label" for="username">Username</label>
+            <input
+              type="text"
+              id="username"
+              name="username"
+              class="form-input"
+              placeholder="e.g. r96sk_1 or admin"
+              autocomplete="username"
+              required
+            />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="password">Password</label>
+            <input
+              type="password"
+              id="password"
+              name="password"
+              class="form-input"
+              placeholder="Enter your password"
+              autocomplete="current-password"
+              required
+            />
+          </div>
+
+          <button type="submit" class="btn-primary-full">Sign In</button>
+        </form>
+
+        <div class="auth-divider"><span>Demo Credentials</span></div>
+
+        <div class="demo-credentials">
+          <div class="demo-cred-item">
+            <span class="demo-cred-label">User account format</span>
+            <code class="demo-cred-value">username: {tmdb_username}_{account_id}</code>
+            <code class="demo-cred-value" style="margin-top:4px;display:block;">example: &nbsp;<strong>r96sk_1</strong> &nbsp; password: <strong>1</strong></code>
+            <p style="font-size:11px;color:var(--gray-500);margin-top:4px;">
+              Combine TMDB username + underscore + account ID from <code>tmdb_account</code> table.
+            </p>
+          </div>
+          <div class="demo-cred-item">
+            <span class="demo-cred-label">Admin account</span>
+            <code class="demo-cred-value">username: <strong>admin</strong> &nbsp; password: <strong>1</strong></code>
+          </div>
+        </div>
+
+        <details style="margin-top:16px;font-size:12px;color:var(--gray-600);">
+          <summary style="cursor:pointer;color:var(--teal);font-weight:500;">Show SQL Code (1) — Login Query</summary>
+          <pre style="margin-top:8px;background:#0a1628;color:#e2e8f0;padding:12px;border-radius:4px;font-size:11px;overflow-x:auto;">SELECT account_id, username, display_name, avatar_path
+FROM tmdb_account
+WHERE username = :tmdb_username
+  AND account_id = :account_id;</pre>
+          <p style="margin-top:6px;color:var(--gray-500);">
+            Application logic: if row exists and password_input = '1' → login success.
+          </p>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

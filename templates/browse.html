@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Browse — TMDB{% endblock %}
+
+{% block content %}
+<div class="page-container">
+
+  <div class="browse-layout">
+    <!-- ── Filters Sidebar ── -->
+    <aside class="filter-sidebar">
+      <h3 class="filter-title">Filter</h3>
+      <form method="get" action="{{ url_for('browse') }}" id="filterForm">
+
+        <div class="filter-group">
+          <label class="filter-label">Search</label>
+          <input type="text" name="q" value="{{ q }}" class="form-input" placeholder="Title, genre, keyword..." />
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Genre</label>
+          <select name="genre" class="form-input">
+            <option value="">All Genres</option>
+            {% for g in genres %}
+            <option value="{{ g }}" {% if g == genre_filter %}selected{% endif %}>{{ g }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Release Year</label>
+          <div class="filter-row">
+            <input type="number" name="year_from" value="{{ year_from }}" class="form-input" placeholder="From" min="1900" max="2030" />
+            <span class="filter-sep">–</span>
+            <input type="number" name="year_to" value="{{ year_to }}" class="form-input" placeholder="To" min="1900" max="2030" />
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label">Min Rating</label>
+          <select name="min_rating" class="form-input">
+            <option value="">Any Rating</option>
+            <option value="9" {% if min_rating == '9' %}selected{% endif %}>9+</option>
+            <option value="8" {% if min_rating == '8' %}selected{% endif %}>8+</option>
+            <option value="7" {% if min_rating == '7' %}selected{% endif %}>7+</option>
+            <option value="6" {% if min_rating == '6' %}selected{% endif %}>6+</option>
+            <option value="5" {% if min_rating == '5' %}selected{% endif %}>5+</option>
+          </select>
+        </div>
+
+        <button type="submit" class="btn-primary-full">Apply Filters</button>
+        <a href="{{ url_for('browse') }}" class="btn-outline-full" style="margin-top:8px;">Clear</a>
+      </form>
+    </aside>
+
+    <!-- ── Results ── -->
+    <div class="browse-results">
+      <div class="browse-header">
+        <h2 class="browse-title">
+          {% if q %}Results for "{{ q }}"
+          {% elif genre_filter %}{{ genre_filter }} Movies
+          {% else %}Popular Movies{% endif %}
+        </h2>
+        <span class="browse-count">{{ movies | length }} movie{% if movies | length != 1 %}s{% endif %}</span>
+      </div>
+
+      {% if q or genre_filter or year_from or year_to or min_rating %}
+      {{ sql_box(4, "Browse / Search Movies",
+"-- General template (placeholders shown; actual values in 'Executed SQL' below)
+SELECT DISTINCT
+    m.movie_id, m.title, m.release_date,
+    m.vote_average, m.popularity, m.poster_path
+FROM movie m
+LEFT JOIN movie_genre mg ON m.movie_id = mg.movie_id
+LEFT JOIN genre g ON mg.genre_id = g.genre_id
+LEFT JOIN movie_keyword mk ON m.movie_id = mk.movie_id
+LEFT JOIN keyword k ON mk.keyword_id = k.keyword_id
+LEFT JOIN movie_company mc ON m.movie_id = mc.movie_id
+LEFT JOIN company c ON mc.company_id = c.company_id
+WHERE
+    (
+        LOWER(m.title) LIKE LOWER('%:q%')
+        OR LOWER(g.genre_name) LIKE LOWER('%:q%')
+        OR LOWER(k.keyword_name) LIKE LOWER('%:q%')
+        OR LOWER(c.company_name) LIKE LOWER('%:q%')
+    )
+    -- [if genre filter active]:
+    AND g.genre_name = ':genre'
+    -- [if year_from active]:
+    AND EXTRACT(YEAR FROM m.release_date) >= :year_from
+    -- [if year_to active]:
+    AND EXTRACT(YEAR FROM m.release_date) <= :year_to
+    -- [if min_rating active]:
+    AND m.vote_average >= :min_rating
+ORDER BY m.popularity DESC
+LIMIT 60;",
+      movies_rows, none, browse_sql_specific) }}
+      {% else %}
+      {{ sql_box(4, "Browse / Search Movies — Popular (default)",
+"SELECT movie_id, title, release_date,
+       vote_average, popularity, poster_path
+FROM movie
+WHERE vote_count >= 50
+ORDER BY popularity DESC
+LIMIT 60;", movies_rows) }}
+      {% endif %}
+
+      {% if movies %}
+      <div class="movie-grid movie-grid-browse">
+        {% for movie in movies %}
+        <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card">
+          <div class="movie-poster-wrap">
+            {% if movie.poster_path %}
+            <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
+            {% else %}
+            <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+            {% endif %}
+            <div class="score-badge score-{{ movie.vote_average | score_class }}">
+              {{ movie.vote_average | fmt_score }}
+            </div>
+          </div>
+          <div class="movie-info">
+            <p class="movie-title">{{ movie.title }}</p>
+            <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="empty-state">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <p>No movies found. Try different search terms or filters.</p>
+        <a href="{{ url_for('browse') }}" class="btn-outline-sm">Clear Filters</a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+
+</div>
+{% endblock %}
+

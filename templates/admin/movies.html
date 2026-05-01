@@ -1,0 +1,68 @@
+{% extends "admin/base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Movies — Admin{% endblock %}
+
+{% block content %}
+<div class="admin-page-header">
+  <h1 class="admin-page-title">Movies</h1>
+  <p class="admin-page-sub">Top {{ movies | length }} movies by rating</p>
+</div>
+
+<div class="admin-section">
+
+  {{ sql_box(22, "Movie Coverage Report",
+"SELECT
+    m.movie_id,
+    m.title,
+    m.release_date,
+    m.vote_average,
+    m.vote_count,
+    COUNT(DISTINCT mg.genre_id)   AS genre_count,
+    COUNT(DISTINCT mk.keyword_id) AS keyword_count,
+    COUNT(DISTINCT mc.person_id)  AS cast_count
+FROM movie m
+LEFT JOIN movie_genre mg  ON m.movie_id = mg.movie_id
+LEFT JOIN movie_keyword mk ON m.movie_id = mk.movie_id
+LEFT JOIN movie_cast mc    ON m.movie_id = mc.movie_id
+GROUP BY m.movie_id
+ORDER BY m.vote_average DESC, m.vote_count DESC
+LIMIT 100;", movies) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Release</th>
+        <th>Rating</th>
+        <th>Votes</th>
+        <th>Genres</th>
+        <th>Keywords</th>
+        <th>Cast</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for movie in movies %}
+      <tr>
+        <td class="rank-cell">{{ loop.index }}</td>
+        <td class="text-muted">{{ movie.movie_id }}</td>
+        <td><strong>{{ movie.title }}</strong></td>
+        <td>{% if movie.release_date %}{{ movie.release_date.year }}{% else %}—{% endif %}</td>
+        <td>
+          <span class="score-pill score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </span>
+        </td>
+        <td>{{ "{:,}".format(movie.vote_count or 0) }}</td>
+        <td><span class="badge-count">{{ movie.genre_count or 0 }}</span></td>
+        <td><span class="badge-count">{{ movie.keyword_count or 0 }}</span></td>
+        <td><span class="badge-count">{{ movie.cast_count or 0 }}</span></td>
+        <td><a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="table-link" target="_blank">View</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

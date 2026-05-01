@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Profile — TMDB{% endblock %}
+
+{% block content %}
+<div class="page-container">
+
+  {{ sql_box(8, "User Profile Summary",
+"SELECT
+    a.account_id,
+    a.username,
+    a.display_name,
+    a.avatar_path,
+    COUNT(ur.movie_id)             AS total_rated_movies,
+    ROUND(AVG(ur.rating_value), 2) AS average_rating_given
+FROM tmdb_account a
+LEFT JOIN user_rating ur ON a.account_id = ur.account_id
+WHERE a.account_id = :account_id
+GROUP BY a.account_id;",
+  [user_profile] if user_profile else [], none,
+  "-- Executed with account_id = " ~ (user_profile.account_id if user_profile else '?') ~ " (user: " ~ (user_profile.username if user_profile else '?') ~ ")
+SELECT
+    a.account_id,
+    a.username,
+    a.display_name,
+    a.avatar_path,
+    COUNT(ur.movie_id)             AS total_rated_movies,
+    ROUND(AVG(ur.rating_value), 2) AS average_rating_given
+FROM tmdb_account a
+LEFT JOIN user_rating ur ON a.account_id = ur.account_id
+WHERE a.account_id = " ~ (user_profile.account_id if user_profile else '?') ~ "
+GROUP BY a.account_id;") }}
+
+  <div class="profile-layout">
+
+    <!-- ── Profile Card ── -->
+    <div class="profile-card">
+      <div class="profile-avatar-lg">
+        {{ (user_profile.display_name or user_profile.username)[0] | upper }}
+      </div>
+      <h1 class="profile-name">{{ user_profile.display_name or user_profile.username }}</h1>
+      <p class="profile-username">@{{ user_profile.username }}</p>
+
+      <div class="profile-stats">
+        <div class="profile-stat">
+          <span class="stat-num">{{ user_profile.total_rated_movies or 0 }}</span>
+          <span class="stat-lbl">Rated</span>
+        </div>
+        <div class="profile-stat-divider"></div>
+        <div class="profile-stat">
+          <span class="stat-num">{{ user_profile.average_rating_given or '—' }}</span>
+          <span class="stat-lbl">Avg Rating</span>
+        </div>
+      </div>
+
+      <div class="profile-actions">
+        <a href="{{ url_for('my_ratings') }}" class="btn-primary-full">View All Ratings</a>
+        <a href="{{ url_for('browse') }}" class="btn-outline-full" style="margin-top:8px;">Browse Movies</a>
+      </div>
+    </div>
+
+    <!-- ── Recent Activity ── -->
+    <div class="profile-main">
+      <h2 class="section-title">Recently Rated</h2>
+      {% if recent_ratings %}
+      <div class="recent-ratings-grid">
+        {% for r in recent_ratings %}
+        <a href="{{ url_for('movie_detail', movie_id=r.movie_id) }}" class="recent-rating-card">
+          <div class="movie-poster-wrap" style="height:180px;">
+            {% if r.poster_path %}
+            <img src="{{ tmdb_img }}{{ r.poster_path }}" alt="{{ r.title }}" class="movie-poster" loading="lazy" />
+            {% else %}
+            <div class="movie-poster-placeholder"><span>{{ r.title[0] }}</span></div>
+            {% endif %}
+            <div class="score-badge score-high">{{ r.rating_value }}</div>
+          </div>
+          <p class="movie-title" style="margin-top:8px;">{{ r.title }}</p>
+          <p class="movie-year">{% if r.created_at %}{{ r.created_at.strftime('%b %d, %Y') }}{% endif %}</p>
+        </a>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="empty-state">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        <p>You haven't rated any movies yet.</p>
+        <a href="{{ url_for('browse') }}" class="btn-teal-sm">Discover Movies</a>
+      </div>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+{% endblock %}
+

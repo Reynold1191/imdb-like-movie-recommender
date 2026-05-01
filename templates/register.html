@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Create Account — TMDB</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body class="auth-body">
+
+  <div class="auth-layout">
+    <!-- Left panel: hero -->
+    <div class="auth-hero">
+      <div class="auth-hero-content">
+        <div class="auth-logo">
+          <span class="brand-icon-lg">&#9654;</span>
+          <span class="brand-text-lg">TMDB</span>
+        </div>
+        <p class="auth-hero-tagline-sm">Not The Movie Database, but<br/><strong>Toan &amp; Mahin Database</strong></p>
+        <h1 class="auth-hero-title">Join the community.</h1>
+        <p class="auth-hero-sub">Create a free account and start exploring millions of movies, TV shows, and people.</p>
+        <div class="auth-features">
+          <div class="auth-feature"><span class="feature-dot"></span> Rate movies you've watched</div>
+          <div class="auth-feature"><span class="feature-dot"></span> Get personalized recommendations</div>
+          <div class="auth-feature"><span class="feature-dot"></span> Explore cast, crew, and reviews</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right panel: form -->
+    <div class="auth-form-panel">
+      <div class="auth-form-container">
+        <div class="auth-mobile-logo">
+          <span class="brand-icon">&#9654;</span>
+          <span class="brand-text">TMDB</span>
+        </div>
+
+        <h2 class="auth-form-title">Create your account</h2>
+        <p class="auth-form-sub">Already have an account? <a href="{{ url_for('login') }}" class="auth-link">Sign in</a></p>
+
+        <!-- Flash messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          {% for cat, msg in messages %}
+          <div class="flash flash-{{ cat }}" style="margin-bottom: 16px;">
+            <span>{{ msg | safe }}</span>
+            <button class="flash-close" onclick="this.parentElement.remove()">&#x2715;</button>
+          </div>
+          {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        <form method="POST" action="{{ url_for('register') }}" class="auth-form">
+          <div class="form-group">
+            <label class="form-label" for="username">Username <span class="required-star">*</span></label>
+            <input
+              type="text"
+              id="username"
+              name="username"
+              class="form-input"
+              placeholder="Choose a unique username"
+              autocomplete="username"
+              minlength="3"
+              required
+            />
+            <p class="form-hint">Minimum 3 characters. No spaces.</p>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="display_name">Display Name</label>
+            <input
+              type="text"
+              id="display_name"
+              name="display_name"
+              class="form-input"
+              placeholder="Your public display name (optional)"
+            />
+          </div>
+
+          <div class="info-box">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            <span>Your default password will be <strong>1</strong>. This is a demo system.</span>
+          </div>
+
+          <button type="submit" class="btn-primary-full">Create Account</button>
+        </form>
+
+        <div class="auth-divider"><span>or</span></div>
+
+        <a href="{{ url_for('login') }}" class="btn-outline-full">Back to Sign In</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

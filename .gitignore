@@ -3,6 +3,7 @@
 # -----------------------------
 .env
 .env.*
+!.env.example          # tracked template — safe for git
 *.env
 
 # -----------------------------

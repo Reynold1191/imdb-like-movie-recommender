@@ -1,0 +1,137 @@
+{% extends "admin/base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Users — Admin{% endblock %}
+
+{% block content %}
+<div class="admin-page-header">
+  <h1 class="admin-page-title">Users</h1>
+  <p class="admin-page-sub">{{ users | length }} registered accounts</p>
+</div>
+
+<div class="admin-section">
+
+  {{ sql_box(14, "Admin Users Table",
+"SELECT
+    a.account_id,
+    a.username,
+    a.display_name,
+    COUNT(ur.movie_id)             AS rating_count,
+    ROUND(AVG(ur.rating_value), 2) AS average_rating
+FROM tmdb_account a
+LEFT JOIN user_rating ur ON a.account_id = ur.account_id
+GROUP BY a.account_id
+ORDER BY rating_count DESC;", users) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>ID</th>
+        <th>Login Username</th>
+        <th>Display Name</th>
+        <th>Ratings</th>
+        <th>Avg Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for user in users %}
+      <tr>
+        <td class="rank-cell">{{ loop.index }}</td>
+        <td class="text-muted">{{ user.account_id }}</td>
+        <td>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <div class="user-avatar-sm">{{ (user.display_name or user.username or '?')[0] | upper }}</div>
+            <div>
+              <strong>{{ user.username or '—' }}_{{ user.account_id }}</strong>
+              <br/><span style="font-size:11px;color:var(--text-muted);">password: 1</span>
+            </div>
+          </div>
+        </td>
+        <td>{{ user.display_name or '—' }}</td>
+        <td>
+          <span class="badge-count">{{ user.rating_count or 0 }}</span>
+        </td>
+        <td>
+          {% if user.average_rating %}
+          <span class="score-pill score-{{ user.average_rating | score_class }}">
+            {{ user.average_rating }}
+          </span>
+          {% else %}—{% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<!-- Function 24: User Engagement Ranking -->
+<div class="admin-section">
+  <h2 class="admin-section-title">User Engagement Ranking</h2>
+  <p class="admin-section-sub">RANK() window functions — activity rank, avg-rating rank, bias vs TMDB, and rating consistency (stddev)</p>
+
+  {{ sql_box(24, "User Engagement Ranking with Window Functions",
+"WITH user_stats AS (
+    SELECT
+        a.account_id,
+        a.username,
+        a.display_name,
+        COUNT(ur.movie_id)                             AS total_ratings,
+        ROUND(AVG(ur.rating_value), 2)                 AS avg_rating,
+        ROUND(COALESCE(STDDEV(ur.rating_value), 0), 2) AS rating_stddev,
+        ROUND(
+            COALESCE(AVG(ur.rating_value), 0) - COALESCE(AVG(m.vote_average), 0),
+            2
+        )                                              AS bias_vs_tmdb
+    FROM tmdb_account a
+    LEFT JOIN user_rating ur ON a.account_id = ur.account_id
+    LEFT JOIN movie m        ON ur.movie_id  = m.movie_id
+    GROUP BY a.account_id, a.username, a.display_name
+)
+SELECT *,
+    RANK() OVER (ORDER BY total_ratings DESC NULLS LAST) AS activity_rank,
+    RANK() OVER (ORDER BY avg_rating     DESC NULLS LAST) AS avg_rating_rank
+FROM user_stats
+ORDER BY total_ratings DESC NULLS LAST;", user_engagement) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>Activity Rank</th>
+        <th>Username</th>
+        <th>Total Ratings</th>
+        <th>Avg Rating</th>
+        <th>Rating Rank</th>
+        <th>Stddev</th>
+        <th>Bias vs TMDB</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for u in user_engagement %}
+      <tr>
+        <td class="rank-cell">#{{ u.activity_rank }}</td>
+        <td>
+          <div style="display:flex;align-items:center;gap:8px;">
+            <div class="user-avatar-sm">{{ (u.display_name or u.username or '?')[0] | upper }}</div>
+            <strong>{{ u.username }}_{{ u.account_id }}</strong>
+          </div>
+        </td>
+        <td><span class="badge-count">{{ u.total_ratings or 0 }}</span></td>
+        <td>
+          {% if u.avg_rating %}
+          <span class="score-pill score-{{ u.avg_rating | score_class }}">{{ u.avg_rating | fmt_score }}</span>
+          {% else %}—{% endif %}
+        </td>
+        <td class="text-muted">#{{ u.avg_rating_rank }}</td>
+        <td class="text-muted">{{ u.rating_stddev | fmt_score }}</td>
+        <td>
+          {% set bias = u.bias_vs_tmdb | float if u.bias_vs_tmdb else 0 %}
+          <span class="gap-badge {% if bias > 0.5 %}gap-pos{% elif bias < -0.5 %}gap-neg{% else %}gap-neu{% endif %}">
+            {% if bias > 0 %}+{% endif %}{{ "%.2f"|format(bias) }}
+          </span>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

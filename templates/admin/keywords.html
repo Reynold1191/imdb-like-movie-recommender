@@ -1,0 +1,55 @@
+{% extends "admin/base.html" %}
+{% from '_macros.html' import sql_box %}
+{% block title %}Keyword Analytics — Admin{% endblock %}
+
+{% block content %}
+<div class="admin-page-header">
+  <h1 class="admin-page-title">Keyword Analytics</h1>
+  <p class="admin-page-sub">Top keywords associated with highly rated movies</p>
+</div>
+
+<div class="admin-section">
+
+  {{ sql_box(18, "Keyword Analytics",
+"SELECT
+    k.keyword_name,
+    COUNT(*)                       AS rating_count,
+    ROUND(AVG(ur.rating_value), 2) AS average_user_rating
+FROM user_rating ur
+JOIN movie_keyword mk ON ur.movie_id = mk.movie_id
+JOIN keyword k ON mk.keyword_id = k.keyword_id
+GROUP BY k.keyword_id, k.keyword_name
+HAVING COUNT(*) >= 2
+ORDER BY average_user_rating DESC, rating_count DESC
+LIMIT 30;", keywords) }}
+
+  <table class="data-table" data-paginate="10">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Keyword</th>
+        <th>Rating Count</th>
+        <th>Avg User Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for kw in keywords %}
+      <tr>
+        <td class="rank-cell">{{ loop.index }}</td>
+        <td>
+          <a href="{{ url_for('browse') }}?q={{ kw.keyword_name }}" class="keyword-tag" target="_blank">{{ kw.keyword_name }}</a>
+        </td>
+        <td><span class="badge-count">{{ kw.rating_count }}</span></td>
+        <td>
+          {% if kw.average_user_rating %}
+          <span class="score-pill score-{{ kw.average_user_rating | score_class }}">
+            {{ kw.average_user_rating }}
+          </span>
+          {% else %}—{% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

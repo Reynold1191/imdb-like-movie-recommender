@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}TMDB{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  {% block head %}{% endblock %}
+</head>
+<body class="site-body">
+
+  <!-- ── Navbar ── -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="{{ url_for('home') }}" class="navbar-brand">
+        <span class="brand-icon">&#9654;</span>
+        <span class="brand-text">TMDB</span>
+        <span class="brand-sub">Toan &amp; Mahin Database</span>
+      </a>
+
+      <div class="navbar-links">
+        <a href="{{ url_for('home') }}" class="nav-link {% if request.endpoint == 'home' %}active{% endif %}">Home</a>
+        <a href="{{ url_for('browse') }}" class="nav-link {% if request.endpoint == 'browse' %}active{% endif %}">Browse</a>
+        {% if session.user and not session.user.is_admin %}
+        <a href="{{ url_for('my_ratings') }}" class="nav-link {% if request.endpoint == 'my_ratings' %}active{% endif %}">My Ratings</a>
+        {% endif %}
+      </div>
+
+      <div class="navbar-search">
+        <form action="{{ url_for('browse') }}" method="get" class="search-form">
+          <input type="text" name="q" placeholder="Search movies, genres, keywords..." class="search-input" value="{{ request.args.get('q', '') }}" />
+          <button type="submit" class="search-btn" aria-label="Search">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          </button>
+        </form>
+      </div>
+
+      <div class="navbar-user">
+        {% if session.user %}
+          <div class="user-menu">
+            <button class="user-btn" id="userMenuBtn">
+              <div class="user-avatar">{{ (session.user.display_name or session.user.username)[0] | upper }}</div>
+              <span class="user-name">{{ session.user.display_name or session.user.username }}</span>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+            </button>
+            <div class="user-dropdown" id="userDropdown">
+              {% if not session.user.is_admin %}
+              <a href="{{ url_for('profile') }}" class="dropdown-item">Profile</a>
+              <a href="{{ url_for('my_ratings') }}" class="dropdown-item">My Ratings</a>
+              <div class="dropdown-divider"></div>
+              {% endif %}
+              {% if session.user.is_admin %}
+              <a href="{{ url_for('admin_dashboard') }}" class="dropdown-item">Admin Panel</a>
+              <div class="dropdown-divider"></div>
+              {% endif %}
+              <a href="{{ url_for('logout') }}" class="dropdown-item logout-item">Sign Out</a>
+            </div>
+          </div>
+        {% else %}
+          <a href="{{ url_for('login') }}" class="btn-outline-sm">Sign In</a>
+          <a href="{{ url_for('register') }}" class="btn-teal-sm">Join</a>
+        {% endif %}
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Flash Messages ── -->
+  {% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+  <div class="flash-container">
+    {% for cat, msg in messages %}
+    <div class="flash flash-{{ cat }}">
+      <span>{{ msg | safe }}</span>
+      <button class="flash-close" onclick="this.parentElement.remove()">&#x2715;</button>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endwith %}
+
+  <!-- ── Page Content ── -->
+  <main class="main-content">
+    {% block content %}{% endblock %}
+  </main>
+
+  <!-- ── Footer ── -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-icon">&#9654;</span>
+        <span>TMDB</span>
+      </div>
+      <p class="footer-text">Not The Movie Database, but <strong style="color:var(--teal);">Toan &amp; Mahin Database</strong> &mdash; Stony Brook CSE 532 · Group 10</p>
+    </div>
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>
+
