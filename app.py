@@ -1,5 +1,6 @@
 import os
 from functools import wraps
+from pathlib import Path
 
 import psycopg2
 import psycopg2.extras
@@ -14,6 +15,13 @@ app.secret_key = os.getenv("SECRET_KEY", "tmdb-movie-recommender-secret-2024")
 
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w300"
 TMDB_BACKDROP_BASE = "https://image.tmdb.org/t/p/w1280"
+
+QUERIES_DIR = Path(__file__).resolve().parent / "queries"
+
+
+def _load_query_sql(filename: str) -> str:
+    """Read UTF-8 SQL from ``queries/<filename>`` (leading ``--`` comments preserved)."""
+    return (QUERIES_DIR / filename).read_text(encoding="utf-8")
 
 
 @app.template_filter("score_class")
@@ -115,11 +123,11 @@ def login():
             flash("Invalid username or password.", "error")
             return render_template("login.html")
 
-        # Username format: {tmdb_username}_{account_id}  e.g. r96sk_1
+        # Username format: {tmdb_username}_{account_id}  e.g. JPV852_1
         if "_" not in username:
             flash(
                 "Invalid format. Use <strong>username_accountid</strong> "
-                "(e.g. <strong>r96sk_1</strong>).",
+                "(e.g. <strong>JPV852_1</strong>).",
                 "error",
             )
             return render_template("login.html")
@@ -128,7 +136,7 @@ def login():
         if len(parts) != 2 or not parts[1].isdigit():
             flash(
                 "Invalid format. Use <strong>username_accountid</strong> "
-                "(e.g. <strong>r96sk_1</strong>).",
+                "(e.g. <strong>JPV852_1</strong>).",
                 "error",
             )
             return render_template("login.html")
@@ -248,21 +256,32 @@ def home():
 
     cur.execute(
         """
-        WITH ranked AS (
-            SELECT g.genre_name, m.movie_id, m.title, m.release_date,
-                   m.vote_average, m.poster_path,
-                   ROW_NUMBER() OVER (
-                       PARTITION BY g.genre_id
-                       ORDER BY m.vote_average DESC, m.popularity DESC
-                   ) AS rn
-            FROM movie m
-            JOIN movie_genre mg ON m.movie_id = mg.movie_id
-            JOIN genre g ON mg.genre_id = g.genre_id
-            WHERE m.vote_count >= 100
-        )
-        SELECT * FROM ranked
-        WHERE rn <= 8
-        ORDER BY genre_name, rn
+        SELECT g.genre_name, m.movie_id, m.title, m.release_date,
+               m.vote_average, m.poster_path
+        FROM movie m
+        JOIN movie_genre mg ON m.movie_id = mg.movie_id
+        JOIN genre g ON mg.genre_id = g.genre_id
+        WHERE m.vote_count >= 100
+          AND (
+              SELECT COUNT(*)
+              FROM movie m2
+              JOIN movie_genre mg2 ON m2.movie_id = mg2.movie_id
+              WHERE mg2.genre_id = g.genre_id
+                AND m2.vote_count >= 100
+                AND (
+                    m2.vote_average > m.vote_average
+                    OR (
+                        m2.vote_average = m.vote_average
+                        AND m2.popularity > m.popularity
+                    )
+                    OR (
+                        m2.vote_average = m.vote_average
+                        AND m2.popularity = m.popularity
+                        AND m2.movie_id < m.movie_id
+                    )
+                )
+          ) < 8
+        ORDER BY genre_name, m.vote_average DESC, m.popularity DESC, m.movie_id
         """
     )
     genre_rows = [dict(r) for r in cur.fetchall()]
@@ -276,25 +295,53 @@ def home():
     if not user.get("is_admin") and user.get("account_id"):
         cur.execute(
             """
-            WITH fav_genres AS (
-                SELECT mg.genre_id
+            WITH genre_avg AS (
+                SELECT mg.genre_id, AVG(ur.rating_value) AS avg_user_rating
                 FROM user_rating ur
                 JOIN movie_genre mg ON ur.movie_id = mg.movie_id
                 WHERE ur.account_id = %s
                 GROUP BY mg.genre_id
-                HAVING AVG(ur.rating_value) >= 7.5
+            ),
+            fav_genres AS (
+                SELECT genre_id FROM genre_avg WHERE avg_user_rating >= 7.5
+                UNION
+                SELECT ga.genre_id
+                FROM genre_avg ga
+                WHERE NOT EXISTS (
+                    SELECT 1 FROM genre_avg WHERE avg_user_rating >= 7.5
+                )
+                  AND ga.genre_id IN (
+                      SELECT ga2.genre_id
+                      FROM genre_avg ga2
+                      ORDER BY ga2.avg_user_rating DESC
+                      LIMIT 8
+                  )
             )
-            SELECT DISTINCT m.movie_id, m.title, m.release_date, m.vote_average, m.poster_path
-            FROM movie m
-            JOIN movie_genre mg ON m.movie_id = mg.movie_id
-            JOIN fav_genres fg ON mg.genre_id = fg.genre_id
-            WHERE m.movie_id NOT IN (
-                SELECT movie_id FROM user_rating WHERE account_id = %s
-            )
-            ORDER BY m.vote_average DESC
-            LIMIT 10
+            SELECT * FROM (
+                SELECT DISTINCT
+                    m.movie_id, m.title, m.release_date,
+                    m.vote_average, m.popularity, m.poster_path
+                FROM movie m
+                JOIN movie_genre mg ON m.movie_id = mg.movie_id
+                JOIN fav_genres fg ON mg.genre_id = fg.genre_id
+                WHERE m.movie_id NOT IN (
+                    SELECT movie_id FROM user_rating WHERE account_id = %s
+                )
+                  AND EXISTS (SELECT 1 FROM genre_avg)
+                UNION ALL
+                SELECT m.movie_id, m.title, m.release_date,
+                       m.vote_average, m.popularity, m.poster_path
+                FROM movie m
+                WHERE m.movie_id NOT IN (
+                    SELECT movie_id FROM user_rating WHERE account_id = %s
+                )
+                  AND NOT EXISTS (SELECT 1 FROM genre_avg)
+                  AND m.vote_count >= 100
+            ) rec
+            ORDER BY rec.vote_average DESC NULLS LAST, rec.popularity DESC NULLS LAST
+            LIMIT 20
             """,
-            (user["account_id"], user["account_id"]),
+            (user["account_id"], user["account_id"], user["account_id"]),
         )
         recommendations = cur.fetchall()
 
@@ -726,7 +773,7 @@ def admin_users():
     )
     users = cur.fetchall()
 
-    # Function 24: User Engagement Ranking with window functions
+    # Function 24: User Engagement Ranking (ranks via scalar subqueries, no windows)
     cur.execute(
         """
         WITH user_stats AS (
@@ -746,11 +793,32 @@ def admin_users():
             LEFT JOIN movie m        ON ur.movie_id  = m.movie_id
             GROUP BY a.account_id, a.username, a.display_name
         )
-        SELECT *,
-            RANK() OVER (ORDER BY total_ratings DESC NULLS LAST) AS activity_rank,
-            RANK() OVER (ORDER BY avg_rating     DESC NULLS LAST) AS avg_rating_rank
-        FROM user_stats
-        ORDER BY total_ratings DESC NULLS LAST
+        SELECT
+            us.*,
+            (
+                1 + (
+                    SELECT COUNT(*)
+                    FROM user_stats u2
+                    WHERE u2.total_ratings IS NOT NULL
+                      AND (
+                          us.total_ratings IS NULL
+                          OR u2.total_ratings > us.total_ratings
+                      )
+                )
+            ) AS activity_rank,
+            (
+                1 + (
+                    SELECT COUNT(*)
+                    FROM user_stats u2
+                    WHERE u2.avg_rating IS NOT NULL
+                      AND (
+                          us.avg_rating IS NULL
+                          OR u2.avg_rating > us.avg_rating
+                      )
+                )
+            ) AS avg_rating_rank
+        FROM user_stats us
+        ORDER BY us.total_ratings DESC NULLS LAST
         """
     )
     user_engagement = cur.fetchall()
@@ -824,14 +892,17 @@ def admin_ratings():
     )
     rating_gaps = cur.fetchall()
 
-    # Function 25: Rating Distribution Histogram
+    # Function 25: Rating Distribution Histogram (percentage from total count, no windows)
     cur.execute(
         """
         SELECT
-            rating_bucket,
-            sort_key,
-            rating_count,
-            ROUND(rating_count * 100.0 / SUM(rating_count) OVER (), 1) AS percentage
+            b.rating_bucket,
+            b.sort_key,
+            b.rating_count,
+            ROUND(
+                b.rating_count * 100.0 / (SELECT COUNT(*)::numeric FROM user_rating),
+                1
+            ) AS percentage
         FROM (
             SELECT
                 CASE
@@ -845,8 +916,8 @@ def admin_ratings():
                 COUNT(*)           AS rating_count
             FROM user_rating
             GROUP BY 1
-        ) buckets
-        ORDER BY sort_key
+        ) b
+        ORDER BY b.sort_key
         """
     )
     rating_distribution = cur.fetchall()
@@ -878,7 +949,7 @@ def admin_genres():
     )
     genres = cur.fetchall()
 
-    # Function 26: Genre Performance Deep Analysis with ranking
+    # Function 26: Genre Performance Deep Analysis (ranks via correlated counts)
     cur.execute(
         """
         WITH genre_metrics AS (
@@ -899,12 +970,34 @@ def admin_genres():
             LEFT JOIN user_rating ur ON m.movie_id = ur.movie_id
             GROUP BY g.genre_id, g.genre_name
         )
-        SELECT *,
-            RANK() OVER (ORDER BY avg_tmdb_rating    DESC) AS tmdb_rating_rank,
-            RANK() OVER (ORDER BY total_user_ratings DESC) AS popularity_rank,
-            RANK() OVER (ORDER BY total_movies       DESC) AS volume_rank
-        FROM genre_metrics
-        ORDER BY total_user_ratings DESC
+        SELECT
+            gm.genre_name,
+            gm.total_movies,
+            gm.total_user_ratings,
+            gm.avg_tmdb_rating,
+            gm.avg_user_rating,
+            gm.best_tmdb_rating,
+            gm.user_vs_tmdb_gap,
+            (
+                1 + (
+                    SELECT COUNT(*) FROM genre_metrics x
+                    WHERE x.avg_tmdb_rating > gm.avg_tmdb_rating
+                )
+            ) AS tmdb_rating_rank,
+            (
+                1 + (
+                    SELECT COUNT(*) FROM genre_metrics x
+                    WHERE x.total_user_ratings > gm.total_user_ratings
+                )
+            ) AS popularity_rank,
+            (
+                1 + (
+                    SELECT COUNT(*) FROM genre_metrics x
+                    WHERE x.total_movies > gm.total_movies
+                )
+            ) AS volume_rank
+        FROM genre_metrics gm
+        ORDER BY gm.total_user_ratings DESC
         """
     )
     genre_deep = cur.fetchall()
@@ -961,7 +1054,7 @@ def admin_companies():
     )
     companies = cur.fetchall()
 
-    # Function 27: Company Portfolio Analysis — diversity + quality score
+    # Function 27: Company Portfolio Analysis — diversity + quality score (rank via subquery)
     cur.execute(
         """
         WITH company_portfolio AS (
@@ -982,12 +1075,25 @@ def admin_companies():
             GROUP BY c.company_id, c.company_name
             HAVING COUNT(DISTINCT m.movie_id) >= 3
         )
-        SELECT *,
-            ROUND(quality_movies * 100.0 / NULLIF(total_movies, 0), 1) AS quality_pct,
-            ROUND(distinct_genres * 1.0  / NULLIF(total_movies, 0), 2) AS genre_diversity_score,
-            RANK() OVER (ORDER BY avg_rating DESC)                      AS rating_rank
-        FROM company_portfolio
-        ORDER BY avg_rating DESC
+        SELECT
+            cp.company_id,
+            cp.company_name,
+            cp.total_movies,
+            cp.distinct_genres,
+            cp.avg_rating,
+            cp.avg_popularity,
+            cp.best_movie_rating,
+            cp.quality_movies,
+            ROUND(cp.quality_movies * 100.0 / NULLIF(cp.total_movies, 0), 1) AS quality_pct,
+            ROUND(cp.distinct_genres * 1.0 / NULLIF(cp.total_movies, 0), 2) AS genre_diversity_score,
+            (
+                1 + (
+                    SELECT COUNT(*) FROM company_portfolio x
+                    WHERE x.avg_rating > cp.avg_rating
+                )
+            ) AS rating_rank
+        FROM company_portfolio cp
+        ORDER BY cp.avg_rating DESC
         LIMIT 20
         """
     )
@@ -1071,6 +1177,52 @@ def admin_quality():
         "admin/data_quality.html",
         missing_keywords=missing_keywords,
         coverage=coverage,
+    )
+
+
+@app.route("/admin/catalog-analytics")
+@admin_required
+def admin_catalog_analytics():
+    """Runs catalog-level SQL demos (Functions 28–32) from ``queries/*.sql``."""
+    sql_cast = _load_query_sql("most_frequent_cast_members.sql")
+    sql_directors = _load_query_sql("popular_directors.sql")
+    sql_companies = _load_query_sql("top_companies.sql")
+    sql_genres = _load_query_sql("top_genres.sql")
+    sql_keywords = _load_query_sql("top_keywords.sql")
+
+    conn = get_db()
+    cur = dict_cursor(conn)
+
+    cur.execute(sql_cast)
+    freq_cast_rows = cur.fetchall()
+
+    cur.execute(sql_directors)
+    director_rows = cur.fetchall()
+
+    cur.execute(sql_companies)
+    top_company_rows = cur.fetchall()
+
+    cur.execute(sql_genres)
+    top_genre_rows = cur.fetchall()
+
+    cur.execute(sql_keywords)
+    top_keyword_rows = cur.fetchall()
+
+    cur.close()
+    conn.close()
+
+    return render_template(
+        "admin/catalog_analytics.html",
+        sql_cast=sql_cast,
+        sql_directors=sql_directors,
+        sql_companies=sql_companies,
+        sql_genres=sql_genres,
+        sql_keywords=sql_keywords,
+        freq_cast_rows=freq_cast_rows,
+        director_rows=director_rows,
+        top_company_rows=top_company_rows,
+        top_genre_rows=top_genre_rows,
+        top_keyword_rows=top_keyword_rows,
     )
 
 

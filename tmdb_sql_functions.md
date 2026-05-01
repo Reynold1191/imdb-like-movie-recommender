@@ -1,6 +1,6 @@
 # TMDB SQL Functions Reference
 
-All 27 SQL queries used by the application, with page location, general template, and specific examples.
+All **32** SQL queries used by the application, with page location, general template, and specific examples.
 
 For project overview, architecture, and how to run → see [`README.md`](README.md)
 
@@ -59,35 +59,36 @@ LIMIT 10;
 
 ## Function 3: Top Movies in Each Genre
 
-**Goal:** Show top-rated movies grouped by genre using a window function.
+**Goal:** Show up to eight top-rated movies per genre using a correlated `COUNT(*)` subquery (equivalent to per-genre `ROW_NUMBER`, without window functions).
 **Page:** User site → Home page (`/`) — genre rows section
 
 <details>
 <summary>Show SQL Code</summary>
 
 ```sql
-WITH ranked_movies AS (
-    SELECT
-        g.genre_name,
-        m.movie_id,
-        m.title,
-        m.release_date,
-        m.vote_average,
-        m.vote_count,
-        m.popularity,
-        ROW_NUMBER() OVER (
-            PARTITION BY g.genre_id
-            ORDER BY m.vote_average DESC, m.popularity DESC
-        ) AS genre_rank
-    FROM movie m
-    JOIN movie_genre mg ON m.movie_id = mg.movie_id
-    JOIN genre g ON mg.genre_id = g.genre_id
-    WHERE m.vote_count >= 100
-)
-SELECT *
-FROM ranked_movies
-WHERE genre_rank <= 8
-ORDER BY genre_name, genre_rank;
+SELECT g.genre_name, m.movie_id, m.title, m.release_date,
+    m.vote_average, m.poster_path
+FROM movie m
+JOIN movie_genre mg ON m.movie_id = mg.movie_id
+JOIN genre g ON mg.genre_id = g.genre_id
+WHERE m.vote_count >= 100
+  AND (
+      SELECT COUNT(*)
+      FROM movie m2
+      JOIN movie_genre mg2 ON m2.movie_id = mg2.movie_id
+      WHERE mg2.genre_id = g.genre_id
+        AND m2.vote_count >= 100
+        AND (
+            m2.vote_average > m.vote_average
+            OR (m2.vote_average = m.vote_average AND m2.popularity > m.popularity)
+            OR (
+                m2.vote_average = m.vote_average
+                AND m2.popularity = m.popularity
+                AND m2.movie_id < m.movie_id
+            )
+        )
+  ) < 8
+ORDER BY genre_name, m.vote_average DESC, m.popularity DESC, m.movie_id;
 ```
 
 </details>
@@ -331,7 +332,7 @@ WHERE a.account_id = :account_id
 GROUP BY a.account_id;
 ```
 
-**Specific example — account_id = 1 (user: r96sk):**
+**Specific example — account_id = 1 (user: JPV852):**
 
 ```sql
 SELECT
@@ -370,7 +371,7 @@ WHERE ur.account_id = :account_id
 ORDER BY ur.created_at DESC;
 ```
 
-**Specific example — account_id = 1 (user: r96sk):**
+**Specific example — account_id = 1 (user: JPV852):**
 
 ```sql
 SELECT
@@ -390,7 +391,7 @@ ORDER BY ur.created_at DESC;
 
 ## Function 10: Personalized Recommendations
 
-**Goal:** Find genres the user rates ≥7.5 on average (CTE), then recommend unwatched movies from those genres.
+**Goal:** Build a genre pool from ratings (strong genres if any have average ≥7.5, otherwise the top eight genres by the user’s average), then recommend unwatched titles; **cold start** users with no ratings get popular unseen movies.
 **Page:** User site → Home page (`/`) — "Recommended for You" section
 
 <details>
@@ -399,48 +400,94 @@ ORDER BY ur.created_at DESC;
 **General template:**
 
 ```sql
-WITH favorite_genres AS (
-    SELECT mg.genre_id
+WITH genre_avg AS (
+    SELECT mg.genre_id, AVG(ur.rating_value) AS avg_user_rating
     FROM user_rating ur
     JOIN movie_genre mg ON ur.movie_id = mg.movie_id
     WHERE ur.account_id = :account_id
     GROUP BY mg.genre_id
-    HAVING AVG(ur.rating_value) >= 7.5
+),
+fav_genres AS (
+    SELECT genre_id FROM genre_avg WHERE avg_user_rating >= 7.5
+    UNION
+    SELECT ga.genre_id
+    FROM genre_avg ga
+    WHERE NOT EXISTS (SELECT 1 FROM genre_avg WHERE avg_user_rating >= 7.5)
+      AND ga.genre_id IN (
+          SELECT ga2.genre_id FROM genre_avg ga2
+          ORDER BY ga2.avg_user_rating DESC
+          LIMIT 8
+      )
 )
-SELECT DISTINCT
-    m.movie_id, m.title, m.release_date,
-    m.vote_average, m.popularity
-FROM movie m
-JOIN movie_genre mg ON m.movie_id = mg.movie_id
-JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
-WHERE m.movie_id NOT IN (
-    SELECT movie_id FROM user_rating WHERE account_id = :account_id
-)
-ORDER BY m.vote_average DESC, m.popularity DESC
+SELECT * FROM (
+    SELECT DISTINCT
+        m.movie_id, m.title, m.release_date,
+        m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    JOIN movie_genre mg ON m.movie_id = mg.movie_id
+    JOIN fav_genres fg ON mg.genre_id = fg.genre_id
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = :account_id
+    )
+      AND EXISTS (SELECT 1 FROM genre_avg)
+    UNION ALL
+    SELECT m.movie_id, m.title, m.release_date,
+           m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = :account_id
+    )
+      AND NOT EXISTS (SELECT 1 FROM genre_avg)
+      AND m.vote_count >= 100
+) rec
+ORDER BY rec.vote_average DESC NULLS LAST, rec.popularity DESC NULLS LAST
 LIMIT 20;
 ```
 
-**Specific example — account_id = 1 (user: r96sk):**
+**Specific example — account_id = 1 (user: JPV852):**
 
 ```sql
-WITH favorite_genres AS (
-    SELECT mg.genre_id
+WITH genre_avg AS (
+    SELECT mg.genre_id, AVG(ur.rating_value) AS avg_user_rating
     FROM user_rating ur
     JOIN movie_genre mg ON ur.movie_id = mg.movie_id
     WHERE ur.account_id = 1
     GROUP BY mg.genre_id
-    HAVING AVG(ur.rating_value) >= 7.5
+),
+fav_genres AS (
+    SELECT genre_id FROM genre_avg WHERE avg_user_rating >= 7.5
+    UNION
+    SELECT ga.genre_id
+    FROM genre_avg ga
+    WHERE NOT EXISTS (SELECT 1 FROM genre_avg WHERE avg_user_rating >= 7.5)
+      AND ga.genre_id IN (
+          SELECT ga2.genre_id FROM genre_avg ga2
+          ORDER BY ga2.avg_user_rating DESC
+          LIMIT 8
+      )
 )
-SELECT DISTINCT
-    m.movie_id, m.title, m.release_date,
-    m.vote_average, m.popularity
-FROM movie m
-JOIN movie_genre mg ON m.movie_id = mg.movie_id
-JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
-WHERE m.movie_id NOT IN (
-    SELECT movie_id FROM user_rating WHERE account_id = 1
-)
-ORDER BY m.vote_average DESC, m.popularity DESC
+SELECT * FROM (
+    SELECT DISTINCT
+        m.movie_id, m.title, m.release_date,
+        m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    JOIN movie_genre mg ON m.movie_id = mg.movie_id
+    JOIN fav_genres fg ON mg.genre_id = fg.genre_id
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = 1
+    )
+      AND EXISTS (SELECT 1 FROM genre_avg)
+    UNION ALL
+    SELECT m.movie_id, m.title, m.release_date,
+           m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = 1
+    )
+      AND NOT EXISTS (SELECT 1 FROM genre_avg)
+      AND m.vote_count >= 100
+) rec
+ORDER BY rec.vote_average DESC NULLS LAST, rec.popularity DESC NULLS LAST
 LIMIT 20;
 ```
 
@@ -808,7 +855,7 @@ LIMIT 20;
 
 ## Function 24: User Engagement Ranking
 
-**Goal:** Rank users by activity and average rating using `RANK() OVER`. Also computes `STDDEV` (rating consistency) and bias vs. TMDB average per user.
+**Goal:** Rank users by activity and average rating using scalar subqueries (`1 + COUNT(*)`) instead of `RANK() OVER`, matching standard `RANK` behavior for ties. Also computes `STDDEV` (rating consistency) and bias vs. TMDB average per user.
 **Page:** Admin site → Users (`/admin/users`)
 
 <details>
@@ -832,11 +879,32 @@ WITH user_stats AS (
     LEFT JOIN movie m        ON ur.movie_id  = m.movie_id
     GROUP BY a.account_id, a.username, a.display_name
 )
-SELECT *,
-    RANK() OVER (ORDER BY total_ratings DESC NULLS LAST) AS activity_rank,
-    RANK() OVER (ORDER BY avg_rating     DESC NULLS LAST) AS avg_rating_rank
-FROM user_stats
-ORDER BY total_ratings DESC NULLS LAST;
+SELECT
+    us.*,
+    (
+        1 + (
+            SELECT COUNT(*)
+            FROM user_stats u2
+            WHERE u2.total_ratings IS NOT NULL
+              AND (
+                  us.total_ratings IS NULL
+                  OR u2.total_ratings > us.total_ratings
+              )
+        )
+    ) AS activity_rank,
+    (
+        1 + (
+            SELECT COUNT(*)
+            FROM user_stats u2
+            WHERE u2.avg_rating IS NOT NULL
+              AND (
+                  us.avg_rating IS NULL
+                  OR u2.avg_rating > us.avg_rating
+              )
+        )
+    ) AS avg_rating_rank
+FROM user_stats us
+ORDER BY us.total_ratings DESC NULLS LAST;
 ```
 
 </details>
@@ -845,7 +913,7 @@ ORDER BY total_ratings DESC NULLS LAST;
 
 ## Function 25: Rating Distribution Histogram
 
-**Goal:** Bucket all user ratings into tiers using `CASE`, then compute each tier's percentage share using `SUM() OVER ()`.
+**Goal:** Bucket all user ratings into tiers using `CASE`, then express each tier’s share as `count * 100 / (SELECT COUNT(*) FROM user_rating)` — no window aggregate.
 **Page:** Admin site → Ratings Analytics (`/admin/ratings`)
 
 <details>
@@ -853,9 +921,12 @@ ORDER BY total_ratings DESC NULLS LAST;
 
 ```sql
 SELECT
-    rating_bucket,
-    rating_count,
-    ROUND(rating_count * 100.0 / SUM(rating_count) OVER (), 1) AS percentage
+    b.rating_bucket,
+    b.rating_count,
+    ROUND(
+        b.rating_count * 100.0 / (SELECT COUNT(*)::numeric FROM user_rating),
+        1
+    ) AS percentage
 FROM (
     SELECT
         CASE
@@ -869,8 +940,8 @@ FROM (
         COUNT(*)           AS rating_count
     FROM user_rating
     GROUP BY 1
-) buckets
-ORDER BY sort_key;
+) b
+ORDER BY b.sort_key;
 ```
 
 </details>
@@ -879,7 +950,7 @@ ORDER BY sort_key;
 
 ## Function 26: Genre Performance Deep Analysis
 
-**Goal:** Multi-metric genre analysis using a CTE and three independent `RANK() OVER` windows — ranking each genre by TMDB quality, user popularity, and catalog volume separately.
+**Goal:** Multi-metric genre rollup with three rank columns, each `1 + COUNT(*)` over the same CTE (strictly greater metric values), replacing `RANK() OVER`.
 **Page:** Admin site → Genre Analytics (`/admin/genres`)
 
 <details>
@@ -904,12 +975,28 @@ WITH genre_metrics AS (
     LEFT JOIN user_rating ur ON m.movie_id = ur.movie_id
     GROUP BY g.genre_id, g.genre_name
 )
-SELECT *,
-    RANK() OVER (ORDER BY avg_tmdb_rating    DESC) AS tmdb_rating_rank,
-    RANK() OVER (ORDER BY total_user_ratings DESC) AS popularity_rank,
-    RANK() OVER (ORDER BY total_movies       DESC) AS volume_rank
-FROM genre_metrics
-ORDER BY total_user_ratings DESC;
+SELECT
+    gm.*,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.avg_tmdb_rating > gm.avg_tmdb_rating
+        )
+    ) AS tmdb_rating_rank,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.total_user_ratings > gm.total_user_ratings
+        )
+    ) AS popularity_rank,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.total_movies > gm.total_movies
+        )
+    ) AS volume_rank
+FROM genre_metrics gm
+ORDER BY gm.total_user_ratings DESC;
 ```
 
 </details>
@@ -918,7 +1005,7 @@ ORDER BY total_user_ratings DESC;
 
 ## Function 27: Company Portfolio Analysis
 
-**Goal:** Evaluate production companies with computed `quality_pct` (% movies ≥7), `genre_diversity_score` (distinct genres ÷ total movies), and `RANK() OVER` for quality ranking. Requires ≥3 movies per company.
+**Goal:** Evaluate production companies with `quality_pct` (% movies ≥7), `genre_diversity_score` (distinct genres ÷ total movies), and an average-rating rank via `1 + COUNT(*)` (no `RANK()` window). Requires ≥3 movies per company.
 **Page:** Admin site → Company Analytics (`/admin/companies`)
 
 <details>
@@ -943,13 +1030,237 @@ WITH company_portfolio AS (
     GROUP BY c.company_id, c.company_name
     HAVING COUNT(DISTINCT m.movie_id) >= 3
 )
-SELECT *,
-    ROUND(quality_movies * 100.0 / NULLIF(total_movies, 0), 1) AS quality_pct,
-    ROUND(distinct_genres * 1.0  / NULLIF(total_movies, 0), 2) AS genre_diversity_score,
-    RANK() OVER (ORDER BY avg_rating DESC)                      AS rating_rank
-FROM company_portfolio
-ORDER BY avg_rating DESC
+SELECT
+    cp.*,
+    ROUND(cp.quality_movies * 100.0 / NULLIF(cp.total_movies, 0), 1) AS quality_pct,
+    ROUND(cp.distinct_genres * 1.0  / NULLIF(cp.total_movies, 0), 2) AS genre_diversity_score,
+    (
+        1 + (
+            SELECT COUNT(*) FROM company_portfolio x
+            WHERE x.avg_rating > cp.avg_rating
+        )
+    ) AS rating_rank
+FROM company_portfolio cp
+ORDER BY cp.avg_rating DESC
 LIMIT 20;
+```
+
+</details>
+
+---
+
+## Function 28: Catalog Analytics — Most Frequent Cast Members
+
+**Goal:** Rank actors by how many credited movies appear in this dataset; use correlated `NOT EXISTS` subqueries with tie-break logic to derive each actor's single strongest film and dominant genre (`queries/most_frequent_cast_members.sql`).
+**Page:** Admin site → Catalog Analytics (`/admin/catalog-analytics`)
+
+<details>
+<summary>Show SQL Code</summary>
+
+```sql
+SELECT
+    p.name AS cast_member,
+    COUNT(DISTINCT m.movie_id) AS movie_count,
+    ROUND(AVG(m.vote_average), 3) AS avg_movie_rating,
+    ROUND(AVG(m.popularity), 3) AS avg_popularity,
+    best.title AS best_rated_movie,
+    best.vote_average AS best_movie_rating,
+    top_g.genre_name AS top_genre
+FROM person p
+JOIN movie_cast mc ON p.person_id = mc.person_id
+JOIN movie m ON mc.movie_id = m.movie_id
+JOIN movie best ON best.movie_id = (
+    SELECT m2.movie_id
+    FROM movie_cast mc2
+    JOIN movie m2 ON mc2.movie_id = m2.movie_id
+    WHERE mc2.person_id = p.person_id
+      AND NOT EXISTS (
+          SELECT 1
+          FROM movie_cast mc3
+          JOIN movie m3 ON mc3.movie_id = m3.movie_id
+          WHERE mc3.person_id = p.person_id
+            AND (
+                m3.vote_average > m2.vote_average
+                OR (
+                    m3.vote_average = m2.vote_average
+                    AND m3.popularity > m2.popularity
+                )
+                OR (
+                    m3.vote_average = m2.vote_average
+                    AND m3.popularity = m2.popularity
+                    AND m3.movie_id < m2.movie_id
+                )
+            )
+      )
+    LIMIT 1
+)
+LEFT JOIN genre top_g ON top_g.genre_id = (
+    SELECT g2.genre_id
+    FROM movie_cast mcg
+    JOIN movie_genre mg2 ON mcg.movie_id = mg2.movie_id
+    JOIN genre g2 ON mg2.genre_id = g2.genre_id
+    WHERE mcg.person_id = p.person_id
+    GROUP BY g2.genre_id, g2.genre_name
+    ORDER BY COUNT(DISTINCT mcg.movie_id) DESC, g2.genre_id
+    LIMIT 1
+)
+GROUP BY
+    p.person_id,
+    p.name,
+    best.title,
+    best.vote_average,
+    top_g.genre_name
+HAVING COUNT(DISTINCT m.movie_id) >= 3
+ORDER BY movie_count DESC, avg_movie_rating DESC, avg_popularity DESC
+LIMIT 35;
+```
+
+</details>
+
+---
+
+## Function 29: Catalog Analytics — Popular Directors
+
+**Goal:** Aggregate each director's filmography breadth and TMDB aggregates; correlate in the "best-directed" title via `NOT EXISTS` (`queries/popular_directors.sql`).
+**Page:** Admin site → Catalog Analytics (`/admin/catalog-analytics`)
+
+<details>
+<summary>Show SQL Code</summary>
+
+```sql
+SELECT
+    d.name AS director_name,
+    COUNT(DISTINCT m.movie_id) AS directed_movie_count,
+    ROUND(AVG(m.vote_average), 3) AS avg_rating,
+    ROUND(AVG(m.popularity), 3) AS avg_popularity,
+    best.title AS best_rated_movie,
+    best.vote_average AS best_movie_rating
+FROM person d
+JOIN movie_crew mc ON d.person_id = mc.person_id
+JOIN movie m ON mc.movie_id = m.movie_id
+JOIN movie best ON best.movie_id = (
+    SELECT m2.movie_id
+    FROM movie_crew mc2
+    JOIN movie m2 ON mc2.movie_id = m2.movie_id
+    WHERE mc2.person_id = d.person_id
+      AND mc2.job_title = 'Director'
+      AND NOT EXISTS (
+          SELECT 1
+          FROM movie_crew mc3
+          JOIN movie m3 ON mc3.movie_id = m3.movie_id
+          WHERE mc3.person_id = d.person_id
+            AND mc3.job_title = 'Director'
+            AND (
+                m3.vote_average > m2.vote_average
+                OR (
+                    m3.vote_average = m2.vote_average
+                    AND m3.popularity > m2.popularity
+                )
+                OR (
+                    m3.vote_average = m2.vote_average
+                    AND m3.popularity = m2.popularity
+                    AND m3.movie_id < m2.movie_id
+                )
+            )
+      )
+    LIMIT 1
+)
+WHERE mc.job_title = 'Director'
+GROUP BY d.person_id, d.name, best.title, best.vote_average
+HAVING COUNT(DISTINCT m.movie_id) >= 2
+ORDER BY avg_rating DESC, directed_movie_count DESC
+LIMIT 35;
+```
+
+</details>
+
+---
+
+## Function 30: Catalog Analytics — Top Companies (Financial Depth)
+
+**Goal:** Restrict to movies with strictly positive reported budget **and** revenue, then summarize company-level averages and totals (`queries/top_companies.sql`).
+**Page:** Admin site → Catalog Analytics (`/admin/catalog-analytics`)
+
+<details>
+<summary>Show SQL Code</summary>
+
+```sql
+SELECT
+    c.company_id,
+    c.company_name,
+    COUNT(DISTINCT m.movie_id) AS movie_count,
+    ROUND(AVG(m.revenue - m.budget), 3) AS avg_profit,
+    SUM(m.revenue - m.budget) AS total_profit,
+    ROUND(AVG(m.vote_average), 3) AS avg_rating,
+    ROUND(AVG(m.popularity), 3) AS avg_popularity
+FROM company c
+JOIN movie_company mc ON c.company_id = mc.company_id
+JOIN movie m ON mc.movie_id = m.movie_id
+WHERE m.budget > 0
+  AND m.revenue > 0
+GROUP BY c.company_id, c.company_name
+ORDER BY avg_popularity DESC, avg_rating DESC
+LIMIT 25;
+```
+
+</details>
+
+---
+
+## Function 31: Catalog Analytics — Top Genres on Profitable Films
+
+**Goal:** Genre-level rollup limited to monetized titles so averages are comparable across revenue-backed catalog slices (`queries/top_genres.sql`).
+**Page:** Admin site → Catalog Analytics (`/admin/catalog-analytics`)
+
+<details>
+<summary>Show SQL Code</summary>
+
+```sql
+SELECT
+    g.genre_name,
+    COUNT(DISTINCT m.movie_id) AS movie_count,
+    ROUND(AVG(m.vote_average), 3) AS avg_rating,
+    ROUND(AVG(m.popularity), 3) AS avg_popularity,
+    ROUND(AVG(m.vote_count), 3) AS avg_vote_count,
+    ROUND(AVG(m.runtime), 3) AS avg_runtime,
+    SUM(m.revenue) AS total_revenue,
+    SUM(m.budget) AS total_budget,
+    SUM(m.revenue - m.budget) AS total_profit,
+    ROUND(AVG(m.revenue - m.budget), 3) AS avg_profit
+FROM genre g
+JOIN movie_genre mg ON g.genre_id = mg.genre_id
+JOIN movie m ON mg.movie_id = m.movie_id
+WHERE m.budget > 0
+  AND m.revenue > 0
+GROUP BY g.genre_id, g.genre_name
+ORDER BY movie_count DESC, avg_profit DESC, avg_rating DESC
+LIMIT 10;
+```
+
+</details>
+
+---
+
+## Function 32: Catalog Analytics — Top Keywords
+
+**Goal:** Surface the most frequently assigned keyword tags with aggregate popularity and rating signals (`queries/top_keywords.sql`).
+**Page:** Admin site → Catalog Analytics (`/admin/catalog-analytics`)
+
+<details>
+<summary>Show SQL Code</summary>
+
+```sql
+SELECT
+    k.keyword_name AS keyword,
+    COUNT(DISTINCT m.movie_id) AS movie_count,
+    ROUND(AVG(m.popularity), 3) AS avg_popularity,
+    ROUND(AVG(m.vote_average), 3) AS avg_rating
+FROM keyword k
+JOIN movie_keyword mk ON k.keyword_id = mk.keyword_id
+JOIN movie m ON mk.movie_id = m.movie_id
+GROUP BY k.keyword_id, k.keyword_name
+ORDER BY movie_count DESC, avg_rating DESC, avg_popularity DESC
+LIMIT 25;
 ```
 
 </details>

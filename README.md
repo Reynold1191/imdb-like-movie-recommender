@@ -405,7 +405,7 @@ Data Quality  (/admin/quality)
 User account:
   username  =  {tmdb_account.username}_{tmdb_account.account_id}
   password  =  1
-  example   →  r96sk_1
+  example   →  JPV852_1
 
 Admin account:
   username  =  admin
