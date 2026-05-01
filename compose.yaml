@@ -50,10 +50,12 @@ services:
       # Lets pgAdmin reach your LOCAL Postgres (localhost:5432) from inside Docker
       - "host.docker.internal:host-gateway"
 
-  # ─── One-shot CSV Loader ───────────────────────────────────────────────────
+  # ─── One-shot CSV Loader (opt-in — does not run on plain `compose up`) ─────
   load_csv:
     image: python:3.12-slim
     container_name: movie-load-csv
+    profiles:
+      - loader        # docker compose --profile loader up load_csv
     working_dir: /app
     env_file: .env
     environment:
