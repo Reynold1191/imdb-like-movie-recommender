@@ -19,6 +19,129 @@
 
 <div class="page-container">
 
+  <!-- ── Personalized Recommendations — Function 10 ── -->
+  {% if session.user and not session.user.is_admin %}
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">Recommended for You</h2>
+      <span class="section-badge">Based on your ratings</span>
+    </div>
+
+    {{ sql_box(10, "Personalized Recommendations (genres you rate highly, with fallbacks)",
+"WITH genre_avg AS (
+    SELECT mg.genre_id, AVG(ur.rating_value) AS avg_user_rating
+    FROM user_rating ur
+    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
+    WHERE ur.account_id = :account_id
+    GROUP BY mg.genre_id
+),
+fav_genres AS (
+    SELECT genre_id FROM genre_avg WHERE avg_user_rating >= 7.5
+    UNION
+    SELECT ga.genre_id
+    FROM genre_avg ga
+    WHERE NOT EXISTS (SELECT 1 FROM genre_avg WHERE avg_user_rating >= 7.5)
+      AND ga.genre_id IN (
+          SELECT ga2.genre_id FROM genre_avg ga2
+          ORDER BY ga2.avg_user_rating DESC
+          LIMIT 8
+      )
+)
+SELECT * FROM (
+    SELECT DISTINCT
+        m.movie_id, m.title, m.release_date,
+        m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    JOIN movie_genre mg ON m.movie_id = mg.movie_id
+    JOIN fav_genres fg ON mg.genre_id = fg.genre_id
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = :account_id
+    )
+      AND EXISTS (SELECT 1 FROM genre_avg)
+    UNION ALL
+    SELECT m.movie_id, m.title, m.release_date,
+           m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = :account_id
+    )
+      AND NOT EXISTS (SELECT 1 FROM genre_avg)
+      AND m.vote_count >= 100
+) rec
+ORDER BY rec.vote_average DESC NULLS LAST, rec.popularity DESC NULLS LAST
+LIMIT 20;",
+  recommendations, none,
+  "-- account_id = " ~ session.user.account_id ~ " (" ~ session.user.username ~ ")
+WITH genre_avg AS (
+    SELECT mg.genre_id, AVG(ur.rating_value) AS avg_user_rating
+    FROM user_rating ur
+    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
+    WHERE ur.account_id = " ~ session.user.account_id ~ "
+    GROUP BY mg.genre_id
+),
+fav_genres AS (
+    SELECT genre_id FROM genre_avg WHERE avg_user_rating >= 7.5
+    UNION
+    SELECT ga.genre_id
+    FROM genre_avg ga
+    WHERE NOT EXISTS (SELECT 1 FROM genre_avg WHERE avg_user_rating >= 7.5)
+      AND ga.genre_id IN (
+          SELECT ga2.genre_id FROM genre_avg ga2
+          ORDER BY ga2.avg_user_rating DESC
+          LIMIT 8
+      )
+)
+SELECT * FROM (
+    SELECT DISTINCT
+        m.movie_id, m.title, m.release_date,
+        m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    JOIN movie_genre mg ON m.movie_id = mg.movie_id
+    JOIN fav_genres fg ON mg.genre_id = fg.genre_id
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = " ~ session.user.account_id ~ "
+    )
+      AND EXISTS (SELECT 1 FROM genre_avg)
+    UNION ALL
+    SELECT m.movie_id, m.title, m.release_date,
+           m.vote_average, m.popularity, m.poster_path
+    FROM movie m
+    WHERE m.movie_id NOT IN (
+        SELECT movie_id FROM user_rating WHERE account_id = " ~ session.user.account_id ~ "
+    )
+      AND NOT EXISTS (SELECT 1 FROM genre_avg)
+      AND m.vote_count >= 100
+) rec
+ORDER BY rec.vote_average DESC NULLS LAST, rec.popularity DESC NULLS LAST
+LIMIT 20;") }}
+
+    {% if recommendations %}
+    <div class="movie-grid">
+      {% for movie in recommendations %}
+      <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card">
+        <div class="movie-poster-wrap">
+          {% if movie.poster_path %}
+          <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
+          {% else %}
+          <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
+          {% endif %}
+          <div class="score-badge score-{{ movie.vote_average | score_class }}">
+            {{ movie.vote_average | fmt_score }}
+          </div>
+        </div>
+        <div class="movie-info">
+          <p class="movie-title">{{ movie.title }}</p>
+          <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="hero-sub" style="margin:0;">No picks available yet—try rating a few movies, then browse again.</p>
+    {% endif %}
+  </section>
+  {% endif %}
+
   <!-- ── Top 10 Movies — Function 2 ── -->
   <section class="section">
     <div class="section-header">
@@ -57,110 +180,36 @@ LIMIT 10;", top_movies) }}
     </div>
   </section>
 
-  <!-- ── Personalized Recommendations — Function 10 ── -->
-  {% if recommendations %}
-  <section class="section">
-    <div class="section-header">
-      <h2 class="section-title">Recommended for You</h2>
-      <span class="section-badge">Based on your ratings</span>
-    </div>
-
-    {{ sql_box(10, "Personalized Recommendations from High-Rated Genres",
-"WITH favorite_genres AS (
-    SELECT mg.genre_id,
-           AVG(ur.rating_value) AS avg_user_rating
-    FROM user_rating ur
-    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
-    WHERE ur.account_id = :account_id
-    GROUP BY mg.genre_id
-    HAVING AVG(ur.rating_value) >= 7.5
-)
-SELECT DISTINCT
-    m.movie_id, m.title, m.release_date,
-    m.vote_average, m.popularity
-FROM movie m
-JOIN movie_genre mg ON m.movie_id = mg.movie_id
-JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
-WHERE m.movie_id NOT IN (
-    SELECT movie_id FROM user_rating WHERE account_id = :account_id
-)
-ORDER BY m.vote_average DESC, m.popularity DESC
-LIMIT 20;",
-  recommendations, none,
-  "-- Executed with account_id = " ~ session.user.account_id ~ " (user: " ~ session.user.username ~ ")
-WITH favorite_genres AS (
-    SELECT mg.genre_id,
-           AVG(ur.rating_value) AS avg_user_rating
-    FROM user_rating ur
-    JOIN movie_genre mg ON ur.movie_id = mg.movie_id
-    WHERE ur.account_id = " ~ session.user.account_id ~ "
-    GROUP BY mg.genre_id
-    HAVING AVG(ur.rating_value) >= 7.5
-)
-SELECT DISTINCT
-    m.movie_id, m.title, m.release_date,
-    m.vote_average, m.popularity
-FROM movie m
-JOIN movie_genre mg ON m.movie_id = mg.movie_id
-JOIN favorite_genres fg ON mg.genre_id = fg.genre_id
-WHERE m.movie_id NOT IN (
-    SELECT movie_id FROM user_rating WHERE account_id = " ~ session.user.account_id ~ "
-)
-ORDER BY m.vote_average DESC, m.popularity DESC
-LIMIT 20;") }}
-
-    <div class="movie-grid">
-      {% for movie in recommendations %}
-      <a href="{{ url_for('movie_detail', movie_id=movie.movie_id) }}" class="movie-card">
-        <div class="movie-poster-wrap">
-          {% if movie.poster_path %}
-          <img src="{{ tmdb_img }}{{ movie.poster_path }}" alt="{{ movie.title }}" class="movie-poster" loading="lazy" />
-          {% else %}
-          <div class="movie-poster-placeholder"><span>{{ movie.title[0] }}</span></div>
-          {% endif %}
-          <div class="score-badge score-{{ movie.vote_average | score_class }}">
-            {{ movie.vote_average | fmt_score }}
-          </div>
-        </div>
-        <div class="movie-info">
-          <p class="movie-title">{{ movie.title }}</p>
-          <p class="movie-year">{% if movie.release_date %}{{ movie.release_date.year }}{% endif %}</p>
-        </div>
-      </a>
-      {% endfor %}
-    </div>
-  </section>
-  {% endif %}
-
   <!-- ── Top Movies by Genre — Function 3 ── -->
   <section class="section">
     <div class="section-header">
       <h2 class="section-title">Top Movies by Genre</h2>
     </div>
 
-    {{ sql_box(3, "Top 10 Movies in Each Genre",
-"WITH ranked_movies AS (
-    SELECT
-        g.genre_name,
-        m.movie_id,
-        m.title,
-        m.release_date,
-        m.vote_average,
-        m.vote_count,
-        m.popularity,
-        ROW_NUMBER() OVER (
-            PARTITION BY g.genre_id
-            ORDER BY m.vote_average DESC, m.popularity DESC
-        ) AS genre_rank
-    FROM movie m
-    JOIN movie_genre mg ON m.movie_id = mg.movie_id
-    JOIN genre g ON mg.genre_id = g.genre_id
-    WHERE m.vote_count >= 100
-)
-SELECT *
-FROM ranked_movies
-WHERE genre_rank <= 8
-ORDER BY genre_name, genre_rank;", genre_rows) }}
+    {{ sql_box(3, "Top 8 Movies in Each Genre (correlated subquery, no window)",
+"SELECT g.genre_name, m.movie_id, m.title, m.release_date,
+    m.vote_average, m.poster_path
+FROM movie m
+JOIN movie_genre mg ON m.movie_id = mg.movie_id
+JOIN genre g ON mg.genre_id = g.genre_id
+WHERE m.vote_count >= 100
+  AND (
+      SELECT COUNT(*)
+      FROM movie m2
+      JOIN movie_genre mg2 ON m2.movie_id = mg2.movie_id
+      WHERE mg2.genre_id = g.genre_id
+        AND m2.vote_count >= 100
+        AND (
+            m2.vote_average > m.vote_average
+            OR (m2.vote_average = m.vote_average AND m2.popularity > m.popularity)
+            OR (
+                m2.vote_average = m.vote_average
+                AND m2.popularity = m.popularity
+                AND m2.movie_id < m.movie_id
+            )
+        )
+  ) < 8
+ORDER BY genre_name, m.vote_average DESC, m.popularity DESC, m.movie_id;", genre_rows) }}
 
   </section>
 

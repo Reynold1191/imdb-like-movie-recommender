@@ -1,20 +1,19 @@
 """
-Load all CSV files into PostgreSQL, then seed tmdb_account and user_rating.
+Reload the database from CSVs (full replace, not append).
+
+Every run:
+  0. TRUNCATE root tables CASCADE — deletes all rows from every table in the schema.
+  1. Load all 17 CSV tables in FK order (fast COPY, INSERT fallback on error).
 
 Usage:
     python scripts/load_csv_to_postgres.py
 
-Reads connection settings from .env (or environment variables):
-    POSTGRES_HOST      default: localhost
-    POSTGRES_PORT      default: 5433
+Connection (from .env or environment):
+    POSTGRES_HOST      default: localhost (use "db" inside Docker)
+    POSTGRES_PORT      default: 5433 on host, 5432 in Compose network
     POSTGRES_DB        default: movie_recommender
     POSTGRES_USER      default: postgres
     POSTGRES_PASSWORD  required
-
-Steps:
-  1. Load all CSV tables in FK-dependency order (fast COPY, fallback INSERT).
-  2. Derive tmdb_account rows from unique review authors.
-  3. Derive user_rating rows from reviews that carry a numeric author_rating.
 """
 
 import csv

@@ -128,13 +128,16 @@ LIMIT 20;", rating_gaps) }}
 <!-- Function 25: Rating Distribution Histogram -->
 <div class="admin-section">
   <h2 class="admin-section-title">Rating Distribution Histogram</h2>
-  <p class="admin-section-sub">CASE bucketing + SUM() OVER() window — share of each rating tier across all user ratings</p>
+  <p class="admin-section-sub">CASE bucketing — tier share = count × 100 ÷ total rows in user_rating (no window)</p>
 
-  {{ sql_box(25, "Rating Distribution Histogram with Window Functions",
+  {{ sql_box(25, "Rating Distribution Histogram",
 "SELECT
-    rating_bucket,
-    rating_count,
-    ROUND(rating_count * 100.0 / SUM(rating_count) OVER (), 1) AS percentage
+    b.rating_bucket,
+    b.rating_count,
+    ROUND(
+        b.rating_count * 100.0 / (SELECT COUNT(*)::numeric FROM user_rating),
+        1
+    ) AS percentage
 FROM (
     SELECT
         CASE
@@ -148,8 +151,8 @@ FROM (
         COUNT(*)           AS rating_count
     FROM user_rating
     GROUP BY 1
-) buckets
-ORDER BY sort_key;", rating_distribution) }}
+) b
+ORDER BY b.sort_key;", rating_distribution) }}
 
   <table class="data-table" data-paginate="10">
     <thead>

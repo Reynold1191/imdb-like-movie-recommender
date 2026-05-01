@@ -68,9 +68,9 @@ ORDER BY rating_count DESC;", genres) }}
 <!-- Function 26: Genre Performance Deep Analysis -->
 <div class="admin-section">
   <h2 class="admin-section-title">Genre Performance Deep Analysis</h2>
-  <p class="admin-section-sub">CTE + multiple RANK() windows — TMDB rating rank, user popularity rank, volume rank, and user-vs-TMDB gap per genre</p>
+  <p class="admin-section-sub">CTE + scalar rank columns (1 + COUNT) — TMDB, popularity, volume, user-vs-TMDB gap</p>
 
-  {{ sql_box(26, "Genre Performance Ranking with Window Functions",
+  {{ sql_box(26, "Genre Performance Ranking (no window functions)",
 "WITH genre_metrics AS (
     SELECT
         g.genre_name,
@@ -89,12 +89,28 @@ ORDER BY rating_count DESC;", genres) }}
     LEFT JOIN user_rating ur ON m.movie_id = ur.movie_id
     GROUP BY g.genre_id, g.genre_name
 )
-SELECT *,
-    RANK() OVER (ORDER BY avg_tmdb_rating    DESC) AS tmdb_rating_rank,
-    RANK() OVER (ORDER BY total_user_ratings DESC) AS popularity_rank,
-    RANK() OVER (ORDER BY total_movies       DESC) AS volume_rank
-FROM genre_metrics
-ORDER BY total_user_ratings DESC;", genre_deep) }}
+SELECT
+    gm.*,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.avg_tmdb_rating > gm.avg_tmdb_rating
+        )
+    ) AS tmdb_rating_rank,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.total_user_ratings > gm.total_user_ratings
+        )
+    ) AS popularity_rank,
+    (
+        1 + (
+            SELECT COUNT(*) FROM genre_metrics x
+            WHERE x.total_movies > gm.total_movies
+        )
+    ) AS volume_rank
+FROM genre_metrics gm
+ORDER BY gm.total_user_ratings DESC;", genre_deep) }}
 
   <table class="data-table" data-paginate="10">
     <thead>

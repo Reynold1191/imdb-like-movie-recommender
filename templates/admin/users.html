@@ -67,9 +67,9 @@ ORDER BY rating_count DESC;", users) }}
 <!-- Function 24: User Engagement Ranking -->
 <div class="admin-section">
   <h2 class="admin-section-title">User Engagement Ranking</h2>
-  <p class="admin-section-sub">RANK() window functions — activity rank, avg-rating rank, bias vs TMDB, and rating consistency (stddev)</p>
+  <p class="admin-section-sub">Scalar subquery ranks (same effect as RANK) — activity, avg-rating, bias vs TMDB, stddev</p>
 
-  {{ sql_box(24, "User Engagement Ranking with Window Functions",
+  {{ sql_box(24, "User Engagement Ranking (no window functions)",
 "WITH user_stats AS (
     SELECT
         a.account_id,
@@ -87,11 +87,32 @@ ORDER BY rating_count DESC;", users) }}
     LEFT JOIN movie m        ON ur.movie_id  = m.movie_id
     GROUP BY a.account_id, a.username, a.display_name
 )
-SELECT *,
-    RANK() OVER (ORDER BY total_ratings DESC NULLS LAST) AS activity_rank,
-    RANK() OVER (ORDER BY avg_rating     DESC NULLS LAST) AS avg_rating_rank
-FROM user_stats
-ORDER BY total_ratings DESC NULLS LAST;", user_engagement) }}
+SELECT
+    us.*,
+    (
+        1 + (
+            SELECT COUNT(*)
+            FROM user_stats u2
+            WHERE u2.total_ratings IS NOT NULL
+              AND (
+                  us.total_ratings IS NULL
+                  OR u2.total_ratings > us.total_ratings
+              )
+        )
+    ) AS activity_rank,
+    (
+        1 + (
+            SELECT COUNT(*)
+            FROM user_stats u2
+            WHERE u2.avg_rating IS NOT NULL
+              AND (
+                  us.avg_rating IS NULL
+                  OR u2.avg_rating > us.avg_rating
+              )
+        )
+    ) AS avg_rating_rank
+FROM user_stats us
+ORDER BY us.total_ratings DESC NULLS LAST;", user_engagement) }}
 
   <table class="data-table" data-paginate="10">
     <thead>

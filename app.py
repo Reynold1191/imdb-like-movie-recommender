@@ -1061,19 +1061,35 @@ def admin_companies():
             SELECT
                 c.company_id,
                 c.company_name,
-                COUNT(DISTINCT m.movie_id)              AS total_movies,
-                COUNT(DISTINCT g.genre_id)              AS distinct_genres,
-                ROUND(AVG(m.vote_average), 2)           AS avg_rating,
-                ROUND(AVG(m.popularity), 2)             AS avg_popularity,
-                MAX(m.vote_average)                     AS best_movie_rating,
-                SUM(CASE WHEN m.vote_average >= 7 THEN 1 ELSE 0 END) AS quality_movies
+                s.total_movies,
+                COALESCE(gb.distinct_genres, 0)         AS distinct_genres,
+                s.avg_rating,
+                s.avg_popularity,
+                s.best_movie_rating,
+                s.quality_movies
             FROM company c
-            JOIN movie_company mc ON c.company_id = mc.company_id
-            JOIN movie m          ON mc.movie_id  = m.movie_id
-            JOIN movie_genre mg   ON m.movie_id   = mg.movie_id
-            JOIN genre g          ON mg.genre_id  = g.genre_id
-            GROUP BY c.company_id, c.company_name
-            HAVING COUNT(DISTINCT m.movie_id) >= 3
+            JOIN (
+                SELECT
+                    mc.company_id,
+                    COUNT(DISTINCT m.movie_id) AS total_movies,
+                    ROUND(AVG(m.vote_average), 2) AS avg_rating,
+                    ROUND(AVG(m.popularity), 2) AS avg_popularity,
+                    MAX(m.vote_average) AS best_movie_rating,
+                    COUNT(DISTINCT CASE WHEN m.vote_average >= 7 THEN m.movie_id END) AS quality_movies
+                FROM movie_company mc
+                JOIN movie m ON mc.movie_id = m.movie_id
+                GROUP BY mc.company_id
+                HAVING COUNT(DISTINCT m.movie_id) >= 3
+            ) s ON c.company_id = s.company_id
+            LEFT JOIN (
+                SELECT
+                    mc.company_id,
+                    COUNT(DISTINCT g.genre_id) AS distinct_genres
+                FROM movie_company mc
+                JOIN movie_genre mg ON mc.movie_id = mg.movie_id
+                JOIN genre g ON mg.genre_id = g.genre_id
+                GROUP BY mc.company_id
+            ) gb ON s.company_id = gb.company_id
         )
         SELECT
             cp.company_id,

@@ -55,33 +55,55 @@ LIMIT 30;", companies) }}
 <!-- Function 27: Company Portfolio Analysis -->
 <div class="admin-section">
   <h2 class="admin-section-title">Company Portfolio Analysis</h2>
-  <p class="admin-section-sub">CTE + RANK() + computed quality% and genre-diversity score — companies with ≥3 movies</p>
+  <p class="admin-section-sub">Movie stats without genre join (avoids inflating quality counts); genre breadth from a side rollup</p>
 
   {{ sql_box(27, "Company Portfolio Analysis — Diversity & Quality Score",
 "WITH company_portfolio AS (
     SELECT
         c.company_id,
         c.company_name,
-        COUNT(DISTINCT m.movie_id)              AS total_movies,
-        COUNT(DISTINCT g.genre_id)              AS distinct_genres,
-        ROUND(AVG(m.vote_average), 2)           AS avg_rating,
-        ROUND(AVG(m.popularity), 2)             AS avg_popularity,
-        MAX(m.vote_average)                     AS best_movie_rating,
-        SUM(CASE WHEN m.vote_average >= 7 THEN 1 ELSE 0 END) AS quality_movies
+        s.total_movies,
+        COALESCE(gb.distinct_genres, 0)         AS distinct_genres,
+        s.avg_rating,
+        s.avg_popularity,
+        s.best_movie_rating,
+        s.quality_movies
     FROM company c
-    JOIN movie_company mc ON c.company_id = mc.company_id
-    JOIN movie m          ON mc.movie_id  = m.movie_id
-    JOIN movie_genre mg   ON m.movie_id   = mg.movie_id
-    JOIN genre g          ON mg.genre_id  = g.genre_id
-    GROUP BY c.company_id, c.company_name
-    HAVING COUNT(DISTINCT m.movie_id) >= 3
+    JOIN (
+        SELECT
+            mc.company_id,
+            COUNT(DISTINCT m.movie_id) AS total_movies,
+            ROUND(AVG(m.vote_average), 2) AS avg_rating,
+            ROUND(AVG(m.popularity), 2) AS avg_popularity,
+            MAX(m.vote_average) AS best_movie_rating,
+            COUNT(DISTINCT CASE WHEN m.vote_average >= 7 THEN m.movie_id END) AS quality_movies
+        FROM movie_company mc
+        JOIN movie m ON mc.movie_id = m.movie_id
+        GROUP BY mc.company_id
+        HAVING COUNT(DISTINCT m.movie_id) >= 3
+    ) s ON c.company_id = s.company_id
+    LEFT JOIN (
+        SELECT
+            mc.company_id,
+            COUNT(DISTINCT g.genre_id) AS distinct_genres
+        FROM movie_company mc
+        JOIN movie_genre mg ON mc.movie_id = mg.movie_id
+        JOIN genre g ON mg.genre_id = g.genre_id
+        GROUP BY mc.company_id
+    ) gb ON s.company_id = gb.company_id
 )
-SELECT *,
-    ROUND(quality_movies * 100.0 / NULLIF(total_movies, 0), 1) AS quality_pct,
-    ROUND(distinct_genres * 1.0  / NULLIF(total_movies, 0), 2) AS genre_diversity_score,
-    RANK() OVER (ORDER BY avg_rating DESC)                      AS rating_rank
-FROM company_portfolio
-ORDER BY avg_rating DESC
+SELECT
+    cp.*,
+    ROUND(cp.quality_movies * 100.0 / NULLIF(cp.total_movies, 0), 1) AS quality_pct,
+    ROUND(cp.distinct_genres * 1.0  / NULLIF(cp.total_movies, 0), 2) AS genre_diversity_score,
+    (
+        1 + (
+            SELECT COUNT(*) FROM company_portfolio x
+            WHERE x.avg_rating > cp.avg_rating
+        )
+    ) AS rating_rank
+FROM company_portfolio cp
+ORDER BY cp.avg_rating DESC
 LIMIT 20;", company_portfolio) }}
 
   <table class="data-table" data-paginate="10">
